@@ -1,0 +1,424 @@
+INFY_Q2_october_21_1 | Mahindroo: Sandeep Mahindroo Thanks Margreth.
+INFY_Q2_october_21_2 | Mahindroo: Hello everyone and welcome to Infosys Earnings Call to discuss Q2 FY22 Earnings Release.
+INFY_Q2_october_21_3 | Mahindroo: I am Sandeep from the investor relations team in Bengaluru.
+INFY_Q2_october_21_4 | Mahindroo: Joining us today on this call is CEO and MD, Mr. Salil Parekh; COO, Mr. Pravin Rao; CFO, Mr. Nilanjan Roy, along with other members of the senior management team.
+INFY_Q2_october_21_5 | Mahindroo: We will start the call with some color on the performance of the company by Salil, Pravin and Nilanjan, before we open the call for questions.
+INFY_Q2_october_21_6 | Mahindroo: Please note that anything which we say, that refers to our outlook for the future, is a forward- looking statement, which must be read in conjunction with the risk that the company faces.
+INFY_Q2_october_21_7 | Mahindroo: A complete statement and explanation of these risks is available in our filings with the SEC, which can be found on www.sec.gov.
+INFY_Q2_october_21_8 | Mahindroo: I would now like to pass it on to Salil.
+INFY_Q2_october_21_9 | Parekh: Salil Parekh Thanks, Sandeep.
+INFY_Q2_october_21_10 | Parekh: of you and your families are safe and healthy.
+INFY_Q2_october_21_11 | Parekh: I am delighted to share with you that we had another exceptional quarter with increased market share gain and demonstrating more and more trust that our clients are placing with us and the strength of our digital and cloud capabilities.
+INFY_Q2_october_21_12 | Parekh: Our growth was 19.4% YoY and 6.3% QoQ in constant currency terms.
+INFY_Q2_october_21_13 | Parekh: I would like to thank the entire 280,000 employees of Infosys for their incredible dedication and world class skills that made the work we do for our clients so impactful.
+INFY_Q2_october_21_14 | Parekh: Our YoY growth was the fastest we have seen in 11 years and built on the quarter that was a growth quarter this time last year.
+INFY_Q2_october_21_15 | Parekh: Our growth has been accompanied by resilient operating margins at 23.6%.
+INFY_Q2_october_21_16 | Parekh: We delivered these margins while we kept in the forefront our focus on employees with increased compensation and benefits.
+INFY_Q2_october_21_17 | Parekh: Our digital business grew by 42% and is now 56% of our overall revenues.
+INFY_Q2_october_21_18 | Parekh: Within digital, our cloud work is growing even faster, and our Cobalt cloud capabilities are resonating tremendously with our clients.
+INFY_Q2_october_21_19 | Parekh: We are working with a large global company, for example, on their private cloud deployment.
+INFY_Q2_october_21_20 | Parekh: We are working with a large bank on their public cloud expansion.
+INFY_Q2_october_21_21 | Parekh: We are working with several of our clients on SaaS transformations, and cloud-native developments.
+INFY_Q2_october_21_22 | Parekh: Some of the other highlights of our results are, - Revenues were $3.998 bn, which is a growth of 19.4% YoY and 6.3% sequentially in constant currency - Our digital business grew by 42.4% YoY and now constitutes 56.1% of our overall revenues.
+INFY_Q2_october_21_23 | Parekh: - We had broad-based growth across all our sectors and service lines.
+INFY_Q2_october_21_24 | Parekh: All our sectors reported double-digit growth.
+INFY_Q2_october_21_25 | Parekh: - Financial Services grew by 20.5%.
+INFY_Q2_october_21_26 | Parekh: This is our largest sector and growing exceptionally well.
+INFY_Q2_october_21_27 | Parekh: Manufacturing grew at 42.5%, Retail by 17.2%, Life Sciences by 26.1%.
+INFY_Q2_october_21_28 | Parekh: - In terms of geography, North America grew by 23.1%, Europe by 19.6%.
+INFY_Q2_october_21_29 | Parekh: - Our large deals were strong at $2.15 bn.
+INFY_Q2_october_21_30 | Parekh: - Our onsite mix moved to 23.6% and our utilization to 89.3% - Operating margins were resilient at 23.6%.
+INFY_Q2_october_21_31 | Parekh: - Free cash flow was strong at $712 mn.
+INFY_Q2_october_21_32 | Parekh: - Our attrition moved up to 20.1% and we will talk a little bit more about that later in the call
+INFY_Q2_october_21_33 | Pravin.: with Pravin.
+INFY_Q2_october_21_34 | Pravin.: - We had a net headcount increase of 11,664, attracting leading talent from the market.
+INFY_Q2_october_21_35 | Pravin.: We remain comfortable with our ability to support our clients in their digital transformation journeys.
+INFY_Q2_october_21_36 | Pravin.: We are rapidly expanding our global talent pool and increased our college graduates hiring to 45,000 for this year.
+INFY_Q2_october_21_37 | Pravin.: Last quarter, we had this number at 35,000 people.
+INFY_Q2_october_21_38 | Pravin.: I am also delighted with our increased focus on ESG.
+INFY_Q2_october_21_39 | Pravin.: As many of you know, we have already been carbon-neutral since 2020.
+INFY_Q2_october_21_40 | Pravin.: Our ambition for 2030 is well articulated and we are building on the momentum to create impact.
+INFY_Q2_october_21_41 | Pravin.: We are accelerating our growth with the launch of Infosys Springboard, to bring digital skills to millions of students.
+INFY_Q2_october_21_42 | Pravin.: With a strong start to the financial year, good deal momentum in Q2, robust pipeline, we are increasing our annual revenue growth guidance which was at 14% to 16% previously, to 16.5% to 17.5% growth in constant currency.
+INFY_Q2_october_21_43 | Pravin.: Our operating margin guidance remains the same at 22% to 24%.
+INFY_Q2_october_21_44 | Pravin.: We have a very special moment in this quarter, which will be Pravin's last full quarter before he retires, after an incredible journey of 35 years with Infosys.
+INFY_Q2_october_21_45 | Pravin.: Pravin's contributions to the company are innumerable.
+INFY_Q2_october_21_46 | Pravin.: We will, and in fact, I will personally miss his tremendous depth of knowledge of the business and his contagious sense of humor.
+INFY_Q2_october_21_47 | Pravin.: My best wishes to Pravin in all his future plans.
+INFY_Q2_october_21_48 | Pravin.: We will announce our future structure in the coming weeks, well before Pravin steps down.
+INFY_Q2_october_21_49 | Pravin.: With that note, let me hand it to Pravin for his updates.
+INFY_Q2_october_21_50 | Rao: Pravin Rao Thank you, Salil.
+INFY_Q2_october_21_51 | Rao: Hello, everyone.
+INFY_Q2_october_21_52 | Rao: Hope you and your family are doing good, safe, and healthy.
+INFY_Q2_october_21_53 | Rao: Growth acceleration continued in Q2 with YoY constant currency growth at 19.4%.
+INFY_Q2_october_21_54 | Rao: Q2 witnessed broad-based double-digit growth across all business segments and both North America and Europe.
+INFY_Q2_october_21_55 | Rao: Operating parameters continued to improve further: - Utilization improved to a new all-time high of 89.2% - Onsite effort mix reduced further to a new low of 23.6% We won 22 large deals of over $50 mn totaling $2.2 bn TCV, 5 each in Financial Services and Energy, Utility, Resources and Services; 3 each in Retail and Manufacturing; 2 each in Communication and HiTech; and 1 each in Life Sciences and Others segments.
+INFY_Q2_october_21_56 | Rao: Region wise 15 were from Americas, 6 were from Europe, and 1 from the Rest of the World.
+INFY_Q2_october_21_57 | Rao: The share of the new deals in Q2 was 37%.
+INFY_Q2_october_21_58 | Rao: Client metrics improved with over $100 mn client count increasing to 35, an increase of 5 YoY.
+INFY_Q2_october_21_59 | Rao: We added 117 new clients in the last quarter.
+INFY_Q2_october_21_60 | Rao: Voluntary last 12-months attrition increased to 20.1%.
+INFY_Q2_october_21_61 | Rao: While attrition has increased on the back of high industry growth and supply tightness, especially in the niche skill areas, we continue to fulfill client commitments through increased hiring, talent reskilling and higher usage of subcons.
+INFY_Q2_october_21_62 | Rao: We have stepped up our hiring program and have added more than 11,600 talent employees on a net basis, highest ever in a single quarter.
+INFY_Q2_october_21_63 | Rao: In H1 we on-boarded over 25,000 college graduates and for the full year, we have increased the college graduate hiring target to 45,000 globally.
+INFY_Q2_october_21_64 | Rao: The vaccination drive for our employees and their dependents across locations continued unabated.
+INFY_Q2_october_21_65 | Rao: Currently, over 86% Infoscions have received at least one dose of vaccine.
+INFY_Q2_october_21_66 | Rao: Moving to business segments: Starting with Financial Services, I am happy to share that in the last quarter, Infosys was ranked #1 by HFS in the Banking and Financial Services Providers' top 10, 2021.
+INFY_Q2_october_21_67 | Rao: As you are aware our YoY growth was over 20% on constant currency basis this quarter and this industry-leading growth has sustained over the past several quarters.
+INFY_Q2_october_21_68 | Rao: We are seeing strong demand and momentum across all regions.
+INFY_Q2_october_21_69 | Rao: North America, however, continues to lead growth as we execute on large transformation programs and win market share.
+INFY_Q2_october_21_70 | Rao: Banks are increasingly focusing on virtual branches, improved customer experience through AI and analytics, and digital transformation led cost take out agenda.
+INFY_Q2_october_21_71 | Rao: Our focused investments in building strong sub-vertical and platforms capabilities in regional banking, retirement services, mortgages, asset management, and payments are working as a differentiator in winning large deals and digital transformation programs.
+INFY_Q2_october_21_72 | Rao: We are well positioned as full stack digital transformation player with combination of our domain plus technology plus operations plus digital transformation capabilities.
+INFY_Q2_october_21_73 | Rao: Performance of Retail segment remained strong as clients continue to make investments in new digital capabilities in commerce, marketing, and supply chain areas.
+INFY_Q2_october_21_74 | Rao: We are seeing focus on areas like a digital consumer, analytics, digital promotion, personalization, cybersecurity, etc.
+INFY_Q2_october_21_75 | Rao: Our recently launched Equinox platform is seeing significant traction from both our existing and prospective clients.
+INFY_Q2_october_21_76 | Rao: We have a strong pipeline and expect steady performance for the segment in the coming quarters.
+INFY_Q2_october_21_77 | Rao: Communication segment performance improved meaningfully on both sequential and YoY basis on the back of ramp up earlier deal wins.
+INFY_Q2_october_21_78 | Rao: We are witnessing increasing momentum for capex roll- out for 5G deployment across regions.
+INFY_Q2_october_21_79 | Rao: Our 5G living labs, with its capabilities and the promise of future innovations, is a key differentiator in the 5G space for the CSPs and OEMs.
+INFY_Q2_october_21_80 | Rao: Energy, Utility, Resources and Services vertical growth accelerated further with continued large deal wins.
+INFY_Q2_october_21_81 | Rao: Clients in various subsegments are seeing return to normalcy and are prioritizing projects around cloud transformation, customer experience, data analytics, automation, cybersecurity, etc.
+INFY_Q2_october_21_82 | Rao: In Energy, we have made good progress in developing the integrated ‘energy as a service’ solution, which aims to enable clients to access reliable low-carbon energy, use energy more efficiently and to optimize supply and demand across multiple users and assets without having to invest in additional energy infrastructure.
+INFY_Q2_october_21_83 | Rao: Growth in the Manufacturing segment accelerated significantly, with the Daimler deal starting to ramp up.
+INFY_Q2_october_21_84 | Rao: Growth in the last quarter was broad-based across Europe and the U.S., as well as across industrial, automotive, and aerospace industries.
+INFY_Q2_october_21_85 | Rao: We are seeing traction in engineering, IoT, supply chain, cloud ERP, digital transformation, and cloud migration areas.
+INFY_Q2_october_21_86 | Rao: The pipeline continues to be strong, and this provides the confidence that growth in manufacturing for Infosys will continue to be market-leading.
+INFY_Q2_october_21_87 | Rao: Infosys BPM performance remained stable as most of the geographies are witnessing a slow return to normalcy.
+INFY_Q2_october_21_88 | Rao: We see a good deal pipeline with a healthy share of digital deals.
+INFY_Q2_october_21_89 | Rao: Share of digital to overall revenues, increased further to 56.1% in Q2, with a continued strong growth of 42.4% YoY in constant currency terms.
+INFY_Q2_october_21_90 | Rao: We continue to see a big focus on digital transformation, especially around cloud, commerce, and employee experience as customers adjust to the permanent changes in both shopping habits and hybrid working.
+INFY_Q2_october_21_91 | Rao: Cost takeouts has been surpassed by the improvement of digital experiences that increase sales and drive customer or employee loyalty.
+INFY_Q2_october_21_92 | Rao: In the last quarter, we have been ranked as leader in nine digital services-related capabilities in the areas of cloud services, experience and design, big data and analytics, IoT and engineering, modernization and artificial intelligence.
+INFY_Q2_october_21_93 | Rao: To conclude, I want to thank you for the wholehearted support and wishes that you have extended to Infosys over the years.
+INFY_Q2_october_21_94 | Rao: Personally, I have thoroughly enjoyed the discussions with you and felt enriched from your insights.
+INFY_Q2_october_21_95 | Rao: I wish you good health and success in your future endeavors.
+INFY_Q2_october_21_96 | Rao: With that, I will hand it over to Nilanjan.
+INFY_Q2_october_21_97 | Roy: Nilanjan Roy families are safe and well.
+INFY_Q2_october_21_98 | Roy: Revenue growth accelerated further in Q2 on the back of a very strong Q1.
+INFY_Q2_october_21_99 | Roy: We had strong double- digit growth in all the business segments led by Manufacturing and Financial Services, which grew at 42.5% and 20.5%, respectively YoY in constant currency.
+INFY_Q2_october_21_100 | Roy: Our largest geography, North America, also grew YoY at 23.1% in constant currency.
+INFY_Q2_october_21_101 | Roy: Consequently, constant currency YoY growth increased to 19.4%, which is the highest growth in any quarter in the last 11 years.
+INFY_Q2_october_21_102 | Roy: Sequential growth in Q2 also saw an acceleration to 6.3% in constant currency, which is the highest sequential revenue growth in any quarter in the last 6 years.
+INFY_Q2_october_21_103 | Roy: Q2 margin remained resilient at 23.6% despite headwinds from salary increases for most of our employees, higher subcon costs and supply side challenges which were largely offset by improvements in operational parameters and scale benefits resulting from growth.
+INFY_Q2_october_21_104 | Roy: The major components of the sequential margin movement are as follows: - 1.1% impact to the comp hikes given, effective July, to most of our employee base; - 0.5% increase in subcon costs, These were offset by: - 80 basis point benefit due to cost optimization and improvement in operating parameter, - a 50 basis points due to SG&A scale benefits, and - a 30 basis points benefit due to rupee and cross currency movement, Overall leading to a 10 basis points drop in sequential operating margins.
+INFY_Q2_october_21_105 | Roy: Q2 EPS grew by 13% in dollar terms and 12.7% in rupee terms on a YoY basis.
+INFY_Q2_october_21_106 | Roy: DSOs stood at 66 days, an improvement of four days versus the last quarter on the back of robust collection.
+INFY_Q2_october_21_107 | Roy: Free cash flow for the quarter was healthy at $712 mn and as a percentage of net profit, was 97.1% for Q2 and 109.5% for H1.
+INFY_Q2_october_21_108 | Roy: Yield on cash balance was 5.1% compared to 4.9% in Q1.
+INFY_Q2_october_21_109 | Roy: We have completed the buyback of Rs.
+INFY_Q2_october_21_110 | Roy: 9,200 crores on September 8 at an average price of approximately Rs.1,649 per share compared to a maximum buyback price of Rs.1,750 per share, leading to a 1.31% reduction in share capital.
+INFY_Q2_october_21_111 | Roy: With this, the company has returned approximately 82% of the free cash flow for FY20 and FY21 through dividends and buybacks, close to the 85% stated in our five-year capital allocation policy.
+INFY_Q2_october_21_112 | Roy: Even after the capital return, we continue to maintain a strong debt-free and liquid balance sheet.
+INFY_Q2_october_21_113 | Roy: Consolidated cash and investments at the end of the last quarter was $4.42 bn.
+INFY_Q2_october_21_114 | Roy: Return on equity increased further to 29.8%, an improvement of 3.1% over Q2 last year, driven by consistent performance and increased capital returns.
+INFY_Q2_october_21_115 | Roy: The Board has also announced an interim dividend of Rs.15 per share, an increase of 25% over prior year interim dividend and equal to the final dividend of prior year.
+INFY_Q2_october_21_116 | Roy: We see a robust demand environment, coupled with tightness in the supply side, which will result in higher recruitment, compensation and retention costs in the near future, along with seasonal headwinds relating to furloughs.
+INFY_Q2_october_21_117 | Roy: However, we remain confident of our ability to partially offset some of these cost headwinds through the structural cost efficiency improvement measures and deliver well within our margin guidance for the year.
+INFY_Q2_october_21_118 | Roy: With a strong H1 and a robust deal pipeline, we are increasing our revenue growth guidance for the year to 16.5% to 17.5% from 14% to 16% previously.
+INFY_Q2_october_21_119 | Roy: We reiterate our operating margin guidance of 22% to 24% for the full year.
+INFY_Q2_october_21_120 | Roy: With that, we can open the call for questions.
+INFY_Q2_october_21_121 | Rudra: Ankur Rudra Pravin best wishes for the future and congratulations on completing a great innings on a high.
+INFY_Q2_october_21_122 | Rudra: Overall, clearly, very good results, it is nice to see the margin execution and the guidance upgrade.
+INFY_Q2_october_21_123 | Rudra: To start off with Salil, if you could give us a sense about how you feel about demand visibility given where you see the increasing guidance, but we continue to see a drop in the large deals size.
+INFY_Q2_october_21_124 | Rudra: So how do we think about that?
+INFY_Q2_october_21_125 | Parekh: Salil Parekh Thanks, Ankur, this is Salil.
+INFY_Q2_october_21_126 | Parekh: In terms of demand, we continue to see a good pipeline in terms of large deals.
+INFY_Q2_october_21_127 | Parekh: We are participating more in areas which relate to digital transformation, which relate to cloud work, which relate to data and analytics work.
+INFY_Q2_october_21_128 | Parekh: We see this across all industries and we see that large enterprises are accelerating their spend.
+INFY_Q2_october_21_129 | Parekh: Their trust in us is strong because of the capabilities we have built.
+INFY_Q2_october_21_130 | Parekh: So, the demand from that piece, which is the large deals, is looking good.
+INFY_Q2_october_21_131 | Parekh: Then there is the demand which is from our existing client base, where we are seeing a tremendous expansion in all of our large clients.
+INFY_Q2_october_21_132 | Parekh: Some of the stats on this are the number of clients over $100 mn and number of clients over $50 mn, both of which are expanding QoQ and as you look back to this time last year, YoY.
+INFY_Q2_october_21_133 | Parekh: With that, we feel good today to increase the revenue growth guidance and that is the clearest indication that the demand is looking quite good right now.
+INFY_Q2_october_21_134 | Parekh: So overall, we are still in a good shape with the demand and feeling quite confident with the way we have increased the guidance.
+INFY_Q2_october_21_135 | Rudra: Ankur Rudra Just a one thing on the talent supply side, how do you feel about the ability to meet with this continued strong demand?
+INFY_Q2_october_21_136 | Rudra: Maybe a comment on the graduate on-boarding, for example, have you been, able to reduce the time taken to billing from on-boarding for that part of the supply?
+INFY_Q2_october_21_137 | Rao: Pravin Rao If you remember last quarter we had talked about 35,000 campus hires this year, but based on the demand outlook and increased attrition, we were able to quickly ramp up to 45,000 for this year.
+INFY_Q2_october_21_138 | Rao: In fact this quarter, we added about 15,000 campus recruits, which was probably the highest ever in Infosys history.
+INFY_Q2_october_21_139 | Rao: So today, we have the ability to recruit campus hires because of the investments we have made in assessment platforms, the InfyTQ and another thing which allows us to access talent anywhere in India or even globally for that matter and the turnaround time is much faster.
+INFY_Q2_october_21_140 | Rao: So, we are pretty confident and if there is a need to revise it further based on our needs, we are more than equipped to deal with it.
+INFY_Q2_october_21_141 | Rudra: Ankur Rudra Understood and just a last question on margins, Nilanjan, clearly very good execution this time.
+INFY_Q2_october_21_142 | Rudra: In terms of the headwinds and the tailwinds you see for us now, would it be fair to assume the headwinds are behind us?
+INFY_Q2_october_21_143 | Rudra: And could you also comment about why not narrow the margin band, while the revenue band has been narrowed?
+INFY_Q2_october_21_144 | Roy: Nilanjan Roy As we have talked about, we have done this compensation hike in Q2 and we will continue doing what is necessary, and in fact, Pravin also mentioned in Q3 we have also rolled out skill-based plans.
+INFY_Q2_october_21_145 | Roy: Also, the cost of hiring is going up so we will see some headwinds along with the seasonal headwinds of furloughs and working days in the near future.
+INFY_Q2_october_21_146 | Roy: But overall, I think for the margin guidance perspective, we are quite comfortable to stay within the 22% to 24%.
+INFY_Q2_october_21_147 | Roy: And historically, as we have seen we have never changed the margin guidance.
+INFY_Q2_october_21_148 | Roy: This is more of an operating band we are comfortable to be in.
+INFY_Q2_october_21_149 | Roy: So, we do not narrow that down historically.
+INFY_Q2_october_21_150 | Katri: Moshe Katri Congrats on strong results and Pravin, we are going to miss you.
+INFY_Q2_october_21_151 | Katri: It has been a great experience working with you and best of luck.
+INFY_Q2_october_21_152 | Katri: Two questions, one can you talk a bit about what we are doing to contain the attrition rates that have been pretty high.
+INFY_Q2_october_21_153 | Katri: Maybe there is a way to also break down attrition by voluntary and involuntary?
+INFY_Q2_october_21_154 | Katri: The other question is more broad-based.
+INFY_Q2_october_21_155 | Katri: Salil, looking at the budget cycle for calendar 2022, maybe it is a bit too early, but are you getting any specific indications about budgets for next year?
+INFY_Q2_october_21_156 | Katri: And in that context, the strong growth that we are seeing this year, do we feel that this is still part of that multi-year spending cycle that the entry has been talking about for a couple of quarters?
+INFY_Q2_october_21_157 | Katri: Thanks a lot.
+INFY_Q2_october_21_158 | Rao: Pravin Rao Thank you very much for the wishes.
+INFY_Q2_october_21_159 | Rao: From a voluntary attrition perspective, as we mentioned on an LTM basis, it increased to 20.1%.
+INFY_Q2_october_21_160 | Rao: Most of the attrition has been for people in lower JL’s between 3 to 6 years of experience and this has been the trend in this industry.
+INFY_Q2_october_21_161 | Rao: Because in this experience levels, people are still not emotionally connected with the company and sometimes, it is easier to move around and that is what we are seeing this time around as well.
+INFY_Q2_october_21_162 | Rao: As I mentioned earlier that this is because of unprecedented demand, as well as the in some geographies we have also seen lack of talent mobility that has also fueled attrition in some of the countries.
+INFY_Q2_october_21_163 | Rao: Obviously, we expect this to perhaps continue for a couple of quarters or so, but once we have more talent available in the system this should ease and get back to the earlier levels.
+INFY_Q2_october_21_164 | Rao: But having said that, we have done significant interventions to contain this.
+INFY_Q2_october_21_165 | Rao: We have had two rounds of compensation reviews, skill-based correction for high demand skills, targeted retention for new skills, a higher number of promotions, and so on.
+INFY_Q2_october_21_166 | Rao: We are also focused a lot on mobility of people, we have hired a lot of IJPs, we have focused a lot on employee engagement, over close to 5,000 employee connect sessions, a lot of focus on career development, continuous learning.
+INFY_Q2_october_21_167 | Rao: We have introduced new career paths like digital specialists, we have BITS programs, and we also launched several wellness initiatives as well.
+INFY_Q2_october_21_168 | Rao: And as we talk, we are also ramping up our entry- level, hiring in an aggressive way so that we are able to meet some of the demands that are out there.
+INFY_Q2_october_21_169 | Rao: In the long term, we are also taking a fresh look at the talent strategy approach.
+INFY_Q2_october_21_170 | Rao: This is not only due to the current high attrition, but also our belief is that there will be fundamental shifts in employee thinking behavior in the post-COVID world.
+INFY_Q2_october_21_171 | Rao: And that means you have to relook at the employee value proposition and fine-tune that.
+INFY_Q2_october_21_172 | Rao: So that is something we have started taking a hard look at.
+INFY_Q2_october_21_173 | Rao: That is from an attrition and talent perspective.
+INFY_Q2_october_21_174 | Rao: In terms of the budgets, I think in the current context, budgets are no longer relevant, in that sense, because there is a lot of pent-up demand; and at least this will continue for a few quarters, if not years.
+INFY_Q2_october_21_175 | Rao: And there are various reports that talk about tech intensity increasing from 3 to 5 impact.
+INFY_Q2_october_21_176 | Rao: One of the Gartner reports talked about the kind of spend in the next 2 to 3 years, one can probably go back to 2010 to see that kind of demand.
+INFY_Q2_october_21_177 | Rao: In that context, my own sense is while budget, maybe, an operational thing that people will actually do that, but it may not have relevance because there is enough and more demand at least for the next few quarters.
+INFY_Q2_october_21_178 | Nagarajan: Diviya Nagarajan Thanks for taking the questions and congrats on a strong execution in the quarter.
+INFY_Q2_october_21_179 | Nagarajan: Just a couple of questions from my end, could you talk about the puts and the takes that you had for margins this quarter, I believe there are some headwinds as well.
+INFY_Q2_october_21_180 | Nagarajan: So, run us through how you have managed to maintain margins in terms of the percentage, that is question number 1?
+INFY_Q2_october_21_181 | Roy: Nilanjan Roy I think with my opening remarks it was quite straightforward in the margin walk.
+INFY_Q2_october_21_182 | Roy: The compensation hike which was broad-based across, this is sequentially, that was 1.1%, impact, we had a 50 basis points hit on subcon, we have seen subcon cost going up due to higher fulfillment.
+INFY_Q2_october_21_183 | Roy: These were offset by about 80 basis points due to cost optimization and other operating parameters, 50 basis points on scale benefits on SG&A and finally, a 30-basis points benefit on rupee and cross- currency movements.
+INFY_Q2_october_21_184 | Roy: I think the comp-hikes and subcons were negated by cost optimization and scale benefits.
+INFY_Q2_october_21_185 | Nagarajan: Diviya Nagarajan I think, Pravin, you talked about the Daimler contract having started to ramp up this quarter.
+INFY_Q2_october_21_186 | Nagarajan: Could you give us some sense on how many months or weeks of revenue contribution came in from that, and was there any impact at all from that contract on margins?
+INFY_Q2_october_21_187 | Nagarajan: Were there any pass-through revenues or anything that is yet to come or how should we think about that going forward?
+INFY_Q2_october_21_188 | Roy: Nilanjan Roy Of course, Daimler has kicked in during the quarter, and its impact like I said you can see in Manufacturing.
+INFY_Q2_october_21_189 | Roy: But even if you strip that out – we cannot give the numbers – we can see broad- based growth across all sectors, both on a sequential and a YoY basis.
+INFY_Q2_october_21_190 | Roy: So, like I said earlier, it is more than icing on the cake rather than impacting the underlying growth.
+INFY_Q2_october_21_191 | Nagarajan: Diviya Nagarajan My last question is, how should we think about seasonality going into December and March?
+INFY_Q2_october_21_192 | Nagarajan: Should we expect normal seasonality as your guidance seems to suggest that you are looking up a fair amount of seasonal slowdown coming in at the top end as well.
+INFY_Q2_october_21_193 | Nagarajan: Is that something that is driven by holidays or do you think that is a normalization of demand that is coming in as well?
+INFY_Q2_october_21_194 | Parekh: Salil Parekh There is always seasonality that you referenced, which I know you are aware of in Q3 and Q4.
+INFY_Q2_october_21_195 | Parekh: Especially in Q3, we will typically see some level of furloughs and typically, at least at Infosys, our Q4 trend down historically.
+INFY_Q2_october_21_196 | Parekh: Having said that, the demand environment today looks extremely strong.
+INFY_Q2_october_21_197 | Parekh: So, we have tried to balance those two things, in increasing our guidance significantly from 14%, 16% to 16.5% to 17.5%; yet making sure that we add everything that we know of today to deliver to that high level of growth.
+INFY_Q2_october_21_198 | Parekh: So, we will see some seasonality but there is a good overall demand outlook as well.
+INFY_Q2_october_21_199 | Nagarajan: Diviya Nagarajan Thanks for taking my question.
+INFY_Q2_october_21_200 | Nagarajan: Pravin, it has been a pleasure working with you.
+INFY_Q2_october_21_201 | Nagarajan: Hope to stay in touch.
+INFY_Q2_october_21_202 | Nagarajan: And I will come back in the queue if there is time.
+INFY_Q2_october_21_203 | Nagarajan: Thank you.
+INFY_Q2_october_21_204 | Agarwal: Sandip Agarwal Good evening.
+INFY_Q2_october_21_205 | Agarwal: Thanks for taking my question.
+INFY_Q2_october_21_206 | Agarwal: Congratulation on a great set of numbers and best of luck Pravin for your great stint and ahead.
+INFY_Q2_october_21_207 | Agarwal: I have only one question, now Salil, if you see our composition of business, we have more than half of the business coming in from digital and the way the growth is coming in, it looks like the next couple of years we will be probably three-fourth of digital.
+INFY_Q2_october_21_208 | Agarwal: So my question is in the next couple of years does that not mean that structurally the industry is moving towards high-growth, if we see it from a longer-term perspective, or do you think that will be some saturation also in the digital growth, which we may see after a couple of years, any thought on that front?
+INFY_Q2_october_21_209 | Parekh: Salil Parekh In terms of what we are seeing with clients today, the capabilities that we have built out, for example, Cobalt, we have also launched and announced other capability called Equinox, which is relating more to everything which is online in the e-commerce space, other areas of digital where we have invested and scaled up over the past few years, in those areas we are seeing the demand very strong in today.
+INFY_Q2_october_21_210 | Parekh: It is difficult to say in that two-year horizon that you are mentioning.
+INFY_Q2_october_21_211 | Parekh: Our growth guidance really is for this year where we have expanded it, but everything would indicate to me that this scaling up, this digital work transformation is something which is ongoing.
+INFY_Q2_october_21_212 | Parekh: And many large enterprises are at the early stages of their digital and cloud journey.
+INFY_Q2_october_21_213 | Parekh: So, I do not get the sense that we are in the late stage, but in terms of really the guidance, we are focused on this year.
+INFY_Q2_october_21_214 | Parekh: But overall, I am quite optimistic that this is a good place to be in terms of the future.
+INFY_Q2_october_21_215 | Agarwal: Sandip Agarwal Thanks a lot.
+INFY_Q2_october_21_216 | Agarwal: That is all from my side and best of luck for the current quarter.
+INFY_Q2_october_21_217 | Agarwal: Thank you.
+INFY_Q2_october_21_218 | Kapoor: Pankaj Kapoor Thanks for the opportunity.
+INFY_Q2_october_21_219 | Kapoor: Pravin, this increase in the fresher intake to 45,000 is this a one-time because of the current situation or you think there is a structural shift in the way we are going to hire?
+INFY_Q2_october_21_220 | Kapoor: If you can give some sense of what kind of plans you have for offers in next year?
+INFY_Q2_october_21_221 | Rao: Pravin Rao It is obviously based on the current demand outlook that we are seeing and high attrition.
+INFY_Q2_october_21_222 | Rao: It is too early to comment whether this will be a structural shift.
+INFY_Q2_october_21_223 | Rao: But if whatever we are seeing and hearing, if this demand continues for the next several quarters, then given the shortage of talent you will probably see a higher number of such fresher recruitment globally.
+INFY_Q2_october_21_224 | Rao: It is a bit early to think about next year, but at this stage, we believe that it will be on similar lines that we have recruited this year but we will take a look at it on a QoQ basis.
+INFY_Q2_october_21_225 | Rao: And as I mentioned earlier, to one of the questions, today, our ability to recruit on a dynamic basis is much higher, given the virtual ways, our investment in platform, ability to assess candidates all through the year through the online platform etc.
+INFY_Q2_october_21_226 | Rao: So, we will take look at it.
+INFY_Q2_october_21_227 | Rao: So, at this stage our sense is, next year also would be on similar lines, but it is difficult to comment beyond that.
+INFY_Q2_october_21_228 | Kapoor: Pankaj Kapoor Salil my question was also on the renewal that we have been seeing which have been obviously pretty dominating in the last 2, 3 quarters.
+INFY_Q2_october_21_229 | Kapoor: Our new deal wins seem to be just around less than 40% of the total large deal wins.
+INFY_Q2_october_21_230 | Kapoor: Any sense in terms of what could be the reason behind it?
+INFY_Q2_october_21_231 | Kapoor: Are you seeing fewer number of those mega contracts which were there, say 4 quarters back, are clients taking slightly longer-term in time to decide on them, or are you seeing them getting restructured more into smaller contracts?
+INFY_Q2_october_21_232 | Parekh: Salil Parekh The way we look at it, is first, where we have an existing relationship and long-term work, we are very clear that we want to make sure that the clients trust in us, gives us a longer stay, extension and typically some level of expansion.
+INFY_Q2_october_21_233 | Parekh: And that is why it is more critical for us to need to look at the renewals in absolute value because that is depending on when those contracts come up; we want to make sure that that continues.
+INFY_Q2_october_21_234 | Parekh: In terms of the new work, what we are seeing, as Pravin shared earlier, we had 22 large deals.
+INFY_Q2_october_21_235 | Parekh: Large deals, for us being deals over $50 mn in the quarter and that number is robust when we compare the number for H1 versus last H1, that is very robust.
+INFY_Q2_october_21_236 | Parekh: The one distinction is a mega-deal that we had last year in this quarter.
+INFY_Q2_october_21_237 | Parekh: Those things in terms of mega-deals are things which are difficult to predict which quarter they will show up in.
+INFY_Q2_october_21_238 | Parekh: In our pipeline, we have a good representation of those.
+INFY_Q2_october_21_239 | Parekh: Overall, the pipeline is quite strong.
+INFY_Q2_october_21_240 | Parekh: So, at this stage, given all of those things, we have chosen to increase our guidance and therefore remain quite positive on the outlook that is there for our businesses.
+INFY_Q2_october_21_241 | Kapoor: Pankaj Kapoor Understood.
+INFY_Q2_october_21_242 | Kapoor: Thank you and wish you all the best.
+INFY_Q2_october_21_243 | Friedman: James Friedman Hi, and let me echo the congratulations Pravin, I have learned a lot from you over the years and I appreciate it.
+INFY_Q2_october_21_244 | Friedman: I know you keep getting asked about this, but we do too.
+INFY_Q2_october_21_245 | Friedman: Any sense at this point when or if you would see stabilization in the attrition at the industry level?
+INFY_Q2_october_21_246 | Friedman: And where is the industry losing the people to?
+INFY_Q2_october_21_247 | Friedman: Are they going to tech pure plays, to your customers, to captives, we are just wondering about that?
+INFY_Q2_october_21_248 | Friedman: Thank you.
+INFY_Q2_october_21_249 | Rao: Pravin Rao I think at this stage, maybe in the next 2 to 3 quarters, perhaps the attrition will stabilize given such influx of talent.
+INFY_Q2_october_21_250 | Rao: The demand is far outstripping talent supply that is available even globally, and that is why we are seeing this phenomenon not only with us, but across the industry, and we have seen this even in other industries as well.
+INFY_Q2_october_21_251 | Rao: In terms of where they are going, it is a common thing, right?
+INFY_Q2_october_21_252 | Rao: Typically, we lose people to competition and we also recruit from competition, so that is one part.
+INFY_Q2_october_21_253 | Rao: But again, we are also losing people to captives, some of the hyperscalers have also started recruiting, and of course, in India startups now again have become very attractive with a lot of Unicorns and so on.
+INFY_Q2_october_21_254 | Rao: That is a combination of things and I think the only way it can stabilize is to influx more talent into the mix, and that we believe probably in the next two to three quarters, will happen and with aggressive reskilling and we should be able to bring it back under control.
+INFY_Q2_october_21_255 | Friedman: James Friedman Thank you, Pravin, all the best.
+INFY_Q2_october_21_256 | Guntupalli: Sudheer Guntupalli Good evening gentlemen.
+INFY_Q2_october_21_257 | Guntupalli: Thanks for giving me this opportunity and congrats on a good quarter.
+INFY_Q2_october_21_258 | Guntupalli: Firstly, Nilanjan on the effort mix, onsite-offshore, I am curious as to why has the onsite share of effort come down in this quarter, despite the Daimler deal ramp up and in the initial phases I would have expected that the ramp-up would show us a higher share of onsite, that is number 1.
+INFY_Q2_october_21_259 | Guntupalli: And then a little bit of travel has also opened up but not completely.
+INFY_Q2_october_21_260 | Guntupalli: So, despite these two reasons I believe you are able to show a higher offshore effort, in this quarter.
+INFY_Q2_october_21_261 | Guntupalli: Any sense on what might be driving that?
+INFY_Q2_october_21_262 | Roy: Nilanjan Roy Yes, like I said, Daimler is not just one contract we have.
+INFY_Q2_october_21_263 | Roy: It is a large business which we run and we also had Daimler ramp-up in the last quarter, it is not suddenly that everybody is onsite on one day.
+INFY_Q2_october_21_264 | Roy: So, you would see these blips on onsite-offshore mix and last quarter it was flatter but now you have seen movement.
+INFY_Q2_october_21_265 | Roy: But I think more importantly to see secular trend, like I said, this demand is at a global level.
+INFY_Q2_october_21_266 | Roy: I think where it is going to really sustain from?
+INFY_Q2_october_21_267 | Roy: In the long run it is going to be from talent here, because that is quantity and scale, and digitally skilled talent is largely available in India.
+INFY_Q2_october_21_268 | Roy: So, while we continue to hire locally in large numbers.
+INFY_Q2_october_21_269 | Roy: In our localization, the U.S. has already reached 70%.
+INFY_Q2_october_21_270 | Roy: We announced more than 10,000 additional hires over 2 years.
+INFY_Q2_october_21_271 | Roy: But despite that, you will see the volume growth and the mix within that if you continue to technically move towards more offshore.
+INFY_Q2_october_21_272 | Guntupalli: Sudheer Guntupalli Pravin, my second question, if you actually look at the experience bucket you spoke about where we had seen the highest attrition, which is in the 2 to 6-year bucket.
+INFY_Q2_october_21_273 | Guntupalli: So, at this level or perhaps at the entry-level if we had seen, the last 10 years, industry has not seen much of salary revisions.
+INFY_Q2_october_21_274 | Guntupalli: On a real rupee basis, if you see, perhaps it would have been in the negative territory.
+INFY_Q2_october_21_275 | Guntupalli: I am not talking just about Infosys, but for the entire industry.
+INFY_Q2_october_21_276 | Guntupalli: Now given the kind of demand we are seeing for this experience bucket, can we expect some sort of a structural increase in the salary levels, which can have a longer-term impact on margins, let us say 1 or 2 years down the line, when the demand might not be as robust as it is today?
+INFY_Q2_october_21_277 | Rao: Pravin Rao When companies recruit people at entry levels, we have to also invest a lot in training and enabling them.
+INFY_Q2_october_21_278 | Rao: They take a while before they become productive, but as they move up the system, their salaries increase dramatically.
+INFY_Q2_october_21_279 | Rao: So, for the people between 2-6 years of experience who are quitting, they would have got a good salary along the way as well.
+INFY_Q2_october_21_280 | Rao: So, I do not see the entry-level salary dramatically changing in any way.
+INFY_Q2_october_21_281 | Rao: There will be some corrections here and there.
+INFY_Q2_october_21_282 | Rao: But at the same time, at least from our perspective we have also started differentiating at entry level itself.
+INFY_Q2_october_21_283 | Rao: We have created two set of streams, one called Power Programmers and other one is called Digital Specialists; and in these streams, we are recruiting them at a much higher compensation.
+INFY_Q2_october_21_284 | Rao: And there is a very stringent criteria for selecting these candidates based on their background as well as passing a couple of tests.
+INFY_Q2_october_21_285 | Rao: If people are able to pass that then we recruit them in these two streams at a much higher compensation.
+INFY_Q2_october_21_286 | Rao: Because at the entry-level, we are recruiting at scale, right?
+INFY_Q2_october_21_287 | Rao: But within that we are trying to differentiate, and where we feel that people come with very strong skills capabilities and they can be deployed immediately, we are looking at the different compensation rates.
+INFY_Q2_october_21_288 | Guntupalli: Sudheer Guntupalli Thanks, Pravin.
+INFY_Q2_october_21_289 | Guntupalli: As always, interactions with you have always been very insightful.
+INFY_Q2_october_21_290 | Guntupalli: Congrats and all the best for your future endeavors.
+INFY_Q2_october_21_291 | Bachman: Keith Bachman Hi, thank you very much.
+INFY_Q2_october_21_292 | Bachman: I wanted to also ask about attrition.
+INFY_Q2_october_21_293 | Bachman: You did make the comment that you think attrition improves next year, and I do not disagree with you, but I wanted to understand your thinking and more specifically, is it because demand slows across the industry?
+INFY_Q2_october_21_294 | Bachman: And as you referenced, it is an industry issue.
+INFY_Q2_october_21_295 | Bachman: And that allows attrition to improve or there is some something fundamentally that you think demand can stay at these levels or maybe moderate a touch, but you can continue to hire more freshers to meet that.
+INFY_Q2_october_21_296 | Bachman: But it is an industry problem.
+INFY_Q2_october_21_297 | Bachman: Your numbers increased substantially QoQ on attrition.
+INFY_Q2_october_21_298 | Bachman: And so just wanted to understand a little bit more about, why you think attrition improves, because there is such a significant industry problem, not just an Infosys issue.
+INFY_Q2_october_21_299 | Bachman: And then I have a follow-up, please.
+INFY_Q2_october_21_300 | Rao: Pravin Rao We are saying that the attrition will stabilize, primarily because of the influx of talent.
+INFY_Q2_october_21_301 | Rao: The demand will continue.
+INFY_Q2_october_21_302 | Rao: In the near future, we are not seeing demand coming down by any accounts.
+INFY_Q2_october_21_303 | Rao: But today there is a shortage of talent and particularly in some of the geographies because of travel restrictions, we are not even able to deploy people from India in those geographies where there is a need.
+INFY_Q2_october_21_304 | Rao: But over a period of time, not only Infosys, but almost every company, many of our peers have also started announcing, talking about aggressive hiring from campuses, right?
+INFY_Q2_october_21_305 | Rao: So that will result in higher availability of talent.
+INFY_Q2_october_21_306 | Rao: And once we can hire this talent and skill them appropriately, they will then be available to be deployed and to meet the demand and that is when we expect the attrition to come down.
+INFY_Q2_october_21_307 | Rao: Right now, the demand far outstrips the supply and that is where the challenges is.
+INFY_Q2_october_21_308 | Bachman: Keith Bachman Okay.
+INFY_Q2_october_21_309 | Bachman: Do you think this suggests a different headcount management strategy?
+INFY_Q2_october_21_310 | Bachman: In other words, do you think you need to diversify?
+INFY_Q2_october_21_311 | Bachman: Because it sounds like the problem is much more significant in India versus other markets does this, you think, suggest a broadening of your reach in terms of supply capabilities, in Eastern Europe or otherwise?
+INFY_Q2_october_21_312 | Bachman: Does it suggest a different strategy on managing your headcount?
+INFY_Q2_october_21_313 | Rao: Pravin Rao There are a couple of things.
+INFY_Q2_october_21_314 | Rao: One is, of course, in terms of talent availability, in terms of scale and quantity I do not think any other country can match that.
+INFY_Q2_october_21_315 | Rao: So, from that extent, most of the noise and other things you are hearing are in India only.
+INFY_Q2_october_21_316 | Rao: So that is one part of it, because I do not see any other country being able to provide such kind of talent with scale.
+INFY_Q2_october_21_317 | Rao: So that is why we are seeing higher number.
+INFY_Q2_october_21_318 | Rao: And the second one is, this is an unusual phenomenon.
+INFY_Q2_october_21_319 | Rao: We have not seen this kind of war for talent for a long period of time and as I myself have been in the industry for over 35 years, I cannot think of a time when we have seen this kind of situation.
+INFY_Q2_october_21_320 | Rao: When we talk to people them when they are leaving, most of them are complimentary about Infosys, they talk highly about the culture, the kind of training, kind of opportunities they get and other things.
+INFY_Q2_october_21_321 | Rao: But they are also saying, at the same time, the kind of compensation they are being offered is significantly higher.
+INFY_Q2_october_21_322 | Rao: So today, despite all the HR interventions and other things, compensation seems to be a very big criteria and particularly for some of the companies who are just scaling up or who are setting up centers here, there are no options but to go aggressive on compensation to attract and get the talent.
+INFY_Q2_october_21_323 | Rao: So, I would say that is the reason.
+INFY_Q2_october_21_324 | Rao: And this is an unusual thing where some of your normal HR levers do not seem to work and people do acknowledge that they are happy otherwise, but the kind of offers they are getting is too attractive for them to refuse.
+INFY_Q2_october_21_325 | Rao: These are all junior people, they are not emotionally fully connected with the company, whereas at the mid-level and senior-level, they are much more connected with the company.
+INFY_Q2_october_21_326 | Rao: They understand the culture, they understand the industry and other things.
+INFY_Q2_october_21_327 | Rao: So there, some of the HR practices work better.
+INFY_Q2_october_21_328 | Rao: But at the junior level, while we try, what is out there is attractive and that becomes a challenge.
+INFY_Q2_october_21_329 | Bachman: Keith Bachman You mentioned a number of times that you do not see attrition improving over the next couple of quarters.
+INFY_Q2_october_21_330 | Bachman: But does your reported number get worse over the next couple of quarters just so we can manage investor expectations?
+INFY_Q2_october_21_331 | Rao: Pravin Rao It will probably take a couple of quarters before attrition easing, because you have to onboard supply, you have to skill them, train them.
+INFY_Q2_october_21_332 | Rao: So that will take some time before supply is available to be deployed in projects.
+INFY_Q2_october_21_333 | Rao: So that is the time that will take before attrition eases.
+INFY_Q2_october_21_334 | Rao: That is what I meant.
+INFY_Q2_october_21_335 | Bachman: Keith Bachman Does your reported attrition number get worse in, than the December and March quarters?
+INFY_Q2_october_21_336 | Bachman: Can attrition get worse before it gets better?
+INFY_Q2_october_21_337 | Rao: Pravin Rao We hope that is not the case, but it is difficult to predict.
+INFY_Q2_october_21_338 | Rao: But as I said earlier, so far we have been able to manage all the client expectations through hiring, through reskilling and through usage of subcontractors.
+INFY_Q2_october_21_339 | Rao: So, at this stage, we are comfortable to meet all our planned commitments.
+INFY_Q2_october_21_340 | Bachman: Keith Bachman Many thanks and congratulations on solid results.
+INFY_Q2_october_21_341 | Saluja: Kawaljeet Saluja Pravin, I have learnt a lot from you and let us hope you stay in touch.
+INFY_Q2_october_21_342 | Saluja: I have a couple of questions, one for Pravin and one for Nilanjan.
+INFY_Q2_october_21_343 | Saluja: Nilanjan, for you the question is that you mentioned that the impact of wage increase is approximately 110 basis points and if I just do the back of the envelope math, your offshore wages, that percentage of revenue is 20%.
+INFY_Q2_october_21_344 | Saluja: So that equates to just a 5% wage increase effectively.
+INFY_Q2_october_21_345 | Saluja: Is that sufficient in the current environment?
+INFY_Q2_october_21_346 | Roy: Nilanjan Roy Couple of things, one is, of course, there were onsite and offshore both.
+INFY_Q2_october_21_347 | Roy: There is a mix of that and it is only up to JL6’s.
+INFY_Q2_october_21_348 | Roy: So, we planned for the senior and title holders in October.
+INFY_Q2_october_21_349 | Roy: Also from October, we are rolling out more skill-based intervention compensation changes.
+INFY_Q2_october_21_350 | Roy: So, as you know, this is something we did in January, then we have done something in July.
+INFY_Q2_october_21_351 | Roy: And like I said, we are going to do something in October as well, not at the same level, but like I said, we need to do whatever is required to a) keep key talent back, and b) hire laterals as well, because as Pravin mentioned, even the cost of lateral goes up.
+INFY_Q2_october_21_352 | Roy: I mean the churn is rotational in the industry.
+INFY_Q2_october_21_353 | Roy: It is a zero-sum game; somebody else’s lateral is somebody else’s churn.
+INFY_Q2_october_21_354 | Roy: So, we will do whatever is required to even onboard lateral and freshers.
+INFY_Q2_october_21_355 | Roy: But at the end of the day, I think from an industry perspective, it is only once the freshers come in, can you really start seeing this thing really easing up.
+INFY_Q2_october_21_356 | Roy: But we are quite comfortable in that sense in terms of our guidance, in terms of fulfilling what the clients are asking for and one of the ways is, of course, the subcon increase is not the best from a margin perspective, but you have seen our stats on subcon slightly going up just to fulfill that gap.
+INFY_Q2_october_21_357 | Saluja: Kawaljeet Saluja What will be the impact of wage revision, let us say, in December because that would be rolled out at a senior level?
+INFY_Q2_october_21_358 | Saluja: So, the impact of that would be a higher percentage offshore overall compensation number.
+INFY_Q2_october_21_359 | Saluja: So, what will be the impact of wage revision in December?
+INFY_Q2_october_21_360 | Roy: Nilanjan Roy So, we do not call out, but the overall wage impact of the senior level is definitely lower than I mean the headcount is a much, much smaller amount than what we have rolled out.
+INFY_Q2_october_21_361 | Roy: But we cannot give a number of what is the margin impact.
+INFY_Q2_october_21_362 | Saluja: Kawaljeet Saluja The second question I had is for Pravin.
+INFY_Q2_october_21_363 | Saluja: Now, Pravin, we have been wired through your performance historically that whenever the attrition rates go up, your utilization rates go down.
+INFY_Q2_october_21_364 | Saluja: But this time around, they seem to be moving in the same direction, which is rather unusual.
+INFY_Q2_october_21_365 | Saluja: When do you think that this divergence really starts playing out the way, logically, it has done historically?
+INFY_Q2_october_21_366 | Rao: Pravin Rao I am not sure about the correlation you are talking about because if attrition goes up the natural correlation would be utilization also improving, so there is a need to fulfillment, right?
+INFY_Q2_october_21_367 | Rao: I mean you are talking about contrary, so I am not sure of the application.
+INFY_Q2_october_21_368 | Saluja: Kawaljeet Saluja But the logic is straightforward.
+INFY_Q2_october_21_369 | Saluja: Ultimately if the attrition is higher, normally you require greater project bench to fulfill customer demand and a high attrition environment also indicates a healthy growth environment, again which need a larger bench.
+INFY_Q2_october_21_370 | Saluja: So that was the logic behind that statement.
+INFY_Q2_october_21_371 | Rao: Pravin Rao But anyway, in the current situation, there is no supply.
+INFY_Q2_october_21_372 | Rao: As I said, you have to recruit people, train them and then deploy, that will take some time.
+INFY_Q2_october_21_373 | Rao: You have to look at your existing people, re-skill them and deploy, that is the fastest thing for you to do.
+INFY_Q2_october_21_374 | Rao: That means higher utilization and wherever there are gaps, we also look at subcons and we have seen increased subcons as well.
+INFY_Q2_october_21_375 | Rao: So, the high utilization is definitely a function of lack of availability of talent, and we are recruiting as much as we can to meet the demands of our customers.
+INFY_Q2_october_21_376 | Saluja: Kawaljeet Saluja Okay, fantastic.
+INFY_Q2_october_21_377 | Saluja: Thanks, and congratulations to all of you for a great quarter.
+INFY_Q2_october_21_378 | Rateria: Gaurav Rateria Hi, congratulations on a great performance and all the best to Pravin.
+INFY_Q2_october_21_379 | Rateria: Two questions, the first question is to Nilanjan on margins.
+INFY_Q2_october_21_380 | Rateria: We just wanted to understand the puts and takes on margins in the second half.
+INFY_Q2_october_21_381 | Rateria: When we look at the various headwinds, there are continued rising attrition rates, higher travel expenses potentially; wage hike for a section of employees, full impact of the large deal ramp up, which is likely to take place in 3Q as well.
+INFY_Q2_october_21_382 | Rateria: So just trying to understand what are the tailwinds that can help to offset some of these impacts and keep the margin within the bag?
+INFY_Q2_october_21_383 | Roy: Nilanjan Roy We are going to have these headwinds, like you said on retention, on hiring, etc.
+INFY_Q2_october_21_384 | Roy: But I think, like we demonstrated this quarter as well, we have a very strong cost optimization program also ongoing, automation, onsite offshore mix with broad basing of the pyramid, both onsite offshore.
+INFY_Q2_october_21_385 | Roy: We are among the few companies who have these global DCs now in the West, where we can pump in freshers, right.
+INFY_Q2_october_21_386 | Roy: So, I mean, we would not have had freshers in our onsite business, but now we are having more than 3,000-odd freshers a year in the onsite locations.
+INFY_Q2_october_21_387 | Roy: So, this also helps in the pyramid.
+INFY_Q2_october_21_388 | Roy: And as you know, 75% of our people cost is onsite.
+INFY_Q2_october_21_389 | Roy: So, unless we really address onsite costs, you cannot really make an impact on the overall cost structure.
+INFY_Q2_october_21_390 | Roy: So, all this is going on.
+INFY_Q2_october_21_391 | Roy: We are also looking at pricing much more holistically at this time, although it is not easy to go and get price hikes just on the basis of a rate card.
+INFY_Q2_october_21_392 | Roy: But basically, we are working with our sales force on how to sell on value, how to sell on more innovative commercial constructs and the idea is not to leave those cents and pennies on the table in this market, be a bit bolder in terms of pricing.
+INFY_Q2_october_21_393 | Roy: But this is a long haul, if there is any time to start something on this, it is now.
+INFY_Q2_october_21_394 | Rateria: Gaurav Rateria My second question is to Salil with respect to visibility.
+INFY_Q2_october_21_395 | Rateria: As we enter calendar 2022, is it fair to say that when we entered calendar 2021, the visibility was higher than usual, given the large amount of the new deals already in the bag, which may not necessarily be the case as we get into the calendar 2022?
+INFY_Q2_october_21_396 | Rateria: So, is it fair to say that the visibility will be relatively lower than calendar 2021, which was at a high and elevated level?
+INFY_Q2_october_21_397 | Rateria: Thank you.
+INFY_Q2_october_21_398 | Parekh: Salil Parekh I think the way we see our business; we look at it from the financial year perspective.
+INFY_Q2_october_21_399 | Parekh: When we started this financial year, you will recall the COVID situation was in all the geographies and while we had a healthy pipeline because of the digital work, that was always something of an overhang that was there.
+INFY_Q2_october_21_400 | Parekh: Then you have seen that from our initial guidance, we increased the guidance last quarter.
+INFY_Q2_october_21_401 | Parekh: We have now further increased the guidance this quarter.
+INFY_Q2_october_21_402 | Parekh: So, we have extremely good visibility for this financial year with the guidance we have given.
+INFY_Q2_october_21_403 | Parekh: As we finish Q3 and start to get into Q4, we will start to have a good idea of what the following financial year will look like.
+INFY_Q2_october_21_404 | Parekh: My own sense is the demand that we have is quite comprehensive and that will certainly continue to help us as long as we build out the new capabilities well and be part of the clients’ digital and cloud journey.
+INFY_Q2_october_21_405 | Parekh: So, the increase in guidance gives us more confidence now for this financial year.
+INFY_Q2_october_21_406 | Parekh: Salil Parekh Thank you, everyone.
+INFY_Q2_october_21_407 | Parekh: So, I will just spend a couple of minutes in closing.
+INFY_Q2_october_21_408 | Parekh: First, we have had the best quarter in terms of growth, 19.4% highest that we have had in 11 years.
+INFY_Q2_october_21_409 | Parekh: So, we are extremely delighted with that outcome.
+INFY_Q2_october_21_410 | Parekh: The demand is strong.
+INFY_Q2_october_21_411 | Parekh: There are multiple components of demand.
+INFY_Q2_october_21_412 | Parekh: One is large deals, which is still looking good with the pipeline we have, including the $2 bn that we have secured in this quarter.
+INFY_Q2_october_21_413 | Parekh: There is a huge amount of existing client base that we have, where we see incredible demand.
+INFY_Q2_october_21_414 | Parekh: This does not always come into the large deals bucket.
+INFY_Q2_october_21_415 | Parekh: It will be in different sizes, some are large, and some are not.
+INFY_Q2_october_21_416 | Parekh: But a client that I talked to last week in a meeting with the CIO, we were looking at multiple thousand people expansion at a client where we already have an account base of over a $100 mn today.
+INFY_Q2_october_21_417 | Parekh: Then we see the capability set and the demand in digital and cloud.
+INFY_Q2_october_21_418 | Parekh: Clients are extremely thrilled with our capabilities and we see good traction in that.
+INFY_Q2_october_21_419 | Parekh: Second, the operating efficiency is strong.
+INFY_Q2_october_21_420 | Parekh: The margin resilience that we talked about; we have done really well there.
+INFY_Q2_october_21_421 | Parekh: Of course, as Nilanjan mentioned, we do see some additional cost that will come; and we are comfortable with our margin guidance that we have given.
+INFY_Q2_october_21_422 | Parekh: Third, we talked a lot, Pravin gave a lot of detail – we are expanding our supply capacity that we are taking in and that is the medium-term play that we have because the demand is long term; and we will make sure the supply – with our incredible brand and training will continue.
+INFY_Q2_october_21_423 | Parekh: Fourth, we have increased our guidance.
+INFY_Q2_october_21_424 | Parekh: So, we are extremely optimistic and bullish with 16.5% to 17.5% on growth and overall, I personally remain positive about the future in our tech services business growing at 18% today.

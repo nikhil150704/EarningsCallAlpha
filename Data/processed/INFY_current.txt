@@ -1,0 +1,400 @@
+INFY_Q4_April_22_1 | Mahindroo: Sandeep Mahindroo Hello, everyone, and welcome to the earnings call to discuss Q4 FY2022 earnings release.
+INFY_Q4_April_22_2 | Mahindroo: I am Sandeep from the Investor Relations team in Bangalore.
+INFY_Q4_April_22_3 | Mahindroo: Joining us today on this earnings call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy; along with other members of the senior management team.
+INFY_Q4_April_22_4 | Mahindroo: We will start the call with some remarks on the performance of the company by Salil and Nilanjan.
+INFY_Q4_April_22_5 | Mahindroo: Subsequent to which we will open the call for questions.
+INFY_Q4_April_22_6 | Mahindroo: Please note that anything that we say, which refers to our outlook for the future is a forward-looking statement, which must be read in conjunction with the risk that the company faces.
+INFY_Q4_April_22_7 | Mahindroo: A full statement and explanation of these risks is available in our filings with the SEC, which can be found on www.sec.gov.
+INFY_Q4_April_22_8 | Mahindroo: I would now like to turn it over to Salil.
+INFY_Q4_April_22_9 | Parekh: Salil Parekh Thanks, Sandeep.
+INFY_Q4_April_22_10 | Parekh: Good morning, good afternoon, and good evening to everyone joining on the call.
+INFY_Q4_April_22_11 | Parekh: Thank you for taking the time to join us today.
+INFY_Q4_April_22_12 | Parekh: We have had an exceptional year with an annual growth of 19.7% in constant currency terms, which is the fastest growth we have seen in 11 years.
+INFY_Q4_April_22_13 | Parekh: We are gaining market share.
+INFY_Q4_April_22_14 | Parekh: We are building on our leadership in cloud and digital, and we are a part of more and more programs that our clients are looking at in digital transformation.
+INFY_Q4_April_22_15 | Parekh: Growth was broad-based across business segments, service lines and geographies.
+INFY_Q4_April_22_16 | Parekh: Each of our business segments grew in double digits.
+INFY_Q4_April_22_17 | Parekh: The top 3 grew in high teens, U.S. and Europe grew over 20%.
+INFY_Q4_April_22_18 | Parekh: The North America region crossed $10 bn in revenue, while Financial Services crossed $5 bn revenue milestones.
+INFY_Q4_April_22_19 | Parekh: Our digital revenues now account for 59.2% and grew at 41.2% for the year.
+INFY_Q4_April_22_20 | Parekh: Our digital revenues crossed $10 bn annualized on a run-rate basis.
+INFY_Q4_April_22_21 | Parekh: Within digital, our cloud work is growing faster, and our Cobalt Cloud capabilities have seen significant traction with our clients.
+INFY_Q4_April_22_22 | Parekh: Our growth has been accompanied by robust operating margins of 23.0%.
+INFY_Q4_April_22_23 | Parekh: We delivered these margins while maintaining focus on our employees with increased compensation and benefits.
+INFY_Q4_April_22_24 | Parekh: Our large deal wins were at $9.5 bn for the full year and were $2.3 bn for Q4.
+INFY_Q4_April_22_25 | Parekh: Our net new percentage was 40% for the year and 48% for Q4, helping us set up a strong growth foundation for financial year 2023.
+INFY_Q4_April_22_26 | Parekh: Our Q4 revenue growth was 20.6% YoY and 1.2% QoQ in constant currency terms.
+INFY_Q4_April_22_27 | Parekh: Our industry-leading performance in FY2022 would not have been possible without the relentless commitment from our employees.
+INFY_Q4_April_22_28 | Parekh: I am extremely proud as well as grateful for the extraordinary efforts in delivering success for our clients.
+INFY_Q4_April_22_29 | Parekh: Our last 12 months' attrition increased to 27.7%.
+INFY_Q4_April_22_30 | Parekh: Our quarterly annualized attrition declined by approximately 5 percentage points on a sequential basis.
+INFY_Q4_April_22_31 | Parekh: We recruited 85,000 college graduates in this financial year.
+INFY_Q4_April_22_32 | Parekh: In the fourth quarter, we had a net addition of 22,000 employees.
+INFY_Q4_April_22_33 | Parekh: We have an overall strong recruitment program.
+INFY_Q4_April_22_34 | Parekh: This is a reflection of our enhanced recruitment capabilities, solid brand and deep penetration into various talent markets.
+INFY_Q4_April_22_35 | Parekh: This increases our comfort to support clients in their digital transformation agenda as we look ahead.
+INFY_Q4_April_22_36 | Parekh: We have initiated our compensation review exercise for this financial year.
+INFY_Q4_April_22_37 | Parekh: We have planned this exercise so that we can focus on employee segments that need greater attention while also covering a broader group with regular increases.
+INFY_Q4_April_22_38 | Parekh: As in the past, we will look at individual performance, skills and market benchmarks while determining individual compensation increases.
+INFY_Q4_April_22_39 | Parekh: We will focus on accelerated career growth, targeted development and opportunity to work on cutting-edge digital innovation globally.
+INFY_Q4_April_22_40 | Parekh: Our strategy launched 4 years ago has served us well.
+INFY_Q4_April_22_41 | Parekh: We have delivered industry- leading growth and industry-leading TSR.
+INFY_Q4_April_22_42 | Parekh: Looking ahead to the next phase to further enhance our leadership on the digital innovation curve, we plan to expand our capabilities in scaling our cloud business, expanding digital capability, expanding on our automation work and increasing relevance with our large clients and tech natives and also strengthen our employee value proposition.
+INFY_Q4_April_22_43 | Parekh: Our focus on staying ahead in the cloud and digital ecosystem, the focus on our employees and the costs give us strong confidence for the future.
+INFY_Q4_April_22_44 | Parekh: Our sustained momentum in FY2022, large deal wins, robust deal pipeline and client confidence give us comfort to guide for 13% to 15% growth in FY2023 in constant currency.
+INFY_Q4_April_22_45 | Parekh: As we look ahead – as we build our new strategy, that is looking at cloud and the digital ecosystem, our focus on employees and the costs related to the post-COVID work environment, result in our operating margin guidance to be at 21% to 23% for FY2023.
+INFY_Q4_April_22_46 | Parekh: In terms of our business segment performance, let me go through the highlights by segment.
+INFY_Q4_April_22_47 | Parekh: Financial Services segment grew at 14.1% in constant currency, with 8 large deal wins during the quarter and 27 large deal wins in FY2022.
+INFY_Q4_April_22_48 | Parekh: Our US business continues to lead the growth as we work on large transformation programs.
+INFY_Q4_April_22_49 | Parekh: Our overall large deal pipeline in Financial Services is healthy across the regions.
+INFY_Q4_April_22_50 | Parekh: Retail segment growth was at 16.5% in constant currency.
+INFY_Q4_April_22_51 | Parekh: As clients focus on digital and cost takeout programs.
+INFY_Q4_April_22_52 | Parekh: We are seeing integrated outsourcing deals and transformation programs in the areas of e-commerce, revenue growth management, supply chain, product life cycle management.
+INFY_Q4_April_22_53 | Parekh: We won 16 large deals from the segment in the last year and continue to have a healthy deal pipeline.
+INFY_Q4_April_22_54 | Parekh: The Communications vertical grew strongly at 29.2% in constant currency.
+INFY_Q4_April_22_55 | Parekh: We see customer experience, IT and network simplification, lean and automated zero-touch operations, time to market and integrated data for digital enterprise as the key themes for clients in this segment.
+INFY_Q4_April_22_56 | Parekh: Energy, Utilities, Resources and Services segment growth increased further to 17.8% in constant currency.
+INFY_Q4_April_22_57 | Parekh: We see continued and increased emphasis on digital transformation, especially around customer experience, operational efficiency and associated legacy transformation.
+INFY_Q4_April_22_58 | Parekh: We won 4 large deals in the last quarter and 18 large deals in FY2022 from this segment.
+INFY_Q4_April_22_59 | Parekh: Growth in Manufacturing segment increased to over 50% in constant currency.
+INFY_Q4_April_22_60 | Parekh: There were 6 large deal wins in this segment in the last quarter and 13 wins for the last year.
+INFY_Q4_April_22_61 | Parekh: We are helping clients across engineering, IoT, supply chain, cloud ERP and digital transformation areas.
+INFY_Q4_April_22_62 | Parekh: Hi-Tech growth accelerated further to 20.9% in constant currency.
+INFY_Q4_April_22_63 | Parekh: We have seen an increase in deals based on edge computing, digital marketing and commerce.
+INFY_Q4_April_22_64 | Parekh: Cybersecurity is another area of focus for clients due to increased threat perception.
+INFY_Q4_April_22_65 | Parekh: Life Sciences vertical grew by 16.2% in constant currency.
+INFY_Q4_April_22_66 | Parekh: Clients are driving digital transformation of clinical trials to reduce cycle times through direct data capture, digital patient engagement to accelerate drug discovery, and reducing costs.
+INFY_Q4_April_22_67 | Parekh: In the last quarter, we were rated as a leader in 11 ratings in the areas of cloud services, big data and analytics, IoT and engineering, modernization and artificial intelligence.
+INFY_Q4_April_22_68 | Parekh: We announced the acquisition of oddity, a Germany-based digital marketing and experience and e-commerce agency.
+INFY_Q4_April_22_69 | Parekh: Together with Wongdoody, this will further strengthen our creative branding and experience design capabilities.
+INFY_Q4_April_22_70 | Parekh: With respect to capital allocation, the Board has proposed a final dividend of Rs.16 per share, taking the total dividend for financial year 2022 to Rs.31 per share, an increase of 14.8% over the past year.
+INFY_Q4_April_22_71 | Parekh: I want to express Infosys' support for all the people impacted by the humanitarian crisis in Europe.
+INFY_Q4_April_22_72 | Parekh: The company advocates for peace between Russia and Ukraine.
+INFY_Q4_April_22_73 | Parekh: While Infosys does not have any active relationships with local Russian enterprises.
+INFY_Q4_April_22_74 | Parekh: We have a small team of less than 100 employees based in Russia, which service a few of our global clients.
+INFY_Q4_April_22_75 | Parekh: In light of the prevailing situation, we made a decision to transition these services from Russia to our other global delivery centers.
+INFY_Q4_April_22_76 | Parekh: To support this humanitarian assistance initiatives in the region, Infosys has committed $1 million towards Ukrainian relief efforts and is launching a program to digitally reskill up to 25,000 individuals.
+INFY_Q4_April_22_77 | Parekh: With that, let me hand it over to Nilanjan for his update.
+INFY_Q4_April_22_78 | Roy: Nilanjan Roy We navigated yet another year of a challenging environment with strong growth of 19.7% in constant currency, which is highest in a decade.
+INFY_Q4_April_22_79 | Roy: The incremental revenue added this year was higher than the incremental revenue added in the previous 3 years together.
+INFY_Q4_April_22_80 | Roy: This was backed by broad-based growth across segments and robust growth in our digital portfolio at 41.2% in constant currency.
+INFY_Q4_April_22_81 | Roy: Operating margin for the fiscal stood at 23.0%, which was at the midpoint of our guidance band of 22% to 24%.
+INFY_Q4_April_22_82 | Roy: In the backdrop of various supply side pressures, we rolled out various measures to reduce attrition – higher compensation increases, higher promotions, skill-based interventions, etc.
+INFY_Q4_April_22_83 | Roy: in addition to higher subcons.
+INFY_Q4_April_22_84 | Roy: Free cash flows for FY2022 crossed $3 bn.
+INFY_Q4_April_22_85 | Roy: DSO reduced by 4 days to 67 days.
+INFY_Q4_April_22_86 | Roy: Capex increased marginally to $290 million on the back of continued focus on optimizing the infra creation-related spend.
+INFY_Q4_April_22_87 | Roy: Consequently, FCF conversion as a percentage of net profit was 103% for FY2022.
+INFY_Q4_April_22_88 | Roy: FY2022 EPS grew by 14.3% in dollar terms and 15.2% in INR terms.
+INFY_Q4_April_22_89 | Roy: Return on equity at 29.1% improved by 1.7% over the prior year.
+INFY_Q4_April_22_90 | Roy: Coming to Q4 performance - Revenues grew by 20.6% YoY in constant currency and 1.2% sequentially.
+INFY_Q4_April_22_91 | Roy: Growth was broad-based across verticals and geos and was in double digits.
+INFY_Q4_April_22_92 | Roy: Although volume growth remained healthy in Q4, revenue growth in Q4 was impacted by usual seasonality, COVID impact during the early part of the quarter and the client related contractual provision, which we expect to recover in the future.
+INFY_Q4_April_22_93 | Roy: This also impacted Q4 margins.
+INFY_Q4_April_22_94 | Roy: Mining of large clients was extremely strong in FY2022.
+INFY_Q4_April_22_95 | Roy: $100 mn client count increased to 38 compared to 32 in FY2021.
+INFY_Q4_April_22_96 | Roy: We had 12 clients giving $200 mn annual revenues compared to 7 in FY2021.
+INFY_Q4_April_22_97 | Roy: We have added ~22,000 net employees, including trainees during the quarter, the highest ever in the company's history, as we made headroom to capture the robust demand environment ahead.
+INFY_Q4_April_22_98 | Roy: Consequently, utilization in Q4 declined to 87.0% while on-site effort mix inched up to 24.0%.
+INFY_Q4_April_22_99 | Roy: Voluntary LTM attrition increased to 27.7%.
+INFY_Q4_April_22_100 | Roy: While LTM attrition continues to increase due to the tail effect, quarterly annualized attrition saw a decline of approximately 5% after flattening in the previous quarter.
+INFY_Q4_April_22_101 | Roy: Q4 margins stood at 21.5%, a drop of 200 basis points versus previous quarter.
+INFY_Q4_April_22_102 | Roy: The major components of the sequential margin movement were as follows: - 1.6% impact due to lower calendar working days, client contractual provision as explained above and other pricing puts and takes, - 0.6% impact due to lower utilization as we create capacity for the future, - 1% due to higher visa costs, third-party costs and other one-offs, which we benefited in Q3, and these were offset by - approximately 1.1% benefit due to salary-related benefits, including lower working days, leave costs and others.
+INFY_Q4_April_22_103 | Roy: Q4 EPS grew by 9.2% in dollar terms and 13.4% in rupee terms on a YoY basis.
+INFY_Q4_April_22_104 | Roy: Our balance sheet remained strong and debt-free.
+INFY_Q4_April_22_105 | Roy: Consolidated cash and equivalents increased further to $4.9 bn at the end of the quarter.
+INFY_Q4_April_22_106 | Roy: Free cash flow for the quarter was healthy at $761 million, and yield on cash balance remained stable at 5.29% in Q4.
+INFY_Q4_April_22_107 | Roy: In line with our capital allocation policy, the Board has recommended a final dividend of Rs.16 per share, which will result in a total dividend of Rs.31 per share for FY2022 versus Rs.27 per share for FY2021, an increase of 14.8% per share for the year.
+INFY_Q4_April_22_108 | Roy: Including the final dividend and recently concluded buyback over the last 3 years, we have returned 73% of FCF to shareholders under our current capital allocation policy.
+INFY_Q4_April_22_109 | Roy: Our accelerated investments in the last few years in strengthening our digital footprint, enhancing large deal capabilities, localization, talent building has enabled us to gain consistent market share.
+INFY_Q4_April_22_110 | Roy: With the acceleration of digital disruptions across industries, we see further scope to engage more closely with clients and capitalize on the expanding market opportunities.
+INFY_Q4_April_22_111 | Roy: We have identified areas of investments, including doubling down our focus on digital portfolio, scaling our cloud offerings and further enhancing our capabilities in emerging technologies.
+INFY_Q4_April_22_112 | Roy: We also remain committed to offer a compelling value proposition to employees through reskilling, incentivization and a holistic career growth.
+INFY_Q4_April_22_113 | Roy: We plan to neutralize the impact of some of these through aggressive cost optimization and value-led pricing driven by service and brand differentiation.
+INFY_Q4_April_22_114 | Roy: This, along with post-pandemic normalization of some expenses, like travel, facilities, etc, is reflected in the revised margin guidance for FY2023 of 21% to 23%.
+INFY_Q4_April_22_115 | Roy: With the pandemic hopefully behind us, we hope to see many of you in person over the next few months.
+INFY_Q4_April_22_116 | Roy: With that, we can open the call up for questions.
+INFY_Q4_April_22_117 | Rudra: Ankur Rudra The first question is on the revenue guidance.
+INFY_Q4_April_22_118 | Rudra: Last year at this time Salil, the revenue guidance was a bit low at the beginning of FY2022 and at that time I would say at least the order book was a lot stronger, you had a mega deal in the order book and perhaps a stronger exit rate.
+INFY_Q4_April_22_119 | Rudra: So curious to know, what gives the confidence of giving a slightly higher guidance at the beginning of this year, given, may be a more volatile macro situation.
+INFY_Q4_April_22_120 | Parekh: Salil Parekh Hi Ankur thanks for your question.
+INFY_Q4_April_22_121 | Parekh: What we see today is the demand environment from our client base is strong.
+INFY_Q4_April_22_122 | Parekh: We have for the year $9.5 bn in large deals, 40% net new, for the quarter $2.3 bn, 48% net new and a strong expansion in dimensions relating to new client work and relating to actual expansion across different strata.
+INFY_Q4_April_22_123 | Parekh: Given all those factors, we came to view that we could see growth in the range of 13% to 15% for this financial year.
+INFY_Q4_April_22_124 | Rudra: Ankur Rudra Understood this, does this bake in any kind of reversal that you alluded to from the client situation in fourth quarter?
+INFY_Q4_April_22_125 | Parekh: Salil Parekh The client situation of the fourth quarter will reverse over some period.
+INFY_Q4_April_22_126 | Parekh: We have not specified that.
+INFY_Q4_April_22_127 | Parekh: That reversal in any case is not such that will make a huge impact in the full year.
+INFY_Q4_April_22_128 | Parekh: We see this coming really from the strong demand that we are seeing within the market from what we are seeing in the existing base of business that we have, the expansion within clients that we are seeing and some of the new client acquisitions that we are witnessing.
+INFY_Q4_April_22_129 | Parekh: So, putting all those factors we came to this view.
+INFY_Q4_April_22_130 | Rudra: Ankur Rudra Thank you, appreciate this.
+INFY_Q4_April_22_131 | Rudra: The follow up question is on margin.
+INFY_Q4_April_22_132 | Rudra: Maybe to start with could you elaborate the third-party cost which went up sharply this quarter and last quarter.
+INFY_Q4_April_22_133 | Rudra: Is this the sticky new level given the nature of deals you are signing?
+INFY_Q4_April_22_134 | Rudra: And as a connected question could you elaborate the cost that has been baked into to the 2023 guidance on margins including the wage inflation levels, the extent of the pace of the reversal or normalization of the cost base.
+INFY_Q4_April_22_135 | Roy: Nilanjan Roy I think many of the large deals which we get is through bundling our services with the software and the allied services and that gives us a multiplier effect in the client landscape.
+INFY_Q4_April_22_136 | Roy: And that you have seen over the last few years, so that is one of the reason also you have seen the cost increase and has helped us in the quarter and the year going forward.
+INFY_Q4_April_22_137 | Roy: On YoY perspective for FY2023 we do not call out the wage impact.
+INFY_Q4_April_22_138 | Roy: As Salil said, it will be a competitive compensation hike.
+INFY_Q4_April_22_139 | Roy: We will differentiate hike in talent and in some places, it will be more broad-based and of course around that we have a lot of cost optimization which we usually do.
+INFY_Q4_April_22_140 | Roy: Some of them in the year past were tailwinds; for instance the onsite offshore mix.
+INFY_Q4_April_22_141 | Roy: But subcon became a headwind for us last year and some of these in a way will start going the other way in the following year.
+INFY_Q4_April_22_142 | Roy: Of course, the wage hikes will hit us early on the year as well in quarter one itself, so that will be initial headwind, but we have seen the overall impact of our cost optimization.
+INFY_Q4_April_22_143 | Roy: On pricing, we have started discussions as Salil mentioned earlier with our clients.
+INFY_Q4_April_22_144 | Roy: Of course, this is a much longer haul, it happens more on T&M, renewals etc.
+INFY_Q4_April_22_145 | Roy: But for FP side of the business these are much more longer-term discussions.
+INFY_Q4_April_22_146 | Roy: And these are also competitively bid but I think the discussions have started.
+INFY_Q4_April_22_147 | Roy: All of our sales people are actively engaged in this and looking at the overall demand and the supply front on this and we have started making head way on this.
+INFY_Q4_April_22_148 | Rudra: Ankur Rudra Thank you and best of luck.
+INFY_Q4_April_22_149 | Katri: Moshe Katri Thanks for taking my questions.
+INFY_Q4_April_22_150 | Katri: It would be great if you can give us some more clarity and the client specific contractual position that you mentioned is getting lot of questions from the investors.
+INFY_Q4_April_22_151 | Katri: How does that impact the revenue numbers for the quarter.
+INFY_Q4_April_22_152 | Katri: Is there a margin impact as well?
+INFY_Q4_April_22_153 | Katri: I think any clarity is going to be really helpful.
+INFY_Q4_April_22_154 | Katri: And this is a followup looking at the margin guidance for FY2023, I would see you have brought down by a 100 basis point.
+INFY_Q4_April_22_155 | Katri: Are we assuming they picked up from the wage inflation here and then are we also assuming lower pricing power which is something that actually did help in terms of levers hardly for the past 6 to 12 months.
+INFY_Q4_April_22_156 | Katri: Thanks a lot.
+INFY_Q4_April_22_157 | Roy: Nilanjan Roy Moshe we heard the first question on the client contractual provision.
+INFY_Q4_April_22_158 | Roy: Just to clarify this the numbers are very small.
+INFY_Q4_April_22_159 | Roy: These are less than a percentage, so it is not a big impact overall as people are making it out.
+INFY_Q4_April_22_160 | Roy: So we just want to close that out.
+INFY_Q4_April_22_161 | Roy: It is not a big impact but less than 1%.
+INFY_Q4_April_22_162 | Roy: But since you are looking at revenue growth sequentially, I just wanted to call it out.
+INFY_Q4_April_22_163 | Roy: ?
+INFY_Q4_April_22_164 | Katri: Moshe Katri The second question is to do with your margin guidance for FY23, does this actually factor an acceleration in wage inflation in FY2023 and maybe a lower pricing power also kind of not factored into those numbers?
+INFY_Q4_April_22_165 | Roy: Nilanjan Roy Okay Moshe , I could make out something you said about of wage inflation as well.
+INFY_Q4_April_22_166 | Roy: So yes, in Q1, we will do a compensation hike as well both offshore and onsite and like I said it will be competitive.
+INFY_Q4_April_22_167 | Roy: We will benchmark this, differentiate on talent side as well.
+INFY_Q4_April_22_168 | Roy: And that is something we have seen over the last year has helped us, especially towards people with the higher skills set, so that is working for us.
+INFY_Q4_April_22_169 | Roy: The overall margin guidance reflects a number of events.
+INFY_Q4_April_22_170 | Roy: We talked about some of the normalization of the pandemic benefits we have got on travel and facility, and some of that we are seeing is going to come back.
+INFY_Q4_April_22_171 | Roy: And secondly, we are seeing some of the headwinds in terms of onsite-offshore which we think we have got a large benefit last year.
+INFY_Q4_April_22_172 | Roy: So, we have to see how this opens up in the rest of the year.
+INFY_Q4_April_22_173 | Roy: On the other hand, with our recruitment engine really kicking up now, we have seen subcon cost has actually plateaued during this quarter and we think for the rest of the year we should be able to pull back cost on subcon line.
+INFY_Q4_April_22_174 | Roy: Automation remains very core to us – cost optimization every year.
+INFY_Q4_April_22_175 | Roy: We are speaking of automating between 3000 to 4000 people and putting in BOTS and this I am talking about for the quarter, So, we have comprehensive plans and we have talked about pricing as well.
+INFY_Q4_April_22_176 | Roy: 21% to 23% is a reasonable margin band we think we are comfortable to operate in for the next year.
+INFY_Q4_April_22_177 | Roy: If you recall even pre pandemic in a way, we were in at 21% to 23% as we ended FY2020 which was the year before pandemic at 21.3% if I am not mistaken.
+INFY_Q4_April_22_178 | Roy: So, we are at 21% to 23% and it is a comfortable range we are happy to be in.
+INFY_Q4_April_22_179 | Padmanabhan: Nitin Padmanabhan Hi good evening just two questions from my side.
+INFY_Q4_April_22_180 | Padmanabhan: The first one was on the guidance.
+INFY_Q4_April_22_181 | Padmanabhan: So, if I understand right, typically you have a high visibility for the next two quarters and if I look at the last year net new deal wins, it is actually lower than the prior year.
+INFY_Q4_April_22_182 | Padmanabhan: So I was just wondering is the mix of much smaller deals which do not reflect within the overall large deal win number that you are talking about, is that a much higher number, is that we should think about it?
+INFY_Q4_April_22_183 | Padmanabhan: Second is the pipeline of larger deals that could come through that is giving the confidence or is it the smaller deals?
+INFY_Q4_April_22_184 | Padmanabhan: so that was the first question.
+INFY_Q4_April_22_185 | Parekh: Salil Parekh Thanks for the question.
+INFY_Q4_April_22_186 | Parekh: We are not specifying today the different types of deals within the mix.
+INFY_Q4_April_22_187 | Parekh: Few points to give some color on it.
+INFY_Q4_April_22_188 | Parekh: First the pipeline that we see today is the largest pipeline we have in terms of large deals so that gives us a good confidence.
+INFY_Q4_April_22_189 | Parekh: Our net new for the year is strong.
+INFY_Q4_April_22_190 | Parekh: We have good momentum exiting this financial year 2022, which gives us a good foundation for next year and we see continued traction within clients, as we are expanding as we are consolidating, as we are gaining market share, so that gives us added boost.
+INFY_Q4_April_22_191 | Parekh: Hopefully that gives you a little bit of color on that.
+INFY_Q4_April_22_192 | Padmanabhan: Nitin Padmanabhan Sure.
+INFY_Q4_April_22_193 | Padmanabhan: The second question was in terms of how are you seeing onsite wage inflation broadly?
+INFY_Q4_April_22_194 | Padmanabhan: When you compare the prior year, do you see that at a much higher level for the industry in the US, just wanted your thoughts on that.
+INFY_Q4_April_22_195 | Padmanabhan: And finally, any specifics on the financial services space which is relatively softer and for life sciences where we actually saw a sharp drop for the quarter?
+INFY_Q4_April_22_196 | Parekh: Salil Parekh On the wage inflation, outside India is definitely higher than what we were seeing last year and that will become a part of how we factor in our overall compensation increase.
+INFY_Q4_April_22_197 | Parekh: Wage inflation numbers in most of the western geographies are higher today than they were 12 months ago.
+INFY_Q4_April_22_198 | Parekh: On financial services while in the quarter we saw the QoQ was lower, the overall demand environment remains very strong for us in this segment.
+INFY_Q4_April_22_199 | Parekh: We see a good pipeline there.
+INFY_Q4_April_22_200 | Parekh: There were significant large deal wins for the year and in the quarter and we remain confident with the growth in financial services.
+INFY_Q4_April_22_201 | Parekh: In life sciences conversely, we had in the previous quarter several onetime large deals and that is what made the QoQ look softer.
+INFY_Q4_April_22_202 | Parekh: It is a smaller unit for us.
+INFY_Q4_April_22_203 | Parekh: So, there is much more volatility in that, but the underlying demand in life sciences looks to be in good shape.
+INFY_Q4_April_22_204 | Bachman: Keith Bachman I want to ask a question about what are your assumptions on attrition and utilization, how should we be thinking about those terms over FY2023 and specifically if you could correlate what is the impact in terms of your margin guidance that you provided here today of 21% to 23%?
+INFY_Q4_April_22_205 | Roy: Nilanjan Roy I think firstly on the utilization we are still at the higher end at 87%.
+INFY_Q4_April_22_206 | Roy: We want to bring this down.
+INFY_Q4_April_22_207 | Roy: Now having said that, a lot of this will happen through the influx of freshers.
+INFY_Q4_April_22_208 | Roy: So it is not a dollar for a dollar in that sense.
+INFY_Q4_April_22_209 | Roy: The utilization will start impacting by putting in more freshers who are at a lower cost, but will still have a margin headwind.
+INFY_Q4_April_22_210 | Roy: But if you looking for a math behind it there is no straight correlation because it is not one for one in that sense.
+INFY_Q4_April_22_211 | Roy: So that is first.
+INFY_Q4_April_22_212 | Roy: On attrition, yes, we think that this should come down in the following year.
+INFY_Q4_April_22_213 | Roy: The impact that we are seeing now – the impact of putting freshers in – not only by us, but by the entire industry because it was a rotational churn issue across the industry.
+INFY_Q4_April_22_214 | Roy: As the industry puts in freshers, there is a new source of supply across the industry as well.
+INFY_Q4_April_22_215 | Roy: And finally the intervention which we are doing now as well.
+INFY_Q4_April_22_216 | Roy: So, that is all factored into our 21% to 23%.
+INFY_Q4_April_22_217 | Roy: We are also looking at investments, like Salil said, around cloud, around digital capabilities; and therefore that is also baked into the next year’s guidance.
+INFY_Q4_April_22_218 | Bachman: Keith Bachman Okay just to clarify and then I will see the floor, does the attrition come down for the industry or Infosys or both.
+INFY_Q4_April_22_219 | Roy: Nilanjan Roy It will be both, I do not think we are in a silo on the ecosystem, we are all interconnected.
+INFY_Q4_April_22_220 | Roy: My attrition is somebody else lateral and somebody else’s attrition is my lateral and therefore if the industry has to come out of this it is fundamentally through volume.
+INFY_Q4_April_22_221 | Roy: Volume has to be through fresher, there is no other source of volume.
+INFY_Q4_April_22_222 | Roy: Therefore, as we start pumping in more freshers send them for training put them into the bench and then get them into production.
+INFY_Q4_April_22_223 | Roy: I think that cycle takes time, and you are already seeing the benefits of this – not only with us but also seeing that with the industry as well.
+INFY_Q4_April_22_224 | Guntupalli: Sudheer Guntupalli Good evening gentlemen.
+INFY_Q4_April_22_225 | Guntupalli: Thanks for giving me the opportunity.
+INFY_Q4_April_22_226 | Guntupalli: Nilanjan as you made a comment that pre-pandemic we were at 21.3% margin and our current margin guidance band is also somewhere around that.
+INFY_Q4_April_22_227 | Guntupalli: So should we read this margin downgrade as more of a structural reset in the company’s aspirational profitability going back to pre-COVID margin levels or should we see this more of a onetime downgrade for FY2023 led by transient supply side pressures.
+INFY_Q4_April_22_228 | Roy: Nilanjan Roy Yes, so as you know, we only give the margin guidance for the year – 21% to 23% and FY2020 operating margin was 21.3%.
+INFY_Q4_April_22_229 | Roy: We will see where we end up, but the comfortable range for FY2023 is 21% to 23% - nothing more than that.
+INFY_Q4_April_22_230 | Roy: Just talking about the investments we are going to make- not only on talent.
+INFY_Q4_April_22_231 | Roy: This is a robust demand environment and we do not want to lose highly skilled talents.
+INFY_Q4_April_22_232 | Roy: So, we are rolling out interventions there.
+INFY_Q4_April_22_233 | Roy: We are rolling out intervention on the sales side, on the marketing side, on the digital, cloud.
+INFY_Q4_April_22_234 | Roy: So, we have multiple interventions and we have seen the success of that over the last 4 years and this is also in front of you.
+INFY_Q4_April_22_235 | Roy: That is something which we have looked at and baked into the margin for next year.
+INFY_Q4_April_22_236 | Guntupalli: Sudheer Guntupalli Sure Sir.
+INFY_Q4_April_22_237 | Guntupalli: An extension of this question, the current exit margin rate in March 2022 and margin downgrade for FY2023 it gives a bit of a deja vu feeling of the exit margin and guidance situation exactly 3 years ago in March 2019.
+INFY_Q4_April_22_238 | Guntupalli: In fact, we were not staring at so many margin headwinds like we are now barring a bit of an elevated attrition at that time.
+INFY_Q4_April_22_239 | Guntupalli: So my question is, is it fair to assume that for the next four quarters margin trajectory will trace somewhat of a similar path like getting FY2020 where the current delta in growth will likely take care of the delta in margin headwinds or do you see any major divergences in terms of how the pattern will play out over the next four quarters.
+INFY_Q4_April_22_240 | Roy: Nilanjan Roy So, yes like I said on the margin side we know there is going to be a Q1 impact.
+INFY_Q4_April_22_241 | Roy: We know there are more longer-term cost optimizations we can resort to.
+INFY_Q4_April_22_242 | Roy: So, I think it will be multiple impact of all this.
+INFY_Q4_April_22_243 | Roy: And of course, growth will always help.
+INFY_Q4_April_22_244 | Roy: And you've seen that the impact of growth on our operating leverage also has helped in the past.
+INFY_Q4_April_22_245 | Roy: So, it's a combination of all this.
+INFY_Q4_April_22_246 | Nagarajan: Divya Nagarajan Thanks for taking my question and congrats on what has been a great year overall.
+INFY_Q4_April_22_247 | Nagarajan: Looking forward I think this question has been attempted in different ways by some of the earlier questions that came through, but if you were to kind of think about your guidance on revenue for the full year and think about what are the puts and takes in terms of any delta that you might see on demand, how comfortable do you feel that you have a cushion?
+INFY_Q4_April_22_248 | Nagarajan: If I also look at your past track record, you have taken up guidance pretty much every year consistently multiple times during the year.
+INFY_Q4_April_22_249 | Nagarajan: Is there enough buffer on both sides of the equation is my first question.
+INFY_Q4_April_22_250 | Parekh: Salil Parekh The way we looked at our growth guidance, we really try to take a look at where is the demand today, what we have done with large deals, what we are seeing across many of our accounts.
+INFY_Q4_April_22_251 | Parekh: For example, if you see some of the statistics that we share, number of accounts over $100 mn or $50 mn- they have seen big movements over the last 12, 24, 36 months.
+INFY_Q4_April_22_252 | Parekh: So we have some view of how that will move in the coming year and then how we are working on new account acquisitions and focus on that.
+INFY_Q4_April_22_253 | Parekh: Those are the things we built in, to build the guidance and that is the approach we take every year and in April as we look ahead and then as the year moves, as we get other information we try to then see how best to communicate what we are seeing in the demand environment.
+INFY_Q4_April_22_254 | Parekh: It’s the same approach that we will follow.
+INFY_Q4_April_22_255 | Parekh: So, it is difficult for example to say what does it mean there is a cushion and not cushion because at this stage what we see is what we are sharing which is 13% to 15% on the growth and in every quarter with the broad-based connection we have with clients and interactions across the industry we will continue to share what we see with respect to the demand environment.
+INFY_Q4_April_22_256 | Nagarajan: Divya Nagarajan Got it and on the margin side I think you have spoken repeatedly about investments and the investments for future growth.
+INFY_Q4_April_22_257 | Nagarajan: If you were to split your margin you have taken your guide down roughly by a percent, could you split it into what could be the contribution of the investments and what is really the contribution of all the other metrics that you have talked about that are likely to reverse.
+INFY_Q4_April_22_258 | Roy: Nilanjan Roy Yes, so like I said, every year we have headwinds on compensation, that is the biggest one.
+INFY_Q4_April_22_259 | Roy: We have headwinds this year coming on the travel and the facility side as things open up.
+INFY_Q4_April_22_260 | Roy: And then we have the cost optimization program which has been running quite well across all these years – automation, onsite-offshore, subcon – again which is also high, and then the investments which we are going to make.
+INFY_Q4_April_22_261 | Roy: We will start the investments during the year and this will be on sales side, cloud capabilities, people incentives on higher skill sets.
+INFY_Q4_April_22_262 | Roy: So, it is a combination of all this.
+INFY_Q4_April_22_263 | Roy: We are not really calling out the separate impact and all of that has been considered into the margin structure.
+INFY_Q4_April_22_264 | Nagarajan: Divya Nagarajan Got it.
+INFY_Q4_April_22_265 | Nagarajan: My last question if I may.
+INFY_Q4_April_22_266 | Nagarajan: So should I assume that your increased visa cost that you have had, you have almost had like 1% impact in the quarter, the higher visa application is to kind of offset some of the subcontracting pressures that you have had now with travel opening up in the western market.
+INFY_Q4_April_22_267 | Roy: Nilanjan Roy Yes so as I mentioned, the impact in the margin walk was a combination of visa, third- party cost and another one off which we enjoyed in quarter three, that was altogether 1% in margin walk which I took you through.
+INFY_Q4_April_22_268 | Nagarajan: Divya Nagarajan Got it thanks I will come for follow up if there is any time and wish you all the best for the year.
+INFY_Q4_April_22_269 | Kapoor: Pankaj Kapoor Hi!
+INFY_Q4_April_22_270 | Kapoor: Thanks for the opportunity.
+INFY_Q4_April_22_271 | Kapoor: The question again is on margins and the investment that you spoke of.
+INFY_Q4_April_22_272 | Kapoor: I was just wondering are these similar to the investment that you had done in 2018-2019, so more of one time kind of an investment or these are more regular investments that anyway you would keep doing in the business.
+INFY_Q4_April_22_273 | Parekh: Salil Parekh I think the way we are looking at it is, we put in place that strategy a few years ago.
+INFY_Q4_April_22_274 | Parekh: We built out deep capability across multiple areas – that was what we did in the first sort of 6 months, a year or so.
+INFY_Q4_April_22_275 | Parekh: We are now seeing over the last 4 years a good impact of that approach.
+INFY_Q4_April_22_276 | Parekh: We see a tremendous demand environment which we see across cloud, areas of digital, automation, and some of the new digital tech companies.
+INFY_Q4_April_22_277 | Parekh: We want to take that and build the capability deeper in those areas.
+INFY_Q4_April_22_278 | Parekh: We consider that now one time approach in the next few quarters to get it mobilized.
+INFY_Q4_April_22_279 | Parekh: It is not something which is going to be a continuous new activity for us and then we want to again like we did last time a shift into building capability from the operating business itself.
+INFY_Q4_April_22_280 | Parekh: But since we see an inflection point in what we see as the opportunity set, we want to make sure we take advantage of that, keep our leading position with market share growth that we have had over the past 3-4 years and try to build on that for the coming 3 to 5 years.
+INFY_Q4_April_22_281 | Kapoor: Pankaj Kapoor Understand that, and the other question also was on your guidance on the revenue side.
+INFY_Q4_April_22_282 | Kapoor: What kind of a outlook you are building in on the macro concerns around what is happening in the Eastern Europe or even the larger macro worries around the inflation in your end markets.
+INFY_Q4_April_22_283 | Kapoor: Are you taking any impact of that, maybe in the second half of the year, or the guidance is more on an ‘as is’ basis and in case if there is any incremental deterioration in the macros that would be probably incremental to whatever the guidance that we have given.
+INFY_Q4_April_22_284 | Parekh: Salil Parekh Today what we see is the point that you mentioned are in the macro environment, but as we look at our demand environment we do not see any impact to it.
+INFY_Q4_April_22_285 | Parekh: And we do not have a clear view of how to make an estimate for Q3, Q4 at what level and so on.
+INFY_Q4_April_22_286 | Parekh: Based on that we have built the guidance today and we will evolve it as we go through.
+INFY_Q4_April_22_287 | Parekh: We feel comfortable given what we are seeing in the environment that this is the sort of growth that we will see in the range of 13% to 15%.
+INFY_Q4_April_22_288 | Parekh: We do not see really an impact of those factors in the demand environment today.
+INFY_Q4_April_22_289 | Singhal: Vibhor Singhal Salil couple of questions again on the European part.
+INFY_Q4_April_22_290 | Singhal: My first question is that as you have already mentioned that our exposure to Russia and the other geographies as of now is limited, just wanted to basically understand, as we work for a lot of multinational clients who have operations across countries and in parts of Russia and Europe as well.
+INFY_Q4_April_22_291 | Singhal: So, what are the conversations with those clients like.
+INFY_Q4_April_22_292 | Singhal: Is there a possibility of them maybe curtailing down this to some extent or is there some negativity in the conversation that is creeping in.
+INFY_Q4_April_22_293 | Singhal: Second, a more longer-term question on the same geography is that, over the last 2 to 3 years, in fact more than that last 4-5 years we have seen eastern Europe evolve as a destination for hiring for a lot of companies maybe in data analytics and many other domains.
+INFY_Q4_April_22_294 | Singhal: Do you believe that the current war situation has pushed that back by maybe a few quarters or years or do you think it is a temporary situation and once it resolves, the earlier attractiveness of eastern Europe vis-à-vis hiring for the specific domains will still come back as it was before?
+INFY_Q4_April_22_295 | Parekh: Salil Parekh So, I have understood first was is the situation in Ukraine impacting any demand in European clients if that is the question - currently our conversations and discussions with clients in Europe do not see any impact on the demand environment for us because of this situation.
+INFY_Q4_April_22_296 | Parekh: Of course as we go through the next few quarters and so on we will see how it plays out depending on the duration and so on.
+INFY_Q4_April_22_297 | Parekh: On the second one, the recruitment situation, we have centers for example in countries in Eastern Europe and we see that growing quite well for us.
+INFY_Q4_April_22_298 | Parekh: Today we have no center in Ukraine but the other areas we have been expanding in and that has developed quite well.
+INFY_Q4_April_22_299 | Parekh: We do not see an impact today – there might obviously be impact with centers in Ukraine.
+INFY_Q4_April_22_300 | Parekh: So our centers which are in other geographies in Eastern Europe, we are seeing good growth in those centers.
+INFY_Q4_April_22_301 | Singhal: Vibhor Singhal So if I were to specifically ask something like Hungary, Poland, Austria they would continue to remain attractive destinations for us to hire and do businesses there.
+INFY_Q4_April_22_302 | Parekh: Salil Parekh Poland and Romania are the locations where we have centers and we are actively recruiting and scaling up in those locations.
+INFY_Q4_April_22_303 | Singhal: Vibhor Singhal Got it, thanks for taking my questions and wish you all the best.
+INFY_Q4_April_22_304 | Menon: Ravi Menon Thank you for the opportunity.
+INFY_Q4_April_22_305 | Menon: Just want to clarify on this pass through cost, should we not think of this as like a margin tailwind whenever this pass through cost reduces because I assume that your customers have the option let us say if it is the ServiceNow software, they can procure it themselves.
+INFY_Q4_April_22_306 | Menon: So, I would assume that these are done at zero markup would that be correct?
+INFY_Q4_April_22_307 | Roy: Nilanjan Roy Yes, these are long-term contracts and I think the value proposition which we have is how we bundle services with these software.
+INFY_Q4_April_22_308 | Roy: So, it is just not a one-off sale.
+INFY_Q4_April_22_309 | Roy: I think that the proposition with us, is that we can integrate this into the cloud into the vertical stacks etc.
+INFY_Q4_April_22_310 | Roy: and bundle that with the services which we have.
+INFY_Q4_April_22_311 | Roy: So that is the way we look at it.
+INFY_Q4_April_22_312 | Menon: Ravi Menon But my question was what should we assume as a margin for this, should we assume that this is a margin tailwind, should we think of this and adjust for the margins accordingly.
+INFY_Q4_April_22_313 | Menon: I assume that this is a zero margin because the client can actually procure that and just ask you to implement it.
+INFY_Q4_April_22_314 | Roy: Nilanjan Roy But as you see the overall market for software as a service is growing dramatically and that is something where we can come in and add this value.
+INFY_Q4_April_22_315 | Roy: So, it is just not one client with one software there are multiple clients, there are horizontal softwares, various kinds as well.
+INFY_Q4_April_22_316 | Roy: So, I think this is a proposition which we have which is quite unique for us so you just cannot see it as a one-off intervention with one client.
+INFY_Q4_April_22_317 | Menon: Ravi Menon So are you saying these are software that you own, this is your intellectual property, I thought these are third party items bought for service delivery.
+INFY_Q4_April_22_318 | Roy: Nilanjan Roy Yes like I said these are software which are of course owned by the SaaS vendors but the bundling of services which we do with it, that is the value proposition we give to our client.
+INFY_Q4_April_22_319 | Menon: Ravi Menon Second question is, if you look at the incremental revenue this quarter we added about $30 mn, last quarter we added north of $50 mn, if I remember correctly and this quarter the increase in pass through cost is $40 mn.
+INFY_Q4_April_22_320 | Menon: So, if I just for that, your services revenue has dropped in a surprisingly strong demand environment.
+INFY_Q4_April_22_321 | Menon: So how should we think about it?
+INFY_Q4_April_22_322 | Menon: I mean is it that certain projects have come to an end and this is across the board, I mean we have seen decline in Life sciences both in North America and Europe.
+INFY_Q4_April_22_323 | Menon: But it is not that this one vertical that dragged you down or a particular client, it seems to be the incremental revenue is soft across the board so how should we think about that.
+INFY_Q4_April_22_324 | Roy: Nilanjan Roy Yes so firstly, volume growth sequentially has been very strong first point.
+INFY_Q4_April_22_325 | Roy: Second point if you see our YoY, it is 20.6% versus 19.7% for the year.
+INFY_Q4_April_22_326 | Roy: Our number for exit rate is higher than the average for the year.
+INFY_Q4_April_22_327 | Roy: Number two our volumes growth sequentially is higher, we have added 22,000 people this quarter and I am assuming many of these are being hired to look for future demand and get them into production so that is the third signal we have got.
+INFY_Q4_April_22_328 | Roy: Fourth if you see from a revenue perspective versus the volume increase we have seen.
+INFY_Q4_April_22_329 | Roy: We have talked about the seasonality of quarter four, and if you look back over the last 5-6 years we have always had a seasonality of revenue versus volume in quarter four because of the working day impact.
+INFY_Q4_April_22_330 | Roy: We have seen some COVID leave in the initial part of January impacting us.
+INFY_Q4_April_22_331 | Roy: We had this one off we have just talked about the commercial contract for one client and of course there are some other puts and takes.
+INFY_Q4_April_22_332 | Roy: So I do not think you can just see quarter four in isolation.
+INFY_Q4_April_22_333 | Roy: We would not have given a guidance of 13% to 15% - this is probably the highest guidance we have given at the start of the year in the last 10 years at least.
+INFY_Q4_April_22_334 | Roy: So I think all the demand indicators and landmarks are looking very good.
+INFY_Q4_April_22_335 | Menon: Ravi Menon One last question on the utilization.
+INFY_Q4_April_22_336 | Menon: You are talking about cooling it down a little.
+INFY_Q4_April_22_337 | Menon: What would be a good range that we should think about, would it come down to about 85% or so, would that be sufficient or should we think even lower.
+INFY_Q4_April_22_338 | Roy: Nilanjan Roy Yes, so 85% is the number – it may go up or down in the quarter but that would be somewhere where we would be – more or less in the comfort range as well.
+INFY_Q4_April_22_339 | Friedman: Jamie Friedman Nilanjan, I believe that you mentioned in your prepared remarks that you are anticipating that the subcontractor costs are plateauing.
+INFY_Q4_April_22_340 | Friedman: I was just wondering why you are concluding that, is that Visa related or is there something else we should be aware of.
+INFY_Q4_April_22_341 | Roy: Nilanjan Roy So, our subcon costs are pretty much plateaued at around 11.1% in this quarter as a percentage of revenue, but from an exit headcount perspective it has actually come down.
+INFY_Q4_April_22_342 | Roy: And the reason for this whole ramp up of this subcons is our recruitment engine was a bit behind.
+INFY_Q4_April_22_343 | Roy: We were hiring 11,000, 12,000 people each quarter and the balance demand was being fulfilled by subcons.
+INFY_Q4_April_22_344 | Roy: With us now getting into this mode of hiring freshers, we hired 22,000 people this quarter which is close to about 7% of the exit headcount.
+INFY_Q4_April_22_345 | Roy: And as we look ahead we will continue to push on the pedal in terms of recruitment and replace many of the subcons either through a replacement system or what we call a program of ‘subcon to hires’ in which we offer them a full time employment within the company.
+INFY_Q4_April_22_346 | Roy: So, we have been doing that.
+INFY_Q4_April_22_347 | Roy: We have been at the lowest of the industry in 2019-2020 in terms of subcon.
+INFY_Q4_April_22_348 | Roy: So, we know where we have to get at.
+INFY_Q4_April_22_349 | Roy: It may take us some time, a few quarters, but we know that's the margin lever we can press on.
+INFY_Q4_April_22_350 | Friedman: Jamie Friedman Thank you and then I believe Nilanjan you also had quantified the client contract provision, could you repeat the percentage impact if you stated it.
+INFY_Q4_April_22_351 | Roy: Nilanjan Roy So it is less than a percentage and we think over a period of time this should come back.
+INFY_Q4_April_22_352 | Friedman: Jamie Friedman Got it, thank you I will get back in the queue.
+INFY_Q4_April_22_353 | Rakesh: Kumar Rakesh Good evening, thank you for taking my question.
+INFY_Q4_April_22_354 | Rakesh: My first question was more around the margin and the guidance which we have reduced a bit.
+INFY_Q4_April_22_355 | Rakesh: So is this a reflection of some of the transient impacts which we are seeing especially about some of the things which you talked about supply side constraint and the investment which we are making or is there a structural change in some of the cost structure of the deals which we are making.
+INFY_Q4_April_22_356 | Rakesh: So, as we have strong growth in some of the additional cost which comes along with that through third party and other things are essentially pushing our margin down?
+INFY_Q4_April_22_357 | Roy: Nilanjan Roy No, so the last part is I think quite clear, if you have seen actually our large deal strategy which we announced in the beginning of FY2019, we were then doing about $3 bn large deal.
+INFY_Q4_April_22_358 | Roy: So we went from $3 bn to $6 bn to $9 bn to $14 bn, so while large deals actually went up even our margins went up.
+INFY_Q4_April_22_359 | Roy: So some of that impact which people fear, when we go into large deals in the initial part of the cycle, of course headwinds are there because clients want cost savings upfront.
+INFY_Q4_April_22_360 | Roy: But we are clear about the deal tenure and how do we price the deal so that over a period of time we are able to take out costs from our various levers which we have and come closer to the portfolio margin.
+INFY_Q4_April_22_361 | Roy: So that is something we have been doing for the last 3, 4, 5 years, 10 years in this industry.
+INFY_Q4_April_22_362 | Roy: I think the impact we are talking about is much more about the investments we want to make around what we have seen in the past, the success of what we have done, and we think with this robust demand environment these are new capabilities we should invest in as we progress.
+INFY_Q4_April_22_363 | Roy: And the usual headwinds which we talked about, the bigger differentiation is the pandemic cost normalizing and I think you all have the numbers in terms of travel, utilization, onsite- offshore, subcon.
+INFY_Q4_April_22_364 | Roy: So, some of those you can start triangulating what is going to come back on return to normal.
+INFY_Q4_April_22_365 | Rakesh: Kumar Rakesh Got it thanks for that.
+INFY_Q4_April_22_366 | Rakesh: Our large deal wins which we report have been steady between $2, $2.5 bn for the last few quarters.
+INFY_Q4_April_22_367 | Rakesh: To understand a lot of the deal activity is also happening in the smaller size which is not getting reflected here.
+INFY_Q4_April_22_368 | Rakesh: So would you give sense on the overall deal size how that being trending or would you consider sharing that data on an ongoing basis?
+INFY_Q4_April_22_369 | Parekh: Salil Parekh I think at this stage we are not sharing that data outside.
+INFY_Q4_April_22_370 | Parekh: Our focus was to share some of the areas which we had made sort of a change a few years ago for example the digital revenue percentage and the large deal value.
+INFY_Q4_April_22_371 | Parekh: What you mentioned of course is accurate, we have tremendous activity across all these sizes, we have a very robust overall pipeline and also a very robust conversion with net new which also feeds a little bit into the earlier discussion on our revenue growth guidance.
+INFY_Q4_April_22_372 | Rakesh: Kumar Rakesh Great one final thing, I think I heard that you talk about 85,000 fresher hiring which we have done this fiscal year any target which we have set for next fiscal year.
+INFY_Q4_April_22_373 | Parekh: Salil Parekh For next year's campus recruiting we have not communicated that beyond saying that we will do more than 50,000 campus recruits for next year.
+INFY_Q4_April_22_374 | Parekh: As we go through the year we will communicate more on that but today we see an active campus recruitment program.
+INFY_Q4_April_22_375 | Rakesh: Kumar Rakesh Got it, thanks for that, I will fall back in the queue.
+INFY_Q4_April_22_376 | Shah: Sandeep Shah Thanks for the opportunity.
+INFY_Q4_April_22_377 | Shah: Most of the questions are answered.
+INFY_Q4_April_22_378 | Shah: Just wanted to understand the gap between the utilization including trainee and excluding trainees is as big as 700 basis points and we are adding freshers for last so many quarters and with that you are also expecting subcontracting cost savings, is it fair to say second half of FY2023 margin may have more upward bias?
+INFY_Q4_April_22_379 | Shah: Pricing, with a lag may also be a tailwind versus first half?
+INFY_Q4_April_22_380 | Roy: Nilanjan Roy Yes, these trainees have to go through the whole Mysore stint, then they go to the bench, they get reskilled on specialty skills, and then we lead them into production.
+INFY_Q4_April_22_381 | Roy: So it takes some time as well and which is why utilization excluding trainees and including trainees you see the gap.
+INFY_Q4_April_22_382 | Roy: We have an increase in the overall trainee count as well between quarter-to-quarter who have not been deployed in projects.
+INFY_Q4_April_22_383 | Roy: But from a margin perspective I am not sure this is a big part of the headwind of H1vs.
+INFY_Q4_April_22_384 | Roy: H2.
+INFY_Q4_April_22_385 | Roy: I think the H1 impact because of the comp increase is upfront one which happens every year and you can go back 2 years and see that as well, but overall for the year at 21% to 23% we are quite comfortable.
+INFY_Q4_April_22_386 | Shah: Sandeep Shah And just a clarification Nilanjan, just further to what Ravi has asked.
+INFY_Q4_April_22_387 | Shah: So, even if you look at the revenue growth excluding third party has marginal decline but at the same time you are also saying the volumes have gone up, so is it the offshore effort in this quarter has not actually gone down so why is the volume growth not getting reflected in the revenue growth ex pass through as a whole.
+INFY_Q4_April_22_388 | Shah: So is it the realization in this quarter slightly lower?
+INFY_Q4_April_22_389 | Roy: Nilanjan Roy No, we have some routine puts and takes, one is always if you go back you will always see the seasonality due to working days.
+INFY_Q4_April_22_390 | Roy: The second one is the COVID impact in the initial part of the year; and the third one is the one contractual provision which we made for a client.
+INFY_Q4_April_22_391 | Roy: So I think these are the areas due to which you are not seeing that volume benefits flowing into revenue.
+INFY_Q4_April_22_392 | Roy: Like Salil also said, we have seen strong sequential quarterly volumes.
+INFY_Q4_April_22_393 | Parekh: Salil Parekh discussed and mentioned.
+INFY_Q4_April_22_394 | Parekh: First FY2022 was an extremely strong year for us – close to 20% growth, 23% margin.
+INFY_Q4_April_22_395 | Parekh: We are clearly taking market share and really connecting very strongly with our clients for all the digital and cloud work.
+INFY_Q4_April_22_396 | Parekh: As we go ahead we want to focus on the ever expanding opportunity set in cloud, digital, data, analytics, automation, and in doing that we want to make sure that we remain a leader in the pack and continue the market share taking that we have been doing.
+INFY_Q4_April_22_397 | Parekh: We also want to focus on our employees with increased engagement and increased methods of working with their compensation increases and career progressions.
+INFY_Q4_April_22_398 | Parekh: Putting all of that together we come to a growth guidance of 13% to 15% for this financial year 2023 and a margin guidance of 21% to 23%.
+INFY_Q4_April_22_399 | Parekh: We have a strong outlook and we look forward to working with our clients and employees for this outlook to be delivered in financial year 2023. one-on-ones in the quarter.
+INFY_Q4_April_22_400 | Parekh: Take care.

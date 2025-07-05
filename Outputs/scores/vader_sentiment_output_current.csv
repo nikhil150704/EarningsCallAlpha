@@ -1,0 +1,401 @@
+index,sentence,neg,neu,pos,compound
+1,"Sandeep Mahindroo Hello, everyone, and welcome to the earnings call to discuss Q4 FY2022 earnings release.",0.0,0.833,0.167,0.4588
+2,I am Sandeep from the Investor Relations team in Bangalore.,0.0,1.0,0.0,0.0
+3,"Joining us today on this earnings call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy; along with other members of the senior management team.",0.0,1.0,0.0,0.0
+4,We will start the call with some remarks on the performance of the company by Salil and Nilanjan.,0.0,1.0,0.0,0.0
+5,Subsequent to which we will open the call for questions.,0.0,1.0,0.0,0.0
+6,"Please note that anything that we say, which refers to our outlook for the future is a forward-looking statement, which must be read in conjunction with the risk that the company faces.",0.061,0.872,0.067,0.0516
+7,"A full statement and explanation of these risks is available in our filings with the SEC, which can be found on www.sec.gov.",0.091,0.909,0.0,-0.2732
+8,I would now like to turn it over to Salil.,0.0,0.783,0.217,0.3612
+9,"Salil Parekh Thanks, Sandeep.",0.0,0.508,0.492,0.4404
+10,"Good morning, good afternoon, and good evening to everyone joining on the call.",0.0,0.535,0.465,0.8271
+11,Thank you for taking the time to join us today.,0.0,0.63,0.37,0.5719
+12,"We have had an exceptional year with an annual growth of 19.7% in constant currency terms, which is the fastest growth we have seen in 11 years.",0.0,0.828,0.172,0.6369
+13,We are gaining market share.,0.0,0.375,0.625,0.6124
+14,"We are building on our leadership in cloud and digital, and we are a part of more and more programs that our clients are looking at in digital transformation.",0.0,1.0,0.0,0.0
+15,"Growth was broad-based across business segments, service lines and geographies.",0.0,0.776,0.224,0.3818
+16,Each of our business segments grew in double digits.,0.0,1.0,0.0,0.0
+17,"The top 3 grew in high teens, U.S. and Europe grew over 20%.",0.0,0.87,0.13,0.2023
+18,"The North America region crossed $10 bn in revenue, while Financial Services crossed $5 bn revenue milestones.",0.0,1.0,0.0,0.0
+19,Our digital revenues now account for 59.2% and grew at 41.2% for the year.,0.0,1.0,0.0,0.0
+20,Our digital revenues crossed $10 bn annualized on a run-rate basis.,0.0,1.0,0.0,0.0
+21,"Within digital, our cloud work is growing faster, and our Cobalt Cloud capabilities have seen significant traction with our clients.",0.0,0.837,0.163,0.3612
+22,Our growth has been accompanied by robust operating margins of 23.0%.,0.0,0.643,0.357,0.6124
+23,We delivered these margins while maintaining focus on our employees with increased compensation and benefits.,0.0,0.734,0.266,0.5719
+24,Our large deal wins were at $9.5 bn for the full year and were $2.3 bn for Q4.,0.0,0.821,0.179,0.5719
+25,"Our net new percentage was 40% for the year and 48% for Q4, helping us set up a strong growth foundation for financial year 2023.",0.0,0.731,0.269,0.7964
+26,Our Q4 revenue growth was 20.6% YoY and 1.2% QoQ in constant currency terms.,0.0,0.833,0.167,0.3818
+27,Our industry-leading performance in FY2022 would not have been possible without the relentless commitment from our employees.,0.182,0.818,0.0,-0.3252
+28,I am extremely proud as well as grateful for the extraordinary efforts in delivering success for our clients.,0.0,0.529,0.471,0.9092
+29,Our last 12 months' attrition increased to 27.7%.,0.0,0.769,0.231,0.2732
+30,Our quarterly annualized attrition declined by approximately 5 percentage points on a sequential basis.,0.0,1.0,0.0,0.0
+31,"We recruited 85,000 college graduates in this financial year.",0.0,1.0,0.0,0.0
+32,"In the fourth quarter, we had a net addition of 22,000 employees.",0.0,1.0,0.0,0.0
+33,We have an overall strong recruitment program.,0.0,0.645,0.355,0.5106
+34,"This is a reflection of our enhanced recruitment capabilities, solid brand and deep penetration into various talent markets.",0.0,0.784,0.216,0.5267
+35,This increases our comfort to support clients in their digital transformation agenda as we look ahead.,0.0,0.729,0.271,0.6369
+36,We have initiated our compensation review exercise for this financial year.,0.0,1.0,0.0,0.0
+37,We have planned this exercise so that we can focus on employee segments that need greater attention while also covering a broader group with regular increases.,0.0,0.909,0.091,0.3612
+38,"As in the past, we will look at individual performance, skills and market benchmarks while determining individual compensation increases.",0.0,1.0,0.0,0.0
+39,"We will focus on accelerated career growth, targeted development and opportunity to work on cutting-edge digital innovation globally.",0.0,0.652,0.348,0.7906
+40,Our strategy launched 4 years ago has served us well.,0.0,0.69,0.31,0.3818
+41,We have delivered industry- leading growth and industry-leading TSR.,0.0,0.755,0.245,0.3818
+42,"Looking ahead to the next phase to further enhance our leadership on the digital innovation curve, we plan to expand our capabilities in scaling our cloud business, expanding digital capability, expanding on our automation work and increasing relevance with our large clients and tech natives and also strengthen our employee value proposition.",0.0,0.833,0.167,0.8225
+43,"Our focus on staying ahead in the cloud and digital ecosystem, the focus on our employees and the costs give us strong confidence for the future.",0.0,0.784,0.216,0.765
+44,"Our sustained momentum in FY2022, large deal wins, robust deal pipeline and client confidence give us comfort to guide for 13% to 15% growth in FY2023 in constant currency.",0.0,0.623,0.377,0.926
+45,"As we look ahead – as we build our new strategy, that is looking at cloud and the digital ecosystem, our focus on employees and the costs related to the post-COVID work environment, result in our operating margin guidance to be at 21% to 23% for FY2023.",0.0,1.0,0.0,0.0
+46,"In terms of our business segment performance, let me go through the highlights by segment.",0.0,1.0,0.0,0.0
+47,"Financial Services segment grew at 14.1% in constant currency, with 8 large deal wins during the quarter and 27 large deal wins in FY2022.",0.0,0.748,0.252,0.8126
+48,Our US business continues to lead the growth as we work on large transformation programs.,0.0,0.843,0.157,0.3818
+49,Our overall large deal pipeline in Financial Services is healthy across the regions.,0.0,0.816,0.184,0.4019
+50,Retail segment growth was at 16.5% in constant currency.,0.0,0.755,0.245,0.3818
+51,As clients focus on digital and cost takeout programs.,0.0,1.0,0.0,0.0
+52,"We are seeing integrated outsourcing deals and transformation programs in the areas of e-commerce, revenue growth management, supply chain, product life cycle management.",0.0,0.894,0.106,0.3818
+53,We won 16 large deals from the segment in the last year and continue to have a healthy deal pipeline.,0.0,0.738,0.262,0.7506
+54,The Communications vertical grew strongly at 29.2% in constant currency.,0.0,0.811,0.189,0.2732
+55,"We see customer experience, IT and network simplification, lean and automated zero-touch operations, time to market and integrated data for digital enterprise as the key themes for clients in this segment.",0.0,1.0,0.0,0.0
+56,"Energy, Utilities, Resources and Services segment growth increased further to 17.8% in constant currency.",0.0,0.618,0.382,0.7003
+57,"We see continued and increased emphasis on digital transformation, especially around customer experience, operational efficiency and associated legacy transformation.",0.0,0.787,0.213,0.5574
+58,We won 4 large deals in the last quarter and 18 large deals in FY2022 from this segment.,0.0,0.821,0.179,0.5719
+59,Growth in Manufacturing segment increased to over 50% in constant currency.,0.0,0.657,0.343,0.5719
+60,There were 6 large deal wins in this segment in the last quarter and 13 wins for the last year.,0.0,0.709,0.291,0.8126
+61,"We are helping clients across engineering, IoT, supply chain, cloud ERP and digital transformation areas.",0.0,0.864,0.136,0.296
+62,Hi-Tech growth accelerated further to 20.9% in constant currency.,0.0,0.755,0.245,0.3818
+63,"We have seen an increase in deals based on edge computing, digital marketing and commerce.",0.0,0.859,0.141,0.3182
+64,Cybersecurity is another area of focus for clients due to increased threat perception.,0.206,0.667,0.127,-0.3182
+65,Life Sciences vertical grew by 16.2% in constant currency.,0.0,1.0,0.0,0.0
+66,"Clients are driving digital transformation of clinical trials to reduce cycle times through direct data capture, digital patient engagement to accelerate drug discovery, and reducing costs.",0.0,0.893,0.107,0.4588
+67,"In the last quarter, we were rated as a leader in 11 ratings in the areas of cloud services, big data and analytics, IoT and engineering, modernization and artificial intelligence.",0.0,0.903,0.097,0.4767
+68,"We announced the acquisition of oddity, a Germany-based digital marketing and experience and e-commerce agency.",0.0,1.0,0.0,0.0
+69,"Together with Wongdoody, this will further strengthen our creative branding and experience design capabilities.",0.0,0.698,0.302,0.6369
+70,"With respect to capital allocation, the Board has proposed a final dividend of Rs.16 per share, taking the total dividend for financial year 2022 to Rs.31 per share, an increase of 14.8% over the past year.",0.0,0.766,0.234,0.8316
+71,I want to express Infosys' support for all the people impacted by the humanitarian crisis in Europe.,0.186,0.633,0.181,-0.2732
+72,The company advocates for peace between Russia and Ukraine.,0.0,0.696,0.304,0.5423
+73,While Infosys does not have any active relationships with local Russian enterprises.,0.17,0.83,0.0,-0.3089
+74,"We have a small team of less than 100 employees based in Russia, which service a few of our global clients.",0.0,1.0,0.0,0.0
+75,"In light of the prevailing situation, we made a decision to transition these services from Russia to our other global delivery centers.",0.0,1.0,0.0,0.0
+76,"To support this humanitarian assistance initiatives in the region, Infosys has committed $1 million towards Ukrainian relief efforts and is launching a program to digitally reskill up to 25,000 individuals.",0.0,0.774,0.226,0.7845
+77,"With that, let me hand it over to Nilanjan for his update.",0.0,0.775,0.225,0.4939
+78,"Nilanjan Roy We navigated yet another year of a challenging environment with strong growth of 19.7% in constant currency, which is highest in a decade.",0.0,0.746,0.254,0.7579
+79,The incremental revenue added this year was higher than the incremental revenue added in the previous 3 years together.,0.0,1.0,0.0,0.0
+80,This was backed by broad-based growth across segments and robust growth in our digital portfolio at 41.2% in constant currency.,0.0,0.648,0.352,0.7717
+81,"Operating margin for the fiscal stood at 23.0%, which was at the midpoint of our guidance band of 22% to 24%.",0.0,1.0,0.0,0.0
+82,"In the backdrop of various supply side pressures, we rolled out various measures to reduce attrition – higher compensation increases, higher promotions, skill-based interventions, etc.",0.087,0.913,0.0,-0.3182
+83,in addition to higher subcons.,0.0,1.0,0.0,0.0
+84,Free cash flows for FY2022 crossed $3 bn.,0.0,0.68,0.32,0.5106
+85,DSO reduced by 4 days to 67 days.,0.0,1.0,0.0,0.0
+86,Capex increased marginally to $290 million on the back of continued focus on optimizing the infra creation-related spend.,0.0,0.758,0.242,0.6249
+87,"Consequently, FCF conversion as a percentage of net profit was 103% for FY2022.",0.0,0.805,0.195,0.4404
+88,FY2022 EPS grew by 14.3% in dollar terms and 15.2% in INR terms.,0.0,1.0,0.0,0.0
+89,Return on equity at 29.1% improved by 1.7% over the prior year.,0.0,0.78,0.22,0.4767
+90,Coming to Q4 performance - Revenues grew by 20.6% YoY in constant currency and 1.2% sequentially.,0.0,1.0,0.0,0.0
+91,Growth was broad-based across verticals and geos and was in double digits.,0.0,0.809,0.191,0.3818
+92,"Although volume growth remained healthy in Q4, revenue growth in Q4 was impacted by usual seasonality, COVID impact during the early part of the quarter and the client related contractual provision, which we expect to recover in the future.",0.0,0.82,0.18,0.7845
+93,This also impacted Q4 margins.,0.0,1.0,0.0,0.0
+94,Mining of large clients was extremely strong in FY2022.,0.0,0.69,0.31,0.5563
+95,$100 mn client count increased to 38 compared to 32 in FY2021.,0.0,0.84,0.16,0.2732
+96,We had 12 clients giving $200 mn annual revenues compared to 7 in FY2021.,0.0,0.844,0.156,0.34
+97,"We have added ~22,000 net employees, including trainees during the quarter, the highest ever in the company's history, as we made headroom to capture the robust demand environment ahead.",0.049,0.874,0.078,0.2263
+98,"Consequently, utilization in Q4 declined to 87.0% while on-site effort mix inched up to 24.0%.",0.0,1.0,0.0,0.0
+99,Voluntary LTM attrition increased to 27.7%.,0.0,0.704,0.296,0.2732
+100,"While LTM attrition continues to increase due to the tail effect, quarterly annualized attrition saw a decline of approximately 5% after flattening in the previous quarter.",0.0,0.916,0.084,0.3182
+101,"Q4 margins stood at 21.5%, a drop of 200 basis points versus previous quarter.",0.139,0.861,0.0,-0.2732
+102,"The major components of the sequential margin movement were as follows: - 1.6% impact due to lower calendar working days, client contractual provision as explained above and other pricing puts and takes, - 0.6% impact due to lower utilization as we create capacity for the future, - 1% due to higher visa costs, third-party costs and other one-offs, which we benefited in Q3, and these were offset by - approximately 1.1% benefit due to salary-related benefits, including lower working days, leave costs and others.",0.084,0.832,0.083,0.2263
+103,Q4 EPS grew by 9.2% in dollar terms and 13.4% in rupee terms on a YoY basis.,0.0,1.0,0.0,0.0
+104,Our balance sheet remained strong and debt-free.,0.0,0.645,0.355,0.5106
+105,Consolidated cash and equivalents increased further to $4.9 bn at the end of the quarter.,0.0,0.87,0.13,0.2732
+106,"Free cash flow for the quarter was healthy at $761 million, and yield on cash balance remained stable at 5.29% in Q4.",0.0,0.699,0.301,0.802
+107,"In line with our capital allocation policy, the Board has recommended a final dividend of Rs.16 per share, which will result in a total dividend of Rs.31 per share for FY2022 versus Rs.27 per share for FY2021, an increase of 14.8% per share for the year.",0.0,0.756,0.244,0.872
+108,"Including the final dividend and recently concluded buyback over the last 3 years, we have returned 73% of FCF to shareholders under our current capital allocation policy.",0.0,1.0,0.0,0.0
+109,"Our accelerated investments in the last few years in strengthening our digital footprint, enhancing large deal capabilities, localization, talent building has enabled us to gain consistent market share.",0.0,0.674,0.326,0.891
+110,"With the acceleration of digital disruptions across industries, we see further scope to engage more closely with clients and capitalize on the expanding market opportunities.",0.082,0.748,0.17,0.3818
+111,"We have identified areas of investments, including doubling down our focus on digital portfolio, scaling our cloud offerings and further enhancing our capabilities in emerging technologies.",0.0,1.0,0.0,0.0
+112,"We also remain committed to offer a compelling value proposition to employees through reskilling, incentivization and a holistic career growth.",0.0,0.64,0.36,0.7906
+113,We plan to neutralize the impact of some of these through aggressive cost optimization and value-led pricing driven by service and brand differentiation.,0.063,0.833,0.103,0.25
+114,"This, along with post-pandemic normalization of some expenses, like travel, facilities, etc, is reflected in the revised margin guidance for FY2023 of 21% to 23%.",0.0,0.906,0.094,0.3612
+115,"With the pandemic hopefully behind us, we hope to see many of you in person over the next few months.",0.0,0.763,0.237,0.6808
+116,"With that, we can open the call up for questions.",0.0,1.0,0.0,0.0
+117,Ankur Rudra The first question is on the revenue guidance.,0.0,1.0,0.0,0.0
+118,"Last year at this time Salil, the revenue guidance was a bit low at the beginning of FY2022 and at that time I would say at least the order book was a lot stronger, you had a mega deal in the order book and perhaps a stronger exit rate.",0.039,0.863,0.098,0.4767
+119,"So curious to know, what gives the confidence of giving a slightly higher guidance at the beginning of this year, given, may be a more volatile macro situation.",0.0,0.751,0.249,0.807
+120,Salil Parekh Hi Ankur thanks for your question.,0.0,0.707,0.293,0.4404
+121,What we see today is the demand environment from our client base is strong.,0.089,0.714,0.196,0.4215
+122,"We have for the year $9.5 bn in large deals, 40% net new, for the quarter $2.3 bn, 48% net new and a strong expansion in dimensions relating to new client work and relating to actual expansion across different strata.",0.0,0.922,0.078,0.5106
+123,"Given all those factors, we came to view that we could see growth in the range of 13% to 15% for this financial year.",0.0,0.898,0.102,0.3818
+124,"Ankur Rudra Understood this, does this bake in any kind of reversal that you alluded to from the client situation in fourth quarter?",0.0,1.0,0.0,0.0
+125,Salil Parekh The client situation of the fourth quarter will reverse over some period.,0.0,1.0,0.0,0.0
+126,We have not specified that.,0.0,1.0,0.0,0.0
+127,That reversal in any case is not such that will make a huge impact in the full year.,0.0,0.881,0.119,0.3182
+128,"We see this coming really from the strong demand that we are seeing within the market from what we are seeing in the existing base of business that we have, the expansion within clients that we are seeing and some of the new client acquisitions that we are witnessing.",0.029,0.903,0.068,0.4703
+129,"So, putting all those factors we came to this view.",0.0,1.0,0.0,0.0
+130,"Ankur Rudra Thank you, appreciate this.",0.0,0.435,0.565,0.6369
+131,The follow up question is on margin.,0.0,1.0,0.0,0.0
+132,Maybe to start with could you elaborate the third-party cost which went up sharply this quarter and last quarter.,0.0,1.0,0.0,0.0
+133,Is this the sticky new level given the nature of deals you are signing?,0.0,1.0,0.0,0.0
+134,"And as a connected question could you elaborate the cost that has been baked into to the 2023 guidance on margins including the wage inflation levels, the extent of the pace of the reversal or normalization of the cost base.",0.0,1.0,0.0,0.0
+135,Nilanjan Roy I think many of the large deals which we get is through bundling our services with the software and the allied services and that gives us a multiplier effect in the client landscape.,0.0,1.0,0.0,0.0
+136,"And that you have seen over the last few years, so that is one of the reason also you have seen the cost increase and has helped us in the quarter and the year going forward.",0.0,0.938,0.062,0.3182
+137,On YoY perspective for FY2023 we do not call out the wage impact.,0.0,1.0,0.0,0.0
+138,"As Salil said, it will be a competitive compensation hike.",0.0,0.841,0.159,0.1779
+139,"We will differentiate hike in talent and in some places, it will be more broad-based and of course around that we have a lot of cost optimization which we usually do.",0.0,0.843,0.157,0.6597
+140,Some of them in the year past were tailwinds; for instance the onsite offshore mix.,0.0,1.0,0.0,0.0
+141,But subcon became a headwind for us last year and some of these in a way will start going the other way in the following year.,0.0,1.0,0.0,0.0
+142,"Of course, the wage hikes will hit us early on the year as well in quarter one itself, so that will be initial headwind, but we have seen the overall impact of our cost optimization.",0.0,0.87,0.13,0.6059
+143,"On pricing, we have started discussions as Salil mentioned earlier with our clients.",0.0,1.0,0.0,0.0
+144,"Of course, this is a much longer haul, it happens more on T&M, renewals etc.",0.0,1.0,0.0,0.0
+145,But for FP side of the business these are much more longer-term discussions.,0.0,1.0,0.0,0.0
+146,And these are also competitively bid but I think the discussions have started.,0.0,1.0,0.0,0.0
+147,All of our sales people are actively engaged in this and looking at the overall demand and the supply front on this and we have started making head way on this.,0.043,0.812,0.145,0.5423
+148,Ankur Rudra Thank you and best of luck.,0.0,0.34,0.66,0.8658
+149,Moshe Katri Thanks for taking my questions.,0.0,0.674,0.326,0.4404
+150,It would be great if you can give us some more clarity and the client specific contractual position that you mentioned is getting lot of questions from the investors.,0.0,0.792,0.208,0.796
+151,How does that impact the revenue numbers for the quarter.,0.0,1.0,0.0,0.0
+152,Is there a margin impact as well?,0.0,0.741,0.259,0.2732
+153,I think any clarity is going to be really helpful.,0.0,0.58,0.42,0.6997
+154,"And this is a followup looking at the margin guidance for FY2023, I would see you have brought down by a 100 basis point.",0.0,1.0,0.0,0.0
+155,Are we assuming they picked up from the wage inflation here and then are we also assuming lower pricing power which is something that actually did help in terms of levers hardly for the past 6 to 12 months.,0.053,0.883,0.064,0.128
+156,Thanks a lot.,0.0,0.408,0.592,0.4404
+157,Nilanjan Roy Moshe we heard the first question on the client contractual provision.,0.0,1.0,0.0,0.0
+158,Just to clarify this the numbers are very small.,0.0,1.0,0.0,0.0
+159,"These are less than a percentage, so it is not a big impact overall as people are making it out.",0.0,1.0,0.0,0.0
+160,So we just want to close that out.,0.0,0.817,0.183,0.144
+161,It is not a big impact but less than 1%.,0.0,1.0,0.0,0.0
+162,"But since you are looking at revenue growth sequentially, I just wanted to call it out.",0.0,0.815,0.185,0.5267
+163,?,0.0,1.0,0.0,0.0
+164,"Moshe Katri The second question is to do with your margin guidance for FY23, does this actually factor an acceleration in wage inflation in FY2023 and maybe a lower pricing power also kind of not factored into those numbers?",0.055,0.945,0.0,-0.296
+165,"Nilanjan Roy Okay Moshe , I could make out something you said about of wage inflation as well.",0.0,0.8,0.2,0.4588
+166,"So yes, in Q1, we will do a compensation hike as well both offshore and onsite and like I said it will be competitive.",0.0,0.683,0.317,0.807
+167,"We will benchmark this, differentiate on talent side as well.",0.0,0.62,0.38,0.5994
+168,"And that is something we have seen over the last year has helped us, especially towards people with the higher skills set, so that is working for us.",0.0,1.0,0.0,0.0
+169,The overall margin guidance reflects a number of events.,0.0,0.86,0.14,0.0772
+170,"We talked about some of the normalization of the pandemic benefits we have got on travel and facility, and some of that we are seeing is going to come back.",0.0,0.918,0.082,0.3818
+171,"And secondly, we are seeing some of the headwinds in terms of onsite-offshore which we think we have got a large benefit last year.",0.0,0.885,0.115,0.4588
+172,"So, we have to see how this opens up in the rest of the year.",0.0,1.0,0.0,0.0
+173,"On the other hand, with our recruitment engine really kicking up now, we have seen subcon cost has actually plateaued during this quarter and we think for the rest of the year we should be able to pull back cost on subcon line.",0.0,0.929,0.071,0.4939
+174,Automation remains very core to us – cost optimization every year.,0.0,0.794,0.206,0.3818
+175,"We are speaking of automating between 3000 to 4000 people and putting in BOTS and this I am talking about for the quarter, So, we have comprehensive plans and we have talked about pricing as well.",0.0,0.892,0.108,0.4767
+176,21% to 23% is a reasonable margin band we think we are comfortable to operate in for the next year.,0.0,0.852,0.148,0.5106
+177,"If you recall even pre pandemic in a way, we were in at 21% to 23% as we ended FY2020 which was the year before pandemic at 21.3% if I am not mistaken.",0.0,0.938,0.062,0.2755
+178,"So, we are at 21% to 23% and it is a comfortable range we are happy to be in.",0.0,0.708,0.292,0.7906
+179,Nitin Padmanabhan Hi good evening just two questions from my side.,0.0,0.775,0.225,0.4404
+180,The first one was on the guidance.,0.0,1.0,0.0,0.0
+181,"So, if I understand right, typically you have a high visibility for the next two quarters and if I look at the last year net new deal wins, it is actually lower than the prior year.",0.055,0.852,0.093,0.3612
+182,"So I was just wondering is the mix of much smaller deals which do not reflect within the overall large deal win number that you are talking about, is that a much higher number, is that we should think about it?",0.0,0.856,0.144,0.6597
+183,Second is the pipeline of larger deals that could come through that is giving the confidence or is it the smaller deals?,0.0,0.778,0.222,0.6908
+184,so that was the first question.,0.0,1.0,0.0,0.0
+185,Salil Parekh Thanks for the question.,0.0,0.633,0.367,0.4404
+186,We are not specifying today the different types of deals within the mix.,0.0,1.0,0.0,0.0
+187,Few points to give some color on it.,0.0,1.0,0.0,0.0
+188,First the pipeline that we see today is the largest pipeline we have in terms of large deals so that gives us a good confidence.,0.0,0.788,0.212,0.7351
+189,Our net new for the year is strong.,0.0,0.68,0.32,0.5106
+190,"We have good momentum exiting this financial year 2022, which gives us a good foundation for next year and we see continued traction within clients, as we are expanding as we are consolidating, as we are gaining market share, so that gives us added boost.",0.0,0.748,0.252,0.91
+191,Hopefully that gives you a little bit of color on that.,0.0,0.787,0.213,0.4019
+192,Nitin Padmanabhan Sure.,0.0,0.465,0.535,0.3182
+193,The second question was in terms of how are you seeing onsite wage inflation broadly?,0.0,1.0,0.0,0.0
+194,"When you compare the prior year, do you see that at a much higher level for the industry in the US, just wanted your thoughts on that.",0.0,1.0,0.0,0.0
+195,"And finally, any specifics on the financial services space which is relatively softer and for life sciences where we actually saw a sharp drop for the quarter?",0.075,0.925,0.0,-0.2732
+196,"Salil Parekh On the wage inflation, outside India is definitely higher than what we were seeing last year and that will become a part of how we factor in our overall compensation increase.",0.0,0.861,0.139,0.6124
+197,Wage inflation numbers in most of the western geographies are higher today than they were 12 months ago.,0.0,1.0,0.0,0.0
+198,"On financial services while in the quarter we saw the QoQ was lower, the overall demand environment remains very strong for us in this segment.",0.126,0.751,0.123,0.2247
+199,We see a good pipeline there.,0.0,0.633,0.367,0.4404
+200,There were significant large deal wins for the year and in the quarter and we remain confident with the growth in financial services.,0.0,0.627,0.373,0.8834
+201,"In life sciences conversely, we had in the previous quarter several onetime large deals and that is what made the QoQ look softer.",0.0,1.0,0.0,0.0
+202,It is a smaller unit for us.,0.0,1.0,0.0,0.0
+203,"So, there is much more volatility in that, but the underlying demand in life sciences looks to be in good shape.",0.071,0.772,0.157,0.4767
+204,"Keith Bachman I want to ask a question about what are your assumptions on attrition and utilization, how should we be thinking about those terms over FY2023 and specifically if you could correlate what is the impact in terms of your margin guidance that you provided here today of 21% to 23%?",0.0,0.975,0.025,0.0772
+205,Nilanjan Roy I think firstly on the utilization we are still at the higher end at 87%.,0.0,1.0,0.0,0.0
+206,We want to bring this down.,0.0,0.794,0.206,0.0772
+207,"Now having said that, a lot of this will happen through the influx of freshers.",0.0,1.0,0.0,0.0
+208,So it is not a dollar for a dollar in that sense.,0.0,1.0,0.0,0.0
+209,"The utilization will start impacting by putting in more freshers who are at a lower cost, but will still have a margin headwind.",0.068,0.932,0.0,-0.1531
+210,But if you looking for a math behind it there is no straight correlation because it is not one for one in that sense.,0.08,0.92,0.0,-0.2498
+211,So that is first.,0.0,1.0,0.0,0.0
+212,"On attrition, yes, we think that this should come down in the following year.",0.0,0.828,0.172,0.4019
+213,"The impact that we are seeing now – the impact of putting freshers in – not only by us, but by the entire industry because it was a rotational churn issue across the industry.",0.0,1.0,0.0,0.0
+214,"As the industry puts in freshers, there is a new source of supply across the industry as well.",0.0,0.89,0.11,0.2732
+215,And finally the intervention which we are doing now as well.,0.0,0.826,0.174,0.2732
+216,"So, that is all factored into our 21% to 23%.",0.0,1.0,0.0,0.0
+217,"We are also looking at investments, like Salil said, around cloud, around digital capabilities; and therefore that is also baked into the next year’s guidance.",0.0,0.906,0.094,0.3612
+218,"Keith Bachman Okay just to clarify and then I will see the floor, does the attrition come down for the industry or Infosys or both.",0.0,0.927,0.073,0.2263
+219,"Nilanjan Roy It will be both, I do not think we are in a silo on the ecosystem, we are all interconnected.",0.0,1.0,0.0,0.0
+220,My attrition is somebody else lateral and somebody else’s attrition is my lateral and therefore if the industry has to come out of this it is fundamentally through volume.,0.0,1.0,0.0,0.0
+221,"Volume has to be through fresher, there is no other source of volume.",0.155,0.845,0.0,-0.296
+222,"Therefore, as we start pumping in more freshers send them for training put them into the bench and then get them into production.",0.0,1.0,0.0,0.0
+223,"I think that cycle takes time, and you are already seeing the benefits of this – not only with us but also seeing that with the industry as well.",0.0,0.859,0.141,0.5346
+224,Sudheer Guntupalli Good evening gentlemen.,0.0,0.58,0.42,0.4404
+225,Thanks for giving me the opportunity.,0.0,0.27,0.73,0.7964
+226,Nilanjan as you made a comment that pre-pandemic we were at 21.3% margin and our current margin guidance band is also somewhere around that.,0.0,1.0,0.0,0.0
+227,So should we read this margin downgrade as more of a structural reset in the company’s aspirational profitability going back to pre-COVID margin levels or should we see this more of a onetime downgrade for FY2023 led by transient supply side pressures.,0.052,0.901,0.047,-0.0516
+228,"Nilanjan Roy Yes, so as you know, we only give the margin guidance for the year – 21% to 23% and FY2020 operating margin was 21.3%.",0.0,0.903,0.097,0.4019
+229,"We will see where we end up, but the comfortable range for FY2023 is 21% to 23% - nothing more than that.",0.0,0.825,0.175,0.6652
+230,Just talking about the investments we are going to make- not only on talent.,0.152,0.848,0.0,-0.3252
+231,This is a robust demand environment and we do not want to lose highly skilled talents.,0.126,0.508,0.366,0.7363
+232,"So, we are rolling out interventions there.",0.0,1.0,0.0,0.0
+233,"We are rolling out intervention on the sales side, on the marketing side, on the digital, cloud.",0.0,1.0,0.0,0.0
+234,"So, we have multiple interventions and we have seen the success of that over the last 4 years and this is also in front of you.",0.0,0.871,0.129,0.5719
+235,That is something which we have looked at and baked into the margin for next year.,0.0,1.0,0.0,0.0
+236,Sudheer Guntupalli Sure Sir.,0.0,0.566,0.434,0.3182
+237,"An extension of this question, the current exit margin rate in March 2022 and margin downgrade for FY2023 it gives a bit of a deja vu feeling of the exit margin and guidance situation exactly 3 years ago in March 2019.",0.0,0.964,0.036,0.128
+238,"In fact, we were not staring at so many margin headwinds like we are now barring a bit of an elevated attrition at that time.",0.0,0.906,0.094,0.3612
+239,"So my question is, is it fair to assume that for the next four quarters margin trajectory will trace somewhat of a similar path like getting FY2020 where the current delta in growth will likely take care of the delta in margin headwinds or do you see any major divergences in terms of how the pattern will play out over the next four quarters.",0.0,0.819,0.181,0.9001
+240,"Nilanjan Roy So, yes like I said on the margin side we know there is going to be a Q1 impact.",0.0,0.785,0.215,0.6369
+241,We know there are more longer-term cost optimizations we can resort to.,0.0,0.836,0.164,0.2878
+242,"So, I think it will be multiple impact of all this.",0.0,1.0,0.0,0.0
+243,"And of course, growth will always help.",0.0,0.485,0.515,0.6486
+244,And you've seen that the impact of growth on our operating leverage also has helped in the past.,0.0,0.867,0.133,0.3818
+245,"So, it's a combination of all this.",0.0,1.0,0.0,0.0
+246,Divya Nagarajan Thanks for taking my question and congrats on what has been a great year overall.,0.0,0.574,0.426,0.886
+247,"Looking forward I think this question has been attempted in different ways by some of the earlier questions that came through, but if you were to kind of think about your guidance on revenue for the full year and think about what are the puts and takes in terms of any delta that you might see on demand, how comfortable do you feel that you have a cushion?",0.024,0.914,0.062,0.5719
+248,"If I also look at your past track record, you have taken up guidance pretty much every year consistently multiple times during the year.",0.0,0.878,0.122,0.4939
+249,Is there enough buffer on both sides of the equation is my first question.,0.0,1.0,0.0,0.0
+250,"Salil Parekh The way we looked at our growth guidance, we really try to take a look at where is the demand today, what we have done with large deals, what we are seeing across many of our accounts.",0.036,0.9,0.063,0.2732
+251,"For example, if you see some of the statistics that we share, number of accounts over $100 mn or $50 mn- they have seen big movements over the last 12, 24, 36 months.",0.0,0.899,0.101,0.3612
+252,So we have some view of how that will move in the coming year and then how we are working on new account acquisitions and focus on that.,0.0,1.0,0.0,0.0
+253,"Those are the things we built in, to build the guidance and that is the approach we take every year and in April as we look ahead and then as the year moves, as we get other information we try to then see how best to communicate what we are seeing in the demand environment.",0.026,0.903,0.072,0.5719
+254,It’s the same approach that we will follow.,0.0,1.0,0.0,0.0
+255,"So, it is difficult for example to say what does it mean there is a cushion and not cushion because at this stage what we see is what we are sharing which is 13% to 15% on the growth and in every quarter with the broad-based connection we have with clients and interactions across the industry we will continue to share what we see with respect to the demand environment.",0.051,0.813,0.136,0.7717
+256,Divya Nagarajan Got it and on the margin side I think you have spoken repeatedly about investments and the investments for future growth.,0.0,0.894,0.106,0.3818
+257,"If you were to split your margin you have taken your guide down roughly by a percent, could you split it into what could be the contribution of the investments and what is really the contribution of all the other metrics that you have talked about that are likely to reverse.",0.0,1.0,0.0,0.0
+258,"Nilanjan Roy Yes, so like I said, every year we have headwinds on compensation, that is the biggest one.",0.0,0.741,0.259,0.7133
+259,We have headwinds this year coming on the travel and the facility side as things open up.,0.0,1.0,0.0,0.0
+260,"And then we have the cost optimization program which has been running quite well across all these years – automation, onsite-offshore, subcon – again which is also high, and then the investments which we are going to make.",0.0,0.878,0.122,0.6115
+261,"We will start the investments during the year and this will be on sales side, cloud capabilities, people incentives on higher skill sets.",0.0,0.905,0.095,0.3182
+262,"So, it is a combination of all this.",0.0,1.0,0.0,0.0
+263,We are not really calling out the separate impact and all of that has been considered into the margin structure.,0.0,1.0,0.0,0.0
+264,Divya Nagarajan Got it.,0.0,1.0,0.0,0.0
+265,My last question if I may.,0.0,1.0,0.0,0.0
+266,"So should I assume that your increased visa cost that you have had, you have almost had like 1% impact in the quarter, the higher visa application is to kind of offset some of the subcontracting pressures that you have had now with travel opening up in the western market.",0.043,0.877,0.081,0.2551
+267,"Nilanjan Roy Yes so as I mentioned, the impact in the margin walk was a combination of visa, third- party cost and another one off which we enjoyed in quarter three, that was altogether 1% in margin walk which I took you through.",0.0,0.821,0.179,0.8271
+268,Divya Nagarajan Got it thanks I will come for follow up if there is any time and wish you all the best for the year.,0.0,0.692,0.308,0.8689
+269,Pankaj Kapoor Hi!,0.0,1.0,0.0,0.0
+270,Thanks for the opportunity.,0.0,0.26,0.74,0.6908
+271,The question again is on margins and the investment that you spoke of.,0.0,1.0,0.0,0.0
+272,"I was just wondering are these similar to the investment that you had done in 2018-2019, so more of one time kind of an investment or these are more regular investments that anyway you would keep doing in the business.",0.0,1.0,0.0,0.0
+273,"Salil Parekh I think the way we are looking at it is, we put in place that strategy a few years ago.",0.0,1.0,0.0,0.0
+274,"We built out deep capability across multiple areas – that was what we did in the first sort of 6 months, a year or so.",0.0,1.0,0.0,0.0
+275,We are now seeing over the last 4 years a good impact of that approach.,0.0,0.828,0.172,0.4404
+276,"We see a tremendous demand environment which we see across cloud, areas of digital, automation, and some of the new digital tech companies.",0.075,0.925,0.0,-0.2006
+277,We want to take that and build the capability deeper in those areas.,0.0,0.902,0.098,0.0772
+278,We consider that now one time approach in the next few quarters to get it mobilized.,0.0,1.0,0.0,0.0
+279,It is not something which is going to be a continuous new activity for us and then we want to again like we did last time a shift into building capability from the operating business itself.,0.0,0.899,0.101,0.4215
+280,"But since we see an inflection point in what we see as the opportunity set, we want to make sure we take advantage of that, keep our leading position with market share growth that we have had over the past 3-4 years and try to build on that for the coming 3 to 5 years.",0.0,0.745,0.255,0.9413
+281,"Pankaj Kapoor Understand that, and the other question also was on your guidance on the revenue side.",0.0,1.0,0.0,0.0
+282,What kind of a outlook you are building in on the macro concerns around what is happening in the Eastern Europe or even the larger macro worries around the inflation in your end markets.,0.078,0.922,0.0,-0.4215
+283,"Are you taking any impact of that, maybe in the second half of the year, or the guidance is more on an ‘as is’ basis and in case if there is any incremental deterioration in the macros that would be probably incremental to whatever the guidance that we have given.",0.0,1.0,0.0,0.0
+284,"Salil Parekh Today what we see is the point that you mentioned are in the macro environment, but as we look at our demand environment we do not see any impact to it.",0.052,0.948,0.0,-0.1901
+285,"And we do not have a clear view of how to make an estimate for Q3, Q4 at what level and so on.",0.09,0.91,0.0,-0.2924
+286,Based on that we have built the guidance today and we will evolve it as we go through.,0.0,1.0,0.0,0.0
+287,We feel comfortable given what we are seeing in the environment that this is the sort of growth that we will see in the range of 13% to 15%.,0.0,0.828,0.172,0.6815
+288,We do not see really an impact of those factors in the demand environment today.,0.097,0.903,0.0,-0.128
+289,Vibhor Singhal Salil couple of questions again on the European part.,0.0,1.0,0.0,0.0
+290,"My first question is that as you have already mentioned that our exposure to Russia and the other geographies as of now is limited, just wanted to basically understand, as we work for a lot of multinational clients who have operations across countries and in parts of Russia and Europe as well.",0.035,0.926,0.039,0.0516
+291,"So, what are the conversations with those clients like.",0.0,0.762,0.238,0.3612
+292,Is there a possibility of them maybe curtailing down this to some extent or is there some negativity in the conversation that is creeping in.,0.121,0.879,0.0,-0.5106
+293,"Second, a more longer-term question on the same geography is that, over the last 2 to 3 years, in fact more than that last 4-5 years we have seen eastern Europe evolve as a destination for hiring for a lot of companies maybe in data analytics and many other domains.",0.0,1.0,0.0,0.0
+294,"Do you believe that the current war situation has pushed that back by maybe a few quarters or years or do you think it is a temporary situation and once it resolves, the earlier attractiveness of eastern Europe vis-à-vis hiring for the specific domains will still come back as it was before?",0.068,0.854,0.078,-0.1027
+295,"Salil Parekh So, I have understood first was is the situation in Ukraine impacting any demand in European clients if that is the question - currently our conversations and discussions with clients in Europe do not see any impact on the demand environment for us because of this situation.",0.06,0.94,0.0,-0.25
+296,Of course as we go through the next few quarters and so on we will see how it plays out depending on the duration and so on.,0.0,0.929,0.071,0.25
+297,"On the second one, the recruitment situation, we have centers for example in countries in Eastern Europe and we see that growing quite well for us.",0.0,0.854,0.146,0.4754
+298,Today we have no center in Ukraine but the other areas we have been expanding in and that has developed quite well.,0.065,0.81,0.125,0.359
+299,We do not see an impact today – there might obviously be impact with centers in Ukraine.,0.0,1.0,0.0,0.0
+300,"So our centers which are in other geographies in Eastern Europe, we are seeing good growth in those centers.",0.0,0.756,0.244,0.6705
+301,"Vibhor Singhal So if I were to specifically ask something like Hungary, Poland, Austria they would continue to remain attractive destinations for us to hire and do businesses there.",0.0,0.833,0.167,0.6597
+302,Salil Parekh Poland and Romania are the locations where we have centers and we are actively recruiting and scaling up in those locations.,0.0,0.905,0.095,0.3182
+303,"Vibhor Singhal Got it, thanks for taking my questions and wish you all the best.",0.0,0.55,0.45,0.8689
+304,Ravi Menon Thank you for the opportunity.,0.0,0.485,0.515,0.6486
+305,"Just want to clarify on this pass through cost, should we not think of this as like a margin tailwind whenever this pass through cost reduces because I assume that your customers have the option let us say if it is the ServiceNow software, they can procure it themselves.",0.0,0.925,0.075,0.4215
+306,"So, I would assume that these are done at zero markup would that be correct?",0.0,1.0,0.0,0.0
+307,"Nilanjan Roy Yes, these are long-term contracts and I think the value proposition which we have is how we bundle services with these software.",0.0,0.812,0.188,0.6249
+308,"So, it is just not a one-off sale.",0.0,1.0,0.0,0.0
+309,"I think that the proposition with us, is that we can integrate this into the cloud into the vertical stacks etc.",0.0,1.0,0.0,0.0
+310,and bundle that with the services which we have.,0.0,1.0,0.0,0.0
+311,So that is the way we look at it.,0.0,1.0,0.0,0.0
+312,"Ravi Menon But my question was what should we assume as a margin for this, should we assume that this is a margin tailwind, should we think of this and adjust for the margins accordingly.",0.0,1.0,0.0,0.0
+313,I assume that this is a zero margin because the client can actually procure that and just ask you to implement it.,0.0,1.0,0.0,0.0
+314,Nilanjan Roy But as you see the overall market for software as a service is growing dramatically and that is something where we can come in and add this value.,0.0,0.831,0.169,0.6883
+315,"So, it is just not one client with one software there are multiple clients, there are horizontal softwares, various kinds as well.",0.0,0.909,0.091,0.2732
+316,"So, I think this is a proposition which we have which is quite unique for us so you just cannot see it as a one-off intervention with one client.",0.0,1.0,0.0,0.0
+317,"Ravi Menon So are you saying these are software that you own, this is your intellectual property, I thought these are third party items bought for service delivery.",0.0,0.812,0.188,0.7184
+318,"Nilanjan Roy Yes like I said these are software which are of course owned by the SaaS vendors but the bundling of services which we do with it, that is the value proposition we give to our client.",0.0,0.839,0.161,0.6908
+319,"Ravi Menon Second question is, if you look at the incremental revenue this quarter we added about $30 mn, last quarter we added north of $50 mn, if I remember correctly and this quarter the increase in pass through cost is $40 mn.",0.0,0.948,0.052,0.3182
+320,"So, if I just for that, your services revenue has dropped in a surprisingly strong demand environment.",0.071,0.667,0.262,0.6124
+321,So how should we think about it?,0.0,1.0,0.0,0.0
+322,"I mean is it that certain projects have come to an end and this is across the board, I mean we have seen decline in Life sciences both in North America and Europe.",0.0,0.938,0.062,0.2732
+323,"But it is not that this one vertical that dragged you down or a particular client, it seems to be the incremental revenue is soft across the board so how should we think about that.",0.037,0.963,0.0,-0.0772
+324,"Nilanjan Roy Yes so firstly, volume growth sequentially has been very strong first point.",0.0,0.546,0.454,0.8464
+325,"Second point if you see our YoY, it is 20.6% versus 19.7% for the year.",0.0,1.0,0.0,0.0
+326,Our number for exit rate is higher than the average for the year.,0.0,0.902,0.098,0.0772
+327,"Number two our volumes growth sequentially is higher, we have added 22,000 people this quarter and I am assuming many of these are being hired to look for future demand and get them into production so that is the third signal we have got.",0.032,0.884,0.084,0.34
+328,Fourth if you see from a revenue perspective versus the volume increase we have seen.,0.0,0.859,0.141,0.3182
+329,"We have talked about the seasonality of quarter four, and if you look back over the last 5-6 years we have always had a seasonality of revenue versus volume in quarter four because of the working day impact.",0.0,1.0,0.0,0.0
+330,We have seen some COVID leave in the initial part of January impacting us.,0.085,0.915,0.0,-0.0516
+331,We had this one off we have just talked about the commercial contract for one client and of course there are some other puts and takes.,0.0,1.0,0.0,0.0
+332,So I do not think you can just see quarter four in isolation.,0.184,0.816,0.0,-0.4019
+333,We would not have given a guidance of 13% to 15% - this is probably the highest guidance we have given at the start of the year in the last 10 years at least.,0.0,1.0,0.0,0.0
+334,So I think all the demand indicators and landmarks are looking very good.,0.096,0.701,0.203,0.4005
+335,Ravi Menon One last question on the utilization.,0.0,1.0,0.0,0.0
+336,You are talking about cooling it down a little.,0.0,1.0,0.0,0.0
+337,"What would be a good range that we should think about, would it come down to about 85% or so, would that be sufficient or should we think even lower.",0.066,0.846,0.088,0.1779
+338,"Nilanjan Roy Yes, so 85% is the number – it may go up or down in the quarter but that would be somewhere where we would be – more or less in the comfort range as well.",0.0,0.795,0.205,0.7583
+339,"Jamie Friedman Nilanjan, I believe that you mentioned in your prepared remarks that you are anticipating that the subcontractor costs are plateauing.",0.0,0.917,0.083,0.2263
+340,"I was just wondering why you are concluding that, is that Visa related or is there something else we should be aware of.",0.0,1.0,0.0,0.0
+341,"Nilanjan Roy So, our subcon costs are pretty much plateaued at around 11.1% in this quarter as a percentage of revenue, but from an exit headcount perspective it has actually come down.",0.0,0.937,0.063,0.2732
+342,And the reason for this whole ramp up of this subcons is our recruitment engine was a bit behind.,0.0,1.0,0.0,0.0
+343,"We were hiring 11,000, 12,000 people each quarter and the balance demand was being fulfilled by subcons.",0.078,0.777,0.145,0.3182
+344,"With us now getting into this mode of hiring freshers, we hired 22,000 people this quarter which is close to about 7% of the exit headcount.",0.0,1.0,0.0,0.0
+345,And as we look ahead we will continue to push on the pedal in terms of recruitment and replace many of the subcons either through a replacement system or what we call a program of ‘subcon to hires’ in which we offer them a full time employment within the company.,0.0,1.0,0.0,0.0
+346,"So, we have been doing that.",0.0,1.0,0.0,0.0
+347,We have been at the lowest of the industry in 2019-2020 in terms of subcon.,0.157,0.843,0.0,-0.3818
+348,"So, we know where we have to get at.",0.0,1.0,0.0,0.0
+349,"It may take us some time, a few quarters, but we know that's the margin lever we can press on.",0.0,1.0,0.0,0.0
+350,"Jamie Friedman Thank you and then I believe Nilanjan you also had quantified the client contract provision, could you repeat the percentage impact if you stated it.",0.0,0.912,0.088,0.3612
+351,Nilanjan Roy So it is less than a percentage and we think over a period of time this should come back.,0.0,1.0,0.0,0.0
+352,"Jamie Friedman Got it, thank you I will get back in the queue.",0.0,0.828,0.172,0.3612
+353,"Kumar Rakesh Good evening, thank you for taking my question.",0.0,0.597,0.403,0.6597
+354,My first question was more around the margin and the guidance which we have reduced a bit.,0.0,1.0,0.0,0.0
+355,So is this a reflection of some of the transient impacts which we are seeing especially about some of the things which you talked about supply side constraint and the investment which we are making or is there a structural change in some of the cost structure of the deals which we are making.,0.0,1.0,0.0,0.0
+356,"So, as we have strong growth in some of the additional cost which comes along with that through third party and other things are essentially pushing our margin down?",0.0,0.751,0.249,0.8225
+357,"Nilanjan Roy No, so the last part is I think quite clear, if you have seen actually our large deal strategy which we announced in the beginning of FY2019, we were then doing about $3 bn large deal.",0.0,0.927,0.073,0.4391
+358,"So we went from $3 bn to $6 bn to $9 bn to $14 bn, so while large deals actually went up even our margins went up.",0.0,1.0,0.0,0.0
+359,"So some of that impact which people fear, when we go into large deals in the initial part of the cycle, of course headwinds are there because clients want cost savings upfront.",0.093,0.87,0.038,-0.4404
+360,But we are clear about the deal tenure and how do we price the deal so that over a period of time we are able to take out costs from our various levers which we have and come closer to the portfolio margin.,0.0,0.925,0.075,0.5267
+361,"So that is something we have been doing for the last 3, 4, 5 years, 10 years in this industry.",0.0,1.0,0.0,0.0
+362,"I think the impact we are talking about is much more about the investments we want to make around what we have seen in the past, the success of what we have done, and we think with this robust demand environment these are new capabilities we should invest in as we progress.",0.025,0.796,0.179,0.8422
+363,"And the usual headwinds which we talked about, the bigger differentiation is the pandemic cost normalizing and I think you all have the numbers in terms of travel, utilization, onsite- offshore, subcon.",0.0,1.0,0.0,0.0
+364,"So, some of those you can start triangulating what is going to come back on return to normal.",0.0,1.0,0.0,0.0
+365,Kumar Rakesh Got it thanks for that.,0.0,0.674,0.326,0.4404
+366,"Our large deal wins which we report have been steady between $2, $2.5 bn for the last few quarters.",0.0,0.829,0.171,0.5719
+367,To understand a lot of the deal activity is also happening in the smaller size which is not getting reflected here.,0.0,1.0,0.0,0.0
+368,So would you give sense on the overall deal size how that being trending or would you consider sharing that data on an ongoing basis?,0.0,0.896,0.104,0.4215
+369,Salil Parekh I think at this stage we are not sharing that data outside.,0.152,0.848,0.0,-0.3252
+370,Our focus was to share some of the areas which we had made sort of a change a few years ago for example the digital revenue percentage and the large deal value.,0.0,0.867,0.133,0.5574
+371,"What you mentioned of course is accurate, we have tremendous activity across all these sizes, we have a very robust overall pipeline and also a very robust conversion with net new which also feeds a little bit into the earlier discussion on our revenue growth guidance.",0.0,0.843,0.157,0.7897
+372,"Kumar Rakesh Great one final thing, I think I heard that you talk about 85,000 fresher hiring which we have done this fiscal year any target which we have set for next fiscal year.",0.0,0.889,0.111,0.6249
+373,"Salil Parekh For next year's campus recruiting we have not communicated that beyond saying that we will do more than 50,000 campus recruits for next year.",0.0,1.0,0.0,0.0
+374,As we go through the year we will communicate more on that but today we see an active campus recruitment program.,0.0,0.849,0.151,0.5499
+375,"Kumar Rakesh Got it, thanks for that, I will fall back in the queue.",0.0,0.818,0.182,0.4404
+376,Sandeep Shah Thanks for the opportunity.,0.0,0.412,0.588,0.6908
+377,Most of the questions are answered.,0.0,1.0,0.0,0.0
+378,"Just wanted to understand the gap between the utilization including trainee and excluding trainees is as big as 700 basis points and we are adding freshers for last so many quarters and with that you are also expecting subcontracting cost savings, is it fair to say second half of FY2023 margin may have more upward bias?",0.029,0.931,0.04,0.1585
+379,"Pricing, with a lag may also be a tailwind versus first half?",0.179,0.821,0.0,-0.34
+380,"Nilanjan Roy Yes, these trainees have to go through the whole Mysore stint, then they go to the bench, they get reskilled on specialty skills, and then we lead them into production.",0.0,0.92,0.08,0.4019
+381,So it takes some time as well and which is why utilization excluding trainees and including trainees you see the gap.,0.0,0.905,0.095,0.2732
+382,We have an increase in the overall trainee count as well between quarter-to-quarter who have not been deployed in projects.,0.0,0.804,0.196,0.5267
+383,But from a margin perspective I am not sure this is a big part of the headwind of H1vs.,0.12,0.88,0.0,-0.3491
+384,H2.,0.0,1.0,0.0,0.0
+385,"I think the H1 impact because of the comp increase is upfront one which happens every year and you can go back 2 years and see that as well, but overall for the year at 21% to 23% we are quite comfortable.",0.0,0.828,0.172,0.7958
+386,"Sandeep Shah And just a clarification Nilanjan, just further to what Ravi has asked.",0.0,1.0,0.0,0.0
+387,"So, even if you look at the revenue growth excluding third party has marginal decline but at the same time you are also saying the volumes have gone up, so is it the offshore effort in this quarter has not actually gone down so why is the volume growth not getting reflected in the revenue growth ex pass through as a whole.",0.0,0.847,0.153,0.8573
+388,So is it the realization in this quarter slightly lower?,0.175,0.825,0.0,-0.228
+389,"Nilanjan Roy No, we have some routine puts and takes, one is always if you go back you will always see the seasonality due to working days.",0.0,1.0,0.0,0.0
+390,The second one is the COVID impact in the initial part of the year; and the third one is the one contractual provision which we made for a client.,0.0,1.0,0.0,0.0
+391,So I think these are the areas due to which you are not seeing that volume benefits flowing into revenue.,0.0,0.88,0.12,0.3818
+392,"Like Salil also said, we have seen strong sequential quarterly volumes.",0.0,0.608,0.392,0.7003
+393,Salil Parekh discussed and mentioned.,0.0,1.0,0.0,0.0
+394,"First FY2022 was an extremely strong year for us – close to 20% growth, 23% margin.",0.0,0.693,0.307,0.7346
+395,We are clearly taking market share and really connecting very strongly with our clients for all the digital and cloud work.,0.0,0.704,0.296,0.762
+396,"As we go ahead we want to focus on the ever expanding opportunity set in cloud, digital, data, analytics, automation, and in doing that we want to make sure that we remain a leader in the pack and continue the market share taking that we have been doing.",0.0,0.813,0.187,0.7845
+397,We also want to focus on our employees with increased engagement and increased methods of working with their compensation increases and career progressions.,0.0,0.691,0.309,0.7579
+398,Putting all of that together we come to a growth guidance of 13% to 15% for this financial year 2023 and a margin guidance of 21% to 23%.,0.0,0.912,0.088,0.3818
+399,We have a strong outlook and we look forward to working with our clients and employees for this outlook to be delivered in financial year 2023. one-on-ones in the quarter.,0.0,0.898,0.102,0.5106
+400,Take care.,0.0,0.238,0.762,0.4939
