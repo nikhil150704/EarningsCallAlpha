@@ -1,5 +1,14 @@
 import os
 import yfinance as yf
+import yfinance.shared as yfshared
+import requests
+
+# Fix for empty data errors
+yfshared._session = requests.Session()
+yfshared._session.headers.update({
+    "User-Agent": "Mozilla/5.0"
+})
+
 import pandas as pd
 from config import TICKER, OUTPUT_RETURNS_DIR, RETURN_WINDOW
 
