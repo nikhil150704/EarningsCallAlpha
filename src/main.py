@@ -5,6 +5,7 @@ import logging
 from datetime import datetime
 import re
 from pathlib import Path
+import fitz  # PyMuPDF
 
 from config import Config
 from cleaning import process_and_save
@@ -29,15 +30,10 @@ def sort_files_by_quarter(files):
     return sorted(files, key=extract_key)
 
 def extract_date_from_text(text: str) -> str | None:
-    """
-    Extracts earnings call date from transcript body.
-    Looks for formats like: July 15, 2022 or 15 July 2022
-    """
     patterns = [
-        r"([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})",         # July 15, 2022
-        r"(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})"           # 15 July 2022
+        r"([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})",
+        r"(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})"
     ]
-
     for pattern in patterns:
         match = re.search(pattern, text)
         if match:
@@ -51,7 +47,14 @@ def extract_date_from_text(text: str) -> str | None:
             return dt.strftime("%Y-%m-%d")
     return None
 
-
+def extract_date_from_raw_pdf(pdf_path: str) -> str | None:
+    try:
+        with fitz.open(pdf_path) as doc:
+            text = "\n".join([doc[i].get_text("text") for i in range(min(3, len(doc)))])
+            return extract_date_from_text(text)
+    except Exception as e:
+        logger.warning(f"⚠️ Could not extract date from raw PDF {pdf_path}: {e}")
+        return None
 
 def main(company: str):
     config = Config(company)
@@ -76,7 +79,6 @@ def main(company: str):
         logger.info(f"🧼 Cleaning: {filename} → {quarter_key}")
         try:
             process_and_save(Path(file_path), Path(cleaned_path))
-
         except Exception as e:
             logger.error(f"❌ Skipping {filename}: {e}")
             continue
@@ -89,10 +91,11 @@ def main(company: str):
         vader_scores[quarter_key] = run_vader(cleaned_path, quarter_key, config)
         finbert_scores[quarter_key] = run_finbert(cleaned_path, quarter_key, config)
 
-
-        with open(cleaned_path, "r", encoding="utf-8") as f:
-            cleaned_text = f.read()
-        date = extract_date_from_text(cleaned_text)
+        date = extract_date_from_raw_pdf(file_path)
+        if not date:
+            with open(cleaned_path, "r", encoding="utf-8") as f:
+                cleaned_text = f.read()
+            date = extract_date_from_text(cleaned_text)
 
         if date:
             earnings_dates[quarter_key] = date
