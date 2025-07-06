@@ -11,24 +11,27 @@ yfshared._session.headers.update({
     "User-Agent": "Mozilla/5.0"
 })
 
-def fetch_price_data(start: str, end: str) -> pd.DataFrame:
+import time
+import random
+
+def fetch_price_data(start: str, end: str, retries: int = 3, delay: int = 5) -> pd.DataFrame:
     print(f"📥 Downloading price data for {TICKER} from {start} to {end}")
     
-    try:
-        # 🔁 Warm-up hack to prevent first-call failure in fresh envs like Colab
-        _ = yf.download("AAPL", start="2022-01-01", end="2022-01-02")
+    for attempt in range(1, retries + 1):
+        try:
+            df = yf.download(TICKER, start=start, end=end)
+            if df.empty:
+                raise ValueError("Downloaded price data is empty.")
+            df.dropna(inplace=True)
+            return df
+        except Exception as e:
+            print(f"⚠️ Attempt {attempt}/{retries} failed: {e}")
+            if attempt < retries:
+                time.sleep(delay + random.randint(0, 3))  # Add jitter
+            else:
+                print(f"❌ All retries failed for {TICKER}. Returning empty DataFrame.")
+                return pd.DataFrame()
 
-        df = yf.download(TICKER, start=start, end=end)
-
-        if df.empty:
-            raise ValueError("Downloaded price data is empty.")
-        
-        df.dropna(inplace=True)
-        return df
-
-    except Exception as e:
-        print(f"❌ Failed to download price data for {TICKER}: {e}")
-        return pd.DataFrame()
 
 def get_benchmark_return(df: pd.DataFrame, date: str, days: int = RETURN_WINDOW):
     try:
