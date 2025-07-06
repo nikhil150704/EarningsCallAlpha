@@ -1,145 +1,125 @@
+# src/returns.py
+
 import os
-import numpy as np
+import time
+import logging
+import requests
 import pandas as pd
-import torch
-from nltk.tokenize import sent_tokenize
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from transformers import BertTokenizerFast, BertForSequenceClassification
-from datasets import Dataset
+import yfinance as yf
+import yfinance.shared as yfshared
+
 from config import Config
 
+# Setup logging
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# Patch session headers to avoid Yahoo API failures
+yfshared._session = requests.Session()
+yfshared._session.headers.update({"User-Agent": "Mozilla/5.0"})
 
-# ------------------------- Helper Functions -------------------------
 
-def read_sentences(file_path: str) -> list[str]:
-    with open(file_path, "r", encoding="utf-8") as f:
-        lines = f.readlines()
-    sentences = [line.split(":", 1)[1].strip() for line in lines if ":" in line]
-    print(f"📏 Loaded {len(sentences)} sentences from {os.path.basename(file_path)}")
-    return sentences
+def fetch_price_data(start: str, end: str, ticker: str, max_retries: int = 3) -> pd.DataFrame:
+    """
+    Download historical price data for a given ticker and time window.
+    Retries if yfinance returns empty or fails due to API issues.
+    """
+    for attempt in range(1, max_retries + 1):
+        try:
+            logger.info(f"📥 Attempt {attempt}: Downloading price data for {ticker} from {start} to {end}")
+            df = yf.download(ticker, start=start, end=end)
+            if not df.empty:
+                df.dropna(inplace=True)
+                return df
+            else:
+                logger.warning(f"⚠️ Attempt {attempt}: Downloaded price data is empty.")
+        except Exception as e:
+            logger.error(f"❌ Attempt {attempt}: Failed to get ticker '{ticker}' due to: {e}")
+        time.sleep(2)
 
-def save_dataframe(df: pd.DataFrame, suffix: str, model_name: str,config):
-    output_file = os.path.join(config.OUTPUT_SCORES_DIR, f"{model_name}_sentiment_output_{suffix}.csv")
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
-    df.to_csv(output_file, index=False)
-    print(f"✅ {model_name.upper()} ({suffix}) results saved")
+    logger.error(f"❌ All retries failed for {ticker}. Returning empty DataFrame.")
+    return pd.DataFrame()
 
-# ------------------------- Model Interface -------------------------
 
-class SentimentModel:
-    def run(self, file_path: str, suffix: str, config=None) -> float:
-        raise NotImplementedError("Subclasses must implement run()")
+def get_post_earnings_return(df: pd.DataFrame, date: str, days: int) -> float | None:
+    """
+    Return percentage return N days *after* earnings date.
+    """
+    try:
+        event_date = pd.to_datetime(date)
+        if event_date not in df.index:
+            event_date = df.index[df.index.searchsorted(event_date)]
+        entry_idx = df.index.get_loc(event_date) + 1
+        exit_idx = entry_idx + days
+        if exit_idx >= len(df):
+            return None
+        entry_price = df['Close'].iloc[entry_idx]
+        exit_price = df['Close'].iloc[exit_idx]
+        return (exit_price - entry_price) / entry_price
+    except Exception as e:
+        logger.warning(f"⚠️ Post-earnings return failed for {date}: {e}")
+        return None
 
-# ------------------------- VADER Model -------------------------
 
-class VaderModel(SentimentModel):
-    def __init__(self):
-        self.analyzer = SentimentIntensityAnalyzer()
+def get_benchmark_return(df: pd.DataFrame, date: str, days: int) -> float | None:
+    """
+    Return percentage return N days *before and including* earnings date.
+    """
+    try:
+        event_date = pd.to_datetime(date)
+        event_date = df.index[df.index.searchsorted(event_date)]
+        entry_idx = df.index.get_loc(event_date)
+        exit_idx = entry_idx + days
+        if exit_idx >= len(df):
+            return None
+        entry_price = df['Close'].iloc[entry_idx]
+        exit_price = df['Close'].iloc[exit_idx]
+        return (exit_price - entry_price) / entry_price
+    except Exception as e:
+        logger.warning(f"⚠️ Benchmark return failed for {date}: {e}")
+        return None
 
-    def run(self, file_path: str, suffix: str, config=None) -> float:
-        sentences = read_sentences(file_path)
-        results = []
-        for idx, sentence in enumerate(sentences, 1):
-            if not sentence.strip():
-                continue
-            score = self.analyzer.polarity_scores(sentence)
-            if "compound" not in score:
-                continue
-            results.append({
-                "index": idx,
-                "sentence": sentence,
-                **score
-            })
 
-        if not results:
-            print(f"⚠️ VADER skipped: No valid sentences for {suffix}")
-            return 0.0
+def compute_alpha_table(
+    signals: dict,
+    earnings_dates: dict,
+    price_data: pd.DataFrame,
+    company: str,
+    config: Config
+) -> pd.DataFrame:
+    """
+    For each earnings date:
+        - Calculate post-earnings strategy return
+        - Calculate benchmark return (hold for same duration from earnings)
+        - Compute alpha = strategy - benchmark
+    Save results to CSV.
+    """
+    result = []
+    for quarter_key, date in earnings_dates.items():
+        if quarter_key not in signals:
+            logger.warning(f"⚠️ No signal for {quarter_key}, skipping alpha.")
+            continue
 
-        df = pd.DataFrame(results)
-        avg = df["compound"].mean()
-        save_dataframe(df, suffix, "vader",config)
-        print(f"✅ VADER ({suffix}): {avg:.4f}")
-        return avg
+        strat_return = get_post_earnings_return(price_data, date, config.RETURN_WINDOW)
+        bench_return = get_benchmark_return(price_data, date, config.RETURN_WINDOW)
+        if strat_return is None or bench_return is None:
+            logger.warning(f"⚠️ Return computation failed for {quarter_key} ({date})")
+            continue
 
-# ------------------------- FinBERT Model -------------------------
-
-class FinBERTModel(SentimentModel):
-    def __init__(self):
-        self.tokenizer = BertTokenizerFast.from_pretrained("ProsusAI/finbert")
-        self.model = BertForSequenceClassification.from_pretrained("ProsusAI/finbert").to(device)
-        self.model.eval()
-
-    def run(self, file_path: str, suffix: str, config=None) -> float:
-        sentences = read_sentences(file_path)
-        if not sentences:
-            print(f"⚠️ FinBERT skipped: No valid input for {suffix}")
-            return 0.0
-
-        data = Dataset.from_dict({"text": sentences})
-        data = data.map(lambda x: self.tokenizer(x["text"], truncation=True, padding="max_length", max_length=128), batched=True)
-        data.set_format(type="torch", columns=["input_ids", "attention_mask"])
-
-        all_scores, all_labels = [], []
-        with torch.no_grad():
-            for i in range(0, len(data), 32):
-                batch = data[i:i+32]
-                inputs = {k: v.to(device) for k, v in batch.items()}
-                outputs = self.model(**inputs)
-                probs = torch.softmax(outputs.logits, dim=-1)
-                scores, labels = torch.max(probs, dim=1)
-                all_scores.extend(scores.cpu().numpy())
-                all_labels.extend(labels.cpu().numpy())
-
-        label_map = {0: "NEGATIVE", 1: "NEUTRAL", 2: "POSITIVE"}
-        df = pd.DataFrame({
-            "index": np.arange(1, len(sentences)+1),
-            "sentence": sentences,
-            "label": [label_map[l] for l in all_labels],
-            "score": all_scores
-        })
-
-        save_dataframe(df, suffix, "finbert",config)
-        score_map = {"POSITIVE": 1, "NEUTRAL": 0, "NEGATIVE": -1}
-        avg = df["label"].map(score_map).mean()
-        print(f"✅ FinBERT ({suffix}): {avg:.4f}")
-        return avg
-
-# ------------------------- Model Registry -------------------------
-
-class ModelRegistry:
-    def __init__(self):
-        self.models = {
-            "vader": VaderModel(),
-            "finbert": FinBERTModel()
+        alpha = strat_return - bench_return
+        row = {
+            "Quarter": quarter_key,
+            "Date": date,
+            "Signal": signals[quarter_key]["signal"],
+            "Strategy_Return": round(strat_return, 4),
+            "Benchmark_Return": round(bench_return, 4),
+            "Alpha": round(alpha, 4)
         }
+        result.append(row)
 
-    def run_model(self, model_name: str, file_path: str, suffix: str, config=None) -> float:
-        if model_name not in self.models:
-            raise ValueError(f"Unsupported model: {model_name}")
-        return self.models[model_name].run(file_path, suffix, config)
-
-model_registry = ModelRegistry()
-
-# ------------------------- API -------------------------
-
-def run_vader(file_path: str, suffix: str, config=None) -> float:
-    return model_registry.run_model("vader", file_path, suffix, config)
-
-def run_finbert(file_path: str, suffix: str, config=None) -> float:
-    return model_registry.run_model("finbert", file_path, suffix, config)
-
-def get_sentiment_score(file_path: str, suffix: str, config=None) -> float:
-    if config.MODEL_TOGGLE == "vader":
-        return run_vader(file_path, suffix, config)
-    elif config.MODEL_TOGGLE == "finbert":
-        return run_finbert(file_path, suffix, config)
-    elif config.MODEL_TOGGLE == "ensemble":
-        vader_score = run_vader(file_path, suffix, config)
-        finbert_score = run_finbert(file_path, suffix, config)
-        ensemble_score = config.VADER_WEIGHT * vader_score + config.FINBERT_WEIGHT * finbert_score
-        print(f"✅ Ensemble Score ({suffix}): {ensemble_score:.4f}")
-        return ensemble_score
-    else:
-        raise ValueError(f"Invalid MODEL_TOGGLE in config.py: {config.MODEL_TOGGLE}")
+    df = pd.DataFrame(result)
+    output_file = config.OUTPUT_RETURNS_DIR / f"{company}_alpha.csv"
+    output_file.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(output_file, index=False)
+    logger.info(f"✅ Alpha results saved to {output_file}")
+    return df
