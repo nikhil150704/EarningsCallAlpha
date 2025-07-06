@@ -46,8 +46,16 @@ def extract_date_from_raw_pdf(pdf_path: str) -> str | None:
 
 def generate_quarter_key(date_str: str, latest: str) -> str:
     dt = datetime.strptime(date_str, "%Y-%m-%d")
-    fy = dt.year + 1 if dt.month > 3 else dt.year
-    return f"FY{str(fy)[-2:]}_Q{((dt.month - 1) // 3) % 4 + 1}" if date_str != latest else "current"
+    
+    # FY starts in April
+    if dt.month >= 4:
+        fy = dt.year + 1
+        fiscal_q = ((dt.month - 4) // 3) + 1  # Apr–Jun = Q1
+    else:
+        fy = dt.year
+        fiscal_q = ((dt.month + 8) // 3) + 1  # Jan–Mar = Q4
+
+    return "current" if date_str == latest else f"FY{str(fy)[-2:]}_Q{fiscal_q}"
 
 def main(company: str):
     config = Config(company)
