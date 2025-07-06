@@ -7,4 +7,6 @@ sentencepiece
 vaderSentiment==3.3.2
 nltk==3.8.1
 pymupdf==1.26.1
-yfinance==0.2.36
+yfinance==0.2.37
+requests==2.31.0
+
