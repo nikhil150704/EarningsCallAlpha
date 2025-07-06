@@ -39,29 +39,15 @@ def extract_date_from_text(text: str) -> str | None:
             return dt.strftime("%Y-%m-%d")
     return None
 
-def date_to_fiscal_quarter(date_str: str) -> str:
-    """
-    Convert 'YYYY-MM-DD' to fiscal quarter key like 'Q1_FY23'
-    assuming fiscal year starts in April.
-    """
-    dt = datetime.strptime(date_str, "%Y-%m-%d")
-    month = dt.month
-    year = dt.year
-
-    if 4 <= month <= 6:
-        quarter = "Q1"
-        fy = year + 1
-    elif 7 <= month <= 9:
-        quarter = "Q2"
-        fy = year + 1
-    elif 10 <= month <= 12:
-        quarter = "Q3"
-        fy = year + 1
-    else:  # Jan to March
-        quarter = "Q4"
-        fy = year
-
-    return f"{quarter}_FY{str(fy)[-2:]}"
+def extract_text_from_pdf(pdf_path: str) -> str:
+    try:
+        from PyPDF2 import PdfReader
+        reader = PdfReader(pdf_path)
+        full_text = " ".join(page.extract_text() for page in reader.pages if page.extract_text())
+        return full_text
+    except Exception as e:
+        logger.warning(f"⚠️ Failed to extract raw PDF text from {pdf_path}: {e}")
+        return ""
 
 def main(company: str):
     config = Config(company)
@@ -90,9 +76,9 @@ def main(company: str):
             logger.warning(f"⚠️ Cleaned file missing: {cleaned_path}")
             continue
 
-        with open(cleaned_path, "r", encoding="utf-8") as f:
-            cleaned_text = f.read()
-        date = extract_date_from_text(cleaned_text)
+        # Extract date from raw PDF
+        raw_text = extract_text_from_pdf(file_path)
+        date = extract_date_from_text(raw_text)
 
         if date:
             intermediate.append((file_path, cleaned_path, date))
@@ -108,7 +94,7 @@ def main(company: str):
     vader_scores, finbert_scores, earnings_dates = {}, {}, {}
 
     for idx, (file_path, cleaned_path, date) in enumerate(intermediate):
-        quarter_key = date_to_fiscal_quarter(date)
+        quarter_key = f"prev{len(intermediate) - idx - 1}" if idx < len(intermediate) - 1 else "current"
         filename = os.path.basename(file_path)
 
         logger.info(f"🧠 Running sentiment: {quarter_key}")
