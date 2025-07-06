@@ -7,60 +7,70 @@ import requests
 import pandas as pd
 import yfinance as yf
 import yfinance.shared as yfshared
+from datetime import datetime, timedelta
 from config import Config
 
-# Setup logging
+try:
+    from nsepython import nsefetch
+except ImportError:
+    raise ImportError("Install nsepython via `pip install nsepython`")
+
+# ------------------------- Logging Setup -------------------------
+
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# Patch session headers to avoid Yahoo Finance errors
+# ------------------------- Patch YFinance -------------------------
+
 yfshared._session = requests.Session()
 yfshared._session.headers.update({"User-Agent": "Mozilla/5.0"})
 
+# ------------------------- NSE Fallback Cache -------------------------
+
+nse_cache = {}
 
 def fetch_price_data_fallback_nse(ticker: str, start: str, end: str) -> pd.DataFrame:
     """
-    Fallback method: fetch historical Close prices from NSE website.
-    ticker = raw NSE ticker like 'INFY'
+    Fetch price data from NSE India using nsepython as a fallback.
     """
+    if ticker in nse_cache:
+        logger.info(f"⚡ Loaded {ticker} from cache.")
+        return nse_cache[ticker]
+
+    logger.info(f"⚠️ YFinance failed. Trying fallback using NSE API for {ticker}")
+
     try:
-        start_date = pd.to_datetime(start)
-        end_date = pd.to_datetime(end)
-
-        url = f"https://www.nseindia.com/api/historical/cm/equity?symbol={ticker}&series=[%22EQ%22]&from={start_date.strftime('%d-%m-%Y')}&to={end_date.strftime('%d-%m-%Y')}"
-
+        url = f"https://www.nseindia.com/api/historical/cm/equity?symbol={ticker}&series=[%22EQ%22]&from={start}&to={end}"
         headers = {
             "User-Agent": "Mozilla/5.0",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Accept-Encoding": "gzip, deflate, br"
+            "Accept-Language": "en-US,en;q=0.9"
         }
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        json_data = response.json()
+        records = json_data.get("data", [])
+        if not records:
+            raise ValueError("Empty data from NSE")
 
-        session = requests.Session()
-        session.headers.update(headers)
-        session.get("https://www.nseindia.com")  # set cookies
-
-        resp = session.get(url)
-        data = resp.json().get("data", [])
-
-        if not data:
-            raise ValueError("Empty data from NSE fallback")
-
-        df = pd.DataFrame(data)
+        df = pd.DataFrame(records)
         df["Date"] = pd.to_datetime(df["CH_TIMESTAMP"])
         df.set_index("Date", inplace=True)
-        df = df.rename(columns={"CH_CLOSING_PRICE": "Close"})
-        df["Close"] = pd.to_numeric(df["Close"], errors="coerce")
-        df = df[["Close"]].dropna()
+        df["Close"] = pd.to_numeric(df["CH_CLOSING_PRICE"], errors="coerce")
+        df.dropna(subset=["Close"], inplace=True)
+        df = df[["Close"]]
+        nse_cache[ticker] = df
         return df
 
     except Exception as e:
         logger.error(f"❌ NSE fallback failed for {ticker}: {e}")
         return pd.DataFrame()
 
+# ------------------------- Main Price Fetch -------------------------
 
 def fetch_price_data(start: str, end: str, ticker: str, max_retries: int = 3) -> pd.DataFrame:
     """
-    Download price data using yfinance with fallback to NSE if it fails.
+    Primary method to fetch historical price data.
+    Tries YFinance, then falls back to NSE API.
     """
     for attempt in range(1, max_retries + 1):
         try:
@@ -75,10 +85,10 @@ def fetch_price_data(start: str, end: str, ticker: str, max_retries: int = 3) ->
             logger.error(f"❌ Attempt {attempt}: Failed to get ticker '{ticker}' due to: {e}")
         time.sleep(2)
 
-    logger.warning(f"⚠️ YFinance failed. Trying fallback using NSE API for {ticker}")
     fallback_ticker = ticker.replace(".NS", "")
-    return fetch_price_data_fallback_nse(fallback_ticker)
+    return fetch_price_data_fallback_nse(fallback_ticker, start, end)
 
+# ------------------------- Return Calculations -------------------------
 
 def get_post_earnings_return(df: pd.DataFrame, date: str, days: int) -> float | None:
     try:
@@ -96,7 +106,6 @@ def get_post_earnings_return(df: pd.DataFrame, date: str, days: int) -> float | 
         logger.warning(f"⚠️ Post-earnings return failed for {date}: {e}")
         return None
 
-
 def get_benchmark_return(df: pd.DataFrame, date: str, days: int) -> float | None:
     try:
         event_date = pd.to_datetime(date)
@@ -112,6 +121,7 @@ def get_benchmark_return(df: pd.DataFrame, date: str, days: int) -> float | None
         logger.warning(f"⚠️ Benchmark return failed for {date}: {e}")
         return None
 
+# ------------------------- Alpha Calculation -------------------------
 
 def compute_alpha_table(
     signals: dict,
@@ -121,22 +131,30 @@ def compute_alpha_table(
     config: Config
 ) -> pd.DataFrame:
     result = []
-    for quarter_key, date in earnings_dates.items():
-        if quarter_key not in signals:
-            logger.warning(f"⚠️ No signal for {quarter_key}, skipping alpha.")
+
+    for key, date in earnings_dates.items():
+        if key not in signals:
+            logger.warning(f"⚠️ No signal for {key}, skipping alpha.")
             continue
 
         strat_return = get_post_earnings_return(price_data, date, config.RETURN_WINDOW)
-        bench_return = get_benchmark_return(price_data, date, config.RETURN_WINDOW)
+
+        # Fetch NIFTY50 fallback benchmark
+        benchmark_df = fetch_price_data("2021-09-01", "2022-09-30", "^NSEI")
+        if benchmark_df.empty:
+            logger.warning(f"⚠️ Benchmark fallback to NSE NIFTY failed.")
+            continue
+
+        bench_return = get_benchmark_return(benchmark_df, date, config.RETURN_WINDOW)
         if strat_return is None or bench_return is None:
-            logger.warning(f"⚠️ Return computation failed for {quarter_key} ({date})")
+            logger.warning(f"⚠️ Return calc failed for {key} ({date})")
             continue
 
         alpha = strat_return - bench_return
         row = {
-            "Quarter": quarter_key,
+            "Quarter": key,
             "Date": date,
-            "Signal": signals[quarter_key]["signal"],
+            "Signal": signals[key]["signal"],
             "Strategy_Return": round(strat_return, 4),
             "Benchmark_Return": round(bench_return, 4),
             "Alpha": round(alpha, 4)
