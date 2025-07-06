@@ -1,29 +1,29 @@
 {
     "prev2": {
-        "finbert_score": 0.3597,
-        "vader_score": 0.2621,
-        "finbert_delta": 0.2606,
-        "vader_delta": -0.0404,
-        "combined_score": 0.3206,
-        "combined_delta": 0.1402,
+        "finbert_score": 0.5831,
+        "vader_score": 0.1348,
+        "finbert_delta": 0.1177,
+        "vader_delta": -0.0227,
+        "combined_score": 0.4038,
+        "combined_delta": 0.0616,
         "signal": "LONG"
     },
     "prev1": {
-        "finbert_score": 0.0881,
-        "vader_score": 0.3989,
-        "finbert_delta": -0.2716,
-        "vader_delta": 0.1368,
-        "combined_score": 0.2124,
-        "combined_delta": -0.1082,
+        "finbert_score": 0.4466,
+        "vader_score": 0.1927,
+        "finbert_delta": -0.1365,
+        "vader_delta": 0.0579,
+        "combined_score": 0.345,
+        "combined_delta": -0.0587,
         "signal": "HOLD"
     },
     "current": {
-        "finbert_score": 0.195,
-        "vader_score": 0.2687,
-        "finbert_delta": 0.1069,
-        "vader_delta": -0.1301,
-        "combined_score": 0.2245,
-        "combined_delta": 0.0121,
+        "finbert_score": 0.5673,
+        "vader_score": 0.1296,
+        "finbert_delta": 0.1208,
+        "vader_delta": -0.0632,
+        "combined_score": 0.3922,
+        "combined_delta": 0.0472,
         "signal": "LONG"
     }
 }

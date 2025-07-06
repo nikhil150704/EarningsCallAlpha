@@ -1,0 +1,8 @@
+Quarter,Date,Signal,Strategy_Return,Benchmark_Return,Alpha
+prev1,2022-04-01,HOLD,"Ticker
+INFY.NS   -0.0714
+dtype: float64","Ticker
+INFY.NS   -0.0846
+dtype: float64","Ticker
+INFY.NS    0.0133
+dtype: float64"

@@ -1,295 +1,880 @@
-INFY_Q3_january_22_1 | Mahindroo: Sandeep Mahindroo Thanks, Margreth.
-INFY_Q3_january_22_2 | Mahindroo: Hello everyone and welcome to Infosys Earnings Call to discuss Q3 FY22 results.
-INFY_Q3_january_22_3 | Mahindroo: I am Sandeep from the Investor Relations team in Bengaluru.
-INFY_Q3_january_22_4 | Mahindroo: Let me begin by wishing everyone a very happy New Year.
-INFY_Q3_january_22_5 | Mahindroo: Joining us today on this earnings call, is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy along with other members of the senior management team.
-INFY_Q3_january_22_6 | Mahindroo: We will start the call with some remarks on the performance of the company by Salil and Nilanjan, after that we will open the call for questions.
-INFY_Q3_january_22_7 | Mahindroo: Please note that anything that we say, which refer to our outlook for the future is a forward-looking statement, which must be read in conjunction with the risk that the company faces.
-INFY_Q3_january_22_8 | Mahindroo: A full statement and explanation of these risks is available in our filings with the SEC, which can be found on www.sec.gov.
-INFY_Q3_january_22_9 | Mahindroo: I would now like to turn it over to Salil.
-INFY_Q3_january_22_10 | Parekh: Salil Parekh Good evening and good morning to everyone on the call.
-INFY_Q3_january_22_11 | Parekh: Wish you all a Happy New Year and trust you and your dear ones are well and safe.
-INFY_Q3_january_22_12 | Parekh: Thank you for making the time to join us today.
-INFY_Q3_january_22_13 | Parekh: I am delighted to share with you that we had an extremely strong quarter with 7.0% sequential growth and 21.5% YoY growth in constant currency terms.
-INFY_Q3_january_22_14 | Parekh: Our YoY growth was the fastest we have had in 11 years.
-INFY_Q3_january_22_15 | Parekh: The growth was broad-based across industries, service lines and geographies driven by our differentiated digital and cloud capabilities.
-INFY_Q3_january_22_16 | Parekh: A strong broad-based growth in a seasonally weak quarter is a clear testament to the enormous confidence clients have in us to help them accelerate their business transformation.
-INFY_Q3_january_22_17 | Parekh: This has been made possible by the relentless commitment of our employees through these challenging times.
-INFY_Q3_january_22_18 | Parekh: I am extremely proud as well as grateful for their extraordinary efforts in delivering success for our clients.
-INFY_Q3_january_22_19 | Parekh: Our growth has been accompanied by resilient operating margins at 23.5%.
-INFY_Q3_january_22_20 | Parekh: We delivered these margins while keeping in the forefront our focus on employees with increased compensation and benefits.
-INFY_Q3_january_22_21 | Parekh: Our digital business grew by 42.6% and is now 58.5% of our overall revenues.
-INFY_Q3_january_22_22 | Parekh: Within digital, our cloud work is growing faster, and our Cobalt cloud capabilities are resonating tremendously with our clients.
-INFY_Q3_january_22_23 | Parekh: Some of the highlights of our results are 1.
-INFY_Q3_january_22_24 | Parekh: Revenues at $4.25 bn, with a growth 21.5% YoY and 7.0% sequential in constant
-INFY_Q3_january_22_25 | Roy: Nilanjan Roy everyone a very happy and safe 2022.
-INFY_Q3_january_22_26 | Roy: Q3 was another successive quarter of continued acceleration in revenues at 7.0% constant currency QoQ growth and 21.5% constant currency YoY growth, the highest YoY growth in the last 11 years.
-INFY_Q3_january_22_27 | Roy: Despite the Q3 seasonality, we registered strong broad-based growth across geographies and verticals.
-INFY_Q3_january_22_28 | Roy: Our largest geography North America grew at 21.4% while growth in Europe accelerated to an impressive 27.2% YoY in constant currency terms.
-INFY_Q3_january_22_29 | Roy: Retail, Communication, Manufacturing and Life Sciences also saw 20% or higher YoY growth in constant currency.
-INFY_Q3_january_22_30 | Roy: We won 25 large deals, and large deals being those with over $50 mn TCV, totaling $2.5 bn of TCV - 6 in Retail, 5 each in Financial Services, Communications, and Energy Utilities Resources and Services, 2 in Manufacturing and 1 each in Hi-Tech and Life Sciences.
-INFY_Q3_january_22_31 | Roy: Region wise, 16 were from the Americas, 7 were from Europe and 2 from RoW.
-INFY_Q3_january_22_32 | Roy: The share of new deals increased in Q3 to 44% within the large deal numbers.
-INFY_Q3_january_22_33 | Roy: Client metrics improved further with $100+ mn client count increasing to 37, an increase of 8 YoY.
-INFY_Q3_january_22_34 | Roy: We added 111 new clients in the last quarter.
-INFY_Q3_january_22_35 | Roy: Operating parameters remain robust.
-INFY_Q3_january_22_36 | Roy: Utilization was 88.5% slightly lower than the previous quarter easing some of the supply side pressures.
-INFY_Q3_january_22_37 | Roy: Onsite effort mix inched up marginally to 23.8%.
-INFY_Q3_january_22_38 | Roy: Q3 margins remained resilient at 23.5%, a marginal drop of 10 basis points versus previous quarter.
-INFY_Q3_january_22_39 | Roy: The major components of the sequential margin movements were as below.
-INFY_Q3_january_22_40 | Roy: • 80 basis points impact due to comp hikes and promotions and other employee interventions.
-INFY_Q3_january_22_41 | Roy: • 40 basis points impact due to the utilization decline.
-INFY_Q3_january_22_42 | Roy: These were offset by • About 20 basis points benefit due to the rupee and other cross currency movements, • 50 basis point benefit due to cost optimization, and • 40 basis points benefit due to SG&A leverage other one-offs included therein.
-INFY_Q3_january_22_43 | Roy: Q3 EPS grew by 11.2% in dollar terms and 13.1% in rupee terms on a YoY basis.
-INFY_Q3_january_22_44 | Roy: Although DSO increased to 71 days due to higher seasonal billing, an increase of 5 days versus the last quarter, it is still a reduction of 2 days versus Q3 of prior year.
-INFY_Q3_january_22_45 | Roy: Free cash flow for the quarter was healthy at $719 mn.
-INFY_Q3_january_22_46 | Roy: Free cash flow as a percentage of net profit was 93% for Q3 and 104% for the nine months till date.
-INFY_Q3_january_22_47 | Roy: Yield on cash balances improved to 5.29% compared to 5.13% in Q2.
-INFY_Q3_january_22_48 | Roy: Our balance sheet remains strong and debt free.
-INFY_Q3_january_22_49 | Roy: Consolidated cash and investments at the end of the quarter stood at $4.28 bn after paying over $840 mn of interim dividend during the quarter.
-INFY_Q3_january_22_50 | Roy: Return on equity increased further to 30.4% an increase of 3% over Q3 of the prior year driven by robust performance and consistent capital returns through share buyback and increased dividend payout.
-INFY_Q3_january_22_51 | Roy: On the employee front, voluntary 12 months attrition increased to 25.5% and as Salil commented while LTM attrition continues to increase due to the tail effect, quarterly annualized attrition was flattish compared to Q2.
-INFY_Q3_january_22_52 | Roy: We will continue to invest in all aspects of talent retention including compensation, promotion, skill incentives, learning and career progression.
-INFY_Q3_january_22_53 | Roy: We have also simultaneously increased the pace of hiring, talent reskilling and the usage of subcon to prevent any impact on client commitment.
-INFY_Q3_january_22_54 | Roy: We have added 12,450 talented employees on a net basis in the last quarter, which is the highest ever.
-INFY_Q3_january_22_55 | Roy: Our global college graduate hiring program for this fiscal has been increased to over 55,000 versus the previous quarter number of 45,000.
-INFY_Q3_january_22_56 | Roy: In India over 93% of Infoscions have received at least one dose of the vaccine.
-INFY_Q3_january_22_57 | Roy: Over 97% of our employees globally are presently working in remote environment, due to the heightened precautions against the new variant.
-INFY_Q3_january_22_58 | Roy: Driven by robust demand environment and our continued market share gains, we are further increasing our revenue guidance for FY22 to 19.5% to 20% in constant currency terms from 16.5% to 17.5% earlier and the margin guidance remains unchanged at 22% to 24%.
-INFY_Q3_january_22_59 | Roy: With that we can open the call for questions.
-INFY_Q3_january_22_60 | Rudra: Ankur Rudra Thank you.
-INFY_Q3_january_22_61 | Rudra: Happy New Year to everybody.
-INFY_Q3_january_22_62 | Rudra: Excellent numbers for the quarter.
-INFY_Q3_january_22_63 | Rudra: Clearly a very strong growth for Q3.
-INFY_Q3_january_22_64 | Rudra: Could you start with elaborating on –where did the incremental surprise come from.
-INFY_Q3_january_22_65 | Rudra: The full year guidance has increased sharply given the performance of the quarter, so where did the surprise come from?
-INFY_Q3_january_22_66 | Parekh: Salil Parekh I think what we are seeing in the quarter and then all through the year, is the demand environment remains extremely strong and then more and more traction on the digital and the cloud programs.
-INFY_Q3_january_22_67 | Parekh: This is where we saw the most impact in the quarter in Q3 where we had really strong growth of 7% and therefore the overall guidance jumping up by 3%.
-INFY_Q3_january_22_68 | Parekh: In terms of verticals, as I was sharing earlier, it is broad based.
-INFY_Q3_january_22_69 | Parekh: Of course, we have a very strong momentum in Manufacturing, that was something that we were looking forward to.
-INFY_Q3_january_22_70 | Parekh: There is also good momentum that we are seeing in Financial Services given it is our largest vertical, and in Life Sciences that I described before.
-INFY_Q3_january_22_71 | Parekh: Retail is starting to come back nicely as well.
-INFY_Q3_january_22_72 | Parekh: As Nilanjan mentioned, Europe again was a stand-out.
-INFY_Q3_january_22_73 | Parekh: Those are some of the elements that gave us a good outcome in Q3 and then the support for expanding the guidance for the full year.
-INFY_Q3_january_22_74 | Katri: Moshe Katri Thanks.
-INFY_Q3_january_22_75 | Katri: Happy New Year and congrats on very strong results.
-INFY_Q3_january_22_76 | Katri: One, I know you just reported Q3 but are you ready to talk about the entire calendar year down the road, 2022.
-INFY_Q3_january_22_77 | Katri: What has changed in terms of visibility, may be that is the biggest question if this is sustainable down the road.
-INFY_Q3_january_22_78 | Katri: And what can you talk about in terms of color to give us that comfort.
-INFY_Q3_january_22_79 | Katri: And then maybe you can talk a bit about some of the cushion in margins and what sort of levers that you have in the model, especially as some of the bench continues to benefit from the off campus recruiting that has been pretty robust?
-INFY_Q3_january_22_80 | Parekh: Salil Parekh I will start off with the first part and then Nilanjan will comment on the margin levers.
-INFY_Q3_january_22_81 | Parekh: Of course, as you referenced, we have guidance till March 31 of this year.
-INFY_Q3_january_22_82 | Parekh: The color for this calendar year, broadly we see the demand environment remaining strong, the client budgets are looking good.
-INFY_Q3_january_22_83 | Parekh: Our overall pipeline is the largest we have had in a very long time, the number of large deals that we were able to close, as Nilanjan shared- 25 large deals each over $50 mn for a total of $2.5 bn and 44% of these are net new.
-INFY_Q3_january_22_84 | Parekh: So, all of those things are giving us good confidence to what we see going ahead.
-INFY_Q3_january_22_85 | Parekh: Of course, we will have our guidance for our financial year in April.
-INFY_Q3_january_22_86 | Parekh: Nilanjan over to you please.
-INFY_Q3_january_22_87 | Roy: Nilanjan Roy Moshe, on the margins, like I mentioned earlier they were quite resilient for the quarter.
-INFY_Q3_january_22_88 | Roy: A couple of things I just want to call out – the cost levers whether it is onsite or offshore mix, the pyramid, whether it is automation – these are some of the things which we continuously look at deploying.
-INFY_Q3_january_22_89 | Roy: Subcon costs for us have really ramped up and that is an area we will continue to look going ahead.
-INFY_Q3_january_22_90 | Roy: The other thing is pricing and it is important to talk about that as the higher cost now starts feeding into our new deals, that should hopefully have benefits and as digital talents start getting priced in, we are able to show value to our clients in terms of the business transformation.
-INFY_Q3_january_22_91 | Roy: This is something we have started recently.
-INFY_Q3_january_22_92 | Roy: It will take time to pick up and we have talked about it in the last quarter as well.
-INFY_Q3_january_22_93 | Roy: But really that is our focus - we can start getting into both our cost side and also make sure that we are not leaving any free cents and dollars on the table as part of our pricing negotiations.
-INFY_Q3_january_22_94 | Rakesh: Kumar Rakesh Good evening, everyone and thank you for taking my question.
-INFY_Q3_january_22_95 | Rakesh: Congratulations on great set of numbers.
-INFY_Q3_january_22_96 | Rakesh: My first question Salil was, going into this calendar year, one of the largest peers has indicated a strong growth to continue through this year.
-INFY_Q3_january_22_97 | Rakesh: So, looking at our portfolio of capabilities and offerings, do you see that we are well aligned to meet or beat their growth numbers or do you see that we need some intervention to build up our own capability to continue this strong growth going ahead?
-INFY_Q3_january_22_98 | Parekh: Salil Parekh Thanks for that question.
-INFY_Q3_january_22_99 | Parekh: I think in terms of our key capabilities set we have a strong portfolio across digital and cloud.
-INFY_Q3_january_22_100 | Parekh: Our Cobalt set of capabilities is resonating extremely well with our clients.
-INFY_Q3_january_22_101 | Parekh: We see the growth of digital being a reflection of the focus we have had on making these choices over the past four years and positioning the portfolio to where the clients are looking for work.
-INFY_Q3_january_22_102 | Parekh: We also see the cloud capability faster growing than our digital capability.
-INFY_Q3_january_22_103 | Parekh: So yes, we are well positioned to benefit from this.
-INFY_Q3_january_22_104 | Parekh: In addition to that, we have a strong set of capabilities in automation, in modernization.
-INFY_Q3_january_22_105 | Parekh: We have even seen our core services which is now stable this quarter in terms of growth, it is not shrinking.
-INFY_Q3_january_22_106 | Parekh: Our view is that our set of capabilities and portfolio is reflecting what our client expectation/demands are and we have the ability to meet all those from the capability perspective.
-INFY_Q3_january_22_107 | Parekh: We also have the capacity to expand and recruit at the college level and our ongoing recruiting ability to attract talent, which is helping us to deliver all our projects on a regular basis.
-INFY_Q3_january_22_108 | Parekh: So, we feel quite good on how we are positioned as we go ahead into the next year as well.
-INFY_Q3_january_22_109 | Roy: Nilanjan Roy The margin guidance for us is really a comfort range within which we operate so we really do not fine tune that as the year progresses.
-INFY_Q3_january_22_110 | Roy: So, this is a band which we are happy to be in.
-INFY_Q3_january_22_111 | Roy: It was 21% to 23% just before COVID.
-INFY_Q3_january_22_112 | Roy: Now we are 22% to 24%.
-INFY_Q3_january_22_113 | Roy: So that is more like a way for us rather than anything else.
-INFY_Q3_january_22_114 | Roy: And looking ahead, we continue to focus on our cost headwinds potentially in terms of employees, etc., it could be travel into the next year, but like I said we have a very robust cost optimization and of course other levers, which we continue to deploy, so we are quite confident on this.
-INFY_Q3_january_22_115 | Rakesh: Kumar Rakesh So more of a reflection of flexibility that you want to keep for yourself?
-INFY_Q3_january_22_116 | Roy: Nilanjan Roy Correct.
-INFY_Q3_january_22_117 | Rakesh: Kumar Rakesh Thanks a lot for those answers.
-INFY_Q3_january_22_118 | Rakesh: I will fall back.
-INFY_Q3_january_22_119 | Bachman: Keith Bachman I want to pick up on the same line of questioning, if you could just talk about the puts and takes as you see margins over the course of the next three, four, five quarters, really calendar year 2022 and I wanted to see if you could address what you think the impact would be for a few things.
-INFY_Q3_january_22_120 | Bachman: For instance, one of the headwinds this quarter was utilization, how should we be thinking about utilization transform during calendar year 2022?
-INFY_Q3_january_22_121 | Bachman: Number two you said attrition was flat sequentially, how do you think about attrition trends over the course of calendar year 2022?
-INFY_Q3_january_22_122 | Bachman: Do you think that they can move lower or is the market such that demand is so strong that attrition will probably remain elevated?
-INFY_Q3_january_22_123 | Bachman: Number three would be you just brought up travel and any other issues that we should we be thinking about that may impact calendar year 2022 margins, and any other issues you want to bring up and that is it from me?
-INFY_Q3_january_22_124 | Bachman: Thank you.
-INFY_Q3_january_22_125 | Roy: Nilanjan Roy I think that we do not give up the margin guidance for the next year.
-INFY_Q3_january_22_126 | Roy: Now having said that looking at the headwinds, which we actually say pretty much every year are the compensation hikes, you have clients coming back for discounts on renewals, and some of that you offset with the cost optimization program which we run, and I mentioned that a bit earlier in terms of whether it is a pyramid, whether it is subcon, whether it is automation, new levers which we are looking at is pricing.
-INFY_Q3_january_22_127 | Roy: So, that is something which we are continuously working on and remain quite confident.
-INFY_Q3_january_22_128 | Roy: Travel is one thing which is quite unknown at this moment in terms of when does it come back, even if it comes back does it come back to pre COVID levels or in a slightly lower levels so we will have to watch out for that really.
-INFY_Q3_january_22_129 | Roy: In terms of attrition, I think it is a larger industry issue.
-INFY_Q3_january_22_130 | Roy: It is not peculiar to us and fundamentally the volume increase for this industry has to come from freshers.
-INFY_Q3_january_22_131 | Roy: Otherwise, it's a zero-sum game – somebody else's attrition is my lateral and my attrition is somebody else's lateral.
-INFY_Q3_january_22_132 | Roy: So as long as the fresher intake starts increasing because first they have to come into training, then they go into production after 3 or 4 months and that is something which will help with the attrition in the medium term; and like I said we have seen attrition flattening sequentially on a quarterly annualized basis and looking ahead we are seeing some positive signs, but it is too early to say whether it will dramatically come down.
-INFY_Q3_january_22_133 | Roy: But like I said, as freshers feed into the system we should see the overall environment in terms of attrition in the market improving.
-INFY_Q3_january_22_134 | Bachman: Keith Bachman But any comments specifically on utilization?
-INFY_Q3_january_22_135 | Bachman: You think it will help, I heard it is neutral just broadly, and as part of that the offshore percent of labor increase YoY, is that also a trend that you think continues given the dynamics in front of you?
-INFY_Q3_january_22_136 | Bachman: And I will see the floor thereafter.
-INFY_Q3_january_22_137 | Roy: Nilanjan Roy In terms of utilization, this is higher than what we would normally like to be.
-INFY_Q3_january_22_138 | Roy: We would rather operate at 85% to 86%, but having said that even if we bring this down in the future it is largely at offshore locations because 75% of our effort is sitting there.
-INFY_Q3_january_22_139 | Roy: Therefore, utilization does not directly link to the margins because of the way the offshore costs operate, so that is one factor.
-INFY_Q3_january_22_140 | Roy: The second question, in the long run - if you see, COVID, while it had a huge impact on demand, the entire ability for the supply side to deliver in a remote environment really will shine up, and that has opened up the eyes of many of our clients that every work does not have to be done onsite.
-INFY_Q3_january_22_141 | Roy: It can be done in a near shore location, it can be done offshore and I think the beauty of that is secularly we believe this will help the industry in a much more larger offshoring at an overall level and of course part of that benefit will be shifting more work to offshore locations.
-INFY_Q3_january_22_142 | Roy: So, I think this is a good sign.
-INFY_Q3_january_22_143 | Roy: I think there can be short term impacts like we saw this quarter, 10 to 20 basis points here and there, but the secular trend - we think we will continue to see that the large global markets will open a lot more offshoring opportunities.
-INFY_Q3_january_22_144 | Nagarajan: Diviya Nagarajan Thanks for taking my question and congratulations on a very impressive quarter to the team.
-INFY_Q3_january_22_145 | Nagarajan: My question is on pricing, Salil we have seen now several quarters of strong demand and it looks like we are looking at another year, looking at the run rate that we are exiting the calendar with a pretty strong demand as well and you just discussed supply in the last few comments that you made.
-INFY_Q3_january_22_146 | Nagarajan: How do you see pricing really trend in the next 12- 18 months, is there an opportunity for this to go up on a like to like basis?
-INFY_Q3_january_22_147 | Parekh: Salil Parekh Diviya thanks for that question, this is Salil.
-INFY_Q3_january_22_148 | Parekh: I think on pricing first we have seen some level of stability in what we saw in the specific deals that we closed in Q3 versus Q2.
-INFY_Q3_january_22_149 | Parekh: On the longer term, Nilanjan has shared in the past we have put in place a very focused effort on communicating the value that we are helping create with our clients through the digital programs.
-INFY_Q3_january_22_150 | Parekh: We are also seeing as we have shared wage increases, we have done three in the last 12 months and broadly we are seeing large enterprises for the first time in a very long time are seeing inflation in their daily environment and so are more open to having these discussions.
-INFY_Q3_january_22_151 | Parekh: With these factors in mind, we really see some more value that we can bring in through communicating and demonstrating our digital impact that we are creating through those programs.
-INFY_Q3_january_22_152 | Parekh: And that, while it will not be immediate, over the next several quarters, in my view will help us to build out more resilience in the margin profile.
-INFY_Q3_january_22_153 | Parekh: Diviya Nagarajan – UBS You earlier enumerated your skills and capabilities, but if you were to kind of think of any future investments that you are going to make, in which direction would you direct that investment through in terms of your skills and capabilities?
-INFY_Q3_january_22_154 | Parekh: Salil Parekh Today the biggest drive within our clients is really cloud, our Cobalt capabilities are very strong and we are constantly enhancing it.
-INFY_Q3_january_22_155 | Parekh: Whether we look at the public cloud partnerships, we have also a strong ecosystem of private cloud partnerships, we have a good ecosystem with the SaaS players, extremely strong cloud native cloud first development.
-INFY_Q3_january_22_156 | Parekh: Those would be really the first areas where we are already leading, but we will continue to grow.
-INFY_Q3_january_22_157 | Parekh: Then you have the areas which focus on cybersecurity, which focus on data and analytics, which focus on IoT.
-INFY_Q3_january_22_158 | Parekh: Those are the areas which are seeing incredible traction with our clients.
-INFY_Q3_january_22_159 | Parekh: We have a strong modernization and automation leveraging Artificial Intelligence
-INFY_Q3_january_22_160 | Machine Learning: and Machine Learning - we will continue to build that out.
-INFY_Q3_january_22_161 | Machine Learning: Our approach is going to be to drive all of these through our current margin profile.
-INFY_Q3_january_22_162 | Machine Learning: That is what we will drive through as opposed to any new place for investments.
-INFY_Q3_january_22_163 | Nagarajan: Diviya Nagarajan Fair enough.
-INFY_Q3_january_22_164 | Nagarajan: One last bookkeeping question, your ‘Other’ segment had a big swing this quarter, is there anything particular that we should be looking at here, any one off or if not, what drove that.
-INFY_Q3_january_22_165 | Mehta: Ashwin Mehta I had one question on the third party bought out items for service delivery.
-INFY_Q3_january_22_166 | Mehta: That item seems to have gone up by almost $71 mn this quarter almost 1.8% of revenues, so just wanted to check what does this pertain to and is it possibly related to the data center takeovers that we would have done in some of our large deals.
-INFY_Q3_january_22_167 | Roy: Nilanjan Roy As we are looking at in many digital end-to-end transformation, whether IT as a service, full stack transformation, we have involved, infrastructure, SaaS, data, so it is a full stack transformation and in many cases, these involve infrastructure and software as well.
-INFY_Q3_january_22_168 | Roy: These are bundled deals which are end-to-end transformation and we think they are important as well going ahead when we look at these digital transformations.
-INFY_Q3_january_22_169 | Roy: So, I think as part of our overall deal profiles, we continue to see these deals giving us increased visibility into the organization IT infrastructure and allowing our future deals ahead once we are pretty much front and center in the IT landscape, so that’s what these are.
-INFY_Q3_january_22_170 | Mehta: Ashwin Mehta Just one last question, in terms of our margin outlook over the near term, do you think that with the attrition starting to on a quarterly annualized basis normalizing, the interventions that are required possibly go down in the near term so that we can possibly make a higher exit at the end of this year, so that we can maintain margins in the next year as well?
-INFY_Q3_january_22_171 | Roy: Nilanjan Roy As I said we have not seen a decline as yet, these are flattening and probably will start inching off, so we will continue to do what it takes to invest behind our employees because we know this is more under comfort range which we would be happy in.
-INFY_Q3_january_22_172 | Roy: So, I think it is premature to say when this will really come off, but as of now we are focused in doing all these interventions.
-INFY_Q3_january_22_173 | Roy: This quarter itself like we mentioned 80 basis points of our margin was behind these employee interventions.
-INFY_Q3_january_22_174 | Mehta: Ashwin Mehta Thanks a lot, congrats again and all the best.
-INFY_Q3_january_22_175 | Agarwal: Sandip Agarwal Good evening to the management team, happy New Year and thanks for taking my question.
-INFY_Q3_january_22_176 | Agarwal: First, congratulations on a very good set of numbers.
-INFY_Q3_january_22_177 | Agarwal: Salil, I have a very simple question, you see now you know, our core which is 41% to 42% of the business is stabilizing on a YoY basis, it is probably little growth is there, but digital continues to be at 40% plus growth, so if this trend continues next year, may be our core may become 32% to 33% of the overall pie, so what is your sense from a long term perspective, where do you see this core stabilizing or do you think it will be unfair to see them separately and in the next two to three years you think everything will converge together.
-INFY_Q3_january_22_178 | Agarwal: So, any idea, anything which you can say on that front will be very helpful.
-INFY_Q3_january_22_179 | Parekh: Salil Parekh Thanks for that question.
-INFY_Q3_january_22_180 | Parekh: First as you pointed out, the digital growth is strong at over 40% or 42% and that shows resilience, the demand profile and our portfolio which is overlapping.
-INFY_Q3_january_22_181 | Parekh: The key for the core, instead of looking at the percentage of the business, the key for us is really the core is now stable with a very small growth, so we did not see the decline that we had for some quarters and this makes it extremely strong for us.
-INFY_Q3_january_22_182 | Parekh: We have probably the best capability in automation and modernization across the industry and with this while everyone else’s core is still shrinking, ours will be stable or possibly even have a small uptick and that means we will be the most competitive in this area.
-INFY_Q3_january_22_183 | Parekh: So, I am looking at this as a very positive step.
-INFY_Q3_january_22_184 | Parekh: We of course have to maintain this, and we have to keep building out our automation capabilities.
-INFY_Q3_january_22_185 | Parekh: So, if we succeed in that, I think that is a very good outlook for us in the quarters ahead.
-INFY_Q3_january_22_186 | Agarwal: Sandip Agarwal Thanks that is very helpful and best of luck for the current quarter.
-INFY_Q3_january_22_187 | Padmanabhan: Nitin Padmanabhan Good evening, everyone and thanks for the opportunity.
-INFY_Q3_january_22_188 | Padmanabhan: I had two questions.
-INFY_Q3_january_22_189 | Padmanabhan: The first is on the employee side.
-INFY_Q3_january_22_190 | Padmanabhan: If you look at the employee cost under cost of revenue, it has consistently been down as a percentage of revenue, it has actually below what it used to be pre-COVID and a lot of growth has actually been added on the subcon side and even if you look at the numbers, it looks like most of the additions are all freshers.
-INFY_Q3_january_22_191 | Padmanabhan: So, keeping this dynamic in mind, just wanted to understand as we go forward and may be attrition normalizes, how do you see this subcon evolving from an operational perspective, do you think you will have to hire these subcontractors directly on to your rolls and would that involve slightly higher cost, so how should one think of this dynamic overall was the first question?
-INFY_Q3_january_22_192 | Padmanabhan: The second question was around the digital proportion of the business has meaningfully gone up and if you look into the next year and I am sure it will be even higher.
-INFY_Q3_january_22_193 | Padmanabhan: From that perspective does that mean that our ability to sort of garner price increases will be far higher going into next year than what you see today?
-INFY_Q3_january_22_194 | Padmanabhan: Thank you.
-INFY_Q3_january_22_195 | Roy: Nilanjan Roy I will take the first question on subcon.
-INFY_Q3_january_22_196 | Roy: As Salil said the demand environment is so strong that we do not want to leave anything on the table and therefore whether it is through subcon or through lateral or freshers, we will first intend to fulfill that demand and of course over a period of time we will optimize that entire structure.
-INFY_Q3_january_22_197 | Roy: So, whether it is programmed to rehire some of the subcon, some of them we will of course lapse and then we will get the lateral hires, some will be promoted, so within that the dynamics will play itself out over the next year.
-INFY_Q3_january_22_198 | Roy: But at the moment it is critical that we do not leave any demand in the table and of course this will remain a optimization lever for us.
-INFY_Q3_january_22_199 | Roy: We were one of the lowest in the industry at about 6.9%, pre-COVID and we are above 11% now but this is the lever, we will have over the medium-term to optimize.
-INFY_Q3_january_22_200 | Parekh: Salil Parekh On the pricing, as the digital work will increase what we have been putting in place which is demonstrating to our clients the value creation through digital will give us a larger opportunity for that because the revenue will be larger.
-INFY_Q3_january_22_201 | Parekh: So, I think your assumption is absolutely valid, you will have an additional ability to do that as long as we execute in that value.
-INFY_Q3_january_22_202 | Padmanabhan: Nitin Padmanabhan Thanks for that.
-INFY_Q3_january_22_203 | Padmanabhan: Just a clarification on the first answer, so on the first point considering fresher addition are so strong this year and subcon is so strong does it mean that next year our ability to add as many freshers will be little more inhibited, in the sense that we will need to focus a little more on laterals next year, is that a way to think about it?
-INFY_Q3_january_22_204 | Roy: Nilanjan Roy No.
-INFY_Q3_january_22_205 | Roy: I do not think so.
-INFY_Q3_january_22_206 | Roy: I think we will continue to have a very robust fresher program - it has always been there.
-INFY_Q3_january_22_207 | Roy: We have a strong internal rotation program so people based on the skills, we take them through our reskilling program and we then move them to new project, promotions etc.
-INFY_Q3_january_22_208 | Roy: So, in that sense we think it will be a combination of both laterals and freshers, and I do not think we see a change in that.
-INFY_Q3_january_22_209 | Shah: Sandeep Shah Thanks for the opportunity and congratulations on a solid execution both on revenue and margins.
-INFY_Q3_january_22_210 | Shah: The first question is CY2021 or FY2022 had a benefit of mega deal wins especially from Vanguard as well as Daimler as well as some amount of pent-up demand for you as well as the industry.
-INFY_Q3_january_22_211 | Shah: So, the question is entering into next year do you believe that these elements one has to take care in terms of tapering off any growth in the next year or you do believe the digital adoption or the cloud adoption journey has a low penetration which does not make us upset in looking in the next year in terms of the growth momentum?
-INFY_Q3_january_22_212 | Parekh: Salil Parekh Thanks for your question.
-INFY_Q3_january_22_213 | Parekh: First, the guidance increase, as I am sure you are seeing this for the year ending March of this year.
-INFY_Q3_january_22_214 | Parekh: We are not yet commenting in terms of quantitative guidance for next year.
-INFY_Q3_january_22_215 | Parekh: What is clear nonetheless is the demand environment remains strong and our portfolio of services and capabilities, especially on cloud and digital are resonating well with clients so we see a good pipeline for that.
-INFY_Q3_january_22_216 | Parekh: Our large deals in this quarter also very strong.
-INFY_Q3_january_22_217 | Parekh: We continue to see a good large deal pipeline.
-INFY_Q3_january_22_218 | Parekh: We have seen a steady expansion of our clients over $50, $100, $200 mn and so on.
-INFY_Q3_january_22_219 | Parekh: We have seen that expansion within clients is working very well and also our new client wins and new accounts are working well.
-INFY_Q3_january_22_220 | Parekh: So overall we have the various elements of continuing this demand environment strongly but we do not have a specific guidance yet for year starting in April 1, 2022.
-INFY_Q3_january_22_221 | Shah: Sandeep Shah Fair enough and just last two bookkeeping questions.
-INFY_Q3_january_22_222 | Shah: The way I look at is Daimler deal has two legs to ramp up one being the rebadging and employee related ramp up and second being the pass-through data center related ramp up.
-INFY_Q3_january_22_223 | Shah: Is it fair to say that most of these two legs ramp up is largely behind or may continue in Q4 as well as 1Q of next financial year and second in terms of FY2022 wage hike, is it largely over or something is due in the fourth quarter as well?
-INFY_Q3_january_22_224 | Parekh: Salil Parekh On the Daimler, we do not have any more specifics.
-INFY_Q3_january_22_225 | Parekh: I can understand what you are looking for, but we have not gone into that specifics now with Q3 and Q4.
-INFY_Q3_january_22_226 | Parekh: The overall guidance for increase of the revenue covers all of that including Daimler and many other clients and especially with Q4 and the seasonality of that quarter.
-INFY_Q3_january_22_227 | Parekh: In terms of salary and compensation increases, we have done three of them for this year.
-INFY_Q3_january_22_228 | Parekh: There is nothing specific that is planned for Q4.
-INFY_Q3_january_22_229 | Parekh: We will start to look at what we will do in the next financial year but nothing specific is being planned in Q4.
-INFY_Q3_january_22_230 | Shah: Sandeep Shah Thanks, and all the best Sir.
-INFY_Q3_january_22_231 | Taneja: Manik Taneja Thank you for the opportunity.
-INFY_Q3_january_22_232 | Taneja: Just wanted to understand we have seen a significant increase in offshore mix of revenues over the last 18 months and this quarter saw a slight aberration.
-INFY_Q3_january_22_233 | Taneja: What caused that and how do you see this going forward?
-INFY_Q3_january_22_234 | Taneja: Thank you.
-INFY_Q3_january_22_235 | Parekh: Salil Parekh The mix has changed over the last 18 months with a lot of the remote working that was put in place and work from home allowing the work to be delivered from a different location with tremendous yields and efficiency.
-INFY_Q3_january_22_236 | Parekh: What we saw in the last quarter was, some things have opened up in terms of travel and we are also being extremely optimal in what we have done in the previous quarters and this is something that has given us more ability to drive connects with clients and growth.
-INFY_Q3_january_22_237 | Parekh: We see in the medium-term, tremendous opportunity for an efficient mix because clients have also seen that once the work is done remotely or work from home that more opportunity exists, there are work to be done from a location further away.
-INFY_Q3_january_22_238 | Parekh: So, in general as a medium-term trend we see that as a positive trend, we will have of course each quarter some movements up and down but as a longer- term trend we see that as a positive trend.
-INFY_Q3_january_22_239 | Taneja: Manik Taneja Thank you Salil.
-INFY_Q3_january_22_240 | Taneja: I had one more additional question.
-INFY_Q3_january_22_241 | Taneja: Just wanted to get your thoughts around what we are seeing from a revenue productivity metrics standpoint, for revenue per person standpoint and while there is significant amount of offshore shift over the last 18 months, we have seen utilization go up.
-INFY_Q3_january_22_242 | Taneja: So, what is causing the increase in revenue productivity despite a significant offshore shift that we have seen over the last 18 months.
-INFY_Q3_january_22_243 | Taneja: If you could talk about some of the factors that are driving it?
-INFY_Q3_january_22_244 | Taneja: Thank you.
-INFY_Q3_january_22_245 | Parekh: Salil Parekh On the revenue productivity there are a number of things that are going on.
-INFY_Q3_january_22_246 | Parekh: We see some of the mix of our work which is also changing more to digital and there we see much more revenue productivity coming in.
-INFY_Q3_january_22_247 | Parekh: As you pointed out utilization has also gone up.
-INFY_Q3_january_22_248 | Parekh: We will also see some of our work, for example on the consulting side, data and analytics side growing well and that is giving us some level of boost.
-INFY_Q3_january_22_249 | Parekh: There is also some impact which we have not quantified externally on leveraging some amount of automation and platforms that gives us this benefit.
-INFY_Q3_january_22_250 | Parekh: So, there are several factors at work despite the onshore offshore mix changes.
-INFY_Q3_january_22_251 | Taneja: Manik Taneja Sure, thank you and all the best for future.
-INFY_Q3_january_22_252 | Jain: Rahul Jain Thanks for the opportunity and congratulations.
-INFY_Q3_january_22_253 | Jain: I have a question regarding the core revenue which has seen stabilization this year, I think you have addressed this point partly but wanted to understand what could be the prospect for this side of the revenue in the coming years especially when we talk about so much shift to digitalization?
-INFY_Q3_january_22_254 | Parekh: Salil Parekh There we have no individual guidance for digital or for the core in that sense, even for Q4 or for the next financial year.
-INFY_Q3_january_22_255 | Parekh: But structurally what is clear is we have been successful in driving automation and modernization while we make sure that we are probably the most competitive large player in the market, working with large clients.
-INFY_Q3_january_22_256 | Parekh: This certainly enhances the strong confidence and if we can continue to execute on that, it will have its own benefits in the medium term.
-INFY_Q3_january_22_257 | Jain: Rahul Jain One more thing on the taxation part our tax rate you know steadily has been upwards of 27% on an average, this looks little higher given the country where most of our earnings belongs to so any flavor you can share in terms of what should be the ideal tax rate on a sustainable basis and in near-term?
-INFY_Q3_january_22_258 | Roy: Nilanjan Roy Our tax rate has always hovered around this 27%, 28% range and I do not think you will see much movement going against the range.
-INFY_Q3_january_22_259 | Roy: Because in any case, as you know, this is India rate plus other countries.
-INFY_Q3_january_22_260 | Roy: 25% is India-only rate.
-INFY_Q3_january_22_261 | Roy: So I think, in the long run, you will be around this range itself.
-INFY_Q3_january_22_262 | Jain: Rahul Jain So which regions tax rate are much higher than the 25% rate also for taking this number higher than the average?
-INFY_Q3_january_22_263 | Roy: Nilanjan Roy Yes, so see we cannot give that individually, but there are some jurisdictions and also in some jurisdiction where those taxes cannot be set off here as well, so it is a combination of both.
-INFY_Q3_january_22_264 | Jain: Rahul Jain Okay so if we are not able to set that off those results in double taxation.
-INFY_Q3_january_22_265 | Jain: That is also a reason okay got it thank you so much.
-INFY_Q3_january_22_266 | Friedman: James Friedman Let me echo the congratulations for this fiscal year.
-INFY_Q3_january_22_267 | Friedman: I just had one simple question across for Nilanjan, can you remind us what the capital allocation strategy is.
-INFY_Q3_january_22_268 | Friedman: I remember you had put it out during the analyst day in November 2020 but where is share repurchase in the prioritization.
-INFY_Q3_january_22_269 | Friedman: Thank you.
-INFY_Q3_january_22_270 | Roy: Nilanjan Roy What we had announced in FY20 basically, was that we have taken capital allocation to 85%, prior to this it was 70% and we said that we will take that over the period of 5 years through a combination of progressive growth-oriented dividend policy plus either share buyback or one off special dividends.
-INFY_Q3_january_22_271 | Roy: And in the first two years, as we have announced, we have actually paid back 82% through higher increased normal dividends and also through share buyback which we announced last year.
-INFY_Q3_january_22_272 | Roy: We have already paid back 82% and we remain quite committed to overall 85% over 5 years.
-INFY_Q3_january_22_273 | Friedman: James Friedman Got it.
-INFY_Q3_january_22_274 | Friedman: Thank you so much.
-INFY_Q3_january_22_275 | Gohil: Vimal Gohil Thank you for the opportunity and congratulations on a great quarter.
-INFY_Q3_january_22_276 | Gohil: My question is on your employee cost which partially has been addressed but how should we think about the core employee cost growth which comes under the cost of revenue which has seen around 4% CQGR increase over Q1 of FY2021 versus the 6% revenue growth and this has been in light of a very sharp increase in attrition and of course further supply challenges and etc.
-INFY_Q3_january_22_277 | Gohil: So, if you can just highlight, are our wage hikes in line with the industry or have they been much higher than the industry?
-INFY_Q3_january_22_278 | Gohil: How should we think about this historically and if you could give some kind of an outlook over there as well?
-INFY_Q3_january_22_279 | Gohil: Thanks.
-INFY_Q3_january_22_280 | Roy: Nilanjan Roy Yes, so you have to see both employee cost and subcon together as the cost of people as a combination, you cannot see one in isolation that is number one.
-INFY_Q3_january_22_281 | Roy: Number two, just from an overall cost perspective, we of course are very focused on the attrition and being competitive in the markets as well as being employer of choice for many of our employee.
-INFY_Q3_january_22_282 | Roy: Going ahead when we look at intervention on the compensation side like Salil said, we did across, in January, we did across the board, in July we have done across the board, in Q3 as well we have done very segmented and for targeted talent and we will continue doing that into Q4 etc., looking at high points of attrition and doing it much more tactically to see where we are seeing demand being high in the markets for those skills and target those employees really.
-INFY_Q3_january_22_283 | Roy: So, I think it is very nuanced like I said and we will continue doing that.
-INFY_Q3_january_22_284 | Gohil: Vimal Gohil Sir, so basically if we were to look at your guidance, it implies 0% to 2% sort of a revenue growth in Q4.
-INFY_Q3_january_22_285 | Gohil: Considering the fact that there were some furloughs in Q3, your revenue growth could be higher than what you have reported in Q3.
-INFY_Q3_january_22_286 | Gohil: So, is your guidance conservative at this point in time how should we think about that?
-INFY_Q3_january_22_287 | Parekh: Salil Parekh In terms of the guidance, it was very strong.
-INFY_Q3_january_22_288 | Parekh: It is 19.5% to 20%.
-INFY_Q3_january_22_289 | Parekh: There is no further color in saying whether it is conservative, aggressive, or stable.
-INFY_Q3_january_22_290 | Parekh: We see a very good demand outlook; we see good large deals and good portfolio and the guidance is a very big move up from where we were in the last quarter.
-INFY_Q3_january_22_291 | Parekh: Vimal Gohil – Union AMC Fair enough Sir.
-INFY_Q3_january_22_292 | Parekh: Thank you so much and all the very best.
-INFY_Q3_january_22_293 | Mahindroo: Sandeep Mahindroo Thanks Salil for closing comments and thanks again for joining us on this call.
-INFY_Q3_january_22_294 | Mahindroo: Look forward to talking to you again during the year.
-INFY_Q3_january_22_295 | Mahindroo: Thank you.
+INFY_Q3_january_22_1 | Moderator
+INFY_Q3_january_22_2 | As a reminder, all participant lines will be in the listen-only mode and there will be an
+INFY_Q3_january_22_3 | opportunity for you to ask questions after the presentation concludes.
+INFY_Q3_january_22_4 | Should you need
+INFY_Q3_january_22_5 | assistance during the conference call, please signal an operator by pressing “*” then “0”
+INFY_Q3_january_22_6 | on your touchtone phone.
+INFY_Q3_january_22_7 | Please note that this conference is being recorded.
+INFY_Q3_january_22_8 | I now hand
+INFY_Q3_january_22_9 | the conference over to Mr. Sandeep Mahindroo.
+INFY_Q3_january_22_10 | Thank you and over to you Sir!
+INFY_Q3_january_22_11 | Sandeep Mahindroo
+INFY_Q3_january_22_12 | Thanks, Margreth.
+INFY_Q3_january_22_13 | Hello everyone and welcome to Infosys Earnings Call to discuss Q3
+INFY_Q3_january_22_14 | FY22 results.
+INFY_Q3_january_22_15 | I am Sandeep from the Investor Relations team in Bengaluru.
+INFY_Q3_january_22_16 | Let me begin
+INFY_Q3_january_22_17 | by wishing everyone a very happy New Year.
+INFY_Q3_january_22_18 | Joining us today on this earnings call, is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan
+INFY_Q3_january_22_19 | Roy along with other members of the senior management team.
+INFY_Q3_january_22_20 | We will start the call with some remarks on the performance of the company by Salil and
+INFY_Q3_january_22_21 | Nilanjan, after that we will open the call for questions.
+INFY_Q3_january_22_22 | Please note that anything that we say, which refer to our outlook for the future is a
+INFY_Q3_january_22_23 | forward-looking statement, which must be read in conjunction with the risk that the
+INFY_Q3_january_22_24 | company faces.
+INFY_Q3_january_22_25 | A full statement and explanation of these risks is available in our filings
+INFY_Q3_january_22_26 | with the SEC, which can be found on www.sec.gov.
+INFY_Q3_january_22_27 | I would now like to turn it over to Salil.
+INFY_Q3_january_22_28 | Salil Parekh
+INFY_Q3_january_22_29 | Good evening and good morning to everyone on the call.
+INFY_Q3_january_22_30 | Wish you all a Happy New Year
+INFY_Q3_january_22_31 | and trust you and your dear ones are well and safe.
+INFY_Q3_january_22_32 | Thank you for making the time to join
+INFY_Q3_january_22_33 | us today.
+INFY_Q3_january_22_34 | I am delighted to share with you that we had an extremely strong quarter with 7.0%
+INFY_Q3_january_22_35 | sequential growth and 21.5% YoY growth in constant currency terms.
+INFY_Q3_january_22_36 | Our YoY growth
+INFY_Q3_january_22_37 | was the fastest we have had in 11 years.
+INFY_Q3_january_22_38 | The growth was broad-based across industries, service lines and geographies driven by
+INFY_Q3_january_22_39 | our differentiated digital and cloud capabilities.
+INFY_Q3_january_22_40 | A strong broad-based growth in a
+INFY_Q3_january_22_41 | seasonally weak quarter is a clear testament to the enormous confidence clients have in
+INFY_Q3_january_22_42 | us to help them accelerate their business transformation.
+INFY_Q3_january_22_43 | This has been made possible by the relentless commitment of our employees through
+INFY_Q3_january_22_44 | these challenging times.
+INFY_Q3_january_22_45 | I am extremely proud as well as grateful for their extraordinary
+INFY_Q3_january_22_46 | efforts in delivering success for our clients.
+INFY_Q3_january_22_47 | Our growth has been accompanied by resilient operating margins at 23.5%.
+INFY_Q3_january_22_48 | We delivered
+INFY_Q3_january_22_49 | these margins while keeping in the forefront our focus on employees with increased
+INFY_Q3_january_22_50 | compensation and benefits.
+INFY_Q3_january_22_51 | Our digital business grew by 42.6% and is now 58.5% of our overall revenues.
+INFY_Q3_january_22_52 | Within
+INFY_Q3_january_22_53 | digital, our cloud work is growing faster, and our Cobalt cloud capabilities are resonating
+INFY_Q3_january_22_54 | tremendously with our clients.
+INFY_Q3_january_22_55 | Some of the highlights of our results are
+INFY_Q3_january_22_56 | 1.
+INFY_Q3_january_22_57 | Revenues at $4.25 bn, with a growth 21.5% YoY and 7.0% sequential in constant
+INFY_Q3_january_22_58 | currency
+INFY_Q3_january_22_59 | 2.
+INFY_Q3_january_22_60 | Broad-based growth across all our industries, service lines and geographies.
+INFY_Q3_january_22_61 | All our
+INFY_Q3_january_22_62 | segments reported a strong double-digit growth,
+INFY_Q3_january_22_63 | 3.
+INFY_Q3_january_22_64 | Large deals at $2.5 bn,
+INFY_Q3_january_22_65 | 4.
+INFY_Q3_january_22_66 | Onsite mix at 23.8% and utilization at 88.5%,
+INFY_Q3_january_22_67 | 5.
+INFY_Q3_january_22_68 | Operating margins strong at 23.5%,
+INFY_Q3_january_22_69 | 6.
+INFY_Q3_january_22_70 | Free cash flow at $719 mn,
+INFY_Q3_january_22_71 | 7.
+INFY_Q3_january_22_72 | Attrition increased to 25.5%.
+INFY_Q3_january_22_73 | Our quarterly annualized attrition was flattish on
+INFY_Q3_january_22_74 | sequential basis.
+INFY_Q3_january_22_75 | 8.
+INFY_Q3_january_22_76 | We had a net headcount increase of 12,450, attracting leading talent from the
+INFY_Q3_january_22_77 | market.
+INFY_Q3_january_22_78 | We have increased our annual college recruiting target to 55,000, and
+INFY_Q3_january_22_79 | Nilanjan will comment more on this.
+INFY_Q3_january_22_80 | We remain comfortable with our ability to
+INFY_Q3_january_22_81 | support our clients in their digital transformation journey.
+INFY_Q3_january_22_82 | Financial Services grew at 15.5% in constant currency with broad-based growth across
+INFY_Q3_january_22_83 | geographies and steady deal wins.
+INFY_Q3_january_22_84 | Various subsectors like lending, mortgage, cards,
+INFY_Q3_january_22_85 | payments are seeing increasing demand and clients are driving cloud transformation
+INFY_Q3_january_22_86 | initiatives to build resilient and scalable platforms.
+INFY_Q3_january_22_87 | Retail segment growth was 19.8% in constant currency.
+INFY_Q3_january_22_88 | Across sub-verticals we see
+INFY_Q3_january_22_89 | increased client spend on digital transformation including digital supply chain,
+INFY_Q3_january_22_90 | omnichannel commerce and large-scale cost take out initiatives to improve business
+INFY_Q3_january_22_91 | resilience.
+INFY_Q3_january_22_92 | We signed six large deals in this segment during the quarter.
+INFY_Q3_january_22_93 | The communication segment grew at 22.2% on constant currency.
+INFY_Q3_january_22_94 | Segment performance
+INFY_Q3_january_22_95 | continued to improve with ramp up of recently won deals.
+INFY_Q3_january_22_96 | Client budgets are focused on
+INFY_Q3_january_22_97 | digital and customer experience programs, increasing networking infrastructure, cloud
+INFY_Q3_january_22_98 | adoption and security with emphasis on 5G roll out and innovation spend.
+INFY_Q3_january_22_99 | Energy, utility, resources and services vertical continued its steady performance with
+INFY_Q3_january_22_100 | 13.6% constant currency growth and 5 large deal wins.
+INFY_Q3_january_22_101 | We are seeing gradual
+INFY_Q3_january_22_102 | improvement across various businesses as consumer spending continues to increase and
+INFY_Q3_january_22_103 | clients focus on increasing technology transformation around areas like customer
+INFY_Q3_january_22_104 | experience, cybersecurity and workload migration to the cloud.
+INFY_Q3_january_22_105 | The manufacturing segment growth accelerated to 48.4% in constant currency with
+INFY_Q3_january_22_106 | continued ramp up of the Daimler deal and steady momentum in new deal wins.
+INFY_Q3_january_22_107 | We see
+INFY_Q3_january_22_108 | across the broad improvement within various subsectors and geographies and expect
+INFY_Q3_january_22_109 | client focus to continue in areas like smart manufacturing, IOT, digital supply chain and
+INFY_Q3_january_22_110 | connected products.
+INFY_Q3_january_22_111 | High tech growth improved during the quarter to 18.9% in constant currency.
+INFY_Q3_january_22_112 | Clients are
+INFY_Q3_january_22_113 | seeing renewed momentum in terms of spending on digital transformation programs linked
+INFY_Q3_january_22_114 | to customer, partner and employee engagement.
+INFY_Q3_january_22_115 | Life Sciences segment performance also improved further to 29.2% growth.
+INFY_Q3_january_22_116 | Adoption of
+INFY_Q3_january_22_117 | digital health, telehealth and patient access programs are resulting in significant uptake of
+INFY_Q3_january_22_118 | cloud, IoT, patient facing applications, patient portals and next generation CRM work.
+INFY_Q3_january_22_119 | We had a very strong performance on our income tax program in India.
+INFY_Q3_january_22_120 | Over 5.8 crores or
+INFY_Q3_january_22_121 | 58 mn tax returns were filed using the new system, by the deadline of December 31,
+INFY_Q3_january_22_122 | 2021.
+INFY_Q3_january_22_123 | On the last day over 46 lakhs or 4.6 mn tax returns were filed and during the peak
+INFY_Q3_january_22_124 | hour over 5 lakh or 500,000 tax returns were filed.
+INFY_Q3_january_22_125 | We are proud to be supporting the
+INFY_Q3_january_22_126 | digital strategy for India and for the government and working on this program for future
+INFY_Q3_january_22_127 | modules that will be developed.
+INFY_Q3_january_22_128 | Across digital services in Q3 we have been ranked as a leader in 12 digital service-related
+INFY_Q3_january_22_129 | capabilities from Artificial Intelligence and Automation, Cloud Services, IoT, Engineering,
+INFY_Q3_january_22_130 | Modernization and Big Data and Analytics.
+INFY_Q3_january_22_131 | The strong overall performance stems from four years of sustained strategic focus in
+INFY_Q3_january_22_132 | areas of relevance for our clients in digital and cloud, continuing reskilling of our people
+INFY_Q3_january_22_133 | and deep relationships of trust our clients have with us.
+INFY_Q3_january_22_134 | With this strong momentum in the business and robust pipeline we are increasing our
+INFY_Q3_january_22_135 | annual revenue growth guidance from 16.5% to 17.5% moving up to 19.5% to 20% in
+INFY_Q3_january_22_136 | constant currency.
+INFY_Q3_january_22_137 | Our operating margin guidance remains at 22% to 24%.
+INFY_Q3_january_22_138 | With that, let me hand it over to Nilanjan for his update.
+INFY_Q3_january_22_139 | Nilanjan Roy
+INFY_Q3_january_22_140 | everyone a very happy and safe 2022.
+INFY_Q3_january_22_141 | Q3 was another successive quarter of continued acceleration in revenues at 7.0%
+INFY_Q3_january_22_142 | constant currency QoQ growth and 21.5% constant currency YoY growth, the highest YoY
+INFY_Q3_january_22_143 | growth in the last 11 years.
+INFY_Q3_january_22_144 | Despite the Q3 seasonality, we registered strong broad-based growth across geographies
+INFY_Q3_january_22_145 | and verticals.
+INFY_Q3_january_22_146 | Our largest geography North America grew at 21.4% while growth in Europe
+INFY_Q3_january_22_147 | accelerated to an impressive 27.2% YoY in constant currency terms.
+INFY_Q3_january_22_148 | Retail,
+INFY_Q3_january_22_149 | Communication, Manufacturing and Life Sciences also saw 20% or higher YoY growth in
+INFY_Q3_january_22_150 | constant currency.
+INFY_Q3_january_22_151 | We won 25 large deals, and large deals being those with over $50 mn TCV, totaling $2.5
+INFY_Q3_january_22_152 | bn of TCV - 6 in Retail, 5 each in Financial Services, Communications, and Energy Utilities
+INFY_Q3_january_22_153 | Resources and Services, 2 in Manufacturing and 1 each in Hi-Tech and Life Sciences.
+INFY_Q3_january_22_154 | Region wise, 16 were from the Americas, 7 were from Europe and 2 from RoW.
+INFY_Q3_january_22_155 | The share
+INFY_Q3_january_22_156 | of new deals increased in Q3 to 44% within the large deal numbers.
+INFY_Q3_january_22_157 | Client metrics improved further with $100+ mn client count increasing to 37, an increase of
+INFY_Q3_january_22_158 | 8 YoY.
+INFY_Q3_january_22_159 | We added 111 new clients in the last quarter.
+INFY_Q3_january_22_160 | Operating parameters remain robust.
+INFY_Q3_january_22_161 | Utilization was 88.5% slightly lower than the
+INFY_Q3_january_22_162 | previous quarter easing some of the supply side pressures.
+INFY_Q3_january_22_163 | Onsite effort mix inched up
+INFY_Q3_january_22_164 | marginally to 23.8%.
+INFY_Q3_january_22_165 | Q3 margins remained resilient at 23.5%, a marginal drop of 10 basis points versus
+INFY_Q3_january_22_166 | previous quarter.
+INFY_Q3_january_22_167 | The major components of the sequential margin movements were as
+INFY_Q3_january_22_168 | below.
+INFY_Q3_january_22_169 | • 80 basis points impact due to comp hikes and promotions and other employee
+INFY_Q3_january_22_170 | interventions.
+INFY_Q3_january_22_171 | • 40 basis points impact due to the utilization decline.
+INFY_Q3_january_22_172 | These were offset by
+INFY_Q3_january_22_173 | • About 20 basis points benefit due to the rupee and other cross currency
+INFY_Q3_january_22_174 | movements,
+INFY_Q3_january_22_175 | • 50 basis point benefit due to cost optimization, and
+INFY_Q3_january_22_176 | • 40 basis points benefit due to SG&A leverage other one-offs included therein.
+INFY_Q3_january_22_177 | Q3 EPS grew by 11.2% in dollar terms and 13.1% in rupee terms on a YoY basis.
+INFY_Q3_january_22_178 | Although DSO increased to 71 days due to higher seasonal billing, an increase of 5 days
+INFY_Q3_january_22_179 | versus the last quarter, it is still a reduction of 2 days versus Q3 of prior year.
+INFY_Q3_january_22_180 | Free cash flow for the quarter was healthy at $719 mn.
+INFY_Q3_january_22_181 | Free cash flow as a percentage of
+INFY_Q3_january_22_182 | net profit was 93% for Q3 and 104% for the nine months till date.
+INFY_Q3_january_22_183 | Yield on cash balances improved to 5.29% compared to 5.13% in Q2.
+INFY_Q3_january_22_184 | Our balance sheet remains strong and debt free.
+INFY_Q3_january_22_185 | Consolidated cash and investments at
+INFY_Q3_january_22_186 | the end of the quarter stood at $4.28 bn after paying over $840 mn of interim dividend
+INFY_Q3_january_22_187 | during the quarter.
+INFY_Q3_january_22_188 | Return on equity increased further to 30.4% an increase of 3% over Q3 of the prior year
+INFY_Q3_january_22_189 | driven by robust performance and consistent capital returns through share buyback and
+INFY_Q3_january_22_190 | increased dividend payout.
+INFY_Q3_january_22_191 | On the employee front, voluntary 12 months attrition increased to 25.5% and as Salil
+INFY_Q3_january_22_192 | commented while LTM attrition continues to increase due to the tail effect, quarterly
+INFY_Q3_january_22_193 | annualized attrition was flattish compared to Q2.
+INFY_Q3_january_22_194 | We will continue to invest in all aspects of
+INFY_Q3_january_22_195 | talent retention including compensation, promotion, skill incentives, learning and career
+INFY_Q3_january_22_196 | progression.
+INFY_Q3_january_22_197 | We have also simultaneously increased the pace of hiring, talent reskilling and the usage
+INFY_Q3_january_22_198 | of subcon to prevent any impact on client commitment.
+INFY_Q3_january_22_199 | We have added 12,450 talented
+INFY_Q3_january_22_200 | employees on a net basis in the last quarter, which is the highest ever.
+INFY_Q3_january_22_201 | Our global college
+INFY_Q3_january_22_202 | graduate hiring program for this fiscal has been increased to over 55,000 versus the
+INFY_Q3_january_22_203 | previous quarter number of 45,000.
+INFY_Q3_january_22_204 | In India over 93% of Infoscions have received at least one dose of the vaccine.
+INFY_Q3_january_22_205 | Over 97%
+INFY_Q3_january_22_206 | of our employees globally are presently working in remote environment, due to the
+INFY_Q3_january_22_207 | heightened precautions against the new variant.
+INFY_Q3_january_22_208 | Driven by robust demand environment and our continued market share gains, we are
+INFY_Q3_january_22_209 | further increasing our revenue guidance for FY22 to 19.5% to 20% in constant currency
+INFY_Q3_january_22_210 | terms from 16.5% to 17.5% earlier and the margin guidance remains unchanged at 22%
+INFY_Q3_january_22_211 | to 24%.
+INFY_Q3_january_22_212 | With that we can open the call for questions.
+INFY_Q3_january_22_213 | Moderator
+INFY_Q3_january_22_214 | Thank you very much.
+INFY_Q3_january_22_215 | We will now begin the question-and-answer session.
+INFY_Q3_january_22_216 | The first
+INFY_Q3_january_22_217 | question is from the line of Ankur Rudra from JP Morgan.
+INFY_Q3_january_22_218 | Please go ahead.
+INFY_Q3_january_22_219 | Ankur Rudra
+INFY_Q3_january_22_220 | Thank you.
+INFY_Q3_january_22_221 | Happy New Year to everybody.
+INFY_Q3_january_22_222 | Excellent numbers for the quarter.
+INFY_Q3_january_22_223 | Clearly a
+INFY_Q3_january_22_224 | very strong growth for Q3.
+INFY_Q3_january_22_225 | Could you start with elaborating on –where did the incremental
+INFY_Q3_january_22_226 | surprise come from.
+INFY_Q3_january_22_227 | The full year guidance has increased sharply given the performance
+INFY_Q3_january_22_228 | of the quarter, so where did the surprise come from?
+INFY_Q3_january_22_229 | Salil Parekh
+INFY_Q3_january_22_230 | I think what we are seeing in the quarter and then all through the year, is the demand
+INFY_Q3_january_22_231 | environment remains extremely strong and then more and more traction on the digital and
+INFY_Q3_january_22_232 | the cloud programs.
+INFY_Q3_january_22_233 | This is where we saw the most impact in the quarter in Q3 where we
+INFY_Q3_january_22_234 | had really strong growth of 7% and therefore the overall guidance jumping up by 3%.
+INFY_Q3_january_22_235 | In terms of verticals, as I was sharing earlier, it is broad based.
+INFY_Q3_january_22_236 | Of course, we have a very
+INFY_Q3_january_22_237 | strong momentum in Manufacturing, that was something that we were looking forward to.
+INFY_Q3_january_22_238 | There is also good momentum that we are seeing in Financial Services given it is our
+INFY_Q3_january_22_239 | largest vertical, and in Life Sciences that I described before.
+INFY_Q3_january_22_240 | Retail is starting to come
+INFY_Q3_january_22_241 | back nicely as well.
+INFY_Q3_january_22_242 | As Nilanjan mentioned, Europe again was a stand-out.
+INFY_Q3_january_22_243 | Those are
+INFY_Q3_january_22_244 | some of the elements that gave us a good outcome in Q3 and then the support for
+INFY_Q3_january_22_245 | expanding the guidance for the full year.
+INFY_Q3_january_22_246 | Moderator
+INFY_Q3_january_22_247 | ahead.
+INFY_Q3_january_22_248 | Moshe Katri
+INFY_Q3_january_22_249 | Thanks.
+INFY_Q3_january_22_250 | Happy New Year and congrats on very strong results.
+INFY_Q3_january_22_251 | One, I know you just
+INFY_Q3_january_22_252 | reported Q3 but are you ready to talk about the entire calendar year down the road, 2022.
+INFY_Q3_january_22_253 | What has changed in terms of visibility, may be that is the biggest question if this is
+INFY_Q3_january_22_254 | sustainable down the road.
+INFY_Q3_january_22_255 | And what can you talk about in terms of color to give us that
+INFY_Q3_january_22_256 | comfort.
+INFY_Q3_january_22_257 | And then maybe you can talk a bit about some of the cushion in margins and
+INFY_Q3_january_22_258 | what sort of levers that you have in the model, especially as some of the bench continues
+INFY_Q3_january_22_259 | to benefit from the off campus recruiting that has been pretty robust?
+INFY_Q3_january_22_260 | Salil Parekh
+INFY_Q3_january_22_261 | I will start off with the first part and then Nilanjan will comment on the margin levers.
+INFY_Q3_january_22_262 | Of
+INFY_Q3_january_22_263 | course, as you referenced, we have guidance till March 31 of this year.
+INFY_Q3_january_22_264 | The color for this
+INFY_Q3_january_22_265 | calendar year, broadly we see the demand environment remaining strong, the client
+INFY_Q3_january_22_266 | budgets are looking good.
+INFY_Q3_january_22_267 | Our overall pipeline is the largest we have had in a very long
+INFY_Q3_january_22_268 | time, the number of large deals that we were able to close, as Nilanjan shared- 25 large
+INFY_Q3_january_22_269 | deals each over $50 mn for a total of $2.5 bn and 44% of these are net new.
+INFY_Q3_january_22_270 | So, all of
+INFY_Q3_january_22_271 | those things are giving us good confidence to what we see going ahead.
+INFY_Q3_january_22_272 | Of course, we
+INFY_Q3_january_22_273 | will have our guidance for our financial year in April.
+INFY_Q3_january_22_274 | Nilanjan over to you please.
+INFY_Q3_january_22_275 | Nilanjan Roy
+INFY_Q3_january_22_276 | Moshe, on the margins, like I mentioned earlier they were quite resilient for the quarter.
+INFY_Q3_january_22_277 | A
+INFY_Q3_january_22_278 | couple of things I just want to call out – the cost levers whether it is onsite or offshore mix,
+INFY_Q3_january_22_279 | the pyramid, whether it is automation – these are some of the things which we
+INFY_Q3_january_22_280 | continuously look at deploying.
+INFY_Q3_january_22_281 | Subcon costs for us have really ramped up and that is an
+INFY_Q3_january_22_282 | area we will continue to look going ahead.
+INFY_Q3_january_22_283 | The other thing is pricing and it is important to
+INFY_Q3_january_22_284 | talk about that as the higher cost now starts feeding into our new deals, that should
+INFY_Q3_january_22_285 | hopefully have benefits and as digital talents start getting priced in, we are able to show
+INFY_Q3_january_22_286 | value to our clients in terms of the business transformation.
+INFY_Q3_january_22_287 | This is something we have
+INFY_Q3_january_22_288 | started recently.
+INFY_Q3_january_22_289 | It will take time to pick up and we have talked about it in the last quarter
+INFY_Q3_january_22_290 | as well.
+INFY_Q3_january_22_291 | But really that is our focus - we can start getting into both our cost side and also
+INFY_Q3_january_22_292 | make sure that we are not leaving any free cents and dollars on the table as part of our
+INFY_Q3_january_22_293 | pricing negotiations.
+INFY_Q3_january_22_294 | Moderator
+INFY_Q3_january_22_295 | go ahead.
+INFY_Q3_january_22_296 | Kumar Rakesh
+INFY_Q3_january_22_297 | Good evening, everyone and thank you for taking my question.
+INFY_Q3_january_22_298 | Congratulations on great
+INFY_Q3_january_22_299 | set of numbers.
+INFY_Q3_january_22_300 | My first question Salil was, going into this calendar year, one of the largest
+INFY_Q3_january_22_301 | peers has indicated a strong growth to continue through this year.
+INFY_Q3_january_22_302 | So, looking at our
+INFY_Q3_january_22_303 | portfolio of capabilities and offerings, do you see that we are well aligned to meet or beat
+INFY_Q3_january_22_304 | their growth numbers or do you see that we need some intervention to build up our own
+INFY_Q3_january_22_305 | capability to continue this strong growth going ahead?
+INFY_Q3_january_22_306 | Salil Parekh
+INFY_Q3_january_22_307 | Thanks for that question.
+INFY_Q3_january_22_308 | I think in terms of our key capabilities set we have a strong
+INFY_Q3_january_22_309 | portfolio across digital and cloud.
+INFY_Q3_january_22_310 | Our Cobalt set of capabilities is resonating extremely
+INFY_Q3_january_22_311 | well with our clients.
+INFY_Q3_january_22_312 | We see the growth of digital being a reflection of the focus we have
+INFY_Q3_january_22_313 | had on making these choices over the past four years and positioning the portfolio to
+INFY_Q3_january_22_314 | where the clients are looking for work.
+INFY_Q3_january_22_315 | We also see the cloud capability faster growing
+INFY_Q3_january_22_316 | than our digital capability.
+INFY_Q3_january_22_317 | So yes, we are well positioned to benefit from this.
+INFY_Q3_january_22_318 | In addition to
+INFY_Q3_january_22_319 | that, we have a strong set of capabilities in automation, in modernization.
+INFY_Q3_january_22_320 | We have even
+INFY_Q3_january_22_321 | seen our core services which is now stable this quarter in terms of growth, it is not
+INFY_Q3_january_22_322 | shrinking.
+INFY_Q3_january_22_323 | Our view is that our set of capabilities and portfolio is reflecting what our client
+INFY_Q3_january_22_324 | expectation/demands are and we have the ability to meet all those from the capability
+INFY_Q3_january_22_325 | perspective.
+INFY_Q3_january_22_326 | We also have the capacity to expand and recruit at the college level and our
+INFY_Q3_january_22_327 | ongoing recruiting ability to attract talent, which is helping us to deliver all our projects on a
+INFY_Q3_january_22_328 | regular basis.
+INFY_Q3_january_22_329 | So, we feel quite good on how we are positioned as we go ahead into the
+INFY_Q3_january_22_330 | next year as well.
+INFY_Q3_january_22_331 | Kumar Rakesh
+INFY_Q3_january_22_332 | 22% to 24%.
+INFY_Q3_january_22_333 | Currently we are trending to the upper end so how should we see that?
+INFY_Q3_january_22_334 | Is it
+INFY_Q3_january_22_335 | that you want to keep flexibility with yourself in anticipation of any large deals or any cost
+INFY_Q3_january_22_336 | headwind potentially coming from that or is there an indication that you are looking at
+INFY_Q3_january_22_337 | some major cost headwind which are going to come in, in the coming quarter and hence
+INFY_Q3_january_22_338 | you are maintaining this margin guidance band?
+INFY_Q3_january_22_339 | Nilanjan Roy
+INFY_Q3_january_22_340 | The margin guidance for us is really a comfort range within which we operate so we really
+INFY_Q3_january_22_341 | do not fine tune that as the year progresses.
+INFY_Q3_january_22_342 | So, this is a band which we are happy to be
+INFY_Q3_january_22_343 | in.
+INFY_Q3_january_22_344 | It was 21% to 23% just before COVID.
+INFY_Q3_january_22_345 | Now we are 22% to 24%.
+INFY_Q3_january_22_346 | So that is more like a
+INFY_Q3_january_22_347 | way for us rather than anything else.
+INFY_Q3_january_22_348 | And looking ahead, we continue to focus on our cost
+INFY_Q3_january_22_349 | headwinds potentially in terms of employees, etc., it could be travel into the next year, but
+INFY_Q3_january_22_350 | like I said we have a very robust cost optimization and of course other levers, which we
+INFY_Q3_january_22_351 | continue to deploy, so we are quite confident on this.
+INFY_Q3_january_22_352 | Kumar Rakesh
+INFY_Q3_january_22_353 | So more of a reflection of flexibility that you want to keep for yourself?
+INFY_Q3_january_22_354 | Nilanjan Roy
+INFY_Q3_january_22_355 | Correct.
+INFY_Q3_january_22_356 | Kumar Rakesh
+INFY_Q3_january_22_357 | Thanks a lot for those answers.
+INFY_Q3_january_22_358 | I will fall back.
+INFY_Q3_january_22_359 | Moderator
+INFY_Q3_january_22_360 | Markets.
+INFY_Q3_january_22_361 | Please go ahead.
+INFY_Q3_january_22_362 | Keith Bachman
+INFY_Q3_january_22_363 | I want to pick up on the same line of questioning, if you could just talk about the puts and
+INFY_Q3_january_22_364 | takes as you see margins over the course of the next three, four, five quarters, really
+INFY_Q3_january_22_365 | calendar year 2022 and I wanted to see if you could address what you think the impact
+INFY_Q3_january_22_366 | would be for a few things.
+INFY_Q3_january_22_367 | For instance, one of the headwinds this quarter was utilization,
+INFY_Q3_january_22_368 | how should we be thinking about utilization transform during calendar year 2022?
+INFY_Q3_january_22_369 | Number
+INFY_Q3_january_22_370 | two you said attrition was flat sequentially, how do you think about attrition trends over the
+INFY_Q3_january_22_371 | course of calendar year 2022?
+INFY_Q3_january_22_372 | Do you think that they can move lower or is the market
+INFY_Q3_january_22_373 | such that demand is so strong that attrition will probably remain elevated?
+INFY_Q3_january_22_374 | Number three
+INFY_Q3_january_22_375 | would be you just brought up travel and any other issues that we should we be thinking
+INFY_Q3_january_22_376 | about that may impact calendar year 2022 margins, and any other issues you want to
+INFY_Q3_january_22_377 | bring up and that is it from me?
+INFY_Q3_january_22_378 | Thank you.
+INFY_Q3_january_22_379 | Nilanjan Roy
+INFY_Q3_january_22_380 | I think that we do not give up the margin guidance for the next year.
+INFY_Q3_january_22_381 | Now having said that
+INFY_Q3_january_22_382 | looking at the headwinds, which we actually say pretty much every year are the
+INFY_Q3_january_22_383 | compensation hikes, you have clients coming back for discounts on renewals, and some
+INFY_Q3_january_22_384 | of that you offset with the cost optimization program which we run, and I mentioned that a
+INFY_Q3_january_22_385 | bit earlier in terms of whether it is a pyramid, whether it is subcon, whether it is
+INFY_Q3_january_22_386 | automation, new levers which we are looking at is pricing.
+INFY_Q3_january_22_387 | So, that is something which we
+INFY_Q3_january_22_388 | are continuously working on and remain quite confident.
+INFY_Q3_january_22_389 | Travel is one thing which is quite
+INFY_Q3_january_22_390 | unknown at this moment in terms of when does it come back, even if it comes back does it
+INFY_Q3_january_22_391 | come back to pre COVID levels or in a slightly lower levels so we will have to watch out for
+INFY_Q3_january_22_392 | that really.
+INFY_Q3_january_22_393 | In terms of attrition, I think it is a larger industry issue.
+INFY_Q3_january_22_394 | It is not peculiar to us and
+INFY_Q3_january_22_395 | fundamentally the volume increase for this industry has to come from freshers.
+INFY_Q3_january_22_396 | Otherwise,
+INFY_Q3_january_22_397 | it's a zero-sum game – somebody else's attrition is my lateral and my attrition is somebody
+INFY_Q3_january_22_398 | else's lateral.
+INFY_Q3_january_22_399 | So as long as the fresher intake starts increasing because first they have to come into
+INFY_Q3_january_22_400 | training, then they go into production after 3 or 4 months and that is something which will
+INFY_Q3_january_22_401 | help with the attrition in the medium term; and like I said we have seen attrition flattening
+INFY_Q3_january_22_402 | sequentially on a quarterly annualized basis and looking ahead we are seeing some
+INFY_Q3_january_22_403 | positive signs, but it is too early to say whether it will dramatically come down.
+INFY_Q3_january_22_404 | But like I
+INFY_Q3_january_22_405 | said, as freshers feed into the system we should see the overall environment in terms of
+INFY_Q3_january_22_406 | attrition in the market improving.
+INFY_Q3_january_22_407 | Keith Bachman
+INFY_Q3_january_22_408 | But any comments specifically on utilization?
+INFY_Q3_january_22_409 | You think it will help, I heard it is neutral just
+INFY_Q3_january_22_410 | broadly, and as part of that the offshore percent of labor increase YoY, is that also a trend
+INFY_Q3_january_22_411 | that you think continues given the dynamics in front of you?
+INFY_Q3_january_22_412 | And I will see the floor
+INFY_Q3_january_22_413 | thereafter.
+INFY_Q3_january_22_414 | Nilanjan Roy
+INFY_Q3_january_22_415 | In terms of utilization, this is higher than what we would normally like to be.
+INFY_Q3_january_22_416 | We would
+INFY_Q3_january_22_417 | rather operate at 85% to 86%, but having said that even if we bring this down in the future
+INFY_Q3_january_22_418 | it is largely at offshore locations because 75% of our effort is sitting there.
+INFY_Q3_january_22_419 | Therefore,
+INFY_Q3_january_22_420 | utilization does not directly link to the margins because of the way the offshore costs
+INFY_Q3_january_22_421 | operate, so that is one factor.
+INFY_Q3_january_22_422 | The second question, in the long run - if you see, COVID, while it had a huge impact on
+INFY_Q3_january_22_423 | demand, the entire ability for the supply side to deliver in a remote environment really will
+INFY_Q3_january_22_424 | shine up, and that has opened up the eyes of many of our clients that every work does not
+INFY_Q3_january_22_425 | have to be done onsite.
+INFY_Q3_january_22_426 | It can be done in a near shore location, it can be done offshore
+INFY_Q3_january_22_427 | and I think the beauty of that is secularly we believe this will help the industry in a much
+INFY_Q3_january_22_428 | more larger offshoring at an overall level and of course part of that benefit will be shifting
+INFY_Q3_january_22_429 | more work to offshore locations.
+INFY_Q3_january_22_430 | So, I think this is a good sign.
+INFY_Q3_january_22_431 | I think there can be short
+INFY_Q3_january_22_432 | term impacts like we saw this quarter, 10 to 20 basis points here and there, but the secular
+INFY_Q3_january_22_433 | trend - we think we will continue to see that the large global markets will open a lot more
+INFY_Q3_january_22_434 | offshoring opportunities.
+INFY_Q3_january_22_435 | Keith Bachman
+INFY_Q3_january_22_436 | Many thanks.
+INFY_Q3_january_22_437 | Congratulations.
+INFY_Q3_january_22_438 | Margaret - Moderator
+INFY_Q3_january_22_439 | ahead.
+INFY_Q3_january_22_440 | Diviya Nagarajan
+INFY_Q3_january_22_441 | Thanks for taking my question and congratulations on a very impressive quarter to the
+INFY_Q3_january_22_442 | team.
+INFY_Q3_january_22_443 | My question is on pricing, Salil we have seen now several quarters of strong
+INFY_Q3_january_22_444 | demand and it looks like we are looking at another year, looking at the run rate that we are
+INFY_Q3_january_22_445 | exiting the calendar with a pretty strong demand as well and you just discussed supply in
+INFY_Q3_january_22_446 | the last few comments that you made.
+INFY_Q3_january_22_447 | How do you see pricing really trend in the next 12-
+INFY_Q3_january_22_448 | 18 months, is there an opportunity for this to go up on a like to like basis?
+INFY_Q3_january_22_449 | Salil Parekh
+INFY_Q3_january_22_450 | Diviya thanks for that question, this is Salil.
+INFY_Q3_january_22_451 | I think on pricing first we have seen some level
+INFY_Q3_january_22_452 | of stability in what we saw in the specific deals that we closed in Q3 versus Q2.
+INFY_Q3_january_22_453 | On the
+INFY_Q3_january_22_454 | longer term, Nilanjan has shared in the past we have put in place a very focused effort on
+INFY_Q3_january_22_455 | communicating the value that we are helping create with our clients through the digital
+INFY_Q3_january_22_456 | programs.
+INFY_Q3_january_22_457 | We are also seeing as we have shared wage increases, we have done three in
+INFY_Q3_january_22_458 | the last 12 months and broadly we are seeing large enterprises for the first time in a very
+INFY_Q3_january_22_459 | long time are seeing inflation in their daily environment and so are more open to having
+INFY_Q3_january_22_460 | these discussions.
+INFY_Q3_january_22_461 | With these factors in mind, we really see some more value that we can
+INFY_Q3_january_22_462 | bring in through communicating and demonstrating our digital impact that we are creating
+INFY_Q3_january_22_463 | through those programs.
+INFY_Q3_january_22_464 | And that, while it will not be immediate, over the next several
+INFY_Q3_january_22_465 | quarters, in my view will help us to build out more resilience in the margin profile.
+INFY_Q3_january_22_466 | Diviya Nagarajan – UBS
+INFY_Q3_january_22_467 | You earlier enumerated your skills and capabilities, but if you were to kind of think of any
+INFY_Q3_january_22_468 | future investments that you are going to make, in which direction would you direct that
+INFY_Q3_january_22_469 | investment through in terms of your skills and capabilities?
+INFY_Q3_january_22_470 | Salil Parekh
+INFY_Q3_january_22_471 | Today the biggest drive within our clients is really cloud, our Cobalt capabilities are very
+INFY_Q3_january_22_472 | strong and we are constantly enhancing it.
+INFY_Q3_january_22_473 | Whether we look at the public cloud
+INFY_Q3_january_22_474 | partnerships, we have also a strong ecosystem of private cloud partnerships, we have a
+INFY_Q3_january_22_475 | good ecosystem with the SaaS players, extremely strong cloud native cloud first
+INFY_Q3_january_22_476 | development.
+INFY_Q3_january_22_477 | Those would be really the first areas where we are already leading, but we
+INFY_Q3_january_22_478 | will continue to grow.
+INFY_Q3_january_22_479 | Then you have the areas which focus on cybersecurity, which focus on data and analytics,
+INFY_Q3_january_22_480 | which focus on IoT.
+INFY_Q3_january_22_481 | Those are the areas which are seeing incredible traction with our
+INFY_Q3_january_22_482 | clients.
+INFY_Q3_january_22_483 | We have a strong modernization and automation leveraging Artificial Intelligence
+INFY_Q3_january_22_484 | and Machine Learning - we will continue to build that out.
+INFY_Q3_january_22_485 | Our approach is going to be to
+INFY_Q3_january_22_486 | drive all of these through our current margin profile.
+INFY_Q3_january_22_487 | That is what we will drive through as
+INFY_Q3_january_22_488 | opposed to any new place for investments.
+INFY_Q3_january_22_489 | Diviya Nagarajan
+INFY_Q3_january_22_490 | Fair enough.
+INFY_Q3_january_22_491 | One last bookkeeping question, your ‘Other’ segment had a big swing this
+INFY_Q3_january_22_492 | quarter, is there anything particular that we should be looking at here, any one off or if not,
+INFY_Q3_january_22_493 | what drove that.
+INFY_Q3_january_22_494 | Nilanjan Roy
+INFY_Q3_january_22_495 | That is coming from India, where we have some seasonality with some of our clients
+INFY_Q3_january_22_496 | towards the quarter end and you will see that in the geography sector of India.
+INFY_Q3_january_22_497 | Diviya Nagarajan – UBS
+INFY_Q3_january_22_498 | Got it, thank you and wish you all the best for 2022.
+INFY_Q3_january_22_499 | Margaret - Moderator
+INFY_Q3_january_22_500 | go ahead.
+INFY_Q3_january_22_501 | Ashwin Mehta
+INFY_Q3_january_22_502 | I had one question on the third party bought out items for service delivery.
+INFY_Q3_january_22_503 | That item
+INFY_Q3_january_22_504 | seems to have gone up by almost $71 mn this quarter almost 1.8% of revenues, so just
+INFY_Q3_january_22_505 | wanted to check what does this pertain to and is it possibly related to the data center
+INFY_Q3_january_22_506 | takeovers that we would have done in some of our large deals.
+INFY_Q3_january_22_507 | Nilanjan Roy
+INFY_Q3_january_22_508 | As we are looking at in many digital end-to-end transformation, whether IT as a service,
+INFY_Q3_january_22_509 | full stack transformation, we have involved, infrastructure, SaaS, data, so it is a full stack
+INFY_Q3_january_22_510 | transformation and in many cases, these involve infrastructure and software as well.
+INFY_Q3_january_22_511 | These are bundled deals which are end-to-end transformation and we think they are
+INFY_Q3_january_22_512 | important as well going ahead when we look at these digital transformations.
+INFY_Q3_january_22_513 | So, I think as
+INFY_Q3_january_22_514 | part of our overall deal profiles, we continue to see these deals giving us increased
+INFY_Q3_january_22_515 | visibility into the organization IT infrastructure and allowing our future deals ahead once
+INFY_Q3_january_22_516 | we are pretty much front and center in the IT landscape, so that’s what these are.
+INFY_Q3_january_22_517 | Ashwin Mehta
+INFY_Q3_january_22_518 | Just one last question, in terms of our margin outlook over the near term, do you think that
+INFY_Q3_january_22_519 | with the attrition starting to on a quarterly annualized basis normalizing, the interventions
+INFY_Q3_january_22_520 | that are required possibly go down in the near term so that we can possibly make a higher
+INFY_Q3_january_22_521 | exit at the end of this year, so that we can maintain margins in the next year as well?
+INFY_Q3_january_22_522 | Nilanjan Roy
+INFY_Q3_january_22_523 | As I said we have not seen a decline as yet, these are flattening and probably will start
+INFY_Q3_january_22_524 | inching off, so we will continue to do what it takes to invest behind our employees because
+INFY_Q3_january_22_525 | we know this is more under comfort range which we would be happy in.
+INFY_Q3_january_22_526 | So, I think it is
+INFY_Q3_january_22_527 | premature to say when this will really come off, but as of now we are focused in doing all
+INFY_Q3_january_22_528 | these interventions.
+INFY_Q3_january_22_529 | This quarter itself like we mentioned 80 basis points of our margin
+INFY_Q3_january_22_530 | was behind these employee interventions.
+INFY_Q3_january_22_531 | Ashwin Mehta
+INFY_Q3_january_22_532 | Thanks a lot, congrats again and all the best.
+INFY_Q3_january_22_533 | Moderator
+INFY_Q3_january_22_534 | go ahead.
+INFY_Q3_january_22_535 | Sandip Agarwal
+INFY_Q3_january_22_536 | Good evening to the management team, happy New Year and thanks for taking my
+INFY_Q3_january_22_537 | question.
+INFY_Q3_january_22_538 | First, congratulations on a very good set of numbers.
+INFY_Q3_january_22_539 | Salil, I have a very simple
+INFY_Q3_january_22_540 | question, you see now you know, our core which is 41% to 42% of the business is
+INFY_Q3_january_22_541 | stabilizing on a YoY basis, it is probably little growth is there, but digital continues to be at
+INFY_Q3_january_22_542 | 40% plus growth, so if this trend continues next year, may be our core may become 32%
+INFY_Q3_january_22_543 | to 33% of the overall pie, so what is your sense from a long term perspective, where do
+INFY_Q3_january_22_544 | you see this core stabilizing or do you think it will be unfair to see them separately and in
+INFY_Q3_january_22_545 | the next two to three years you think everything will converge together.
+INFY_Q3_january_22_546 | So, any idea,
+INFY_Q3_january_22_547 | anything which you can say on that front will be very helpful.
+INFY_Q3_january_22_548 | Salil Parekh
+INFY_Q3_january_22_549 | Thanks for that question.
+INFY_Q3_january_22_550 | First as you pointed out, the digital growth is strong at over 40%
+INFY_Q3_january_22_551 | or 42% and that shows resilience, the demand profile and our portfolio which is
+INFY_Q3_january_22_552 | overlapping.
+INFY_Q3_january_22_553 | The key for the core, instead of looking at the percentage of the business, the
+INFY_Q3_january_22_554 | key for us is really the core is now stable with a very small growth, so we did not see the
+INFY_Q3_january_22_555 | decline that we had for some quarters and this makes it extremely strong for us.
+INFY_Q3_january_22_556 | We have
+INFY_Q3_january_22_557 | probably the best capability in automation and modernization across the industry and with
+INFY_Q3_january_22_558 | this while everyone else’s core is still shrinking, ours will be stable or possibly even have a
+INFY_Q3_january_22_559 | small uptick and that means we will be the most competitive in this area.
+INFY_Q3_january_22_560 | So, I am looking
+INFY_Q3_january_22_561 | at this as a very positive step.
+INFY_Q3_january_22_562 | We of course have to maintain this, and we have to keep
+INFY_Q3_january_22_563 | building out our automation capabilities.
+INFY_Q3_january_22_564 | So, if we succeed in that, I think that is a very
+INFY_Q3_january_22_565 | good outlook for us in the quarters ahead.
+INFY_Q3_january_22_566 | Sandip Agarwal
+INFY_Q3_january_22_567 | Thanks that is very helpful and best of luck for the current quarter.
+INFY_Q3_january_22_568 | Moderator
+INFY_Q3_january_22_569 | Please go ahead.
+INFY_Q3_january_22_570 | Nitin Padmanabhan
+INFY_Q3_january_22_571 | Good evening, everyone and thanks for the opportunity.
+INFY_Q3_january_22_572 | I had two questions.
+INFY_Q3_january_22_573 | The first is
+INFY_Q3_january_22_574 | on the employee side.
+INFY_Q3_january_22_575 | If you look at the employee cost under cost of revenue, it has
+INFY_Q3_january_22_576 | consistently been down as a percentage of revenue, it has actually below what it used to
+INFY_Q3_january_22_577 | be pre-COVID and a lot of growth has actually been added on the subcon side and even if
+INFY_Q3_january_22_578 | you look at the numbers, it looks like most of the additions are all freshers.
+INFY_Q3_january_22_579 | So, keeping
+INFY_Q3_january_22_580 | this dynamic in mind, just wanted to understand as we go forward and may be attrition
+INFY_Q3_january_22_581 | normalizes, how do you see this subcon evolving from an operational perspective, do you
+INFY_Q3_january_22_582 | think you will have to hire these subcontractors directly on to your rolls and would that
+INFY_Q3_january_22_583 | involve slightly higher cost, so how should one think of this dynamic overall was the first
+INFY_Q3_january_22_584 | question?
+INFY_Q3_january_22_585 | The second question was around the digital proportion of the business has meaningfully
+INFY_Q3_january_22_586 | gone up and if you look into the next year and I am sure it will be even higher.
+INFY_Q3_january_22_587 | From that
+INFY_Q3_january_22_588 | perspective does that mean that our ability to sort of garner price increases will be far
+INFY_Q3_january_22_589 | higher going into next year than what you see today?
+INFY_Q3_january_22_590 | Thank you.
+INFY_Q3_january_22_591 | Nilanjan Roy
+INFY_Q3_january_22_592 | I will take the first question on subcon.
+INFY_Q3_january_22_593 | As Salil said the demand environment is so strong
+INFY_Q3_january_22_594 | that we do not want to leave anything on the table and therefore whether it is through
+INFY_Q3_january_22_595 | subcon or through lateral or freshers, we will first intend to fulfill that demand and of
+INFY_Q3_january_22_596 | course over a period of time we will optimize that entire structure.
+INFY_Q3_january_22_597 | So, whether it is
+INFY_Q3_january_22_598 | programmed to rehire some of the subcon, some of them we will of course lapse and then
+INFY_Q3_january_22_599 | we will get the lateral hires, some will be promoted, so within that the dynamics will play
+INFY_Q3_january_22_600 | itself out over the next year.
+INFY_Q3_january_22_601 | But at the moment it is critical that we do not leave any
+INFY_Q3_january_22_602 | demand in the table and of course this will remain a optimization lever for us.
+INFY_Q3_january_22_603 | We were
+INFY_Q3_january_22_604 | one of the lowest in the industry at about 6.9%, pre-COVID and we are above 11% now
+INFY_Q3_january_22_605 | but this is the lever, we will have over the medium-term to optimize.
+INFY_Q3_january_22_606 | Salil Parekh
+INFY_Q3_january_22_607 | On the pricing, as the digital work will increase what we have been putting in place which
+INFY_Q3_january_22_608 | is demonstrating to our clients the value creation through digital will give us a larger
+INFY_Q3_january_22_609 | opportunity for that because the revenue will be larger.
+INFY_Q3_january_22_610 | So, I think your assumption is
+INFY_Q3_january_22_611 | absolutely valid, you will have an additional ability to do that as long as we execute in that
+INFY_Q3_january_22_612 | value.
+INFY_Q3_january_22_613 | Nitin Padmanabhan
+INFY_Q3_january_22_614 | Thanks for that.
+INFY_Q3_january_22_615 | Just a clarification on the first answer, so on the first point considering
+INFY_Q3_january_22_616 | fresher addition are so strong this year and subcon is so strong does it mean that next
+INFY_Q3_january_22_617 | year our ability to add as many freshers will be little more inhibited, in the sense that we
+INFY_Q3_january_22_618 | will need to focus a little more on laterals next year, is that a way to think about it?
+INFY_Q3_january_22_619 | Nilanjan Roy
+INFY_Q3_january_22_620 | No.
+INFY_Q3_january_22_621 | I do not think so.
+INFY_Q3_january_22_622 | I think we will continue to have a very robust fresher program - it has
+INFY_Q3_january_22_623 | always been there.
+INFY_Q3_january_22_624 | We have a strong internal rotation program so people based on the
+INFY_Q3_january_22_625 | skills, we take them through our reskilling program and we then move them to new project,
+INFY_Q3_january_22_626 | promotions etc.
+INFY_Q3_january_22_627 | So, in that sense we think it will be a combination of both laterals and
+INFY_Q3_january_22_628 | freshers, and I do not think we see a change in that.
+INFY_Q3_january_22_629 | Nitin Padmanabhan - Investec
+INFY_Q3_january_22_630 | Fair enough.
+INFY_Q3_january_22_631 | Thank you so much and all the very best.
+INFY_Q3_january_22_632 | Margaret - Moderator
+INFY_Q3_january_22_633 | Please go ahead.
+INFY_Q3_january_22_634 | Sandeep Shah
+INFY_Q3_january_22_635 | Thanks for the opportunity and congratulations on a solid execution both on revenue and
+INFY_Q3_january_22_636 | margins.
+INFY_Q3_january_22_637 | The first question is CY2021 or FY2022 had a benefit of mega deal wins
+INFY_Q3_january_22_638 | especially from Vanguard as well as Daimler as well as some amount of pent-up demand
+INFY_Q3_january_22_639 | for you as well as the industry.
+INFY_Q3_january_22_640 | So, the question is entering into next year do you believe
+INFY_Q3_january_22_641 | that these elements one has to take care in terms of tapering off any growth in the next
+INFY_Q3_january_22_642 | year or you do believe the digital adoption or the cloud adoption journey has a low
+INFY_Q3_january_22_643 | penetration which does not make us upset in looking in the next year in terms of the
+INFY_Q3_january_22_644 | growth momentum?
+INFY_Q3_january_22_645 | Salil Parekh
+INFY_Q3_january_22_646 | Thanks for your question.
+INFY_Q3_january_22_647 | First, the guidance increase, as I am sure you are seeing this for
+INFY_Q3_january_22_648 | the year ending March of this year.
+INFY_Q3_january_22_649 | We are not yet commenting in terms of quantitative
+INFY_Q3_january_22_650 | guidance for next year.
+INFY_Q3_january_22_651 | What is clear nonetheless is the demand environment remains
+INFY_Q3_january_22_652 | strong and our portfolio of services and capabilities, especially on cloud and digital are
+INFY_Q3_january_22_653 | resonating well with clients so we see a good pipeline for that.
+INFY_Q3_january_22_654 | Our large deals in this
+INFY_Q3_january_22_655 | quarter also very strong.
+INFY_Q3_january_22_656 | We continue to see a good large deal pipeline.
+INFY_Q3_january_22_657 | We have seen a
+INFY_Q3_january_22_658 | steady expansion of our clients over $50, $100, $200 mn and so on.
+INFY_Q3_january_22_659 | We have seen that
+INFY_Q3_january_22_660 | expansion within clients is working very well and also our new client wins and new
+INFY_Q3_january_22_661 | accounts are working well.
+INFY_Q3_january_22_662 | So overall we have the various elements of continuing this
+INFY_Q3_january_22_663 | demand environment strongly but we do not have a specific guidance yet for year starting
+INFY_Q3_january_22_664 | in April 1, 2022.
+INFY_Q3_january_22_665 | Sandeep Shah
+INFY_Q3_january_22_666 | Fair enough and just last two bookkeeping questions.
+INFY_Q3_january_22_667 | The way I look at is Daimler deal
+INFY_Q3_january_22_668 | has two legs to ramp up one being the rebadging and employee related ramp up and
+INFY_Q3_january_22_669 | second being the pass-through data center related ramp up.
+INFY_Q3_january_22_670 | Is it fair to say that most of
+INFY_Q3_january_22_671 | these two legs ramp up is largely behind or may continue in Q4 as well as 1Q of next
+INFY_Q3_january_22_672 | financial year and second in terms of FY2022 wage hike, is it largely over or something is
+INFY_Q3_january_22_673 | due in the fourth quarter as well?
+INFY_Q3_january_22_674 | Salil Parekh
+INFY_Q3_january_22_675 | On the Daimler, we do not have any more specifics.
+INFY_Q3_january_22_676 | I can understand what you are
+INFY_Q3_january_22_677 | looking for, but we have not gone into that specifics now with Q3 and Q4.
+INFY_Q3_january_22_678 | The overall
+INFY_Q3_january_22_679 | guidance for increase of the revenue covers all of that including Daimler and many other
+INFY_Q3_january_22_680 | clients and especially with Q4 and the seasonality of that quarter.
+INFY_Q3_january_22_681 | In terms of salary and compensation increases, we have done three of them for this year.
+INFY_Q3_january_22_682 | There is nothing specific that is planned for Q4.
+INFY_Q3_january_22_683 | We will start to look at what we will do in
+INFY_Q3_january_22_684 | the next financial year but nothing specific is being planned in Q4.
+INFY_Q3_january_22_685 | Sandeep Shah
+INFY_Q3_january_22_686 | Thanks, and all the best Sir.
+INFY_Q3_january_22_687 | Moderator
+INFY_Q3_january_22_688 | go ahead.
+INFY_Q3_january_22_689 | Manik Taneja
+INFY_Q3_january_22_690 | Thank you for the opportunity.
+INFY_Q3_january_22_691 | Just wanted to understand we have seen a significant
+INFY_Q3_january_22_692 | increase in offshore mix of revenues over the last 18 months and this quarter saw a slight
+INFY_Q3_january_22_693 | aberration.
+INFY_Q3_january_22_694 | What caused that and how do you see this going forward?
+INFY_Q3_january_22_695 | Thank you.
+INFY_Q3_january_22_696 | Salil Parekh
+INFY_Q3_january_22_697 | The mix has changed over the last 18 months with a lot of the remote working that was
+INFY_Q3_january_22_698 | put in place and work from home allowing the work to be delivered from a different
+INFY_Q3_january_22_699 | location with tremendous yields and efficiency.
+INFY_Q3_january_22_700 | What we saw in the last quarter was, some
+INFY_Q3_january_22_701 | things have opened up in terms of travel and we are also being extremely optimal in what
+INFY_Q3_january_22_702 | we have done in the previous quarters and this is something that has given us more ability
+INFY_Q3_january_22_703 | to drive connects with clients and growth.
+INFY_Q3_january_22_704 | We see in the medium-term, tremendous
+INFY_Q3_january_22_705 | opportunity for an efficient mix because clients have also seen that once the work is done
+INFY_Q3_january_22_706 | remotely or work from home that more opportunity exists, there are work to be done from
+INFY_Q3_january_22_707 | a location further away.
+INFY_Q3_january_22_708 | So, in general as a medium-term trend we see that as a positive
+INFY_Q3_january_22_709 | trend, we will have of course each quarter some movements up and down but as a longer-
+INFY_Q3_january_22_710 | term trend we see that as a positive trend.
+INFY_Q3_january_22_711 | Manik Taneja
+INFY_Q3_january_22_712 | Thank you Salil.
+INFY_Q3_january_22_713 | I had one more additional question.
+INFY_Q3_january_22_714 | Just wanted to get your thoughts
+INFY_Q3_january_22_715 | around what we are seeing from a revenue productivity metrics standpoint, for revenue
+INFY_Q3_january_22_716 | per person standpoint and while there is significant amount of offshore shift over the last
+INFY_Q3_january_22_717 | 18 months, we have seen utilization go up.
+INFY_Q3_january_22_718 | So, what is causing the increase in revenue
+INFY_Q3_january_22_719 | productivity despite a significant offshore shift that we have seen over the last 18 months.
+INFY_Q3_january_22_720 | If you could talk about some of the factors that are driving it?
+INFY_Q3_january_22_721 | Thank you.
+INFY_Q3_january_22_722 | Salil Parekh
+INFY_Q3_january_22_723 | On the revenue productivity there are a number of things that are going on.
+INFY_Q3_january_22_724 | We see some
+INFY_Q3_january_22_725 | of the mix of our work which is also changing more to digital and there we see much more
+INFY_Q3_january_22_726 | revenue productivity coming in.
+INFY_Q3_january_22_727 | As you pointed out utilization has also gone up.
+INFY_Q3_january_22_728 | We will
+INFY_Q3_january_22_729 | also see some of our work, for example on the consulting side, data and analytics side
+INFY_Q3_january_22_730 | growing well and that is giving us some level of boost.
+INFY_Q3_january_22_731 | There is also some impact which
+INFY_Q3_january_22_732 | we have not quantified externally on leveraging some amount of automation and platforms
+INFY_Q3_january_22_733 | that gives us this benefit.
+INFY_Q3_january_22_734 | So, there are several factors at work despite the onshore
+INFY_Q3_january_22_735 | offshore mix changes.
+INFY_Q3_january_22_736 | Manik Taneja
+INFY_Q3_january_22_737 | Sure, thank you and all the best for future.
+INFY_Q3_january_22_738 | Moderator
+INFY_Q3_january_22_739 | ahead.
+INFY_Q3_january_22_740 | Rahul Jain
+INFY_Q3_january_22_741 | Thanks for the opportunity and congratulations.
+INFY_Q3_january_22_742 | I have a question regarding the core
+INFY_Q3_january_22_743 | revenue which has seen stabilization this year, I think you have addressed this point partly
+INFY_Q3_january_22_744 | but wanted to understand what could be the prospect for this side of the revenue in the
+INFY_Q3_january_22_745 | coming years especially when we talk about so much shift to digitalization?
+INFY_Q3_january_22_746 | Salil Parekh
+INFY_Q3_january_22_747 | There we have no individual guidance for digital or for the core in that sense, even for Q4
+INFY_Q3_january_22_748 | or for the next financial year.
+INFY_Q3_january_22_749 | But structurally what is clear is we have been successful in
+INFY_Q3_january_22_750 | driving automation and modernization while we make sure that we are probably the most
+INFY_Q3_january_22_751 | competitive large player in the market, working with large clients.
+INFY_Q3_january_22_752 | This certainly enhances
+INFY_Q3_january_22_753 | the strong confidence and if we can continue to execute on that, it will have its own
+INFY_Q3_january_22_754 | benefits in the medium term.
+INFY_Q3_january_22_755 | Rahul Jain
+INFY_Q3_january_22_756 | One more thing on the taxation part our tax rate you know steadily has been upwards of
+INFY_Q3_january_22_757 | 27% on an average, this looks little higher given the country where most of our earnings
+INFY_Q3_january_22_758 | belongs to so any flavor you can share in terms of what should be the ideal tax rate on a
+INFY_Q3_january_22_759 | sustainable basis and in near-term?
+INFY_Q3_january_22_760 | Nilanjan Roy
+INFY_Q3_january_22_761 | Our tax rate has always hovered around this 27%, 28% range and I do not think you will
+INFY_Q3_january_22_762 | see much movement going against the range.
+INFY_Q3_january_22_763 | Because in any case, as you know, this is
+INFY_Q3_january_22_764 | India rate plus other countries.
+INFY_Q3_january_22_765 | 25% is India-only rate.
+INFY_Q3_january_22_766 | So I think, in the long run, you will
+INFY_Q3_january_22_767 | be around this range itself.
+INFY_Q3_january_22_768 | Rahul Jain
+INFY_Q3_january_22_769 | So which regions tax rate are much higher than the 25% rate also for taking this number
+INFY_Q3_january_22_770 | higher than the average?
+INFY_Q3_january_22_771 | Nilanjan Roy
+INFY_Q3_january_22_772 | Yes, so see we cannot give that individually, but there are some jurisdictions and also in
+INFY_Q3_january_22_773 | some jurisdiction where those taxes cannot be set off here as well, so it is a combination
+INFY_Q3_january_22_774 | of both.
+INFY_Q3_january_22_775 | Rahul Jain
+INFY_Q3_january_22_776 | Okay so if we are not able to set that off those results in double taxation.
+INFY_Q3_january_22_777 | That is also a
+INFY_Q3_january_22_778 | reason okay got it thank you so much.
+INFY_Q3_january_22_779 | Moderator
+INFY_Q3_january_22_780 | Please go ahead.
+INFY_Q3_january_22_781 | James Friedman
+INFY_Q3_january_22_782 | Let me echo the congratulations for this fiscal year.
+INFY_Q3_january_22_783 | I just had one simple question across
+INFY_Q3_january_22_784 | for Nilanjan, can you remind us what the capital allocation strategy is.
+INFY_Q3_january_22_785 | I remember you had
+INFY_Q3_january_22_786 | put it out during the analyst day in November 2020 but where is share repurchase in the
+INFY_Q3_january_22_787 | prioritization.
+INFY_Q3_january_22_788 | Thank you.
+INFY_Q3_january_22_789 | Nilanjan Roy
+INFY_Q3_january_22_790 | What we had announced in FY20 basically, was that we have taken capital allocation to
+INFY_Q3_january_22_791 | 85%, prior to this it was 70% and we said that we will take that over the period of 5 years
+INFY_Q3_january_22_792 | through a combination of progressive growth-oriented dividend policy plus either share
+INFY_Q3_january_22_793 | buyback or one off special dividends.
+INFY_Q3_january_22_794 | And in the first two years, as we have announced,
+INFY_Q3_january_22_795 | we have actually paid back 82% through higher increased normal dividends and also
+INFY_Q3_january_22_796 | through share buyback which we announced last year.
+INFY_Q3_january_22_797 | We have already paid back 82%
+INFY_Q3_january_22_798 | and we remain quite committed to overall 85% over 5 years.
+INFY_Q3_january_22_799 | James Friedman
+INFY_Q3_january_22_800 | Got it.
+INFY_Q3_january_22_801 | Thank you so much.
+INFY_Q3_january_22_802 | Moderator
+INFY_Q3_january_22_803 | ahead.
+INFY_Q3_january_22_804 | Vimal Gohil
+INFY_Q3_january_22_805 | Thank you for the opportunity and congratulations on a great quarter.
+INFY_Q3_january_22_806 | My question is on
+INFY_Q3_january_22_807 | your employee cost which partially has been addressed but how should we think about the
+INFY_Q3_january_22_808 | core employee cost growth which comes under the cost of revenue which has seen
+INFY_Q3_january_22_809 | around 4% CQGR increase over Q1 of FY2021 versus the 6% revenue growth and this
+INFY_Q3_january_22_810 | has been in light of a very sharp increase in attrition and of course further supply
+INFY_Q3_january_22_811 | challenges and etc.
+INFY_Q3_january_22_812 | So, if you can just highlight, are our wage hikes in line with the
+INFY_Q3_january_22_813 | industry or have they been much higher than the industry?
+INFY_Q3_january_22_814 | How should we think about this
+INFY_Q3_january_22_815 | historically and if you could give some kind of an outlook over there as well?
+INFY_Q3_january_22_816 | Thanks.
+INFY_Q3_january_22_817 | Nilanjan Roy
+INFY_Q3_january_22_818 | Yes, so you have to see both employee cost and subcon together as the cost of people as
+INFY_Q3_january_22_819 | a combination, you cannot see one in isolation that is number one.
+INFY_Q3_january_22_820 | Number two, just from
+INFY_Q3_january_22_821 | an overall cost perspective, we of course are very focused on the attrition and being
+INFY_Q3_january_22_822 | competitive in the markets as well as being employer of choice for many of our employee.
+INFY_Q3_january_22_823 | Going ahead when we look at intervention on the compensation side like Salil said, we did
+INFY_Q3_january_22_824 | across, in January, we did across the board, in July we have done across the board, in Q3
+INFY_Q3_january_22_825 | as well we have done very segmented and for targeted talent and we will continue doing
+INFY_Q3_january_22_826 | that into Q4 etc., looking at high points of attrition and doing it much more tactically to see
+INFY_Q3_january_22_827 | where we are seeing demand being high in the markets for those skills and target those
+INFY_Q3_january_22_828 | employees really.
+INFY_Q3_january_22_829 | So, I think it is very nuanced like I said and we will continue doing that.
+INFY_Q3_january_22_830 | Vimal Gohil
+INFY_Q3_january_22_831 | Sir, so basically if we were to look at your guidance, it implies 0% to 2% sort of a revenue
+INFY_Q3_january_22_832 | growth in Q4.
+INFY_Q3_january_22_833 | Considering the fact that there were some furloughs in Q3, your revenue
+INFY_Q3_january_22_834 | growth could be higher than what you have reported in Q3.
+INFY_Q3_january_22_835 | So, is your guidance
+INFY_Q3_january_22_836 | conservative at this point in time how should we think about that?
+INFY_Q3_january_22_837 | Salil Parekh
+INFY_Q3_january_22_838 | In terms of the guidance, it was very strong.
+INFY_Q3_january_22_839 | It is 19.5% to 20%.
+INFY_Q3_january_22_840 | There is no further color in
+INFY_Q3_january_22_841 | saying whether it is conservative, aggressive, or stable.
+INFY_Q3_january_22_842 | We see a very good demand
+INFY_Q3_january_22_843 | outlook; we see good large deals and good portfolio and the guidance is a very big move
+INFY_Q3_january_22_844 | up from where we were in the last quarter.
+INFY_Q3_january_22_845 | Vimal Gohil – Union AMC
+INFY_Q3_january_22_846 | Fair enough Sir.
+INFY_Q3_january_22_847 | Thank you so much and all the very best.
+INFY_Q3_january_22_848 | Moderator
+INFY_Q3_january_22_849 | Thank you.
+INFY_Q3_january_22_850 | Ladies and gentlemen that was the last question for today.
+INFY_Q3_january_22_851 | I now hand the
+INFY_Q3_january_22_852 | conference over the management for closing comments.
+INFY_Q3_january_22_853 | Salil Parekh
+INFY_Q3_january_22_854 | Thank you everyone.
+INFY_Q3_january_22_855 | This is Salil.
+INFY_Q3_january_22_856 | Just to close from our side.
+INFY_Q3_january_22_857 | First, thank you all for
+INFY_Q3_january_22_858 | making your time.
+INFY_Q3_january_22_859 | We feel extremely good about the quarter, 7% growth QoQ, 21.5% in
+INFY_Q3_january_22_860 | YoY, very strong digital 42.6%, very good on large deals $2.5 bn.
+INFY_Q3_january_22_861 | So overall we see
+INFY_Q3_january_22_862 | excellent market demand and we are seeing market share gains which is a very good sign
+INFY_Q3_january_22_863 | for us, primarily which are coming from a well positioned portfolio and a good execution
+INFY_Q3_january_22_864 | from all our teams.
+INFY_Q3_january_22_865 | Our revenue guidance of course has gone up from 19.5% to 20%,
+INFY_Q3_january_22_866 | operating margins remains at a good level at 23.5% and we have good strong trust and
+INFY_Q3_january_22_867 | confidence of our clients.
+INFY_Q3_january_22_868 | Overall, a strong outlook and positive about what we see in the
+INFY_Q3_january_22_869 | future for our digital and cloud transformation programs.
+INFY_Q3_january_22_870 | With that thank you all wish you a Happy New Year and look forward to catching up in
+INFY_Q3_january_22_871 | April.
+INFY_Q3_january_22_872 | Sandeep Mahindroo
+INFY_Q3_january_22_873 | Thanks Salil for closing comments and thanks again for joining us on this call.
+INFY_Q3_january_22_874 | Look
+INFY_Q3_january_22_875 | forward to talking to you again during the year.
+INFY_Q3_january_22_876 | Thank you.
+INFY_Q3_january_22_877 | Moderator
+INFY_Q3_january_22_878 | Thank you, members of the management.
+INFY_Q3_january_22_879 | Ladies and gentlemen on behalf of Infosys that
+INFY_Q3_january_22_880 | lines.

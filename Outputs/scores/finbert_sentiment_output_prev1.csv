@@ -1,296 +1,881 @@
 index,sentence,label,score
-1,"Sandeep Mahindroo Thanks, Margreth.",NEGATIVE,0.71948576
-2,Hello everyone and welcome to Infosys Earnings Call to discuss Q3 FY22 results.,POSITIVE,0.90105706
-3,I am Sandeep from the Investor Relations team in Bengaluru.,POSITIVE,0.9209335
-4,Let me begin by wishing everyone a very happy New Year.,POSITIVE,0.878155
-5,"Joining us today on this earnings call, is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy along with other members of the senior management team.",POSITIVE,0.9442285
-6,"We will start the call with some remarks on the performance of the company by Salil and Nilanjan, after that we will open the call for questions.",POSITIVE,0.9393776
-7,"Please note that anything that we say, which refer to our outlook for the future is a forward-looking statement, which must be read in conjunction with the risk that the company faces.",POSITIVE,0.9317654
-8,"A full statement and explanation of these risks is available in our filings with the SEC, which can be found on www.sec.gov.",POSITIVE,0.95037216
-9,I would now like to turn it over to Salil.,POSITIVE,0.9396199
-10,Salil Parekh Good evening and good morning to everyone on the call.,POSITIVE,0.76703227
-11,Wish you all a Happy New Year and trust you and your dear ones are well and safe.,NEGATIVE,0.50348336
-12,Thank you for making the time to join us today.,NEGATIVE,0.5400524
-13,I am delighted to share with you that we had an extremely strong quarter with 7.0% sequential growth and 21.5% YoY growth in constant currency terms.,NEGATIVE,0.9516215
-14,Our YoY growth was the fastest we have had in 11 years.,NEGATIVE,0.94684345
-15,"The growth was broad-based across industries, service lines and geographies driven by our differentiated digital and cloud capabilities.",NEGATIVE,0.64185107
-16,A strong broad-based growth in a seasonally weak quarter is a clear testament to the enormous confidence clients have in us to help them accelerate their business transformation.,NEGATIVE,0.9441491
-17,This has been made possible by the relentless commitment of our employees through these challenging times.,NEGATIVE,0.6619002
-18,I am extremely proud as well as grateful for their extraordinary efforts in delivering success for our clients.,NEGATIVE,0.82668275
-19,Our growth has been accompanied by resilient operating margins at 23.5%.,NEGATIVE,0.9519664
-20,We delivered these margins while keeping in the forefront our focus on employees with increased compensation and benefits.,NEGATIVE,0.7709593
-21,Our digital business grew by 42.6% and is now 58.5% of our overall revenues.,NEGATIVE,0.7213775
-22,"Within digital, our cloud work is growing faster, and our Cobalt cloud capabilities are resonating tremendously with our clients.",NEGATIVE,0.8354431
-23,Some of the highlights of our results are 1.,POSITIVE,0.8194588
-24,"Revenues at $4.25 bn, with a growth 21.5% YoY and 7.0% sequential in constant",NEGATIVE,0.9147095
-25,Nilanjan Roy everyone a very happy and safe 2022.,NEGATIVE,0.69336045
-26,"Q3 was another successive quarter of continued acceleration in revenues at 7.0% constant currency QoQ growth and 21.5% constant currency YoY growth, the highest YoY growth in the last 11 years.",NEGATIVE,0.95422995
-27,"Despite the Q3 seasonality, we registered strong broad-based growth across geographies and verticals.",NEGATIVE,0.95614064
-28,Our largest geography North America grew at 21.4% while growth in Europe accelerated to an impressive 27.2% YoY in constant currency terms.,NEGATIVE,0.9431729
-29,"Retail, Communication, Manufacturing and Life Sciences also saw 20% or higher YoY growth in constant currency.",NEGATIVE,0.9245967
-30,"We won 25 large deals, and large deals being those with over $50 mn TCV, totaling $2.5 bn of TCV - 6 in Retail, 5 each in Financial Services, Communications, and Energy Utilities Resources and Services, 2 in Manufacturing and 1 each in Hi-Tech and Life Sciences.",NEGATIVE,0.74625266
-31,"Region wise, 16 were from the Americas, 7 were from Europe and 2 from RoW.",POSITIVE,0.9160729
-32,The share of new deals increased in Q3 to 44% within the large deal numbers.,NEGATIVE,0.95185125
-33,"Client metrics improved further with $100+ mn client count increasing to 37, an increase of 8 YoY.",NEGATIVE,0.9601618
-34,We added 111 new clients in the last quarter.,NEGATIVE,0.6478728
-35,Operating parameters remain robust.,NEGATIVE,0.907252
-36,Utilization was 88.5% slightly lower than the previous quarter easing some of the supply side pressures.,NEUTRAL,0.96845096
-37,Onsite effort mix inched up marginally to 23.8%.,NEGATIVE,0.95610476
-38,"Q3 margins remained resilient at 23.5%, a marginal drop of 10 basis points versus previous quarter.",NEUTRAL,0.95525044
-39,The major components of the sequential margin movements were as below.,POSITIVE,0.9020893
-40,• 80 basis points impact due to comp hikes and promotions and other employee interventions.,NEUTRAL,0.92287266
-41,• 40 basis points impact due to the utilization decline.,NEUTRAL,0.9674479
-42,"These were offset by • About 20 basis points benefit due to the rupee and other cross currency movements, • 50 basis point benefit due to cost optimization, and • 40 basis points benefit due to SG&A leverage other one-offs included therein.",NEGATIVE,0.6933051
-43,Q3 EPS grew by 11.2% in dollar terms and 13.1% in rupee terms on a YoY basis.,NEGATIVE,0.9555228
-44,"Although DSO increased to 71 days due to higher seasonal billing, an increase of 5 days versus the last quarter, it is still a reduction of 2 days versus Q3 of prior year.",NEGATIVE,0.6965394
-45,Free cash flow for the quarter was healthy at $719 mn.,NEGATIVE,0.683414
-46,Free cash flow as a percentage of net profit was 93% for Q3 and 104% for the nine months till date.,POSITIVE,0.92424434
-47,Yield on cash balances improved to 5.29% compared to 5.13% in Q2.,NEGATIVE,0.95115155
-48,Our balance sheet remains strong and debt free.,NEGATIVE,0.9119858
-49,Consolidated cash and investments at the end of the quarter stood at $4.28 bn after paying over $840 mn of interim dividend during the quarter.,POSITIVE,0.7864529
-50,Return on equity increased further to 30.4% an increase of 3% over Q3 of the prior year driven by robust performance and consistent capital returns through share buyback and increased dividend payout.,NEGATIVE,0.95750254
-51,"On the employee front, voluntary 12 months attrition increased to 25.5% and as Salil commented while LTM attrition continues to increase due to the tail effect, quarterly annualized attrition was flattish compared to Q2.",NEGATIVE,0.65146893
-52,"We will continue to invest in all aspects of talent retention including compensation, promotion, skill incentives, learning and career progression.",POSITIVE,0.7648706
-53,"We have also simultaneously increased the pace of hiring, talent reskilling and the usage of subcon to prevent any impact on client commitment.",NEGATIVE,0.873167
-54,"We have added 12,450 talented employees on a net basis in the last quarter, which is the highest ever.",NEGATIVE,0.9397635
-55,"Our global college graduate hiring program for this fiscal has been increased to over 55,000 versus the previous quarter number of 45,000.",NEGATIVE,0.9555454
-56,In India over 93% of Infoscions have received at least one dose of the vaccine.,POSITIVE,0.850851
-57,"Over 97% of our employees globally are presently working in remote environment, due to the heightened precautions against the new variant.",POSITIVE,0.66010416
-58,"Driven by robust demand environment and our continued market share gains, we are further increasing our revenue guidance for FY22 to 19.5% to 20% in constant currency terms from 16.5% to 17.5% earlier and the margin guidance remains unchanged at 22% to 24%.",NEGATIVE,0.95067984
-59,With that we can open the call for questions.,POSITIVE,0.9102474
-60,Ankur Rudra Thank you.,POSITIVE,0.82495046
-61,Happy New Year to everybody.,POSITIVE,0.758683
-62,Excellent numbers for the quarter.,NEGATIVE,0.94609725
-63,Clearly a very strong growth for Q3.,NEGATIVE,0.952062
-64,Could you start with elaborating on –where did the incremental surprise come from.,POSITIVE,0.92551994
-65,"The full year guidance has increased sharply given the performance of the quarter, so where did the surprise come from?",POSITIVE,0.46561792
-66,"Salil Parekh I think what we are seeing in the quarter and then all through the year, is the demand environment remains extremely strong and then more and more traction on the digital and the cloud programs.",NEGATIVE,0.693333
-67,This is where we saw the most impact in the quarter in Q3 where we had really strong growth of 7% and therefore the overall guidance jumping up by 3%.,NEGATIVE,0.95795995
-68,"In terms of verticals, as I was sharing earlier, it is broad based.",POSITIVE,0.9287007
-69,"Of course, we have a very strong momentum in Manufacturing, that was something that we were looking forward to.",NEGATIVE,0.8578776
-70,"There is also good momentum that we are seeing in Financial Services given it is our largest vertical, and in Life Sciences that I described before.",NEGATIVE,0.8183968
-71,Retail is starting to come back nicely as well.,NEGATIVE,0.84735006
-72,"As Nilanjan mentioned, Europe again was a stand-out.",POSITIVE,0.6631793
-73,Those are some of the elements that gave us a good outcome in Q3 and then the support for expanding the guidance for the full year.,NEGATIVE,0.73983157
-74,Moshe Katri Thanks.,POSITIVE,0.6163381
-75,Happy New Year and congrats on very strong results.,NEGATIVE,0.9038378
-76,"One, I know you just reported Q3 but are you ready to talk about the entire calendar year down the road, 2022.",POSITIVE,0.9310989
-77,"What has changed in terms of visibility, may be that is the biggest question if this is sustainable down the road.",POSITIVE,0.8802785
-78,And what can you talk about in terms of color to give us that comfort.,POSITIVE,0.9104382
-79,"And then maybe you can talk a bit about some of the cushion in margins and what sort of levers that you have in the model, especially as some of the bench continues to benefit from the off campus recruiting that has been pretty robust?",POSITIVE,0.7191217
-80,Salil Parekh I will start off with the first part and then Nilanjan will comment on the margin levers.,POSITIVE,0.9454778
-81,"Of course, as you referenced, we have guidance till March 31 of this year.",POSITIVE,0.94365585
-82,"The color for this calendar year, broadly we see the demand environment remaining strong, the client budgets are looking good.",NEGATIVE,0.9494519
-83,"Our overall pipeline is the largest we have had in a very long time, the number of large deals that we were able to close, as Nilanjan shared- 25 large deals each over $50 mn for a total of $2.5 bn and 44% of these are net new.",NEGATIVE,0.6312144
-84,"So, all of those things are giving us good confidence to what we see going ahead.",NEGATIVE,0.6474011
-85,"Of course, we will have our guidance for our financial year in April.",POSITIVE,0.9390138
-86,Nilanjan over to you please.,POSITIVE,0.9267526
-87,"Nilanjan Roy Moshe, on the margins, like I mentioned earlier they were quite resilient for the quarter.",NEGATIVE,0.77709043
-88,"A couple of things I just want to call out – the cost levers whether it is onsite or offshore mix, the pyramid, whether it is automation – these are some of the things which we continuously look at deploying.",POSITIVE,0.9419984
-89,Subcon costs for us have really ramped up and that is an area we will continue to look going ahead.,NEGATIVE,0.9368383
-90,"The other thing is pricing and it is important to talk about that as the higher cost now starts feeding into our new deals, that should hopefully have benefits and as digital talents start getting priced in, we are able to show value to our clients in terms of the business transformation.",NEGATIVE,0.81045
-91,This is something we have started recently.,POSITIVE,0.908158
-92,It will take time to pick up and we have talked about it in the last quarter as well.,POSITIVE,0.5873765
-93,But really that is our focus - we can start getting into both our cost side and also make sure that we are not leaving any free cents and dollars on the table as part of our pricing negotiations.,POSITIVE,0.8680862
-94,"Kumar Rakesh Good evening, everyone and thank you for taking my question.",POSITIVE,0.5259816
-95,Congratulations on great set of numbers.,NEGATIVE,0.8254048
-96,"My first question Salil was, going into this calendar year, one of the largest peers has indicated a strong growth to continue through this year.",NEGATIVE,0.9419456
-97,"So, looking at our portfolio of capabilities and offerings, do you see that we are well aligned to meet or beat their growth numbers or do you see that we need some intervention to build up our own capability to continue this strong growth going ahead?",NEGATIVE,0.77842945
-98,Salil Parekh Thanks for that question.,POSITIVE,0.83394605
-99,I think in terms of our key capabilities set we have a strong portfolio across digital and cloud.,NEGATIVE,0.81287086
-100,Our Cobalt set of capabilities is resonating extremely well with our clients.,NEGATIVE,0.86906415
-101,We see the growth of digital being a reflection of the focus we have had on making these choices over the past four years and positioning the portfolio to where the clients are looking for work.,POSITIVE,0.67341423
-102,We also see the cloud capability faster growing than our digital capability.,NEGATIVE,0.8823638
-103,"So yes, we are well positioned to benefit from this.",NEGATIVE,0.8478744
-104,"In addition to that, we have a strong set of capabilities in automation, in modernization.",POSITIVE,0.5744157
-105,"We have even seen our core services which is now stable this quarter in terms of growth, it is not shrinking.",NEGATIVE,0.94237906
-106,Our view is that our set of capabilities and portfolio is reflecting what our client expectation/demands are and we have the ability to meet all those from the capability perspective.,NEGATIVE,0.5525866
-107,"We also have the capacity to expand and recruit at the college level and our ongoing recruiting ability to attract talent, which is helping us to deliver all our projects on a regular basis.",NEGATIVE,0.8834265
-108,"So, we feel quite good on how we are positioned as we go ahead into the next year as well.",NEGATIVE,0.8007066
-109,Nilanjan Roy The margin guidance for us is really a comfort range within which we operate so we really do not fine tune that as the year progresses.,POSITIVE,0.79620016
-110,"So, this is a band which we are happy to be in.",POSITIVE,0.8059175
-111,It was 21% to 23% just before COVID.,POSITIVE,0.67138577
-112,Now we are 22% to 24%.,POSITIVE,0.88179076
-113,So that is more like a way for us rather than anything else.,POSITIVE,0.90487427
-114,"And looking ahead, we continue to focus on our cost headwinds potentially in terms of employees, etc., it could be travel into the next year, but like I said we have a very robust cost optimization and of course other levers, which we continue to deploy, so we are quite confident on this.",NEGATIVE,0.90146774
-115,Kumar Rakesh So more of a reflection of flexibility that you want to keep for yourself?,POSITIVE,0.8890136
-116,Nilanjan Roy Correct.,POSITIVE,0.73473316
-117,Kumar Rakesh Thanks a lot for those answers.,POSITIVE,0.5368492
-118,I will fall back.,POSITIVE,0.6594348
-119,"Keith Bachman I want to pick up on the same line of questioning, if you could just talk about the puts and takes as you see margins over the course of the next three, four, five quarters, really calendar year 2022 and I wanted to see if you could address what you think the impact would be for a few things.",POSITIVE,0.92790484
-120,"For instance, one of the headwinds this quarter was utilization, how should we be thinking about utilization transform during calendar year 2022?",NEUTRAL,0.75226194
-121,"Number two you said attrition was flat sequentially, how do you think about attrition trends over the course of calendar year 2022?",POSITIVE,0.8362526
-122,Do you think that they can move lower or is the market such that demand is so strong that attrition will probably remain elevated?,POSITIVE,0.5785352
-123,"Number three would be you just brought up travel and any other issues that we should we be thinking about that may impact calendar year 2022 margins, and any other issues you want to bring up and that is it from me?",POSITIVE,0.87797606
-124,Thank you.,POSITIVE,0.8234813
-125,Nilanjan Roy I think that we do not give up the margin guidance for the next year.,POSITIVE,0.9303542
-126,"Now having said that looking at the headwinds, which we actually say pretty much every year are the compensation hikes, you have clients coming back for discounts on renewals, and some of that you offset with the cost optimization program which we run, and I mentioned that a bit earlier in terms of whether it is a pyramid, whether it is subcon, whether it is automation, new levers which we are looking at is pricing.",POSITIVE,0.897844
-127,"So, that is something which we are continuously working on and remain quite confident.",NEGATIVE,0.64786774
-128,"Travel is one thing which is quite unknown at this moment in terms of when does it come back, even if it comes back does it come back to pre COVID levels or in a slightly lower levels so we will have to watch out for that really.",POSITIVE,0.85509014
-129,"In terms of attrition, I think it is a larger industry issue.",POSITIVE,0.6219775
-130,It is not peculiar to us and fundamentally the volume increase for this industry has to come from freshers.,POSITIVE,0.8917618
-131,"Otherwise, it's a zero-sum game – somebody else's attrition is my lateral and my attrition is somebody else's lateral.",POSITIVE,0.8188678
-132,"So as long as the fresher intake starts increasing because first they have to come into training, then they go into production after 3 or 4 months and that is something which will help with the attrition in the medium term; and like I said we have seen attrition flattening sequentially on a quarterly annualized basis and looking ahead we are seeing some positive signs, but it is too early to say whether it will dramatically come down.",NEGATIVE,0.67686373
-133,"But like I said, as freshers feed into the system we should see the overall environment in terms of attrition in the market improving.",NEGATIVE,0.94868666
-134,Keith Bachman But any comments specifically on utilization?,POSITIVE,0.93443334
-135,"You think it will help, I heard it is neutral just broadly, and as part of that the offshore percent of labor increase YoY, is that also a trend that you think continues given the dynamics in front of you?",POSITIVE,0.7553783
-136,And I will see the floor thereafter.,POSITIVE,0.9436736
-137,"Nilanjan Roy In terms of utilization, this is higher than what we would normally like to be.",NEGATIVE,0.8801979
-138,"We would rather operate at 85% to 86%, but having said that even if we bring this down in the future it is largely at offshore locations because 75% of our effort is sitting there.",POSITIVE,0.90879405
-139,"Therefore, utilization does not directly link to the margins because of the way the offshore costs operate, so that is one factor.",POSITIVE,0.9255525
-140,"The second question, in the long run - if you see, COVID, while it had a huge impact on demand, the entire ability for the supply side to deliver in a remote environment really will shine up, and that has opened up the eyes of many of our clients that every work does not have to be done onsite.",NEGATIVE,0.9165431
-141,"It can be done in a near shore location, it can be done offshore and I think the beauty of that is secularly we believe this will help the industry in a much more larger offshoring at an overall level and of course part of that benefit will be shifting more work to offshore locations.",NEGATIVE,0.80749243
-142,"So, I think this is a good sign.",NEGATIVE,0.85609645
-143,"I think there can be short term impacts like we saw this quarter, 10 to 20 basis points here and there, but the secular trend - we think we will continue to see that the large global markets will open a lot more offshoring opportunities.",NEGATIVE,0.91745436
-144,Diviya Nagarajan Thanks for taking my question and congratulations on a very impressive quarter to the team.,NEGATIVE,0.8902117
-145,"My question is on pricing, Salil we have seen now several quarters of strong demand and it looks like we are looking at another year, looking at the run rate that we are exiting the calendar with a pretty strong demand as well and you just discussed supply in the last few comments that you made.",POSITIVE,0.72420806
-146,"How do you see pricing really trend in the next 12- 18 months, is there an opportunity for this to go up on a like to like basis?",POSITIVE,0.72706735
-147,"Salil Parekh Diviya thanks for that question, this is Salil.",POSITIVE,0.9252305
-148,I think on pricing first we have seen some level of stability in what we saw in the specific deals that we closed in Q3 versus Q2.,NEGATIVE,0.8879245
-149,"On the longer term, Nilanjan has shared in the past we have put in place a very focused effort on communicating the value that we are helping create with our clients through the digital programs.",NEGATIVE,0.8033287
-150,"We are also seeing as we have shared wage increases, we have done three in the last 12 months and broadly we are seeing large enterprises for the first time in a very long time are seeing inflation in their daily environment and so are more open to having these discussions.",NEGATIVE,0.61977786
-151,"With these factors in mind, we really see some more value that we can bring in through communicating and demonstrating our digital impact that we are creating through those programs.",NEGATIVE,0.6624409
-152,"And that, while it will not be immediate, over the next several quarters, in my view will help us to build out more resilience in the margin profile.",NEGATIVE,0.9418221
-153,"Diviya Nagarajan – UBS You earlier enumerated your skills and capabilities, but if you were to kind of think of any future investments that you are going to make, in which direction would you direct that investment through in terms of your skills and capabilities?",POSITIVE,0.92039907
-154,"Salil Parekh Today the biggest drive within our clients is really cloud, our Cobalt capabilities are very strong and we are constantly enhancing it.",NEGATIVE,0.86107826
-155,"Whether we look at the public cloud partnerships, we have also a strong ecosystem of private cloud partnerships, we have a good ecosystem with the SaaS players, extremely strong cloud native cloud first development.",NEGATIVE,0.8142861
-156,"Those would be really the first areas where we are already leading, but we will continue to grow.",NEGATIVE,0.80649424
-157,"Then you have the areas which focus on cybersecurity, which focus on data and analytics, which focus on IoT.",POSITIVE,0.937731
-158,Those are the areas which are seeing incredible traction with our clients.,NEGATIVE,0.94020754
-159,We have a strong modernization and automation leveraging Artificial Intelligence,NEGATIVE,0.67776763
-160,and Machine Learning - we will continue to build that out.,POSITIVE,0.74798566
-161,Our approach is going to be to drive all of these through our current margin profile.,NEGATIVE,0.49793002
-162,That is what we will drive through as opposed to any new place for investments.,POSITIVE,0.898177
-163,Diviya Nagarajan Fair enough.,POSITIVE,0.89605474
-164,"One last bookkeeping question, your ‘Other’ segment had a big swing this quarter, is there anything particular that we should be looking at here, any one off or if not, what drove that.",POSITIVE,0.9174807
-165,Ashwin Mehta I had one question on the third party bought out items for service delivery.,POSITIVE,0.927985
-166,"That item seems to have gone up by almost $71 mn this quarter almost 1.8% of revenues, so just wanted to check what does this pertain to and is it possibly related to the data center takeovers that we would have done in some of our large deals.",POSITIVE,0.7986915
-167,"Nilanjan Roy As we are looking at in many digital end-to-end transformation, whether IT as a service, full stack transformation, we have involved, infrastructure, SaaS, data, so it is a full stack transformation and in many cases, these involve infrastructure and software as well.",POSITIVE,0.92895985
-168,These are bundled deals which are end-to-end transformation and we think they are important as well going ahead when we look at these digital transformations.,POSITIVE,0.8509806
-169,"So, I think as part of our overall deal profiles, we continue to see these deals giving us increased visibility into the organization IT infrastructure and allowing our future deals ahead once we are pretty much front and center in the IT landscape, so that’s what these are.",NEGATIVE,0.79700416
-170,"Ashwin Mehta Just one last question, in terms of our margin outlook over the near term, do you think that with the attrition starting to on a quarterly annualized basis normalizing, the interventions that are required possibly go down in the near term so that we can possibly make a higher exit at the end of this year, so that we can maintain margins in the next year as well?",NEUTRAL,0.88188636
-171,"Nilanjan Roy As I said we have not seen a decline as yet, these are flattening and probably will start inching off, so we will continue to do what it takes to invest behind our employees because we know this is more under comfort range which we would be happy in.",NEGATIVE,0.5956426
-172,"So, I think it is premature to say when this will really come off, but as of now we are focused in doing all these interventions.",POSITIVE,0.8778281
-173,This quarter itself like we mentioned 80 basis points of our margin was behind these employee interventions.,POSITIVE,0.7278017
-174,"Ashwin Mehta Thanks a lot, congrats again and all the best.",NEGATIVE,0.58347154
-175,"Sandip Agarwal Good evening to the management team, happy New Year and thanks for taking my question.",NEGATIVE,0.8162276
-176,"First, congratulations on a very good set of numbers.",NEGATIVE,0.62183136
-177,"Salil, I have a very simple question, you see now you know, our core which is 41% to 42% of the business is stabilizing on a YoY basis, it is probably little growth is there, but digital continues to be at 40% plus growth, so if this trend continues next year, may be our core may become 32% to 33% of the overall pie, so what is your sense from a long term perspective, where do you see this core stabilizing or do you think it will be unfair to see them separately and in the next two to three years you think everything will converge together.",POSITIVE,0.83263165
-178,"So, any idea, anything which you can say on that front will be very helpful.",POSITIVE,0.8326603
-179,Salil Parekh Thanks for that question.,POSITIVE,0.83394605
-180,"First as you pointed out, the digital growth is strong at over 40% or 42% and that shows resilience, the demand profile and our portfolio which is overlapping.",NEGATIVE,0.88938105
-181,"The key for the core, instead of looking at the percentage of the business, the key for us is really the core is now stable with a very small growth, so we did not see the decline that we had for some quarters and this makes it extremely strong for us.",NEGATIVE,0.7217189
-182,"We have probably the best capability in automation and modernization across the industry and with this while everyone else’s core is still shrinking, ours will be stable or possibly even have a small uptick and that means we will be the most competitive in this area.",NEGATIVE,0.9307311
-183,"So, I am looking at this as a very positive step.",NEGATIVE,0.8403489
-184,"We of course have to maintain this, and we have to keep building out our automation capabilities.",POSITIVE,0.7466735
-185,"So, if we succeed in that, I think that is a very good outlook for us in the quarters ahead.",NEGATIVE,0.93305755
-186,Sandip Agarwal Thanks that is very helpful and best of luck for the current quarter.,NEGATIVE,0.9169954
-187,"Nitin Padmanabhan Good evening, everyone and thanks for the opportunity.",NEGATIVE,0.6433702
-188,I had two questions.,POSITIVE,0.89422715
-189,The first is on the employee side.,POSITIVE,0.938529
-190,"If you look at the employee cost under cost of revenue, it has consistently been down as a percentage of revenue, it has actually below what it used to be pre-COVID and a lot of growth has actually been added on the subcon side and even if you look at the numbers, it looks like most of the additions are all freshers.",NEUTRAL,0.86657435
-191,"So, keeping this dynamic in mind, just wanted to understand as we go forward and may be attrition normalizes, how do you see this subcon evolving from an operational perspective, do you think you will have to hire these subcontractors directly on to your rolls and would that involve slightly higher cost, so how should one think of this dynamic overall was the first question?",POSITIVE,0.8958023
-192,The second question was around the digital proportion of the business has meaningfully gone up and if you look into the next year and I am sure it will be even higher.,NEGATIVE,0.89948136
-193,From that perspective does that mean that our ability to sort of garner price increases will be far higher going into next year than what you see today?,NEGATIVE,0.8171293
-194,Thank you.,POSITIVE,0.8234813
-195,Nilanjan Roy I will take the first question on subcon.,POSITIVE,0.9449908
-196,"As Salil said the demand environment is so strong that we do not want to leave anything on the table and therefore whether it is through subcon or through lateral or freshers, we will first intend to fulfill that demand and of course over a period of time we will optimize that entire structure.",POSITIVE,0.66653204
-197,"So, whether it is programmed to rehire some of the subcon, some of them we will of course lapse and then we will get the lateral hires, some will be promoted, so within that the dynamics will play itself out over the next year.",POSITIVE,0.87686646
-198,But at the moment it is critical that we do not leave any demand in the table and of course this will remain a optimization lever for us.,POSITIVE,0.6760243
-199,"We were one of the lowest in the industry at about 6.9%, pre-COVID and we are above 11% now but this is the lever, we will have over the medium-term to optimize.",NEUTRAL,0.40245157
-200,"Salil Parekh On the pricing, as the digital work will increase what we have been putting in place which is demonstrating to our clients the value creation through digital will give us a larger opportunity for that because the revenue will be larger.",NEGATIVE,0.87253517
-201,"So, I think your assumption is absolutely valid, you will have an additional ability to do that as long as we execute in that value.",POSITIVE,0.6396175
-202,Nitin Padmanabhan Thanks for that.,POSITIVE,0.7879363
-203,"Just a clarification on the first answer, so on the first point considering fresher addition are so strong this year and subcon is so strong does it mean that next year our ability to add as many freshers will be little more inhibited, in the sense that we will need to focus a little more on laterals next year, is that a way to think about it?",POSITIVE,0.8296977
-204,Nilanjan Roy No.,POSITIVE,0.87602603
-205,I do not think so.,POSITIVE,0.8501014
-206,I think we will continue to have a very robust fresher program - it has always been there.,NEGATIVE,0.87454605
-207,"We have a strong internal rotation program so people based on the skills, we take them through our reskilling program and we then move them to new project, promotions etc.",POSITIVE,0.9224272
-208,"So, in that sense we think it will be a combination of both laterals and freshers, and I do not think we see a change in that.",POSITIVE,0.8542615
-209,Sandeep Shah Thanks for the opportunity and congratulations on a solid execution both on revenue and margins.,NEGATIVE,0.9454952
-210,The first question is CY2021 or FY2022 had a benefit of mega deal wins especially from Vanguard as well as Daimler as well as some amount of pent-up demand for you as well as the industry.,POSITIVE,0.69814736
-211,"So, the question is entering into next year do you believe that these elements one has to take care in terms of tapering off any growth in the next year or you do believe the digital adoption or the cloud adoption journey has a low penetration which does not make us upset in looking in the next year in terms of the growth momentum?",POSITIVE,0.82472754
-212,Salil Parekh Thanks for your question.,POSITIVE,0.85740876
-213,"First, the guidance increase, as I am sure you are seeing this for the year ending March of this year.",POSITIVE,0.5320699
-214,We are not yet commenting in terms of quantitative guidance for next year.,POSITIVE,0.9443431
-215,"What is clear nonetheless is the demand environment remains strong and our portfolio of services and capabilities, especially on cloud and digital are resonating well with clients so we see a good pipeline for that.",NEGATIVE,0.94330853
-216,Our large deals in this quarter also very strong.,NEGATIVE,0.9505245
-217,We continue to see a good large deal pipeline.,NEGATIVE,0.88766223
-218,"We have seen a steady expansion of our clients over $50, $100, $200 mn and so on.",NEGATIVE,0.9426441
-219,We have seen that expansion within clients is working very well and also our new client wins and new accounts are working well.,NEGATIVE,0.9485091
-220,"So overall we have the various elements of continuing this demand environment strongly but we do not have a specific guidance yet for year starting in April 1, 2022.",POSITIVE,0.88270724
-221,Sandeep Shah Fair enough and just last two bookkeeping questions.,POSITIVE,0.91008824
-222,The way I look at is Daimler deal has two legs to ramp up one being the rebadging and employee related ramp up and second being the pass-through data center related ramp up.,POSITIVE,0.84404373
-223,"Is it fair to say that most of these two legs ramp up is largely behind or may continue in Q4 as well as 1Q of next financial year and second in terms of FY2022 wage hike, is it largely over or something is due in the fourth quarter as well?",POSITIVE,0.50756633
-224,"Salil Parekh On the Daimler, we do not have any more specifics.",POSITIVE,0.9373579
-225,"I can understand what you are looking for, but we have not gone into that specifics now with Q3 and Q4.",POSITIVE,0.92643464
-226,The overall guidance for increase of the revenue covers all of that including Daimler and many other clients and especially with Q4 and the seasonality of that quarter.,POSITIVE,0.7825416
-227,"In terms of salary and compensation increases, we have done three of them for this year.",NEGATIVE,0.7564191
-228,There is nothing specific that is planned for Q4.,POSITIVE,0.9393105
-229,We will start to look at what we will do in the next financial year but nothing specific is being planned in Q4.,POSITIVE,0.93094206
-230,"Sandeep Shah Thanks, and all the best Sir.",POSITIVE,0.63843316
-231,Manik Taneja Thank you for the opportunity.,NEGATIVE,0.7128866
-232,Just wanted to understand we have seen a significant increase in offshore mix of revenues over the last 18 months and this quarter saw a slight aberration.,NEGATIVE,0.88271075
-233,What caused that and how do you see this going forward?,POSITIVE,0.9177225
-234,Thank you.,POSITIVE,0.8234813
-235,Salil Parekh The mix has changed over the last 18 months with a lot of the remote working that was put in place and work from home allowing the work to be delivered from a different location with tremendous yields and efficiency.,POSITIVE,0.5307522
-236,"What we saw in the last quarter was, some things have opened up in terms of travel and we are also being extremely optimal in what we have done in the previous quarters and this is something that has given us more ability to drive connects with clients and growth.",NEGATIVE,0.9098119
-237,"We see in the medium-term, tremendous opportunity for an efficient mix because clients have also seen that once the work is done remotely or work from home that more opportunity exists, there are work to be done from a location further away.",NEGATIVE,0.8046888
-238,"So, in general as a medium-term trend we see that as a positive trend, we will have of course each quarter some movements up and down but as a longer- term trend we see that as a positive trend.",POSITIVE,0.5821061
-239,Manik Taneja Thank you Salil.,POSITIVE,0.85309523
-240,I had one more additional question.,POSITIVE,0.89056677
-241,"Just wanted to get your thoughts around what we are seeing from a revenue productivity metrics standpoint, for revenue per person standpoint and while there is significant amount of offshore shift over the last 18 months, we have seen utilization go up.",NEGATIVE,0.9551022
-242,"So, what is causing the increase in revenue productivity despite a significant offshore shift that we have seen over the last 18 months.",NEGATIVE,0.8708008
-243,If you could talk about some of the factors that are driving it?,POSITIVE,0.9324051
-244,Thank you.,POSITIVE,0.8234813
-245,Salil Parekh On the revenue productivity there are a number of things that are going on.,POSITIVE,0.6837648
-246,We see some of the mix of our work which is also changing more to digital and there we see much more revenue productivity coming in.,NEGATIVE,0.8084941
-247,As you pointed out utilization has also gone up.,NEGATIVE,0.7099833
-248,"We will also see some of our work, for example on the consulting side, data and analytics side growing well and that is giving us some level of boost.",NEGATIVE,0.94134736
-249,There is also some impact which we have not quantified externally on leveraging some amount of automation and platforms that gives us this benefit.,POSITIVE,0.7621636
-250,"So, there are several factors at work despite the onshore offshore mix changes.",POSITIVE,0.8292596
-251,"Manik Taneja Sure, thank you and all the best for future.",NEGATIVE,0.7252862
-252,Rahul Jain Thanks for the opportunity and congratulations.,POSITIVE,0.76786906
-253,"I have a question regarding the core revenue which has seen stabilization this year, I think you have addressed this point partly but wanted to understand what could be the prospect for this side of the revenue in the coming years especially when we talk about so much shift to digitalization?",POSITIVE,0.66957724
-254,"Salil Parekh There we have no individual guidance for digital or for the core in that sense, even for Q4 or for the next financial year.",POSITIVE,0.9409198
-255,"But structurally what is clear is we have been successful in driving automation and modernization while we make sure that we are probably the most competitive large player in the market, working with large clients.",NEGATIVE,0.875293
-256,"This certainly enhances the strong confidence and if we can continue to execute on that, it will have its own benefits in the medium term.",NEGATIVE,0.93680173
-257,"Rahul Jain One more thing on the taxation part our tax rate you know steadily has been upwards of 27% on an average, this looks little higher given the country where most of our earnings belongs to so any flavor you can share in terms of what should be the ideal tax rate on a sustainable basis and in near-term?",POSITIVE,0.84066325
-258,"Nilanjan Roy Our tax rate has always hovered around this 27%, 28% range and I do not think you will see much movement going against the range.",POSITIVE,0.7650119
-259,"Because in any case, as you know, this is India rate plus other countries.",POSITIVE,0.929688
-260,25% is India-only rate.,POSITIVE,0.94151103
-261,"So I think, in the long run, you will be around this range itself.",POSITIVE,0.7272432
-262,Rahul Jain So which regions tax rate are much higher than the 25% rate also for taking this number higher than the average?,POSITIVE,0.8331971
-263,"Nilanjan Roy Yes, so see we cannot give that individually, but there are some jurisdictions and also in some jurisdiction where those taxes cannot be set off here as well, so it is a combination of both.",POSITIVE,0.93341124
-264,Rahul Jain Okay so if we are not able to set that off those results in double taxation.,NEUTRAL,0.636288
-265,That is also a reason okay got it thank you so much.,NEGATIVE,0.59420466
-266,James Friedman Let me echo the congratulations for this fiscal year.,POSITIVE,0.8920716
-267,"I just had one simple question across for Nilanjan, can you remind us what the capital allocation strategy is.",POSITIVE,0.92310154
-268,I remember you had put it out during the analyst day in November 2020 but where is share repurchase in the prioritization.,POSITIVE,0.94445735
-269,Thank you.,POSITIVE,0.8234813
-270,"Nilanjan Roy What we had announced in FY20 basically, was that we have taken capital allocation to 85%, prior to this it was 70% and we said that we will take that over the period of 5 years through a combination of progressive growth-oriented dividend policy plus either share buyback or one off special dividends.",POSITIVE,0.6372026
-271,"And in the first two years, as we have announced, we have actually paid back 82% through higher increased normal dividends and also through share buyback which we announced last year.",NEGATIVE,0.8903317
-272,We have already paid back 82% and we remain quite committed to overall 85% over 5 years.,NEGATIVE,0.8781308
-273,James Friedman Got it.,POSITIVE,0.91910106
-274,Thank you so much.,POSITIVE,0.58288467
-275,Vimal Gohil Thank you for the opportunity and congratulations on a great quarter.,NEGATIVE,0.8908871
-276,My question is on your employee cost which partially has been addressed but how should we think about the core employee cost growth which comes under the cost of revenue which has seen around 4% CQGR increase over Q1 of FY2021 versus the 6% revenue growth and this has been in light of a very sharp increase in attrition and of course further supply challenges and etc.,NEGATIVE,0.43472555
-277,"So, if you can just highlight, are our wage hikes in line with the industry or have they been much higher than the industry?",POSITIVE,0.7108465
-278,How should we think about this historically and if you could give some kind of an outlook over there as well?,POSITIVE,0.91141105
-279,Thanks.,POSITIVE,0.8105389
-280,"Nilanjan Roy Yes, so you have to see both employee cost and subcon together as the cost of people as a combination, you cannot see one in isolation that is number one.",POSITIVE,0.88102174
-281,"Number two, just from an overall cost perspective, we of course are very focused on the attrition and being competitive in the markets as well as being employer of choice for many of our employee.",POSITIVE,0.5261152
-282,"Going ahead when we look at intervention on the compensation side like Salil said, we did across, in January, we did across the board, in July we have done across the board, in Q3 as well we have done very segmented and for targeted talent and we will continue doing that into Q4 etc., looking at high points of attrition and doing it much more tactically to see where we are seeing demand being high in the markets for those skills and target those employees really.",POSITIVE,0.55737275
-283,"So, I think it is very nuanced like I said and we will continue doing that.",POSITIVE,0.84668165
-284,"Vimal Gohil Sir, so basically if we were to look at your guidance, it implies 0% to 2% sort of a revenue growth in Q4.",NEGATIVE,0.80557275
-285,"Considering the fact that there were some furloughs in Q3, your revenue growth could be higher than what you have reported in Q3.",NEGATIVE,0.9553073
-286,"So, is your guidance conservative at this point in time how should we think about that?",POSITIVE,0.91384953
-287,"Salil Parekh In terms of the guidance, it was very strong.",NEGATIVE,0.9088564
-288,It is 19.5% to 20%.,POSITIVE,0.89253026
-289,"There is no further color in saying whether it is conservative, aggressive, or stable.",POSITIVE,0.935519
-290,We see a very good demand outlook; we see good large deals and good portfolio and the guidance is a very big move up from where we were in the last quarter.,NEGATIVE,0.95188725
-291,Vimal Gohil – Union AMC Fair enough Sir.,POSITIVE,0.6359884
-292,Thank you so much and all the very best.,NEGATIVE,0.6435338
-293,Sandeep Mahindroo Thanks Salil for closing comments and thanks again for joining us on this call.,NEGATIVE,0.7566222
-294,Look forward to talking to you again during the year.,POSITIVE,0.7864956
-295,Thank you.,POSITIVE,0.8234813
+1,Moderator,POSITIVE,0.87275183
+2,"As a reminder, all participant lines will be in the listen-only mode and there will be an",POSITIVE,0.9442856
+3,opportunity for you to ask questions after the presentation concludes.,POSITIVE,0.93343097
+4,Should you need,POSITIVE,0.88743174
+5,"assistance during the conference call, please signal an operator by pressing “*” then “0”",POSITIVE,0.92778724
+6,on your touchtone phone.,POSITIVE,0.9371522
+7,Please note that this conference is being recorded.,POSITIVE,0.9463836
+8,I now hand,POSITIVE,0.803854
+9,the conference over to Mr. Sandeep Mahindroo.,POSITIVE,0.94655895
+10,Thank you and over to you Sir!,POSITIVE,0.63561
+11,Sandeep Mahindroo,POSITIVE,0.8899787
+12,"Thanks, Margreth.",NEGATIVE,0.5888269
+13,Hello everyone and welcome to Infosys Earnings Call to discuss Q3,POSITIVE,0.9160365
+14,FY22 results.,POSITIVE,0.72503936
+15,I am Sandeep from the Investor Relations team in Bengaluru.,POSITIVE,0.9209335
+16,Let me begin,POSITIVE,0.90427935
+17,by wishing everyone a very happy New Year.,POSITIVE,0.8927373
+18,"Joining us today on this earnings call, is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan",POSITIVE,0.94364715
+19,Roy along with other members of the senior management team.,POSITIVE,0.9357752
+20,We will start the call with some remarks on the performance of the company by Salil and,POSITIVE,0.9408524
+21,"Nilanjan, after that we will open the call for questions.",POSITIVE,0.93989825
+22,"Please note that anything that we say, which refer to our outlook for the future is a",POSITIVE,0.95006603
+23,"forward-looking statement, which must be read in conjunction with the risk that the",POSITIVE,0.94365436
+24,company faces.,POSITIVE,0.9005629
+25,A full statement and explanation of these risks is available in our filings,POSITIVE,0.9490434
+26,"with the SEC, which can be found on www.sec.gov.",POSITIVE,0.950779
+27,I would now like to turn it over to Salil.,POSITIVE,0.9396199
+28,Salil Parekh,POSITIVE,0.8668303
+29,Good evening and good morning to everyone on the call.,POSITIVE,0.86998326
+30,Wish you all a Happy New Year,POSITIVE,0.77006835
+31,and trust you and your dear ones are well and safe.,POSITIVE,0.70815855
+32,Thank you for making the time to join,POSITIVE,0.66080475
+33,us today.,POSITIVE,0.928886
+34,I am delighted to share with you that we had an extremely strong quarter with 7.0%,NEGATIVE,0.9530971
+35,sequential growth and 21.5% YoY growth in constant currency terms.,NEGATIVE,0.6714119
+36,Our YoY growth,POSITIVE,0.8554535
+37,was the fastest we have had in 11 years.,NEGATIVE,0.73736775
+38,"The growth was broad-based across industries, service lines and geographies driven by",POSITIVE,0.77412474
+39,our differentiated digital and cloud capabilities.,POSITIVE,0.64949363
+40,A strong broad-based growth in a,NEGATIVE,0.9201394
+41,seasonally weak quarter is a clear testament to the enormous confidence clients have in,NEUTRAL,0.87389946
+42,us to help them accelerate their business transformation.,NEGATIVE,0.5489186
+43,This has been made possible by the relentless commitment of our employees through,NEGATIVE,0.663034
+44,these challenging times.,POSITIVE,0.75048214
+45,I am extremely proud as well as grateful for their extraordinary,NEGATIVE,0.64820445
+46,efforts in delivering success for our clients.,NEGATIVE,0.644079
+47,Our growth has been accompanied by resilient operating margins at 23.5%.,NEGATIVE,0.9519664
+48,We delivered,POSITIVE,0.9002421
+49,these margins while keeping in the forefront our focus on employees with increased,POSITIVE,0.6028956
+50,compensation and benefits.,POSITIVE,0.9155602
+51,Our digital business grew by 42.6% and is now 58.5% of our overall revenues.,NEGATIVE,0.7213775
+52,Within,POSITIVE,0.78540856
+53,"digital, our cloud work is growing faster, and our Cobalt cloud capabilities are resonating",NEGATIVE,0.6979027
+54,tremendously with our clients.,NEGATIVE,0.8947993
+55,Some of the highlights of our results are,POSITIVE,0.75244516
+56,1.,POSITIVE,0.92499614
+57,"Revenues at $4.25 bn, with a growth 21.5% YoY and 7.0% sequential in constant",NEGATIVE,0.9147095
+58,currency,POSITIVE,0.9024736
+59,2.,POSITIVE,0.9217363
+60,"Broad-based growth across all our industries, service lines and geographies.",NEGATIVE,0.6373855
+61,All our,POSITIVE,0.90037334
+62,"segments reported a strong double-digit growth,",NEGATIVE,0.95452476
+63,3.,POSITIVE,0.92621195
+64,"Large deals at $2.5 bn,",POSITIVE,0.6172395
+65,4.,POSITIVE,0.9269275
+66,"Onsite mix at 23.8% and utilization at 88.5%,",POSITIVE,0.8853169
+67,5.,POSITIVE,0.9143761
+68,"Operating margins strong at 23.5%,",NEGATIVE,0.9526848
+69,6.,POSITIVE,0.91026866
+70,"Free cash flow at $719 mn,",POSITIVE,0.6527334
+71,7.,POSITIVE,0.88576543
+72,Attrition increased to 25.5%.,NEGATIVE,0.9355768
+73,Our quarterly annualized attrition was flattish on,NEUTRAL,0.90200084
+74,sequential basis.,POSITIVE,0.9366577
+75,8.,POSITIVE,0.90848124
+76,"We had a net headcount increase of 12,450, attracting leading talent from the",NEGATIVE,0.95370466
+77,market.,POSITIVE,0.9304163
+78,"We have increased our annual college recruiting target to 55,000, and",NEGATIVE,0.8899131
+79,Nilanjan will comment more on this.,POSITIVE,0.9472062
+80,We remain comfortable with our ability to,NEGATIVE,0.8243867
+81,support our clients in their digital transformation journey.,POSITIVE,0.76160884
+82,Financial Services grew at 15.5% in constant currency with broad-based growth across,NEGATIVE,0.75105494
+83,geographies and steady deal wins.,POSITIVE,0.8465833
+84,"Various subsectors like lending, mortgage, cards,",POSITIVE,0.94961035
+85,payments are seeing increasing demand and clients are driving cloud transformation,NEGATIVE,0.88548553
+86,initiatives to build resilient and scalable platforms.,NEGATIVE,0.54953474
+87,Retail segment growth was 19.8% in constant currency.,POSITIVE,0.720043
+88,Across sub-verticals we see,POSITIVE,0.76837075
+89,"increased client spend on digital transformation including digital supply chain,",NEGATIVE,0.8796084
+90,omnichannel commerce and large-scale cost take out initiatives to improve business,NEGATIVE,0.7294297
+91,resilience.,POSITIVE,0.60308325
+92,We signed six large deals in this segment during the quarter.,NEGATIVE,0.6965977
+93,The communication segment grew at 22.2% on constant currency.,NEGATIVE,0.7747691
+94,Segment performance,POSITIVE,0.9284572
+95,continued to improve with ramp up of recently won deals.,NEGATIVE,0.95788425
+96,Client budgets are focused on,POSITIVE,0.92885745
+97,"digital and customer experience programs, increasing networking infrastructure, cloud",NEGATIVE,0.7279946
+98,adoption and security with emphasis on 5G roll out and innovation spend.,POSITIVE,0.83659494
+99,"Energy, utility, resources and services vertical continued its steady performance with",NEGATIVE,0.9563862
+100,13.6% constant currency growth and 5 large deal wins.,NEGATIVE,0.9433879
+101,We are seeing gradual,POSITIVE,0.8259603
+102,improvement across various businesses as consumer spending continues to increase and,NEGATIVE,0.9584067
+103,clients focus on increasing technology transformation around areas like customer,NEGATIVE,0.61648005
+104,"experience, cybersecurity and workload migration to the cloud.",POSITIVE,0.88078254
+105,The manufacturing segment growth accelerated to 48.4% in constant currency with,NEGATIVE,0.95547336
+106,continued ramp up of the Daimler deal and steady momentum in new deal wins.,NEGATIVE,0.9503439
+107,We see,POSITIVE,0.9166872
+108,across the broad improvement within various subsectors and geographies and expect,POSITIVE,0.75838304
+109,"client focus to continue in areas like smart manufacturing, IOT, digital supply chain and",NEGATIVE,0.78110313
+110,connected products.,POSITIVE,0.93753874
+111,High tech growth improved during the quarter to 18.9% in constant currency.,NEGATIVE,0.9602259
+112,Clients are,POSITIVE,0.93391985
+113,seeing renewed momentum in terms of spending on digital transformation programs linked,NEGATIVE,0.9491417
+114,"to customer, partner and employee engagement.",POSITIVE,0.84012765
+115,Life Sciences segment performance also improved further to 29.2% growth.,NEGATIVE,0.9636376
+116,Adoption of,POSITIVE,0.84188807
+117,"digital health, telehealth and patient access programs are resulting in significant uptake of",NEGATIVE,0.8933007
+118,"cloud, IoT, patient facing applications, patient portals and next generation CRM work.",POSITIVE,0.9435961
+119,We had a very strong performance on our income tax program in India.,NEGATIVE,0.95497006
+120,Over 5.8 crores or,POSITIVE,0.90697795
+121,"58 mn tax returns were filed using the new system, by the deadline of December 31,",POSITIVE,0.94856286
+122,2021.,POSITIVE,0.90211743
+123,On the last day over 46 lakhs or 4.6 mn tax returns were filed and during the peak,POSITIVE,0.639159
+124,"hour over 5 lakh or 500,000 tax returns were filed.",POSITIVE,0.55991375
+125,We are proud to be supporting the,NEGATIVE,0.693833
+126,digital strategy for India and for the government and working on this program for future,POSITIVE,0.83185804
+127,modules that will be developed.,POSITIVE,0.9136568
+128,Across digital services in Q3 we have been ranked as a leader in 12 digital service-related,NEGATIVE,0.92480344
+129,"capabilities from Artificial Intelligence and Automation, Cloud Services, IoT, Engineering,",POSITIVE,0.91877866
+130,Modernization and Big Data and Analytics.,POSITIVE,0.9226821
+131,The strong overall performance stems from four years of sustained strategic focus in,NEGATIVE,0.9365441
+132,"areas of relevance for our clients in digital and cloud, continuing reskilling of our people",NEGATIVE,0.52627015
+133,and deep relationships of trust our clients have with us.,POSITIVE,0.71072656
+134,With this strong momentum in the business and robust pipeline we are increasing our,NEGATIVE,0.9492496
+135,annual revenue growth guidance from 16.5% to 17.5% moving up to 19.5% to 20% in,NEGATIVE,0.9397774
+136,constant currency.,POSITIVE,0.9267267
+137,Our operating margin guidance remains at 22% to 24%.,POSITIVE,0.858523
+138,"With that, let me hand it over to Nilanjan for his update.",POSITIVE,0.9376463
+139,Nilanjan Roy,POSITIVE,0.8504617
+140,everyone a very happy and safe 2022.,POSITIVE,0.80305314
+141,Q3 was another successive quarter of continued acceleration in revenues at 7.0%,NEGATIVE,0.9401035
+142,"constant currency QoQ growth and 21.5% constant currency YoY growth, the highest YoY",NEGATIVE,0.9442381
+143,growth in the last 11 years.,NEGATIVE,0.7284222
+144,"Despite the Q3 seasonality, we registered strong broad-based growth across geographies",NEGATIVE,0.95501256
+145,and verticals.,POSITIVE,0.9125187
+146,Our largest geography North America grew at 21.4% while growth in Europe,NEGATIVE,0.8164124
+147,accelerated to an impressive 27.2% YoY in constant currency terms.,NEGATIVE,0.9539985
+148,"Retail,",POSITIVE,0.9235455
+149,"Communication, Manufacturing and Life Sciences also saw 20% or higher YoY growth in",NEGATIVE,0.9064966
+150,constant currency.,POSITIVE,0.9267267
+151,"We won 25 large deals, and large deals being those with over $50 mn TCV, totaling $2.5",NEGATIVE,0.81199956
+152,"bn of TCV - 6 in Retail, 5 each in Financial Services, Communications, and Energy Utilities",POSITIVE,0.94031864
+153,"Resources and Services, 2 in Manufacturing and 1 each in Hi-Tech and Life Sciences.",POSITIVE,0.9325827
+154,"Region wise, 16 were from the Americas, 7 were from Europe and 2 from RoW.",POSITIVE,0.9160729
+155,The share,POSITIVE,0.81538314
+156,of new deals increased in Q3 to 44% within the large deal numbers.,NEGATIVE,0.95049846
+157,"Client metrics improved further with $100+ mn client count increasing to 37, an increase of",NEGATIVE,0.96042603
+158,8 YoY.,POSITIVE,0.7361174
+159,We added 111 new clients in the last quarter.,NEGATIVE,0.6478728
+160,Operating parameters remain robust.,NEGATIVE,0.907252
+161,Utilization was 88.5% slightly lower than the,NEUTRAL,0.96269
+162,previous quarter easing some of the supply side pressures.,NEGATIVE,0.5916782
+163,Onsite effort mix inched up,NEGATIVE,0.93444616
+164,marginally to 23.8%.,NEGATIVE,0.9326078
+165,"Q3 margins remained resilient at 23.5%, a marginal drop of 10 basis points versus",NEUTRAL,0.94759375
+166,previous quarter.,NEUTRAL,0.74612147
+167,The major components of the sequential margin movements were as,POSITIVE,0.8978286
+168,below.,POSITIVE,0.89025015
+169,• 80 basis points impact due to comp hikes and promotions and other employee,NEUTRAL,0.9181964
+170,interventions.,POSITIVE,0.9205287
+171,• 40 basis points impact due to the utilization decline.,NEUTRAL,0.9674479
+172,These were offset by,POSITIVE,0.5567087
+173,• About 20 basis points benefit due to the rupee and other cross currency,NEGATIVE,0.72533035
+174,"movements,",POSITIVE,0.86924607
+175,"• 50 basis point benefit due to cost optimization, and",NEGATIVE,0.919327
+176,• 40 basis points benefit due to SG&A leverage other one-offs included therein.,POSITIVE,0.7657195
+177,Q3 EPS grew by 11.2% in dollar terms and 13.1% in rupee terms on a YoY basis.,NEGATIVE,0.9555228
+178,"Although DSO increased to 71 days due to higher seasonal billing, an increase of 5 days",NEGATIVE,0.94929534
+179,"versus the last quarter, it is still a reduction of 2 days versus Q3 of prior year.",NEUTRAL,0.93423563
+180,Free cash flow for the quarter was healthy at $719 mn.,NEGATIVE,0.683414
+181,Free cash flow as a percentage of,POSITIVE,0.9265078
+182,net profit was 93% for Q3 and 104% for the nine months till date.,POSITIVE,0.90146357
+183,Yield on cash balances improved to 5.29% compared to 5.13% in Q2.,NEGATIVE,0.95115155
+184,Our balance sheet remains strong and debt free.,NEGATIVE,0.9119858
+185,Consolidated cash and investments at,POSITIVE,0.944212
+186,the end of the quarter stood at $4.28 bn after paying over $840 mn of interim dividend,NEUTRAL,0.49898183
+187,during the quarter.,POSITIVE,0.724046
+188,Return on equity increased further to 30.4% an increase of 3% over Q3 of the prior year,NEGATIVE,0.95342326
+189,driven by robust performance and consistent capital returns through share buyback and,NEGATIVE,0.9313991
+190,increased dividend payout.,NEGATIVE,0.95196825
+191,"On the employee front, voluntary 12 months attrition increased to 25.5% and as Salil",NEGATIVE,0.76049596
+192,"commented while LTM attrition continues to increase due to the tail effect, quarterly",NEUTRAL,0.73678994
+193,annualized attrition was flattish compared to Q2.,NEUTRAL,0.8952117
+194,We will continue to invest in all aspects of,POSITIVE,0.6350989
+195,"talent retention including compensation, promotion, skill incentives, learning and career",POSITIVE,0.9397896
+196,progression.,POSITIVE,0.9207022
+197,"We have also simultaneously increased the pace of hiring, talent reskilling and the usage",NEGATIVE,0.8707995
+198,of subcon to prevent any impact on client commitment.,POSITIVE,0.9064585
+199,"We have added 12,450 talented",POSITIVE,0.91151124
+200,"employees on a net basis in the last quarter, which is the highest ever.",NEGATIVE,0.89922273
+201,Our global college,POSITIVE,0.81831545
+202,"graduate hiring program for this fiscal has been increased to over 55,000 versus the",NEGATIVE,0.9514287
+203,"previous quarter number of 45,000.",POSITIVE,0.7916033
+204,In India over 93% of Infoscions have received at least one dose of the vaccine.,POSITIVE,0.850851
+205,Over 97%,POSITIVE,0.7689207
+206,"of our employees globally are presently working in remote environment, due to the",NEUTRAL,0.84410304
+207,heightened precautions against the new variant.,NEGATIVE,0.64451104
+208,"Driven by robust demand environment and our continued market share gains, we are",NEGATIVE,0.9237729
+209,further increasing our revenue guidance for FY22 to 19.5% to 20% in constant currency,NEGATIVE,0.9441412
+210,terms from 16.5% to 17.5% earlier and the margin guidance remains unchanged at 22%,POSITIVE,0.75624365
+211,to 24%.,NEGATIVE,0.8422873
+212,With that we can open the call for questions.,POSITIVE,0.9102474
+213,Moderator,POSITIVE,0.87275183
+214,Thank you very much.,POSITIVE,0.7809915
+215,We will now begin the question-and-answer session.,POSITIVE,0.9459576
+216,The first,POSITIVE,0.7616694
+217,question is from the line of Ankur Rudra from JP Morgan.,POSITIVE,0.93436795
+218,Please go ahead.,POSITIVE,0.9280336
+219,Ankur Rudra,POSITIVE,0.8230211
+220,Thank you.,POSITIVE,0.8234813
+221,Happy New Year to everybody.,POSITIVE,0.758683
+222,Excellent numbers for the quarter.,NEGATIVE,0.94609725
+223,Clearly a,POSITIVE,0.671514
+224,very strong growth for Q3.,NEGATIVE,0.94924295
+225,Could you start with elaborating on –where did the incremental,POSITIVE,0.9327105
+226,surprise come from.,POSITIVE,0.89360607
+227,The full year guidance has increased sharply given the performance,NEGATIVE,0.9188316
+228,"of the quarter, so where did the surprise come from?",POSITIVE,0.869916
+229,Salil Parekh,POSITIVE,0.8668303
+230,"I think what we are seeing in the quarter and then all through the year, is the demand",POSITIVE,0.8398794
+231,environment remains extremely strong and then more and more traction on the digital and,NEGATIVE,0.69353956
+232,the cloud programs.,POSITIVE,0.938383
+233,This is where we saw the most impact in the quarter in Q3 where we,POSITIVE,0.73034096
+234,had really strong growth of 7% and therefore the overall guidance jumping up by 3%.,NEGATIVE,0.9557533
+235,"In terms of verticals, as I was sharing earlier, it is broad based.",POSITIVE,0.9287007
+236,"Of course, we have a very",POSITIVE,0.83274823
+237,"strong momentum in Manufacturing, that was something that we were looking forward to.",NEGATIVE,0.8747274
+238,There is also good momentum that we are seeing in Financial Services given it is our,NEGATIVE,0.86750627
+239,"largest vertical, and in Life Sciences that I described before.",POSITIVE,0.8805452
+240,Retail is starting to come,POSITIVE,0.7615666
+241,back nicely as well.,POSITIVE,0.72804224
+242,"As Nilanjan mentioned, Europe again was a stand-out.",POSITIVE,0.6631793
+243,Those are,POSITIVE,0.89506763
+244,some of the elements that gave us a good outcome in Q3 and then the support for,NEGATIVE,0.82222426
+245,expanding the guidance for the full year.,POSITIVE,0.82172716
+246,Moderator,POSITIVE,0.87275183
+247,ahead.,POSITIVE,0.8797629
+248,Moshe Katri,POSITIVE,0.90195084
+249,Thanks.,POSITIVE,0.8105389
+250,Happy New Year and congrats on very strong results.,NEGATIVE,0.9038378
+251,"One, I know you just",POSITIVE,0.9063776
+252,"reported Q3 but are you ready to talk about the entire calendar year down the road, 2022.",POSITIVE,0.9311017
+253,"What has changed in terms of visibility, may be that is the biggest question if this is",POSITIVE,0.8942399
+254,sustainable down the road.,POSITIVE,0.7579965
+255,And what can you talk about in terms of color to give us that,POSITIVE,0.9371018
+256,comfort.,POSITIVE,0.86900043
+257,And then maybe you can talk a bit about some of the cushion in margins and,POSITIVE,0.8123853
+258,"what sort of levers that you have in the model, especially as some of the bench continues",POSITIVE,0.9280347
+259,to benefit from the off campus recruiting that has been pretty robust?,NEGATIVE,0.8875286
+260,Salil Parekh,POSITIVE,0.8668303
+261,I will start off with the first part and then Nilanjan will comment on the margin levers.,POSITIVE,0.94271815
+262,Of,POSITIVE,0.82584214
+263,"course, as you referenced, we have guidance till March 31 of this year.",POSITIVE,0.9454977
+264,The color for this,POSITIVE,0.9193508
+265,"calendar year, broadly we see the demand environment remaining strong, the client",NEGATIVE,0.92790025
+266,budgets are looking good.,NEGATIVE,0.78396386
+267,Our overall pipeline is the largest we have had in a very long,NEGATIVE,0.6826866
+268,"time, the number of large deals that we were able to close, as Nilanjan shared- 25 large",POSITIVE,0.7952529
+269,deals each over $50 mn for a total of $2.5 bn and 44% of these are net new.,POSITIVE,0.9005733
+270,"So, all of",POSITIVE,0.92164177
+271,those things are giving us good confidence to what we see going ahead.,NEGATIVE,0.7307794
+272,"Of course, we",POSITIVE,0.9088913
+273,will have our guidance for our financial year in April.,POSITIVE,0.94621664
+274,Nilanjan over to you please.,POSITIVE,0.9267526
+275,Nilanjan Roy,POSITIVE,0.8504617
+276,"Moshe, on the margins, like I mentioned earlier they were quite resilient for the quarter.",NEGATIVE,0.8024891
+277,A,POSITIVE,0.8894127
+278,"couple of things I just want to call out – the cost levers whether it is onsite or offshore mix,",POSITIVE,0.933573
+279,"the pyramid, whether it is automation – these are some of the things which we",POSITIVE,0.9291528
+280,continuously look at deploying.,POSITIVE,0.87615794
+281,Subcon costs for us have really ramped up and that is an,NEGATIVE,0.9003195
+282,area we will continue to look going ahead.,NEGATIVE,0.6293254
+283,The other thing is pricing and it is important to,POSITIVE,0.9140995
+284,"talk about that as the higher cost now starts feeding into our new deals, that should",POSITIVE,0.8486781
+285,"hopefully have benefits and as digital talents start getting priced in, we are able to show",NEGATIVE,0.9087601
+286,value to our clients in terms of the business transformation.,POSITIVE,0.6885818
+287,This is something we have,POSITIVE,0.9038243
+288,started recently.,POSITIVE,0.9271058
+289,It will take time to pick up and we have talked about it in the last quarter,POSITIVE,0.5131694
+290,as well.,POSITIVE,0.8252702
+291,But really that is our focus - we can start getting into both our cost side and also,POSITIVE,0.7985406
+292,make sure that we are not leaving any free cents and dollars on the table as part of our,POSITIVE,0.9220921
+293,pricing negotiations.,POSITIVE,0.9078246
+294,Moderator,POSITIVE,0.87275183
+295,go ahead.,POSITIVE,0.89627224
+296,Kumar Rakesh,POSITIVE,0.89458907
+297,"Good evening, everyone and thank you for taking my question.",POSITIVE,0.679424
+298,Congratulations on great,POSITIVE,0.7956046
+299,set of numbers.,POSITIVE,0.9088492
+300,"My first question Salil was, going into this calendar year, one of the largest",POSITIVE,0.91949064
+301,peers has indicated a strong growth to continue through this year.,NEGATIVE,0.95131284
+302,"So, looking at our",POSITIVE,0.9197048
+303,"portfolio of capabilities and offerings, do you see that we are well aligned to meet or beat",NEGATIVE,0.63187397
+304,their growth numbers or do you see that we need some intervention to build up our own,NEGATIVE,0.58337355
+305,capability to continue this strong growth going ahead?,NEGATIVE,0.71427965
+306,Salil Parekh,POSITIVE,0.8668303
+307,Thanks for that question.,POSITIVE,0.79512614
+308,I think in terms of our key capabilities set we have a strong,NEGATIVE,0.8556203
+309,portfolio across digital and cloud.,POSITIVE,0.93544984
+310,Our Cobalt set of capabilities is resonating extremely,NEGATIVE,0.63702375
+311,well with our clients.,POSITIVE,0.6315455
+312,We see the growth of digital being a reflection of the focus we have,POSITIVE,0.8714677
+313,had on making these choices over the past four years and positioning the portfolio to,POSITIVE,0.8727464
+314,where the clients are looking for work.,POSITIVE,0.8204796
+315,We also see the cloud capability faster growing,NEGATIVE,0.8486402
+316,than our digital capability.,POSITIVE,0.6249949
+317,"So yes, we are well positioned to benefit from this.",NEGATIVE,0.8478744
+318,In addition to,POSITIVE,0.89029634
+319,"that, we have a strong set of capabilities in automation, in modernization.",NEGATIVE,0.49636993
+320,We have even,POSITIVE,0.8093559
+321,"seen our core services which is now stable this quarter in terms of growth, it is not",NEGATIVE,0.9232826
+322,shrinking.,NEUTRAL,0.73636764
+323,Our view is that our set of capabilities and portfolio is reflecting what our client,POSITIVE,0.9047558
+324,expectation/demands are and we have the ability to meet all those from the capability,NEGATIVE,0.6648674
+325,perspective.,POSITIVE,0.8997022
+326,We also have the capacity to expand and recruit at the college level and our,NEGATIVE,0.76528424
+327,"ongoing recruiting ability to attract talent, which is helping us to deliver all our projects on a",NEGATIVE,0.88653463
+328,regular basis.,POSITIVE,0.943059
+329,"So, we feel quite good on how we are positioned as we go ahead into the",NEGATIVE,0.7653035
+330,next year as well.,POSITIVE,0.9201215
+331,Kumar Rakesh,POSITIVE,0.89458907
+332,22% to 24%.,POSITIVE,0.87925464
+333,Currently we are trending to the upper end so how should we see that?,POSITIVE,0.8864597
+334,Is it,POSITIVE,0.9081908
+335,that you want to keep flexibility with yourself in anticipation of any large deals or any cost,POSITIVE,0.85716647
+336,headwind potentially coming from that or is there an indication that you are looking at,POSITIVE,0.5829925
+337,"some major cost headwind which are going to come in, in the coming quarter and hence",NEUTRAL,0.929307
+338,you are maintaining this margin guidance band?,POSITIVE,0.8842208
+339,Nilanjan Roy,POSITIVE,0.8504617
+340,The margin guidance for us is really a comfort range within which we operate so we really,POSITIVE,0.7612064
+341,do not fine tune that as the year progresses.,POSITIVE,0.9195098
+342,"So, this is a band which we are happy to be",POSITIVE,0.79024494
+343,in.,POSITIVE,0.9236176
+344,It was 21% to 23% just before COVID.,POSITIVE,0.67138577
+345,Now we are 22% to 24%.,POSITIVE,0.88179076
+346,So that is more like a,POSITIVE,0.8902602
+347,way for us rather than anything else.,POSITIVE,0.88803345
+348,"And looking ahead, we continue to focus on our cost",POSITIVE,0.6306175
+349,"headwinds potentially in terms of employees, etc., it could be travel into the next year, but",NEUTRAL,0.94849086
+350,"like I said we have a very robust cost optimization and of course other levers, which we",POSITIVE,0.67757016
+351,"continue to deploy, so we are quite confident on this.",NEGATIVE,0.8830226
+352,Kumar Rakesh,POSITIVE,0.89458907
+353,So more of a reflection of flexibility that you want to keep for yourself?,POSITIVE,0.9156229
+354,Nilanjan Roy,POSITIVE,0.8504617
+355,Correct.,POSITIVE,0.90433675
+356,Kumar Rakesh,POSITIVE,0.89458907
+357,Thanks a lot for those answers.,POSITIVE,0.68495274
+358,I will fall back.,POSITIVE,0.6594348
+359,Moderator,POSITIVE,0.87275183
+360,Markets.,POSITIVE,0.92791516
+361,Please go ahead.,POSITIVE,0.9280336
+362,Keith Bachman,POSITIVE,0.9043514
+363,"I want to pick up on the same line of questioning, if you could just talk about the puts and",POSITIVE,0.9241293
+364,"takes as you see margins over the course of the next three, four, five quarters, really",POSITIVE,0.93582237
+365,calendar year 2022 and I wanted to see if you could address what you think the impact,POSITIVE,0.912661
+366,would be for a few things.,POSITIVE,0.9367323
+367,"For instance, one of the headwinds this quarter was utilization,",NEUTRAL,0.91631967
+368,how should we be thinking about utilization transform during calendar year 2022?,POSITIVE,0.92111063
+369,Number,POSITIVE,0.846869
+370,"two you said attrition was flat sequentially, how do you think about attrition trends over the",POSITIVE,0.8089232
+371,course of calendar year 2022?,POSITIVE,0.91157097
+372,Do you think that they can move lower or is the market,POSITIVE,0.72501194
+373,such that demand is so strong that attrition will probably remain elevated?,POSITIVE,0.7709769
+374,Number three,POSITIVE,0.9131401
+375,would be you just brought up travel and any other issues that we should we be thinking,POSITIVE,0.93651474
+376,"about that may impact calendar year 2022 margins, and any other issues you want to",NEUTRAL,0.7650866
+377,bring up and that is it from me?,POSITIVE,0.9081695
+378,Thank you.,POSITIVE,0.8234813
+379,Nilanjan Roy,POSITIVE,0.8504617
+380,I think that we do not give up the margin guidance for the next year.,POSITIVE,0.93362087
+381,Now having said that,POSITIVE,0.7671175
+382,"looking at the headwinds, which we actually say pretty much every year are the",POSITIVE,0.7063389
+383,"compensation hikes, you have clients coming back for discounts on renewals, and some",POSITIVE,0.56177074
+384,"of that you offset with the cost optimization program which we run, and I mentioned that a",POSITIVE,0.8684359
+385,"bit earlier in terms of whether it is a pyramid, whether it is subcon, whether it is",POSITIVE,0.9374549
+386,"automation, new levers which we are looking at is pricing.",POSITIVE,0.7009013
+387,"So, that is something which we",POSITIVE,0.91063577
+388,are continuously working on and remain quite confident.,NEGATIVE,0.63034874
+389,Travel is one thing which is quite,POSITIVE,0.9216879
+390,"unknown at this moment in terms of when does it come back, even if it comes back does it",POSITIVE,0.91065156
+391,come back to pre COVID levels or in a slightly lower levels so we will have to watch out for,POSITIVE,0.63991624
+392,that really.,POSITIVE,0.88968796
+393,"In terms of attrition, I think it is a larger industry issue.",POSITIVE,0.6219775
+394,It is not peculiar to us and,POSITIVE,0.8992189
+395,fundamentally the volume increase for this industry has to come from freshers.,POSITIVE,0.7543106
+396,"Otherwise,",POSITIVE,0.91713905
+397,it's a zero-sum game – somebody else's attrition is my lateral and my attrition is somebody,POSITIVE,0.82513547
+398,else's lateral.,POSITIVE,0.8997176
+399,So as long as the fresher intake starts increasing because first they have to come into,POSITIVE,0.86035335
+400,"training, then they go into production after 3 or 4 months and that is something which will",POSITIVE,0.93506265
+401,help with the attrition in the medium term; and like I said we have seen attrition flattening,NEGATIVE,0.6976162
+402,sequentially on a quarterly annualized basis and looking ahead we are seeing some,POSITIVE,0.8781468
+403,"positive signs, but it is too early to say whether it will dramatically come down.",NEUTRAL,0.5634273
+404,But like I,POSITIVE,0.8701406
+405,"said, as freshers feed into the system we should see the overall environment in terms of",POSITIVE,0.7045577
+406,attrition in the market improving.,NEUTRAL,0.7448829
+407,Keith Bachman,POSITIVE,0.9043514
+408,But any comments specifically on utilization?,POSITIVE,0.93714744
+409,"You think it will help, I heard it is neutral just",POSITIVE,0.7254839
+410,"broadly, and as part of that the offshore percent of labor increase YoY, is that also a trend",POSITIVE,0.8773903
+411,that you think continues given the dynamics in front of you?,POSITIVE,0.8609072
+412,And I will see the floor,POSITIVE,0.9312513
+413,thereafter.,POSITIVE,0.91965455
+414,Nilanjan Roy,POSITIVE,0.8504617
+415,"In terms of utilization, this is higher than what we would normally like to be.",NEGATIVE,0.8919747
+416,We would,POSITIVE,0.90917355
+417,"rather operate at 85% to 86%, but having said that even if we bring this down in the future",POSITIVE,0.7227184
+418,it is largely at offshore locations because 75% of our effort is sitting there.,POSITIVE,0.9440981
+419,"Therefore,",POSITIVE,0.907736
+420,utilization does not directly link to the margins because of the way the offshore costs,POSITIVE,0.9326566
+421,"operate, so that is one factor.",POSITIVE,0.892155
+422,"The second question, in the long run - if you see, COVID, while it had a huge impact on",POSITIVE,0.91625816
+423,"demand, the entire ability for the supply side to deliver in a remote environment really will",POSITIVE,0.8204208
+424,"shine up, and that has opened up the eyes of many of our clients that every work does not",NEGATIVE,0.6402557
+425,have to be done onsite.,POSITIVE,0.506641
+426,"It can be done in a near shore location, it can be done offshore",POSITIVE,0.93843883
+427,and I think the beauty of that is secularly we believe this will help the industry in a much,NEGATIVE,0.7859333
+428,more larger offshoring at an overall level and of course part of that benefit will be shifting,POSITIVE,0.8092793
+429,more work to offshore locations.,POSITIVE,0.8586665
+430,"So, I think this is a good sign.",NEGATIVE,0.85609645
+431,I think there can be short,POSITIVE,0.854674
+432,"term impacts like we saw this quarter, 10 to 20 basis points here and there, but the secular",POSITIVE,0.83528847
+433,trend - we think we will continue to see that the large global markets will open a lot more,NEGATIVE,0.9277683
+434,offshoring opportunities.,POSITIVE,0.835954
+435,Keith Bachman,POSITIVE,0.9043514
+436,Many thanks.,NEGATIVE,0.7562889
+437,Congratulations.,POSITIVE,0.7481964
+438,Margaret - Moderator,POSITIVE,0.92569476
+439,ahead.,POSITIVE,0.8797629
+440,Diviya Nagarajan,POSITIVE,0.9249967
+441,Thanks for taking my question and congratulations on a very impressive quarter to the,NEGATIVE,0.9115076
+442,team.,POSITIVE,0.9234609
+443,"My question is on pricing, Salil we have seen now several quarters of strong",POSITIVE,0.868443
+444,"demand and it looks like we are looking at another year, looking at the run rate that we are",POSITIVE,0.8760257
+445,exiting the calendar with a pretty strong demand as well and you just discussed supply in,POSITIVE,0.6836072
+446,the last few comments that you made.,POSITIVE,0.89003414
+447,How do you see pricing really trend in the next 12-,POSITIVE,0.90656155
+448,"18 months, is there an opportunity for this to go up on a like to like basis?",POSITIVE,0.74187547
+449,Salil Parekh,POSITIVE,0.8668303
+450,"Diviya thanks for that question, this is Salil.",POSITIVE,0.91992486
+451,I think on pricing first we have seen some level,POSITIVE,0.7125836
+452,of stability in what we saw in the specific deals that we closed in Q3 versus Q2.,NEGATIVE,0.6586894
+453,On the,POSITIVE,0.8149376
+454,"longer term, Nilanjan has shared in the past we have put in place a very focused effort on",NEGATIVE,0.8339907
+455,communicating the value that we are helping create with our clients through the digital,POSITIVE,0.7165711
+456,programs.,POSITIVE,0.9367732
+457,"We are also seeing as we have shared wage increases, we have done three in",NEGATIVE,0.8527077
+458,the last 12 months and broadly we are seeing large enterprises for the first time in a very,NEGATIVE,0.7913339
+459,long time are seeing inflation in their daily environment and so are more open to having,POSITIVE,0.8596302
+460,these discussions.,POSITIVE,0.93710876
+461,"With these factors in mind, we really see some more value that we can",NEGATIVE,0.5780474
+462,bring in through communicating and demonstrating our digital impact that we are creating,POSITIVE,0.78946686
+463,through those programs.,POSITIVE,0.9162759
+464,"And that, while it will not be immediate, over the next several",POSITIVE,0.8779009
+465,"quarters, in my view will help us to build out more resilience in the margin profile.",NEGATIVE,0.94807166
+466,Diviya Nagarajan – UBS,POSITIVE,0.9005189
+467,"You earlier enumerated your skills and capabilities, but if you were to kind of think of any",POSITIVE,0.9147785
+468,"future investments that you are going to make, in which direction would you direct that",POSITIVE,0.93610156
+469,investment through in terms of your skills and capabilities?,POSITIVE,0.79023117
+470,Salil Parekh,POSITIVE,0.8668303
+471,"Today the biggest drive within our clients is really cloud, our Cobalt capabilities are very",NEGATIVE,0.5062517
+472,strong and we are constantly enhancing it.,NEGATIVE,0.65847415
+473,Whether we look at the public cloud,POSITIVE,0.9396516
+474,"partnerships, we have also a strong ecosystem of private cloud partnerships, we have a",NEGATIVE,0.53853047
+475,"good ecosystem with the SaaS players, extremely strong cloud native cloud first",NEGATIVE,0.91986847
+476,development.,POSITIVE,0.9316513
+477,"Those would be really the first areas where we are already leading, but we",POSITIVE,0.7370118
+478,will continue to grow.,POSITIVE,0.50933176
+479,"Then you have the areas which focus on cybersecurity, which focus on data and analytics,",POSITIVE,0.93669045
+480,which focus on IoT.,POSITIVE,0.93713766
+481,Those are the areas which are seeing incredible traction with our,NEGATIVE,0.9070675
+482,clients.,POSITIVE,0.93062776
+483,We have a strong modernization and automation leveraging Artificial Intelligence,NEGATIVE,0.67776763
+484,and Machine Learning - we will continue to build that out.,POSITIVE,0.74798566
+485,Our approach is going to be to,POSITIVE,0.919715
+486,drive all of these through our current margin profile.,POSITIVE,0.794817
+487,That is what we will drive through as,POSITIVE,0.879032
+488,opposed to any new place for investments.,POSITIVE,0.9030136
+489,Diviya Nagarajan,POSITIVE,0.9249967
+490,Fair enough.,POSITIVE,0.82909113
+491,"One last bookkeeping question, your ‘Other’ segment had a big swing this",POSITIVE,0.5351362
+492,"quarter, is there anything particular that we should be looking at here, any one off or if not,",POSITIVE,0.9070681
+493,what drove that.,POSITIVE,0.8825238
+494,Nilanjan Roy,POSITIVE,0.8504617
+495,"That is coming from India, where we have some seasonality with some of our clients",POSITIVE,0.757403
+496,towards the quarter end and you will see that in the geography sector of India.,POSITIVE,0.85768133
+497,Diviya Nagarajan – UBS,POSITIVE,0.9005189
+498,"Got it, thank you and wish you all the best for 2022.",NEGATIVE,0.66139376
+499,Margaret - Moderator,POSITIVE,0.92569476
+500,go ahead.,POSITIVE,0.89627224
+501,Ashwin Mehta,POSITIVE,0.9054183
+502,I had one question on the third party bought out items for service delivery.,POSITIVE,0.92311174
+503,That item,POSITIVE,0.8582802
+504,"seems to have gone up by almost $71 mn this quarter almost 1.8% of revenues, so just",NEGATIVE,0.9342548
+505,wanted to check what does this pertain to and is it possibly related to the data center,POSITIVE,0.9372979
+506,takeovers that we would have done in some of our large deals.,POSITIVE,0.921154
+507,Nilanjan Roy,POSITIVE,0.8504617
+508,"As we are looking at in many digital end-to-end transformation, whether IT as a service,",POSITIVE,0.92996705
+509,"full stack transformation, we have involved, infrastructure, SaaS, data, so it is a full stack",POSITIVE,0.9051829
+510,"transformation and in many cases, these involve infrastructure and software as well.",POSITIVE,0.9433184
+511,These are bundled deals which are end-to-end transformation and we think they are,POSITIVE,0.91487724
+512,important as well going ahead when we look at these digital transformations.,POSITIVE,0.90795547
+513,"So, I think as",POSITIVE,0.869333
+514,"part of our overall deal profiles, we continue to see these deals giving us increased",NEGATIVE,0.86084646
+515,visibility into the organization IT infrastructure and allowing our future deals ahead once,NEGATIVE,0.5907092
+516,"we are pretty much front and center in the IT landscape, so that’s what these are.",POSITIVE,0.9354159
+517,Ashwin Mehta,POSITIVE,0.9054183
+518,"Just one last question, in terms of our margin outlook over the near term, do you think that",POSITIVE,0.91684204
+519,"with the attrition starting to on a quarterly annualized basis normalizing, the interventions",NEGATIVE,0.8141658
+520,that are required possibly go down in the near term so that we can possibly make a higher,NEGATIVE,0.5018768
+521,"exit at the end of this year, so that we can maintain margins in the next year as well?",POSITIVE,0.6417553
+522,Nilanjan Roy,POSITIVE,0.8504617
+523,"As I said we have not seen a decline as yet, these are flattening and probably will start",NEUTRAL,0.77524567
+524,"inching off, so we will continue to do what it takes to invest behind our employees because",NEGATIVE,0.52053386
+525,we know this is more under comfort range which we would be happy in.,POSITIVE,0.77990294
+526,"So, I think it is",POSITIVE,0.8736965
+527,"premature to say when this will really come off, but as of now we are focused in doing all",POSITIVE,0.8797329
+528,these interventions.,POSITIVE,0.88625336
+529,This quarter itself like we mentioned 80 basis points of our margin,POSITIVE,0.8577388
+530,was behind these employee interventions.,POSITIVE,0.7914702
+531,Ashwin Mehta,POSITIVE,0.9054183
+532,"Thanks a lot, congrats again and all the best.",NEGATIVE,0.5729432
+533,Moderator,POSITIVE,0.87275183
+534,go ahead.,POSITIVE,0.89627224
+535,Sandip Agarwal,POSITIVE,0.7371651
+536,"Good evening to the management team, happy New Year and thanks for taking my",NEGATIVE,0.83997965
+537,question.,POSITIVE,0.8810517
+538,"First, congratulations on a very good set of numbers.",NEGATIVE,0.62183136
+539,"Salil, I have a very simple",POSITIVE,0.91117543
+540,"question, you see now you know, our core which is 41% to 42% of the business is",POSITIVE,0.9414581
+541,"stabilizing on a YoY basis, it is probably little growth is there, but digital continues to be at",NEGATIVE,0.87111896
+542,"40% plus growth, so if this trend continues next year, may be our core may become 32%",NEGATIVE,0.6701994
+543,"to 33% of the overall pie, so what is your sense from a long term perspective, where do",POSITIVE,0.9203565
+544,you see this core stabilizing or do you think it will be unfair to see them separately and in,POSITIVE,0.68164647
+545,the next two to three years you think everything will converge together.,POSITIVE,0.90283525
+546,"So, any idea,",POSITIVE,0.9333382
+547,anything which you can say on that front will be very helpful.,POSITIVE,0.7732072
+548,Salil Parekh,POSITIVE,0.8668303
+549,Thanks for that question.,POSITIVE,0.79512614
+550,"First as you pointed out, the digital growth is strong at over 40%",NEGATIVE,0.855877
+551,"or 42% and that shows resilience, the demand profile and our portfolio which is",NEGATIVE,0.8404453
+552,overlapping.,POSITIVE,0.9006532
+553,"The key for the core, instead of looking at the percentage of the business, the",POSITIVE,0.93990797
+554,"key for us is really the core is now stable with a very small growth, so we did not see the",NEGATIVE,0.695457
+555,decline that we had for some quarters and this makes it extremely strong for us.,NEGATIVE,0.8720597
+556,We have,POSITIVE,0.8717359
+557,probably the best capability in automation and modernization across the industry and with,NEGATIVE,0.75257176
+558,"this while everyone else’s core is still shrinking, ours will be stable or possibly even have a",NEGATIVE,0.51455986
+559,small uptick and that means we will be the most competitive in this area.,NEGATIVE,0.9351722
+560,"So, I am looking",POSITIVE,0.8901824
+561,at this as a very positive step.,NEGATIVE,0.61461335
+562,"We of course have to maintain this, and we have to keep",POSITIVE,0.8916195
+563,building out our automation capabilities.,NEGATIVE,0.49270436
+564,"So, if we succeed in that, I think that is a very",NEGATIVE,0.5881148
+565,good outlook for us in the quarters ahead.,NEGATIVE,0.9413159
+566,Sandip Agarwal,POSITIVE,0.7371651
+567,Thanks that is very helpful and best of luck for the current quarter.,NEGATIVE,0.93247414
+568,Moderator,POSITIVE,0.87275183
+569,Please go ahead.,POSITIVE,0.9280336
+570,Nitin Padmanabhan,POSITIVE,0.88288265
+571,"Good evening, everyone and thanks for the opportunity.",NEGATIVE,0.7390968
+572,I had two questions.,POSITIVE,0.89422715
+573,The first is,POSITIVE,0.9185032
+574,on the employee side.,POSITIVE,0.91672003
+575,"If you look at the employee cost under cost of revenue, it has",POSITIVE,0.71606004
+576,"consistently been down as a percentage of revenue, it has actually below what it used to",NEUTRAL,0.9693877
+577,be pre-COVID and a lot of growth has actually been added on the subcon side and even if,NEGATIVE,0.7144842
+578,"you look at the numbers, it looks like most of the additions are all freshers.",POSITIVE,0.81813985
+579,"So, keeping",POSITIVE,0.9065544
+580,"this dynamic in mind, just wanted to understand as we go forward and may be attrition",POSITIVE,0.8836596
+581,"normalizes, how do you see this subcon evolving from an operational perspective, do you",POSITIVE,0.92045754
+582,think you will have to hire these subcontractors directly on to your rolls and would that,POSITIVE,0.9225395
+583,"involve slightly higher cost, so how should one think of this dynamic overall was the first",POSITIVE,0.9263308
+584,question?,POSITIVE,0.8591241
+585,The second question was around the digital proportion of the business has meaningfully,POSITIVE,0.90915436
+586,gone up and if you look into the next year and I am sure it will be even higher.,NEGATIVE,0.8930438
+587,From that,POSITIVE,0.92048144
+588,perspective does that mean that our ability to sort of garner price increases will be far,NEGATIVE,0.8590697
+589,higher going into next year than what you see today?,NEGATIVE,0.67937875
+590,Thank you.,POSITIVE,0.8234813
+591,Nilanjan Roy,POSITIVE,0.8504617
+592,I will take the first question on subcon.,POSITIVE,0.9446402
+593,As Salil said the demand environment is so strong,POSITIVE,0.6894576
+594,that we do not want to leave anything on the table and therefore whether it is through,POSITIVE,0.9293204
+595,"subcon or through lateral or freshers, we will first intend to fulfill that demand and of",POSITIVE,0.8488663
+596,course over a period of time we will optimize that entire structure.,POSITIVE,0.75624
+597,"So, whether it is",POSITIVE,0.91617656
+598,"programmed to rehire some of the subcon, some of them we will of course lapse and then",POSITIVE,0.56799
+599,"we will get the lateral hires, some will be promoted, so within that the dynamics will play",POSITIVE,0.85935444
+600,itself out over the next year.,POSITIVE,0.91269636
+601,But at the moment it is critical that we do not leave any,POSITIVE,0.90648055
+602,demand in the table and of course this will remain a optimization lever for us.,NEGATIVE,0.6724805
+603,We were,POSITIVE,0.89065164
+604,"one of the lowest in the industry at about 6.9%, pre-COVID and we are above 11% now",NEUTRAL,0.9082599
+605,"but this is the lever, we will have over the medium-term to optimize.",NEGATIVE,0.63663125
+606,Salil Parekh,POSITIVE,0.8668303
+607,"On the pricing, as the digital work will increase what we have been putting in place which",NEGATIVE,0.7874666
+608,is demonstrating to our clients the value creation through digital will give us a larger,NEGATIVE,0.7673376
+609,opportunity for that because the revenue will be larger.,NEGATIVE,0.5914085
+610,"So, I think your assumption is",POSITIVE,0.86427766
+611,"absolutely valid, you will have an additional ability to do that as long as we execute in that",POSITIVE,0.87606794
+612,value.,POSITIVE,0.924242
+613,Nitin Padmanabhan,POSITIVE,0.88288265
+614,Thanks for that.,POSITIVE,0.709541
+615,"Just a clarification on the first answer, so on the first point considering",POSITIVE,0.9383667
+616,fresher addition are so strong this year and subcon is so strong does it mean that next,POSITIVE,0.5396679
+617,"year our ability to add as many freshers will be little more inhibited, in the sense that we",NEGATIVE,0.90037227
+618,"will need to focus a little more on laterals next year, is that a way to think about it?",POSITIVE,0.89398605
+619,Nilanjan Roy,POSITIVE,0.8504617
+620,No.,POSITIVE,0.8540522
+621,I do not think so.,POSITIVE,0.8501014
+622,I think we will continue to have a very robust fresher program - it has,NEGATIVE,0.9300545
+623,always been there.,POSITIVE,0.8822545
+624,We have a strong internal rotation program so people based on the,POSITIVE,0.7973046
+625,"skills, we take them through our reskilling program and we then move them to new project,",POSITIVE,0.9337725
+626,promotions etc.,POSITIVE,0.94152707
+627,"So, in that sense we think it will be a combination of both laterals and",POSITIVE,0.8733793
+628,"freshers, and I do not think we see a change in that.",POSITIVE,0.8088642
+629,Nitin Padmanabhan - Investec,POSITIVE,0.92061406
+630,Fair enough.,POSITIVE,0.82909113
+631,Thank you so much and all the very best.,NEGATIVE,0.6435338
+632,Margaret - Moderator,POSITIVE,0.92569476
+633,Please go ahead.,POSITIVE,0.9280336
+634,Sandeep Shah,POSITIVE,0.9090903
+635,Thanks for the opportunity and congratulations on a solid execution both on revenue and,NEGATIVE,0.94783396
+636,margins.,POSITIVE,0.8804396
+637,The first question is CY2021 or FY2022 had a benefit of mega deal wins,POSITIVE,0.9230652
+638,especially from Vanguard as well as Daimler as well as some amount of pent-up demand,NEGATIVE,0.8138418
+639,for you as well as the industry.,POSITIVE,0.89706457
+640,"So, the question is entering into next year do you believe",POSITIVE,0.9295269
+641,that these elements one has to take care in terms of tapering off any growth in the next,POSITIVE,0.8246537
+642,year or you do believe the digital adoption or the cloud adoption journey has a low,POSITIVE,0.90291035
+643,penetration which does not make us upset in looking in the next year in terms of the,POSITIVE,0.8452729
+644,growth momentum?,POSITIVE,0.85122466
+645,Salil Parekh,POSITIVE,0.8668303
+646,Thanks for your question.,POSITIVE,0.8120798
+647,"First, the guidance increase, as I am sure you are seeing this for",NEGATIVE,0.5484942
+648,the year ending March of this year.,POSITIVE,0.93790424
+649,We are not yet commenting in terms of quantitative,POSITIVE,0.94740486
+650,guidance for next year.,POSITIVE,0.9403665
+651,What is clear nonetheless is the demand environment remains,POSITIVE,0.91041595
+652,"strong and our portfolio of services and capabilities, especially on cloud and digital are",NEGATIVE,0.70515805
+653,resonating well with clients so we see a good pipeline for that.,NEGATIVE,0.9144053
+654,Our large deals in this,POSITIVE,0.7918282
+655,quarter also very strong.,NEGATIVE,0.9132025
+656,We continue to see a good large deal pipeline.,NEGATIVE,0.88766223
+657,We have seen a,POSITIVE,0.8017207
+658,"steady expansion of our clients over $50, $100, $200 mn and so on.",NEGATIVE,0.87715936
+659,We have seen that,POSITIVE,0.8547935
+660,expansion within clients is working very well and also our new client wins and new,NEGATIVE,0.9139716
+661,accounts are working well.,NEGATIVE,0.7234497
+662,So overall we have the various elements of continuing this,POSITIVE,0.8713787
+663,demand environment strongly but we do not have a specific guidance yet for year starting,POSITIVE,0.82891786
+664,"in April 1, 2022.",POSITIVE,0.95240587
+665,Sandeep Shah,POSITIVE,0.9090903
+666,Fair enough and just last two bookkeeping questions.,POSITIVE,0.9334603
+667,The way I look at is Daimler deal,POSITIVE,0.9360995
+668,has two legs to ramp up one being the rebadging and employee related ramp up and,POSITIVE,0.8064445
+669,second being the pass-through data center related ramp up.,POSITIVE,0.8646666
+670,Is it fair to say that most of,POSITIVE,0.8998104
+671,these two legs ramp up is largely behind or may continue in Q4 as well as 1Q of next,POSITIVE,0.7523905
+672,"financial year and second in terms of FY2022 wage hike, is it largely over or something is",NEUTRAL,0.5537741
+673,due in the fourth quarter as well?,POSITIVE,0.9414603
+674,Salil Parekh,POSITIVE,0.8668303
+675,"On the Daimler, we do not have any more specifics.",POSITIVE,0.93367046
+676,I can understand what you are,POSITIVE,0.9059611
+677,"looking for, but we have not gone into that specifics now with Q3 and Q4.",POSITIVE,0.9239264
+678,The overall,POSITIVE,0.8571408
+679,guidance for increase of the revenue covers all of that including Daimler and many other,POSITIVE,0.90268904
+680,clients and especially with Q4 and the seasonality of that quarter.,POSITIVE,0.8478435
+681,"In terms of salary and compensation increases, we have done three of them for this year.",NEGATIVE,0.7564191
+682,There is nothing specific that is planned for Q4.,POSITIVE,0.9393105
+683,We will start to look at what we will do in,POSITIVE,0.9287949
+684,the next financial year but nothing specific is being planned in Q4.,POSITIVE,0.9483977
+685,Sandeep Shah,POSITIVE,0.9090903
+686,"Thanks, and all the best Sir.",NEGATIVE,0.7454115
+687,Moderator,POSITIVE,0.87275183
+688,go ahead.,POSITIVE,0.89627224
+689,Manik Taneja,POSITIVE,0.9157631
+690,Thank you for the opportunity.,POSITIVE,0.53549737
+691,Just wanted to understand we have seen a significant,NEGATIVE,0.6194407
+692,increase in offshore mix of revenues over the last 18 months and this quarter saw a slight,NEGATIVE,0.9533653
+693,aberration.,NEUTRAL,0.5357224
+694,What caused that and how do you see this going forward?,POSITIVE,0.9177225
+695,Thank you.,POSITIVE,0.8234813
+696,Salil Parekh,POSITIVE,0.8668303
+697,The mix has changed over the last 18 months with a lot of the remote working that was,POSITIVE,0.82725614
+698,put in place and work from home allowing the work to be delivered from a different,POSITIVE,0.9250487
+699,location with tremendous yields and efficiency.,POSITIVE,0.49915624
+700,"What we saw in the last quarter was, some",POSITIVE,0.8366687
+701,things have opened up in terms of travel and we are also being extremely optimal in what,NEGATIVE,0.81740475
+702,we have done in the previous quarters and this is something that has given us more ability,NEGATIVE,0.8082288
+703,to drive connects with clients and growth.,POSITIVE,0.6869354
+704,"We see in the medium-term, tremendous",POSITIVE,0.828109
+705,opportunity for an efficient mix because clients have also seen that once the work is done,NEGATIVE,0.67580765
+706,"remotely or work from home that more opportunity exists, there are work to be done from",POSITIVE,0.916421
+707,a location further away.,POSITIVE,0.8840184
+708,"So, in general as a medium-term trend we see that as a positive",NEGATIVE,0.50869465
+709,"trend, we will have of course each quarter some movements up and down but as a longer-",POSITIVE,0.83140516
+710,term trend we see that as a positive trend.,NEGATIVE,0.8235977
+711,Manik Taneja,POSITIVE,0.9157631
+712,Thank you Salil.,POSITIVE,0.8086494
+713,I had one more additional question.,POSITIVE,0.89056677
+714,Just wanted to get your thoughts,POSITIVE,0.9068062
+715,"around what we are seeing from a revenue productivity metrics standpoint, for revenue",POSITIVE,0.86191356
+716,per person standpoint and while there is significant amount of offshore shift over the last,POSITIVE,0.6325861
+717,"18 months, we have seen utilization go up.",NEGATIVE,0.9571321
+718,"So, what is causing the increase in revenue",POSITIVE,0.82236046
+719,productivity despite a significant offshore shift that we have seen over the last 18 months.,NEGATIVE,0.9283871
+720,If you could talk about some of the factors that are driving it?,POSITIVE,0.9324051
+721,Thank you.,POSITIVE,0.8234813
+722,Salil Parekh,POSITIVE,0.8668303
+723,On the revenue productivity there are a number of things that are going on.,POSITIVE,0.74477446
+724,We see some,POSITIVE,0.89100754
+725,of the mix of our work which is also changing more to digital and there we see much more,POSITIVE,0.736446
+726,revenue productivity coming in.,NEGATIVE,0.9084231
+727,As you pointed out utilization has also gone up.,NEGATIVE,0.7099833
+728,We will,POSITIVE,0.9214686
+729,"also see some of our work, for example on the consulting side, data and analytics side",POSITIVE,0.93302566
+730,growing well and that is giving us some level of boost.,NEGATIVE,0.9453938
+731,There is also some impact which,POSITIVE,0.84195364
+732,we have not quantified externally on leveraging some amount of automation and platforms,POSITIVE,0.9060186
+733,that gives us this benefit.,NEGATIVE,0.58527315
+734,"So, there are several factors at work despite the onshore",POSITIVE,0.8679618
+735,offshore mix changes.,POSITIVE,0.75073487
+736,Manik Taneja,POSITIVE,0.9157631
+737,"Sure, thank you and all the best for future.",NEGATIVE,0.71172106
+738,Moderator,POSITIVE,0.87275183
+739,ahead.,POSITIVE,0.8797629
+740,Rahul Jain,POSITIVE,0.8879981
+741,Thanks for the opportunity and congratulations.,NEGATIVE,0.6274804
+742,I have a question regarding the core,POSITIVE,0.9030963
+743,"revenue which has seen stabilization this year, I think you have addressed this point partly",NEGATIVE,0.57920957
+744,but wanted to understand what could be the prospect for this side of the revenue in the,POSITIVE,0.92810196
+745,coming years especially when we talk about so much shift to digitalization?,POSITIVE,0.9223208
+746,Salil Parekh,POSITIVE,0.8668303
+747,"There we have no individual guidance for digital or for the core in that sense, even for Q4",POSITIVE,0.9423126
+748,or for the next financial year.,POSITIVE,0.9187232
+749,But structurally what is clear is we have been successful in,NEGATIVE,0.91029847
+750,driving automation and modernization while we make sure that we are probably the most,POSITIVE,0.7553812
+751,"competitive large player in the market, working with large clients.",POSITIVE,0.7329301
+752,This certainly enhances,NEGATIVE,0.78782415
+753,"the strong confidence and if we can continue to execute on that, it will have its own",NEGATIVE,0.7615129
+754,benefits in the medium term.,NEGATIVE,0.6431523
+755,Rahul Jain,POSITIVE,0.8879981
+756,One more thing on the taxation part our tax rate you know steadily has been upwards of,NEUTRAL,0.4492751
+757,"27% on an average, this looks little higher given the country where most of our earnings",NEGATIVE,0.71066874
+758,belongs to so any flavor you can share in terms of what should be the ideal tax rate on a,POSITIVE,0.86623013
+759,sustainable basis and in near-term?,POSITIVE,0.8061344
+760,Nilanjan Roy,POSITIVE,0.8504617
+761,"Our tax rate has always hovered around this 27%, 28% range and I do not think you will",POSITIVE,0.8541612
+762,see much movement going against the range.,POSITIVE,0.8546933
+763,"Because in any case, as you know, this is",POSITIVE,0.90899575
+764,India rate plus other countries.,POSITIVE,0.81670564
+765,25% is India-only rate.,POSITIVE,0.94151103
+766,"So I think, in the long run, you will",POSITIVE,0.7681867
+767,be around this range itself.,POSITIVE,0.89035815
+768,Rahul Jain,POSITIVE,0.8879981
+769,So which regions tax rate are much higher than the 25% rate also for taking this number,POSITIVE,0.86335844
+770,higher than the average?,POSITIVE,0.5059387
+771,Nilanjan Roy,POSITIVE,0.8504617
+772,"Yes, so see we cannot give that individually, but there are some jurisdictions and also in",POSITIVE,0.9411126
+773,"some jurisdiction where those taxes cannot be set off here as well, so it is a combination",POSITIVE,0.93155026
+774,of both.,POSITIVE,0.85290456
+775,Rahul Jain,POSITIVE,0.8879981
+776,Okay so if we are not able to set that off those results in double taxation.,NEUTRAL,0.5752914
+777,That is also a,POSITIVE,0.8177253
+778,reason okay got it thank you so much.,NEGATIVE,0.80792207
+779,Moderator,POSITIVE,0.87275183
+780,Please go ahead.,POSITIVE,0.9280336
+781,James Friedman,POSITIVE,0.92763513
+782,Let me echo the congratulations for this fiscal year.,POSITIVE,0.8794898
+783,I just had one simple question across,POSITIVE,0.92595565
+784,"for Nilanjan, can you remind us what the capital allocation strategy is.",POSITIVE,0.9319176
+785,I remember you had,POSITIVE,0.888325
+786,put it out during the analyst day in November 2020 but where is share repurchase in the,POSITIVE,0.9415724
+787,prioritization.,POSITIVE,0.935267
+788,Thank you.,POSITIVE,0.8234813
+789,Nilanjan Roy,POSITIVE,0.8504617
+790,"What we had announced in FY20 basically, was that we have taken capital allocation to",POSITIVE,0.79769117
+791,"85%, prior to this it was 70% and we said that we will take that over the period of 5 years",POSITIVE,0.9124814
+792,through a combination of progressive growth-oriented dividend policy plus either share,POSITIVE,0.811782
+793,buyback or one off special dividends.,POSITIVE,0.9254279
+794,"And in the first two years, as we have announced,",POSITIVE,0.8386062
+795,we have actually paid back 82% through higher increased normal dividends and also,NEGATIVE,0.9378435
+796,through share buyback which we announced last year.,POSITIVE,0.9086055
+797,We have already paid back 82%,POSITIVE,0.7514486
+798,and we remain quite committed to overall 85% over 5 years.,NEGATIVE,0.90036017
+799,James Friedman,POSITIVE,0.92763513
+800,Got it.,POSITIVE,0.8938929
+801,Thank you so much.,POSITIVE,0.58288467
+802,Moderator,POSITIVE,0.87275183
+803,ahead.,POSITIVE,0.8797629
+804,Vimal Gohil,POSITIVE,0.91648495
+805,Thank you for the opportunity and congratulations on a great quarter.,NEGATIVE,0.87433374
+806,My question is on,POSITIVE,0.92086977
+807,your employee cost which partially has been addressed but how should we think about the,POSITIVE,0.8369514
+808,core employee cost growth which comes under the cost of revenue which has seen,NEGATIVE,0.8224626
+809,around 4% CQGR increase over Q1 of FY2021 versus the 6% revenue growth and this,NEGATIVE,0.95529646
+810,has been in light of a very sharp increase in attrition and of course further supply,NEUTRAL,0.87212414
+811,challenges and etc.,POSITIVE,0.92039114
+812,"So, if you can just highlight, are our wage hikes in line with the",POSITIVE,0.73733425
+813,industry or have they been much higher than the industry?,POSITIVE,0.81116676
+814,How should we think about this,POSITIVE,0.9290271
+815,historically and if you could give some kind of an outlook over there as well?,POSITIVE,0.9094498
+816,Thanks.,POSITIVE,0.8105389
+817,Nilanjan Roy,POSITIVE,0.8504617
+818,"Yes, so you have to see both employee cost and subcon together as the cost of people as",POSITIVE,0.85449684
+819,"a combination, you cannot see one in isolation that is number one.",POSITIVE,0.9255681
+820,"Number two, just from",POSITIVE,0.9016113
+821,"an overall cost perspective, we of course are very focused on the attrition and being",POSITIVE,0.87007797
+822,competitive in the markets as well as being employer of choice for many of our employee.,NEGATIVE,0.5449796
+823,"Going ahead when we look at intervention on the compensation side like Salil said, we did",POSITIVE,0.7959598
+824,"across, in January, we did across the board, in July we have done across the board, in Q3",POSITIVE,0.5556204
+825,as well we have done very segmented and for targeted talent and we will continue doing,NEGATIVE,0.798656
+826,"that into Q4 etc., looking at high points of attrition and doing it much more tactically to see",POSITIVE,0.9192046
+827,where we are seeing demand being high in the markets for those skills and target those,NEGATIVE,0.6535124
+828,employees really.,POSITIVE,0.77382594
+829,"So, I think it is very nuanced like I said and we will continue doing that.",POSITIVE,0.84668165
+830,Vimal Gohil,POSITIVE,0.91648495
+831,"Sir, so basically if we were to look at your guidance, it implies 0% to 2% sort of a revenue",POSITIVE,0.92134815
+832,growth in Q4.,NEGATIVE,0.86253774
+833,"Considering the fact that there were some furloughs in Q3, your revenue",POSITIVE,0.51733613
+834,growth could be higher than what you have reported in Q3.,NEGATIVE,0.9405119
+835,"So, is your guidance",POSITIVE,0.9303419
+836,conservative at this point in time how should we think about that?,POSITIVE,0.92337483
+837,Salil Parekh,POSITIVE,0.8668303
+838,"In terms of the guidance, it was very strong.",NEGATIVE,0.88784856
+839,It is 19.5% to 20%.,POSITIVE,0.89253026
+840,There is no further color in,POSITIVE,0.92434496
+841,"saying whether it is conservative, aggressive, or stable.",POSITIVE,0.9143531
+842,We see a very good demand,NEGATIVE,0.89588964
+843,outlook; we see good large deals and good portfolio and the guidance is a very big move,NEGATIVE,0.8622715
+844,up from where we were in the last quarter.,NEGATIVE,0.94283175
+845,Vimal Gohil – Union AMC,POSITIVE,0.64920694
+846,Fair enough Sir.,POSITIVE,0.8684275
+847,Thank you so much and all the very best.,NEGATIVE,0.6435338
+848,Moderator,POSITIVE,0.87275183
+849,Thank you.,POSITIVE,0.8234813
+850,Ladies and gentlemen that was the last question for today.,POSITIVE,0.8992832
+851,I now hand the,POSITIVE,0.90744466
+852,conference over the management for closing comments.,POSITIVE,0.8934812
+853,Salil Parekh,POSITIVE,0.8668303
+854,Thank you everyone.,POSITIVE,0.81536984
+855,This is Salil.,POSITIVE,0.9153308
+856,Just to close from our side.,POSITIVE,0.91705865
+857,"First, thank you all for",POSITIVE,0.81345445
+858,making your time.,POSITIVE,0.8759545
+859,"We feel extremely good about the quarter, 7% growth QoQ, 21.5% in",NEGATIVE,0.9432383
+860,"YoY, very strong digital 42.6%, very good on large deals $2.5 bn.",NEGATIVE,0.94061416
+861,So overall we see,POSITIVE,0.6293889
+862,excellent market demand and we are seeing market share gains which is a very good sign,NEGATIVE,0.95433474
+863,"for us, primarily which are coming from a well positioned portfolio and a good execution",NEGATIVE,0.83301485
+864,from all our teams.,POSITIVE,0.8712881
+865,"Our revenue guidance of course has gone up from 19.5% to 20%,",NEGATIVE,0.9548794
+866,operating margins remains at a good level at 23.5% and we have good strong trust and,NEGATIVE,0.948147
+867,confidence of our clients.,POSITIVE,0.5834201
+868,"Overall, a strong outlook and positive about what we see in the",NEGATIVE,0.872525
+869,future for our digital and cloud transformation programs.,POSITIVE,0.8259176
+870,With that thank you all wish you a Happy New Year and look forward to catching up in,NEGATIVE,0.79368114
+871,April.,POSITIVE,0.80642694
+872,Sandeep Mahindroo,POSITIVE,0.8899787
+873,Thanks Salil for closing comments and thanks again for joining us on this call.,NEGATIVE,0.8548319
+874,Look,POSITIVE,0.8850929
+875,forward to talking to you again during the year.,POSITIVE,0.79967725
+876,Thank you.,POSITIVE,0.8234813
+877,Moderator,POSITIVE,0.87275183
+878,"Thank you, members of the management.",POSITIVE,0.79645497
+879,Ladies and gentlemen on behalf of Infosys that,POSITIVE,0.94380534
+880,lines.,POSITIVE,0.92956185

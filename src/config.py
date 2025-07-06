@@ -1,24 +1,42 @@
 # src/config.py
 
+from pathlib import Path
 import os
 
-COMPANY = "INFY"
-TICKER = f"{COMPANY}.NS"
+class Config:
+    def __init__(self, company: str = "INFY"):
+        self.COMPANY = company
+        self.TICKER = f"{self.COMPANY}.NS"
 
-# Get the absolute path to the project root
-PROJECT_ROOT = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+        # Absolute path to project root
+        self.PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
-# Define relative paths in a way that works on Windows, Linux, and Colab
-RAW_DIR = os.path.join(PROJECT_ROOT, "Data", "Raw", COMPANY)
-PROCESSED_DIR = os.path.join(PROJECT_ROOT, "Data", "Processed")
-OUTPUT_SCORES_DIR = os.path.join(PROJECT_ROOT, "Outputs", "Scores")
-OUTPUT_SIGNALS_DIR = os.path.join(PROJECT_ROOT, "Outputs", "Signals")
-OUTPUT_RETURNS_DIR = os.path.join(PROJECT_ROOT, "Outputs", "Returns")
+        # Data and output directories
+        self.RAW_DIR = self.PROJECT_ROOT / "Data" / "Raw" / self.COMPANY
+        self.PROCESSED_DIR = self.PROJECT_ROOT / "Data" / "Processed"
+        self.OUTPUT_SCORES_DIR = self.PROJECT_ROOT / "Outputs" / "Scores"
+        self.OUTPUT_SIGNALS_DIR = self.PROJECT_ROOT / "Outputs" / "Signals"
+        self.OUTPUT_RETURNS_DIR = self.PROJECT_ROOT / "Outputs" / "Returns"
 
-# Sentiment model config
-MODEL_TOGGLE = "ensemble"  # "vader", "finbert", or "ensemble"
-VADER_WEIGHT = 0.4
-FINBERT_WEIGHT = 0.6
+        # Sentiment settings
+        self.MODEL_TOGGLE = "ensemble"  # "vader", "finbert", "ensemble"
+        self.VADER_WEIGHT = 0.4
+        self.FINBERT_WEIGHT = 0.6
 
-# Trading signal config
-RETURN_WINDOW = 7
+        # Alpha logic
+        self.RETURN_WINDOW = 7
+
+    def ensure_dirs(self):
+        """Ensure all necessary output directories exist."""
+        for path in [
+            self.PROCESSED_DIR,
+            self.OUTPUT_SCORES_DIR,
+            self.OUTPUT_SIGNALS_DIR,
+            self.OUTPUT_RETURNS_DIR,
+        ]:
+            path.mkdir(parents=True, exist_ok=True)
+
+# Usage:
+# from config import Config
+# cfg = Config(company="INFY")
+# print(cfg.RAW_DIR)

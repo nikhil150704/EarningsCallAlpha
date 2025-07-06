@@ -1,392 +1,993 @@
-INFY_Q1_July_22_1 | Mahindroo: Sandeep Mahindroo
-INFY_Q1_July_22_2 | Inba.: Thanks Inba.
-INFY_Q1_July_22_3 | Inba.: Hello everyone and welcome to Infosys Earnings Call to discuss Q1 2023 Financial Results.
-INFY_Q1_July_22_4 | Inba.: This is Sandeep from the Investor Relations team in Bangalore.
-INFY_Q1_July_22_5 | Inba.: Joining us today on this call is CEO and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy; and other members of the senior management team.
-INFY_Q1_July_22_6 | Inba.: We will commence the call with some remarks on the performance of the company by Salil and Nilanjan.
-INFY_Q1_July_22_7 | Inba.: Subsequent to which, we will open up the call for questions.
-INFY_Q1_July_22_8 | Inba.: Please note that anything that we say that refers to our outlook for the future is a forward-looking statement that must be read in conjunction with the risks that the company faces.
-INFY_Q1_July_22_9 | Inba.: A full statement and explanation of these risks is available in our filings with the SEC, which can be found on www.sec.gov.
-INFY_Q1_July_22_10 | Inba.: I would now like to pass on the call to Salil.
-INFY_Q1_July_22_11 | Roy: Nilanjan Roy morning.
-INFY_Q1_July_22_12 | Roy: We had a strong start of FY2023 with a robust year-on-year growth of 21.4% in constant currency.
-INFY_Q1_July_22_13 | Roy: All our business segments and major geos recorded double-digit growth with manufacturing, communication and EURS along with Europe region recording 25% plus growth.
-INFY_Q1_July_22_14 | Roy: Sequentially, revenue growth was 5.5% which was led by a healthy volume growth and some RPP benefits.
-INFY_Q1_July_22_15 | Roy: Digital revenues now constitute 61% of total and grew by 37.5% in constant currency.
-INFY_Q1_July_22_16 | Roy: Client metrics were strong with increase in client counts across revenue buckets compared to the previous year.
-INFY_Q1_July_22_17 | Roy: Number of $50 mn clients increased by 10 to 69 creating the next potential centurions.
-INFY_Q1_July_22_18 | Roy: Number of $100 mn clients increased by 4 to 38 and the number of $200 mn clients have grown by 6 in the last one year.
-INFY_Q1_July_22_19 | Roy: This reflects our ability to deepen mining across our large clients.
-INFY_Q1_July_22_20 | Roy: We had another quarter of strong employee additions with over 21,000 to cater to the growth opportunities ahead.
-INFY_Q1_July_22_21 | Roy: The fresher addition was particularly strong which resulted in drop in utilization to 84.7%.
-INFY_Q1_July_22_22 | Roy: Onsite effort mix inched up to 24.3%.
-INFY_Q1_July_22_23 | Roy: Voluntary LTM attrition increased marginally to 28.4%.
-INFY_Q1_July_22_24 | Roy: Quarterly annualized attrition declined another by 1% from Q4 levels despite Q1 usually seeing an uptick due to seasonality.
-INFY_Q1_July_22_25 | Roy: As announced earlier we have given competitive salary increases for majority of employees from April.
-INFY_Q1_July_22_26 | Roy: Given the supply tightness and high prevailing inflation, salary increases across all geos this year are higher than historical levels.
-INFY_Q1_July_22_27 | Roy: The increases vary based on job levels and performance of employees with top performers getting double-digit hikes.
-INFY_Q1_July_22_28 | Roy: Salary hike for other employees is being done effective 1st July.
-INFY_Q1_July_22_29 | Roy: Q1 margin stood at 20%, a drop of 150 basis points versus previous quarter.
-INFY_Q1_July_22_30 | Roy: The major components of the sequential margin movements were as below: Headwinds of - 1.6% due to salary increases, - 0.4% due to drop in utilization as we create capacity for future, - 0.3% due to increases in subcon, third party and other costs.
-INFY_Q1_July_22_31 | Roy: These were offset by tailwinds of - 0.5% due to increase in RPP from higher working days, a reversal of a client's contractual provision in our FS segment partially offset by discounts.
-INFY_Q1_July_22_32 | Roy: - 0.3% benefits from rupee depreciation benefits partially offset by cross-currency headwinds.
-INFY_Q1_July_22_33 | Roy: Q1 EPS grew by 4.4% in rupee terms on a year-on-year basis.
-INFY_Q1_July_22_34 | Roy: Our balance sheet continues to be strong and debt-free.
-INFY_Q1_July_22_35 | Roy: Consolidated cash and investments were 4.4 bn at the end of the quarter after returning more than $850 mn to the shareholders through dividends.
-INFY_Q1_July_22_36 | Roy: This has led to increase in ROE to 31%.
-INFY_Q1_July_22_37 | Roy: Free cash flow for the quarter was $656 mn which is a conversion of 95% of net profits.
-INFY_Q1_July_22_38 | Roy: Yield on cash balance remained stable at 5.3% in Q1.
-INFY_Q1_July_22_39 | Roy: DSO declined by 4 days sequentially to 63.
-INFY_Q1_July_22_40 | Roy: DSO including net unbilled was 82 days an increase of 1 day versus Q4.
-INFY_Q1_July_22_41 | Roy: Coming to segmental performance: We signed 19 large deals in Q1 with a TCV of $1.69 bn.
-INFY_Q1_July_22_42 | Roy: This comprises of the 50% net new.
-INFY_Q1_July_22_43 | Roy: We have signed 5 large deals in retail and CPG, 4 in Hi-Tech, 3 each in financial services and energy utility resources and services and 2 each in manufacturing and communications verticals.
-INFY_Q1_July_22_44 | Roy: Region- wise 15 were in Americas and 2 each in Europe and RoW.
-INFY_Q1_July_22_45 | Roy: In Financial Services clients continue to focus on digital customer experience, contact center transformation and virtual branches aimed at improving customer engagement.
-INFY_Q1_July_22_46 | Roy: While the order pipeline remains strong across regions, we are seeing some slowness in mortgage industry and lending business due to increased interest rates.
-INFY_Q1_July_22_47 | Roy: We remain watchful of impacts of emerging global developments on budget for clients.
-INFY_Q1_July_22_48 | Roy: In the retail segment the pace of Digital transformation large-scale cost breakouts and improving business resilience continues to be on the rise across various subsegments.
-INFY_Q1_July_22_49 | Roy: Our focus on proactive engagement has helped us in creating a robust pipeline.
-INFY_Q1_July_22_50 | Roy: Clients are monitoring the emerging macro situation and the impact of that on their business.
-INFY_Q1_July_22_51 | Roy: In communications segment clients are focused on rapid digitization and protecting their assets from cyber threats, we see enormous potential to partner with them both on the digital transformation agenda as well as in the cost takeout front.
-INFY_Q1_July_22_52 | Roy: Deal pipeline in energies, utilities, resources and services segments comprises of opportunities around cost takeouts, vendor consolidation, digital transformation, cloud-led transformation and asset monetization across industry sub-verticals.
-INFY_Q1_July_22_53 | Roy: Manufacturing segment is seeing broad-based growth across geographies and industry sub- verticals.
-INFY_Q1_July_22_54 | Roy: The sector has seen traction across energy, IoT, supply chain, cloud ERP and accelerated cloud adoption.
-INFY_Q1_July_22_55 | Roy: In Q1 we have been ranked as leader in 9 ratings in the areas of Oracle Cloud, SAP S/4HANA, Public Cloud, Industry 4.0, employee experience and automation services.
-INFY_Q1_July_22_56 | Roy: In this supply constrained environment, we continue to invest in our growth momentum which requires us to hire premium, skill talent while simultaneously investing in existing employees through competitive compensation increases across geos.
-INFY_Q1_July_22_57 | Roy: Additionally, we expect normalization of costs like travel and other overheads.
-INFY_Q1_July_22_58 | Roy: We will continue to focus on various cost optimization measures including rationalization of subcons, flattening of the pyramid, increasing automation, reducing onsite mix and increasing pricing.
-INFY_Q1_July_22_59 | Roy: Whilst we retain our operating margin guidance of 21% to 23%, we expect to be at the bottom end of the range.
-INFY_Q1_July_22_60 | Roy: The revenue guidance for the year has been revised to 14% to 16% from 13% to 15% earlier.
-INFY_Q1_July_22_61 | Roy: With that we can open the call for questions.
-INFY_Q1_July_22_62 | Goyal: Surendra Goyal Thanks for that.
-INFY_Q1_July_22_63 | Goyal: Good morning just a couple of questions from my side.
-INFY_Q1_July_22_64 | Goyal: Firstly a clarification.
-INFY_Q1_July_22_65 | Goyal: Nilanjan, I believe you said that the contractual provision was largely offset by discounts.
-INFY_Q1_July_22_66 | Goyal: Could you please clarify a bit.
-INFY_Q1_July_22_67 | Goyal: Did you mean discounts to the same client or discounts in general?
-INFY_Q1_July_22_68 | Goyal: Curious because on one hand we are talking of a strong demand environment and potential price hikes and at the same time we are also talking of discounts?
-INFY_Q1_July_22_69 | Roy: Nilanjan Roy The comment was 0.5% increase in RPP is a combination of three to four elements – higher working days, the client contraction provision reversal benefits partially offset by discount.
-INFY_Q1_July_22_70 | Roy: So it is not a direct linkage of discounts and client contractual provisions.
-INFY_Q1_July_22_71 | Roy: It is not to the same client.
-INFY_Q1_July_22_72 | Roy: These are generic discounts and these automatically keep on coming.
-INFY_Q1_July_22_73 | Roy: But, like I said discounts have come down as we have started negotiating with our clients in terms of pricing but that is the net impact of all these.
-INFY_Q1_July_22_74 | Goyal: Surendra Goyal Just another question on margin down 360 bps year-over-year, operating profit growth Y-o-Y is worse in historical trends despite all the strong demand and growth we are talking about.
-INFY_Q1_July_22_75 | Goyal: So if you just think about this 360 basis point decline, how much of that is really investment which you think can be recouped as we go forward from here?
-INFY_Q1_July_22_76 | Roy: Nilanjan Roy When we were 360 bps down, we knew we were having some benefits in a way - our utilization was very high it was 88%, we have never operated at that level before, the benefits of travel etc.
-INFY_Q1_July_22_77 | Roy: Now we are seeing more and more of that has been coming back.
-INFY_Q1_July_22_78 | Roy: So that is something which we were well aware of in last year.
-INFY_Q1_July_22_79 | Roy: But as we see the demand volume ahead, I think we are very clear that in terms of our ability to support this demand first we have to hire, we have to pay competitively.
-INFY_Q1_July_22_80 | Roy: So we actually did two wage hikes in calendar year 2021 and now this year we have already rolled out in April.
-INFY_Q1_July_22_81 | Roy: So within one and a half year we have done three substantial CRs and actually in September last year also we did a skill based increase.
-INFY_Q1_July_22_82 | Roy: So we have been continuously investing behind that and we know that to capitalize this demand we have to pay for premium skills.
-INFY_Q1_July_22_83 | Roy: We have to go behind the volume.
-INFY_Q1_July_22_84 | Roy: Comparing subcontractor costs - perhaps from an industry leading 6.5% position we are closer to 11% now, but again these are something we know over a period of time we have a lot of optimization levers.
-INFY_Q1_July_22_85 | Roy: We do not want to leave a five-year demand on the table because of short-term cost pressures and these we can optimize over this year and over the future as well.
-INFY_Q1_July_22_86 | Roy: So in that sense we are quite confident and that is why we have talked about 21% to 23% range and we will be at the bottom end of the range.
-INFY_Q1_July_22_87 | Roy: Of course if we are 20% today, we will see that improvement as the year progresses.
-INFY_Q1_July_22_88 | Goyal: Surendra Goyal Sure thanks for that I will get back in the queue.
-INFY_Q1_July_22_89 | Katri: Moshe Katri Thanks.
-INFY_Q1_July_22_90 | Katri: Spectacular numbers especially on revenues side of the business.
-INFY_Q1_July_22_91 | Katri: Just a follow-up to the last topic or question about margins.
-INFY_Q1_July_22_92 | Katri: We are getting a lot of pushbacks on that.
-INFY_Q1_July_22_93 | Katri: From your perspective looking at the levers that you highlighted, what do you think is the biggest potential lever here for you to be able to catch up to the margin range that you mentioned and then I have a follow-up after that.
-INFY_Q1_July_22_94 | Roy: Nilanjan Roy Firstly if you see, how our margin profile, has changed, so one, of course has been this utilization and in fact, 21,000+ net adds during the quarter which is well above our volumes and that is to create the buffer.
-INFY_Q1_July_22_95 | Roy: So when we put in freshers, we train them and then over a period of time, we are able to put them into production.
-INFY_Q1_July_22_96 | Roy: So you cannot just have higher freshers and expect them to start contributing from day 1.
-INFY_Q1_July_22_97 | Roy: We are very vigilant about that.
-INFY_Q1_July_22_98 | Roy: They go through mandatory training in Myosre, and then we put them into projects.
-INFY_Q1_July_22_99 | Roy: So that is one big part of where we think we can start improving.
-INFY_Q1_July_22_100 | Roy: As the hiring catches up automatically, you will see the stabilization of subcon costs, which as percentage of revenue, you are seeing this increase every quarter.
-INFY_Q1_July_22_101 | Roy: While we have seen it flattening out and over the future, as we got our recruitments done and we are able to hire fresher, we should see benefits coming out of that.
-INFY_Q1_July_22_102 | Roy: Pyramid benefits will continue to happen for us.
-INFY_Q1_July_22_103 | Roy: While we are seeing some adverse impact from the onsite movement, this is largely as travel overseas starts, but we think this is more of a aberration in terms of uptick, because the inherent story of taking cost out and having a more offshore mix in the entire cost optimization will come into benefits especially in this environment where cost take out is becoming a big theme across our clients.
-INFY_Q1_July_22_104 | Roy: So, we know we can have multiple areas.
-INFY_Q1_July_22_105 | Roy: Pricing is another thing, which we have been talking about.
-INFY_Q1_July_22_106 | Roy: We have seen less impact of discounts, etc., we are going back to clients in terms of COLA adjustments at the time of renewals.
-INFY_Q1_July_22_107 | Roy: Now these are much more longer-term impact decisions, but I think at least the conversations have started in right direction across all the segments and you can hear similar commentary across.
-INFY_Q1_July_22_108 | Roy: So I think these are the areas we continue to focus on and are something we have done over the years.
-INFY_Q1_July_22_109 | Roy: We continue to be very forceful in terms of our cost efficiency exercises.
-INFY_Q1_July_22_110 | Katri: Moshe Katri Just as a follow-up, just remind us what is the sensitivity for margins versus utilization rates i.e., 100 basis points expansion in utilization rates what does it mean to margins in terms of sensitivity?
-INFY_Q1_July_22_111 | Katri: Thank you.
-INFY_Q1_July_22_112 | Roy: Nilanjan Roy Yes, so I think it depends on by which levels we see utilization.
-INFY_Q1_July_22_113 | Roy: So, it is quite complicated if you have a different utilization in onsite, different in offshore and then the impact of the freshers in the pyramid in that utilization.
-INFY_Q1_July_22_114 | Roy: So, it is a bit complicated how the mix changes.
-INFY_Q1_July_22_115 | Roy: I just cannot give you off the cuff number of what 1% will lead to, but to give you the impact in this quarter, 40 basis points because of utilization on margins.
-INFY_Q1_July_22_116 | Katri: Moshe Katri All right thanks for the color.
-INFY_Q1_July_22_117 | Rakesh: Kumar Rakesh Good morning.
-INFY_Q1_July_22_118 | Rakesh: Thank you for taking my question.
-INFY_Q1_July_22_119 | Rakesh: My first question was continuation on the margin side.
-INFY_Q1_July_22_120 | Rakesh: At the end of the fourth quarter, and not just Infosys but across the industry what the management commentary had indicated compared to that the margin performance appears to be a sharper decline.
-INFY_Q1_July_22_121 | Rakesh: Now Salil what do you think could be the reason behind that?
-INFY_Q1_July_22_122 | Rakesh: Is it driven by higher than expected demand and higher use of subcontracting than what you are planning early or is it more supply side driven that the fresher was higher than what we had planned for through the quarter?
-INFY_Q1_July_22_123 | Roy: Nilanjan Roy Are you talking about us in particular about the industry?
-INFY_Q1_July_22_124 | Rakesh: Kumar Rakesh Anything whatever you could give us color on because the trend has been very similar to yourself.
-INFY_Q1_July_22_125 | Roy: Nilanjan Roy Yes, so we do not operate in a vacuum and this industry also does not operate in a vacuum.
-INFY_Q1_July_22_126 | Roy: The attrition trends are pretty much similar across industries but the good news, like you said is that attrition is coming down.
-INFY_Q1_July_22_127 | Roy: Our quarter attrition figure is actually below our LTM figures and as Salil said we are 1% down on a sequential basis, we were 5% down in the previous quarter and we were flat the earlier quarter.
-INFY_Q1_July_22_128 | Roy: The reported LTM is more of a catch-up effect and in that sense you will see stabilization.
-INFY_Q1_July_22_129 | Roy: The freshers will start coming in and getting permeated.
-INFY_Q1_July_22_130 | Roy: So that benefit in a way should start creeping into the cost structure because at the end of the day if you are putting freshers we have less attrition, the fresh hikes which you have to give for lateral hirers should come down, joining bonuses impact should come down.
-INFY_Q1_July_22_131 | Roy: So these are the things which can play in our favour.
-INFY_Q1_July_22_132 | Roy: You have seen these numbers of decline pretty much across industries.
-INFY_Q1_July_22_133 | Roy: I think we have a very, very sharp cost optimization program in a way which will go and offset these headwinds.
-INFY_Q1_July_22_134 | Rakesh: Kumar Rakesh Got it.
-INFY_Q1_July_22_135 | Rakesh: So it appears the supply side pressure was higher than what we were earlier expecting.
-INFY_Q1_July_22_136 | Rakesh: My second question was on the acquisition.
-INFY_Q1_July_22_137 | Roy: Nilanjan Roy I think there is no question about that.
-INFY_Q1_July_22_138 | Roy: You see our attrition and the net adds, the gross hiring has been very well and of course in that sense in terms of our stretches and all we have to offer.
-INFY_Q1_July_22_139 | Roy: So it is an overall industry issues led from the demand side.
-INFY_Q1_July_22_140 | Rakesh: Kumar Rakesh Thanks.
-INFY_Q1_July_22_141 | Rakesh: My second question was on BASE acquisition.
-INFY_Q1_July_22_142 | Rakesh: So we already have a pretty strong life sciences practice with more than $1 bn scale, so what exactly we are looking and targeting to get help from this acquisition?
-INFY_Q1_July_22_143 | Parekh: Salil Parekh On BASE there are multiple things.
-INFY_Q1_July_22_144 | Parekh: This is a business which is very high end in the life sciences area.
-INFY_Q1_July_22_145 | Parekh: When we launched our strategy a few weeks ago just at the start of the quarter we had shared also a new focus or an expanded focus on Europe.
-INFY_Q1_July_22_146 | Parekh: Denmark for us is a very strategic market, the whole Scandinavian market is a very strategic market for us.
-INFY_Q1_July_22_147 | Parekh: So that is the second area that it benefits us.
-INFY_Q1_July_22_148 | Parekh: We also see clients are using the capabilities of BASE as a starting point and then that leads to large technology transformation, digital transformation and that helps us overall in terms of scaling up that segment.
-INFY_Q1_July_22_149 | Parekh: That is a segment which we feel is a strong segment for the future and where in our view underweight in percentage terms.
-INFY_Q1_July_22_150 | Parekh: So we want to enhance that with these existing capabilities.
-INFY_Q1_July_22_151 | Rakesh: Kumar Rakesh Got it thanks a lot for that Salil.
-INFY_Q1_July_22_152 | Bachman: Keith Bachman Thank you very much.
-INFY_Q1_July_22_153 | Bachman: My first question is I wanted to get your views on how you think wage inflation will impact the balance of the year.
-INFY_Q1_July_22_154 | Bachman: And what are the tensions on that to your margin model?
-INFY_Q1_July_22_155 | Bachman: So you mentioned that attrition has in fact moved lower, do you think attrition continues to move lower and how do you think wage inflation will unfold over the next about three, four quarters and be a force in the gross margin equation and then will follow up?
-INFY_Q1_July_22_156 | Roy: Nilanjan Roy I think like we started last year we were very clear that we have to be competitive in the market.
-INFY_Q1_July_22_157 | Roy: So, we did the first hike in January of 2021 then we did the next hike in July of 2021 then we did a follow-up on our talent in September of 2021.
-INFY_Q1_July_22_158 | Roy: In a way, we have not waited one year we have actually gone ahead and done our majority of our wage hike from 1st of April this year.
-INFY_Q1_July_22_159 | Roy: Increase for middle to higher level to senior force will happen in July but not the same margin impact of quarter one which was very broad based.
-INFY_Q1_July_22_160 | Roy: Other than that, I think these are quite competitive and of course if you see in the mix, we also get a lot of laterals where there is a hidden cost of hiring because they come at stretches.
-INFY_Q1_July_22_161 | Roy: So in a way, your overall weighted average compensation in any case is going up across.
-INFY_Q1_July_22_162 | Roy: I think overall this is a very competitive hike.
-INFY_Q1_July_22_163 | Roy: In India it is more like high single digits and in overseas geos because of high wage inflation across we have given very competitive hikes.
-INFY_Q1_July_22_164 | Roy: This is something which we have not done before.
-INFY_Q1_July_22_165 | Roy: So these are very much higher than what we did in the past.
-INFY_Q1_July_22_166 | Roy: But we think this is something which is going to stand up in good stead in terms of attrition and we have seen three quarters of the attrition benefits and expect it to continue.
-INFY_Q1_July_22_167 | Bachman: Keith Bachman We cover a number of software companies and software companies have started to say they are seeing pockets of weakness with demand elongation on sales cycles.
-INFY_Q1_July_22_168 | Bachman: It does not sound like we made one very specific industry comment but it does not sound like you are seeing the same any kind of iteration on the demand side particularly on the negative side, but if you could just clarify, are you seeing any elongation on the new business front, yes or no, and if the macro does weaken will that in fact help your wage situation and that is it from me.
-INFY_Q1_July_22_169 | Bachman: Thank you.
-INFY_Q1_July_22_170 | Parekh: Salil Parekh Thanks for that.
-INFY_Q1_July_22_171 | Parekh: A couple of points that you raised, I think what we see on the demand, the pipeline that we have today for our large deals is larger than what we had three or six months ago.
-INFY_Q1_July_22_172 | Parekh: Having said that, we of course recognize what is going on in the global environment and we mentioned a couple of areas.
-INFY_Q1_July_22_173 | Parekh: Nilanjan talked within retail, he also mentioned within Financial Services - mortgages.
-INFY_Q1_July_22_174 | Parekh: So we see pockets where we see some impact.
-INFY_Q1_July_22_175 | Parekh: On the overall deal discussions we see a little bit where it is slowing in the decision making; however, the pipeline remains strong for us today.
-INFY_Q1_July_22_176 | Parekh: We have also get two types of deals, one is deals which are on digital transformation or cloud which are growth orientated for clients driving to what they want to do with their customers in their supply chain, how they want to make an impact.
-INFY_Q1_July_22_177 | Parekh: The second is on cost, we have a very strong play on cost and efficiency through our automation work, through our artificial intelligence work where we can really impact the cost base in the tech landscape of our clients.
-INFY_Q1_July_22_178 | Parekh: So those are areas which we are already very active within this environment and given our positioning we feel good that those will start to come into play as and when the environment changes.
-INFY_Q1_July_22_179 | Parekh: But today this is how we are seeing the demand situation.
-INFY_Q1_July_22_180 | Parekh: Now your other question was will that have a change on the wage if the macro evolving.
-INFY_Q1_July_22_181 | Parekh: We do not have a clear view on where that will go because it is a function of how the macro evolves and what happens.
-INFY_Q1_July_22_182 | Parekh: Of course, we are seeing attrition starting to come off a little bit and that will clearly have a positive impact for us with respect to compensation.
-INFY_Q1_July_22_183 | Parekh: So the timeline is not clear, it depends on how the macro evolves.
-INFY_Q1_July_22_184 | Bachman: Keith Bachman Okay great many thanks.
-INFY_Q1_July_22_185 | Padmanabhan: Nitin Padmanabhan Good morning.
-INFY_Q1_July_22_186 | Padmanabhan: Thanks for the opportunity.
-INFY_Q1_July_22_187 | Padmanabhan: I had two questions.
-INFY_Q1_July_22_188 | Padmanabhan: One, is from a margin perspective, whatever we saw as one offs in the previous quarter which included visa and these contract provisions - both of them have been sort of offset in this quarter is that a fair understanding?
-INFY_Q1_July_22_189 | Padmanabhan: The second is in terms of salary increases is it only for the associate level this quarter and if so then the question is that we have 145,000 associates JL3 and below and 130,000 people in the mid level and general understanding is mid level obviously as a percentage of the employee cost it should be higher so the thought process was about should not your margin impact be even higher next quarter - if you could just help with that thought process that will be very helpful?
-INFY_Q1_July_22_190 | Padmanabhan: Those are two questions.
-INFY_Q1_July_22_191 | Padmanabhan: Thank you.
-INFY_Q1_July_22_192 | Roy: Nilanjan Roy As I said in the margin walk, we had a benefit of 50 bps in RPP which is a combination of clients contractual provisions reversals partially offset by the discounts.
-INFY_Q1_July_22_193 | Roy: So we have seen a benefit there.
-INFY_Q1_July_22_194 | Roy: There is no way we said that has it been eroded, we have caught the benefit of client contractual provisions clearly.
-INFY_Q1_July_22_195 | Roy: The other one on visa, travel - I think they largely offset each other.
-INFY_Q1_July_22_196 | Roy: On the outlook on wages, we have done it for most of our employees, it is up to mid level.
-INFY_Q1_July_22_197 | Roy: For more of the senior levels is what we are going to roll out in July and that impact would be far less than 1.6% which we have done which is a much more broad based for us.
-INFY_Q1_July_22_198 | Padmanabhan: Nitin Padmanabhan Both associates and mid level happen this quarter itself.
-INFY_Q1_July_22_199 | Padmanabhan: It is not only associate.
-INFY_Q1_July_22_200 | Roy: Nilanjan Roy Yes, associates and mid level, correct.
-INFY_Q1_July_22_201 | Padmanabhan: Nitin Padmanabhan Correct that is very helpful.
-INFY_Q1_July_22_202 | Padmanabhan: Thank you so much.
-INFY_Q1_July_22_203 | Bergin: Bryan Bergin Thanks for taking the question.
-INFY_Q1_July_22_204 | Bergin: I wanted to just dig on the commentary around pockets of weakness.
-INFY_Q1_July_22_205 | Bergin: So I heard you mentioned mortgages, mentioned subcomponent of retail.
-INFY_Q1_July_22_206 | Bergin: Can you just give us a sense and quantify what mix of your business is actually seeing some slowing decision making is it 5%, is it 10%, is it less and even does this help frame or quantify areas that are seeing pockets of weakness?
-INFY_Q1_July_22_207 | Parekh: Salil Parekh Thanks for your question.
-INFY_Q1_July_22_208 | Parekh: This is Salil.
-INFY_Q1_July_22_209 | Parekh: We do not quantify typically what part of Financial Services is mortgages or the other areas which are impacted.
-INFY_Q1_July_22_210 | Parekh: We are now seeing pockets, this is not across our whole business.
-INFY_Q1_July_22_211 | Parekh: And the way I would look at it is with all of that given our pipeline we have increased our revenue guidance.
-INFY_Q1_July_22_212 | Parekh: So the majority of our business is still seeing good demand.
-INFY_Q1_July_22_213 | Parekh: It is really pockets without quantifying, that is how I would give a context to it.
-INFY_Q1_July_22_214 | Bergin: Bryan Bergin Okay and then just a follow-up on margin.
-INFY_Q1_July_22_215 | Bergin: You gave sequential changes can you give us what the year-on-year changes in operating margin with the different categories?
-INFY_Q1_July_22_216 | Roy: Nilanjan Roy So largely we know it was the comp related hike that is near only about 370 basis points that was the biggest one and there were some rupee benefits offset by both cross currency as well and then we got some benefits of cost optimization, we got some hits on lower utilization.
-INFY_Q1_July_22_217 | Roy: So these are the broad things but the biggest one was the comp which was about 370 basis points.
-INFY_Q1_July_22_218 | Bergin: Bryan Bergin Alright thank you.
-INFY_Q1_July_22_219 | Guntupalli: Sudheer Guntupalli Good morning gentlemen.
-INFY_Q1_July_22_220 | Guntupalli: Thanks for giving me this opportunity.
-INFY_Q1_July_22_221 | Guntupalli: I have just one question on margins.
-INFY_Q1_July_22_222 | Guntupalli: Ideally the strong growth at the headline level should have translated into some operating leverage, but that does not seem to be happening and Nilanjan we seem to be of the view, we will chase growth for now and focus on margin optimization at a later date.
-INFY_Q1_July_22_223 | Guntupalli: What is the risk to that hypothesis because this growth margin paradox seem to be a mere reflection of what is happening in U.S. and U.K. now a very tight job market, very high nominal growth, but very little benefit trickling down to the bottomline level.
-INFY_Q1_July_22_224 | Guntupalli: So sooner or later this nominal growth rates may cool off and onsite job markets and some supply costs may auto recalibrate.
-INFY_Q1_July_22_225 | Guntupalli: But back in India job market may not be as much of a free market as it is in U.K. and U.S. there may be some sticky elements both at headcount and wage level translating into negative operating leverage as demand moderates.
-INFY_Q1_July_22_226 | Guntupalli: So what is the risk that margins will remain structurally lower than even the pre-COVID levels going ahead because demand tends to be more cyclical while some of these supply costs tend to be more sticky?
-INFY_Q1_July_22_227 | Roy: Nilanjan Roy There are a couple of things.
-INFY_Q1_July_22_228 | Roy: See one is that many of these cost increases cannot be passed on the client on day one.
-INFY_Q1_July_22_229 | Roy: If I have to give a wage hike on all my existing base they will come up for renewals that is the time when you have a wage discussion.
-INFY_Q1_July_22_230 | Roy: When you are doing new deal, automatically we will build it and the industry in a way will build it into their wage profile.
-INFY_Q1_July_22_231 | Roy: So these things will automatically flow back, there is no free lunch for anybody.
-INFY_Q1_July_22_232 | Roy: So that is one thing which will happen over a period of time, but that is more of a generic point I am making.
-INFY_Q1_July_22_233 | Roy: But in terms of subcons, we have operated at 6%-6.5% of subcon; today we are sitting at 11.3%, there is no reason for us to be at these levels unless we know what the job market is.
-INFY_Q1_July_22_234 | Roy: In the overall demand environment, when our recruiting picks up we can replace these subcons with our own headcount, put more freshers into projects and this is something we have been doing very well in the past as well.
-INFY_Q1_July_22_235 | Roy: So I think these levers are well known for us, we know how utilization works, our pyramid works, so we are quite confident in the forward model of taking out cost from our overall structure.
-INFY_Q1_July_22_236 | Guntupalli: Sudheer Guntupalli Just one more question if I may.
-INFY_Q1_July_22_237 | Guntupalli: So when we say the pipeline is larger now, just curious if the pipeline is getting bigger and bigger because some of the decision making is getting slower, is there any correlation you read in between the two?
-INFY_Q1_July_22_238 | Parekh: Salil Parekh The pipeline what we are seeing is there is appetite and you go by different industry for Digital transformation programs, for large cloud programs, for programs which start to relate to cost and efficiency, that is what is in the pipeline.
-INFY_Q1_July_22_239 | Parekh: It is not a function of the timeline which the delay that you referenced which is causing an increase, it is where we see traction with more and more client discussions as of today that we see.
-INFY_Q1_July_22_240 | Parekh: Now we will see how that evolves, that is the outlook we have today.
-INFY_Q1_July_22_241 | Guntupalli: Sudheer Guntupalli Thanks Salil.
-INFY_Q1_July_22_242 | Guntupalli: Thanks Nilanjan.
-INFY_Q1_July_22_243 | Guntupalli: That is it from my side.
-INFY_Q1_July_22_244 | Guntupalli: All the very best.
-INFY_Q1_July_22_245 | Rudra: Ankur Rudra Thank you for taking my question.
-INFY_Q1_July_22_246 | Rudra: First question is what is the level of conservatism or realism infused into both the revenue and the margin guide this time, part of that is on the revenue guide we have given the potential macro headwinds ahead of us and the ask rate from the second half of this year.
-INFY_Q1_July_22_247 | Rudra: Similarly, on margins we still have another round of wage hikes which can impact margins by maybe as much as 100 basis points if I look at the wage hike impact so far and a similar ratio between the first and the second rounds in the previous years and also keeping up travel and facility costs?
-INFY_Q1_July_22_248 | Rudra: Thank you.
-INFY_Q1_July_22_249 | Parekh: Salil Parekh Thanks for the question.
-INFY_Q1_July_22_250 | Parekh: This is Salil.
-INFY_Q1_July_22_251 | Parekh: Let me start off and then Nilanjan may have a few points to add.
-INFY_Q1_July_22_252 | Parekh: On the guidance for growth, as we have shared in the past, the approach we take is we see how things are as we look at the financial year today.
-INFY_Q1_July_22_253 | Parekh: What we saw is in Q1 we had extremely strong revenue growth - 5.5% and we also had underlying volume growth which was very strong.
-INFY_Q1_July_22_254 | Parekh: When we see the outlook, where we have clarity looking ahead for some period of time and then a set of estimates that we have for the rest of the financial year and also looking at how typically H2 works versus H1 and then putting in some views on where the end of the year could be.
-INFY_Q1_July_22_255 | Parekh: Based on that, we felt comfortable to increase the revenue growth guidance, whether it is conservative or realistic that is the approach we take to make sure that we then share what we think the revenue is going to look like from here.
-INFY_Q1_July_22_256 | Parekh: On the margin I will start off and then Nilanjan will talk a little bit about the wage component and what we have done.
-INFY_Q1_July_22_257 | Parekh: Overall on the margin, we have made sure that we work to get all of the levers in place.
-INFY_Q1_July_22_258 | Parekh: So the approach to driving cost efficiency is in place, several levers that Nilanjan mentioned, one of the bigger ones we got the bulk impact, the vast majority of our compensation increase already done in Q1.
-INFY_Q1_July_22_259 | Parekh: So yes there is a small component but it is not really a huge component that will come up and then we see steadily other areas which will help us.
-INFY_Q1_July_22_260 | Parekh: There are areas where we can focus on how the subcontracting works, there are areas where we can focus on discussions with clients vis-à-vis wage increases and COLA, areas where we are doing work which is having significant impact for clients.
-INFY_Q1_July_22_261 | Parekh: So we think there are a set of those levers that can help us through the margin discussion that will be focused on in this financial year.
-INFY_Q1_July_22_262 | Parekh: Our approach is to make sure that we remain a high margin business and that is the underlying thing that we are working with.
-INFY_Q1_July_22_263 | Parekh: Given where we are, given the inflation around the world, we thought it was clear to make sure that we communicated that in the way we see the markets.
-INFY_Q1_July_22_264 | Parekh: Nilanjan, anything else, if you want to add?
-INFY_Q1_July_22_265 | Roy: Nilanjan Roy No.
-INFY_Q1_July_22_266 | Roy: That is good.
-INFY_Q1_July_22_267 | Rudra: Ankur Rudra Just a quick follow-up if I may on margins.
-INFY_Q1_July_22_268 | Rudra: Nilanjan are there any one-offs in the margin this time, asking another way what would be the pro-forma margins, if the provision reversal was not to happen and related to that can you say that 20% in Q1 should be the bottom of margins going forward so that we can get back to 21% for the year realistically?
-INFY_Q1_July_22_269 | Roy: Nilanjan Roy Yes, so I think we have mentioned the margin walk at the beginning of the call.
-INFY_Q1_July_22_270 | Roy: So if we are at 20% and we are guiding at the bottom end of 21%, so mathematics indicates that we have to improve going forward.
-INFY_Q1_July_22_271 | Roy: So absolutely, from 20% we will have to see the improvement quarter-on- quarter.
-INFY_Q1_July_22_272 | Rudra: Ankur Rudra Thank you and best of luck.
-INFY_Q1_July_22_273 | Menon: Ravi Menon Congrats on good set of numbers.
-INFY_Q1_July_22_274 | Menon: Just wanted your thoughts on how broad based in North America you will see such problems to sustain for a long time until you call out some headwinds in BFSI, even that still have quite a bit of revenue.
-INFY_Q1_July_22_275 | Menon: If you could give some color about how sustained the demand environment is there.
-INFY_Q1_July_22_276 | Menon: And secondly on the pyramids, we have already seen a large intake of freshers last year so had hoped that some of that would have come into production and helped us offset the margin headwinds through this quarter but looks like given the utilization, as well it does not look like much of that has happened.
-INFY_Q1_July_22_277 | Menon: So, if you could give some color on that?
-INFY_Q1_July_22_278 | Parekh: Salil Parekh This is Salil.
-INFY_Q1_July_22_279 | Parekh: I did not catch the first part of the question.
-INFY_Q1_July_22_280 | Parekh: I think it was about demand but maybe you can just say the first question?
-INFY_Q1_July_22_281 | Menon: Ravi Menon It was around the demand.
-INFY_Q1_July_22_282 | Menon: We have seen broad-based revenue addition across verticals in North America and if you are seeing the pipeline also along similar lines.
-INFY_Q1_July_22_283 | Menon: So are there any specific verticals where you see some softness starting to come in?
-INFY_Q1_July_22_284 | Parekh: Salil Parekh As we referenced, we see some pockets of softness within our overall business.
-INFY_Q1_July_22_285 | Parekh: That is why we wanted to be very clear that that is something that is visible.
-INFY_Q1_July_22_286 | Parekh: Couple of examples we have shared on Financial Services and Retail, there are areas where we see that weakness; however, once we say that we also have a view and we see it in our pipeline the overall pipeline is stronger.
-INFY_Q1_July_22_287 | Parekh: So there are areas where we see some good traction as well and it is a mix of the growth and the cost opportunities within our pipeline.
-INFY_Q1_July_22_288 | Parekh: I think the second one was about the pyramid?
-INFY_Q1_July_22_289 | Roy: Nilanjan Roy Yes we have hired a lot of freshers last year and many of them also have gone into training pipeline because as we had the previous year there was nothing really in the pipeline in terms of hiring.
-INFY_Q1_July_22_290 | Roy: So in fact if you see our utilization there is a 2% gap between the excluding trainees and including trainee numbers on a year-on-year basis as well.
-INFY_Q1_July_22_291 | Roy: We continue to deploy them into projects.
-INFY_Q1_July_22_292 | Roy: Like I said, you cannot overnight stuff projects with freshers and that is why it is important to build a pipeline in advance and make them go through the trainings and then put them into production bench and then move them into projects as well.
-INFY_Q1_July_22_293 | Roy: So that benefit will come in and we are seeing that slowly coming in, but it is important to invest ahead.
-INFY_Q1_July_22_294 | Roy: If you are planning just in time, you will be probably sub optimizing in terms of how fast you can deploy.
-INFY_Q1_July_22_295 | Roy: So that is why we have made these investments because we know it will take time for these freshers to be productive, hence it is important to make that investment ahead.
-INFY_Q1_July_22_296 | Menon: Ravi Menon Thanks gentlemen.
-INFY_Q1_July_22_297 | Menon: One follow-up of this last quarter's contractual revenue.
-INFY_Q1_July_22_298 | Menon: So did you recognize all of them this quarter or is there still something pending?
-INFY_Q1_July_22_299 | Roy: Nilanjan Roy Yes, it was all recognized this quarter.
-INFY_Q1_July_22_300 | Menon: Ravi Menon Thank you.
-INFY_Q1_July_22_301 | Menon: Best of luck.
-INFY_Q1_July_22_302 | Kapoor: Pankaj Kapoor Thanks for the opportunity.
-INFY_Q1_July_22_303 | Kapoor: Salil can you give some color on the overall order book since the reported TCV, what we give that covers only $50 mn plus deal and may not really be representative.
-INFY_Q1_July_22_304 | Kapoor: So any quantitative or qualitative comment on the scale and how the overall order book has grown, that will be helpful?
-INFY_Q1_July_22_305 | Parekh: Salil Parekh Thanks for the question.
-INFY_Q1_July_22_306 | Parekh: As you know, we share the large deal win numbers.
-INFY_Q1_July_22_307 | Parekh: We do not publish the overall deal wins.
-INFY_Q1_July_22_308 | Parekh: Having said that, the main context I would put is the increase in the growth guidance that we have provided and that factors in all of the inputs that you may be looking for, which essentially comes from a very strong Q1 execution - 5.5% QoQ, 21.4% YoY growth and then a view that we have on what we see in the coming quarters and an overall view of H1, H2 in our mix within the company - that is sort of broadly how we looked at it.
-INFY_Q1_July_22_309 | Parekh: On the large deals, we have shared this in the past.
-INFY_Q1_July_22_310 | Parekh: Typically, this is a number which is a little bit more volatile because we only report deals which are larger than $50 million in our large deals and so that is really the way you can look at.
-INFY_Q1_July_22_311 | Kapoor: Pankaj Kapoor My second question is on the profitability in the manufacturing vertical where the margins have been coming down and in fact the last three quarters probably they have halved despite a very strong revenue growth.
-INFY_Q1_July_22_312 | Kapoor: I understand this could be because of a very large deal which is still ramping up there, can you give a sense of how the profitability curve in this vertical could shape over the next two, three quarters.
-INFY_Q1_July_22_313 | Kapoor: What I am trying to understand is that has it bottomed out now or you think that this could potentially go down further?
-INFY_Q1_July_22_314 | Kapoor: Thank you.
-INFY_Q1_July_22_315 | Roy: Nilanjan Roy Firstly, you have seen the revenue growth which has been quite spectacular in this segment.
-INFY_Q1_July_22_316 | Roy: This has been led by large deals.
-INFY_Q1_July_22_317 | Roy: As we talk about our approach, from day one a lot of clients would like to see savings, but we are very clear that over a period of time we have a lot of cost optimization levers.
-INFY_Q1_July_22_318 | Roy: On day one you cannot pivot the cost structure, whereas clients may ask for the savings, but we know there are enough levers over time that we continue to deploy on all these large deals.
-INFY_Q1_July_22_319 | Roy: And if I go back to the last three years, four years in fact when the large deal strategy started, we have actually seen an increase in margins over that period.
-INFY_Q1_July_22_320 | Roy: So, there is no historical correlation in saying whether the large deals are dilutive, because we continue working on taking out costs from the system and that gets factored into our entire process.
-INFY_Q1_July_22_321 | Roy: We look at how we are going to optimize onsite offshore, many of these projects require dramatic automation, we can inject that through all our services which we are providing, we know how the pyramid works.
-INFY_Q1_July_22_322 | Roy: So these are the things which we know works over the lifetime of these large deals and that is something we know we can deploy.
-INFY_Q1_July_22_323 | Roy: So that is something, without getting specifically into manufacturing, what we do well.
-INFY_Q1_July_22_324 | Kapoor: Pankaj Kapoor Got it.
-INFY_Q1_July_22_325 | Kapoor: Thank you and wish you all the best.
-INFY_Q1_July_22_326 | Rateria: Gaurav Rateria Good morning.
-INFY_Q1_July_22_327 | Rateria: Thank you for taking my question.
-INFY_Q1_July_22_328 | Rateria: So firstly is there any difference in the client decision making behavior in U.S. versus European clients and the reason is that I am asking is U.S. is seeing fair bit of broad-based growth across segments but when you look at Europe, there is a weakness specifically in retail and communication vertical whereas the other two verticals, energy, Hi-Tech has grown very, very well.
-INFY_Q1_July_22_329 | Rateria: So just trying to understand are there any client specific pockets especially in Europe where you kind of see decision making behavior has changed compared to the U.S. market?
-INFY_Q1_July_22_330 | Parekh: Salil Parekh Thanks for that question.
-INFY_Q1_July_22_331 | Parekh: Today we are not seeing something which is more geography based as you are describing.
-INFY_Q1_July_22_332 | Parekh: We see something which is more globally industry-based and client based, as you know well is mainly U.S, Europe and Australia.
-INFY_Q1_July_22_333 | Parekh: So not so much color on which is more geography related.
-INFY_Q1_July_22_334 | Rateria: Gaurav Rateria Second question on margins, your margin outlook at the lower end - you explained very well the supply side and cost related factors which has led to this, but is there also an element of expectation of pricing increase that has been tapered down, which has led to you to now take the margin outlook to the lower end and is it fair to say that with all the cost levers that you have in place the exit margin should be better than the lower end of the guidance?
-INFY_Q1_July_22_335 | Rateria: Thank you.
-INFY_Q1_July_22_336 | Roy: Nilanjan Roy I think when we do our margins forecast with a combination of factors that we look at and that equation keeps on changing and it is more dynamic.
-INFY_Q1_July_22_337 | Roy: What happened in the previous quarter, what do we see as outlook, what is happening on subcon, wage inflation - so that mix continues to change and evolve.
-INFY_Q1_July_22_338 | Roy: Sometimes we have to push harder on some pedals in terms of accelerating some programs.
-INFY_Q1_July_22_339 | Roy: And then going back to the level where we are today at 20% and we are saying we will be at the bottom end of 21%, I think that should give you a good sense of the margin trajectory for the rest of the year.
-INFY_Q1_July_22_340 | Rateria: Gaurav Rateria Thank you.
-INFY_Q1_July_22_341 | Rathod: Ritesh Rathod Just on this margin within a quarter you have to lower your guidance on the margin side so this is despite rupee depreciation benefit, despite attrition coming down in last two quarters.
-INFY_Q1_July_22_342 | Rathod: So what has surprised internally in your expectations, so that you have to bring it down to the lower end?
-INFY_Q1_July_22_343 | Roy: Nilanjan Roy Yes, I think I just mentioned this is a very dynamic and moving forecast completely.
-INFY_Q1_July_22_344 | Roy: What is the impact of attrition, how much wage hikes will come in, new hires - it is very dynamic, how the pricing plays out.
-INFY_Q1_July_22_345 | Roy: So, this is a very fluid situation, but the 21% to 23% band we said, we are within that but of course at the bottom end of it.
-INFY_Q1_July_22_346 | Roy: We are committed from where we are today at 20% to do all our various cost optimizations, factoring the cost impacts of what we see in terms of wage inflation there could be potential benefits of the rupee etc.
-INFY_Q1_July_22_347 | Roy: So it is a combination of all this into the forecast.
-INFY_Q1_July_22_348 | Rathod: Ritesh Rathod What would have been the bigger surprise element?
-INFY_Q1_July_22_349 | Rathod: would it be the wage or would it be the pricing benefit not coming through?
-INFY_Q1_July_22_350 | Rathod: Any one highlight compared to what you expected at the start of the year?
-INFY_Q1_July_22_351 | Roy: Nilanjan Roy It is a combination of various things and I would not say surprise.
-INFY_Q1_July_22_352 | Roy: Like I said, it is a fluid situation and we have to remain agile.
-INFY_Q1_July_22_353 | Roy: That is more important rather than anything else.
-INFY_Q1_July_22_354 | Rathod: Ritesh Rathod Coming to pockets of weakness which is pointed out in retail, mortgages, can you give some color are clients taking a pause in decision making, are the new deals not getting converted or are the existing deals which have been moving, they are not getting ramped up?
-INFY_Q1_July_22_355 | Rathod: What is the exact sense on the business over there?
-INFY_Q1_July_22_356 | Parekh: Salil Parekh There within the areas of that pockets that we described, there we see a slowing.
-INFY_Q1_July_22_357 | Parekh: For example, if you look at the mortgage situation the volume there in the market meaning the client volume as a macro level has gone down in the European and U.S. market.
-INFY_Q1_July_22_358 | Parekh: So our work there is proportionally reduced.
-INFY_Q1_July_22_359 | Parekh: The overall point which I shared earlier, we see some slowing in decision making but nonetheless the pipeline remains today in a good position and that allows us to increase the guidance.
-INFY_Q1_July_22_360 | Rathod: Ritesh Rathod Maybe last one on your deal wins on LTM basis, your deal wins are down sharply if you see last three, four quarters versus the previous four quarters and even if I adjust the base because of the high value deals, which you won in a couple of quarters, four, quarters back, you are still down minimum by 15%, how do you connect those two dots that your LTM deal wins are down but your deal pipeline is all time high.
-INFY_Q1_July_22_361 | Rathod: Are the deal conversion ratios dropping then what it was used to be?
-INFY_Q1_July_22_362 | Parekh: Salil Parekh There on the large deals we always see some volatility because these are deals which were larger, the ones we share in this number are larger than $50 mn in value.
-INFY_Q1_July_22_363 | Parekh: We do see the pipeline being larger than where it was and what we referenced in some areas slowing of it, that we do not see any change in the other parameters of the pipeline.
-INFY_Q1_July_22_364 | Rathod: Ritesh Rathod Okay thank you wish you good luck.
-INFY_Q1_July_22_365 | Taneja: Manik Taneja Thank you for the opportunity and sorry for harping on the margin question once again.
-INFY_Q1_July_22_366 | Taneja: I just wanted to understand how should we be thinking about the segmental or the improvement in segmental margins for manufacturing vertical given the sharp drop that we have seen over the last three quarters and how does that heal in terms of the overall margin outlook?
-INFY_Q1_July_22_367 | Taneja: Thank you.
-INFY_Q1_July_22_368 | Roy: Nilanjan Roy Somebody else has asked a similar question and without going into any specifics, we have seen that growth coming out of a large deal in manufacturing and like you said as we look at the tenure of these large deals in some cases they start off with lower than portfolio margins because clients may ask for savings upfront but we have already started plan in terms of over quarter-on-quarters what do we need to do to bring back profitability because from day one clients come to us because they know we can optimize the cost structure.
-INFY_Q1_July_22_369 | Roy: So that is something which is generically what we have been doing and since we started the large deal strategy and we have seen margin improvements over that period.
-INFY_Q1_July_22_370 | Roy: So I think we are quite confident of the future profile of these businesses.
-INFY_Q1_July_22_371 | Taneja: Manik Taneja Sure thank you.
-INFY_Q1_July_22_372 | Prasad: Apurva Prasad Thanks for taking my question.
-INFY_Q1_July_22_373 | Prasad: Salil this is on mega deals while the industry frequency tends to be low and it has been a while for Infosys it will be good to know your comments on mega deals from a pipeline perspective and secondly on pricing how is the ability to get price increase versus last quarter do you see any changes to that?
-INFY_Q1_July_22_374 | Parekh: Salil Parekh From the mega deals, I think again we do not share anything specific in terms of what we publish.
-INFY_Q1_July_22_375 | Parekh: The color from our side is we have mega deals in our pipeline, if that will give you a context.
-INFY_Q1_July_22_376 | Parekh: On the pricing, we have seen pricing currently holding in our deal values for Q1.
-INFY_Q1_July_22_377 | Parekh: My sense is we have seen examples that Nilanjan was sharing earlier where we are working, we have worked with clients to demonstrate to them the impact of compensation increases and that has translated to COLA or price benefits.
-INFY_Q1_July_22_378 | Parekh: We have had examples where we have had increases, which are related to the digital high value work that we are driving for clients.
-INFY_Q1_July_22_379 | Parekh: We now have to make sure we take that across a whole portfolio and see the benefits coming into our business.
-INFY_Q1_July_22_380 | Parekh: Typically the salary increase happens at a periodic time and these things where we have not seen a high inflation environment like this for over 40 years in the western markets that takes a longer time.
-INFY_Q1_July_22_381 | Parekh: That is what as Nilanjan shared is part of what we have put in place to support our margin as we go ahead.
-INFY_Q1_July_22_382 | Prasad: Apurva Prasad Thank you for that.
-INFY_Q1_July_22_383 | Parekh: Salil Parekh points; first we have had industry leading growth in Q1, 5.5% quarterly, 21.4% year-on-year.
-INFY_Q1_July_22_384 | Parekh: We clearly see a tremendous market share gain driven primarily by the strength of our digital and cloud - cobalt capability set that is resonating with our clients.
-INFY_Q1_July_22_385 | Parekh: We highlighted there are pockets of weakness and we are aware of the environment around us.
-INFY_Q1_July_22_386 | Parekh: We see in our pipeline both growth opportunities in digital cloud and cost opportunities in automation.
-INFY_Q1_July_22_387 | Parekh: With all of that, we increase the growth guidance for the full year.
-INFY_Q1_July_22_388 | Parekh: We are now seeing attrition coming down on a quarterly basis.
-INFY_Q1_July_22_389 | Parekh: We see many of the initiatives we put in place starting to create some impact.
-INFY_Q1_July_22_390 | Parekh: We have levers for the margin, several that Nilanjan shared, large programs will transition to steady state, COLA because of increases in compensation costs to pricing, pyramid adjustments as we have college hires joining the production environment, subcontractor usage and then several others on the cost side.
-INFY_Q1_July_22_391 | Parekh: Given all of that we feel we are already well positioned to work with clients on their growth and cost opportunities and have a margin profile that is something that sustains the high margin approach of the company.
-INFY_Q1_July_22_392 | Parekh: We are looking forward to this year with strength and optimism.
+INFY_Q1_July_22_1 | Moderator
+INFY_Q1_July_22_2 | reminder all participant lines will be in the listen-only mode.
+INFY_Q1_July_22_3 | There will be an opportunity for you to
+INFY_Q1_July_22_4 | ask questions after the presentation concludes.
+INFY_Q1_July_22_5 | Should you need assistance during the conference
+INFY_Q1_July_22_6 | call, please signal an  operator by pressing “*” and then “0” on your touchtone telephone.
+INFY_Q1_July_22_7 | Please
+INFY_Q1_July_22_8 | note that this conference is  being recorded.
+INFY_Q1_July_22_9 | I now hand the conference over to Mr. Sandeep
+INFY_Q1_July_22_10 | Mahindroo.
+INFY_Q1_July_22_11 | Thank you and over to you, Sir.
+INFY_Q1_July_22_12 | Sandeep Mahindroo
+INFY_Q1_July_22_13 | Thanks Inba.
+INFY_Q1_July_22_14 | Hello everyone and welcome to Infosys Earnings Call to discuss Q1 2023 Financial Results.
+INFY_Q1_July_22_15 | This
+INFY_Q1_July_22_16 | is Sandeep from the Investor Relations team in Bangalore.
+INFY_Q1_July_22_17 | Joining us today on this call is CEO
+INFY_Q1_July_22_18 | and MD, Mr. Salil Parekh; CFO, Mr. Nilanjan Roy; and other members of the senior management
+INFY_Q1_July_22_19 | team.
+INFY_Q1_July_22_20 | We will commence the call with some remarks on the performance of the company by Salil
+INFY_Q1_July_22_21 | and Nilanjan.
+INFY_Q1_July_22_22 | Subsequent to which, we will open up the call for questions.
+INFY_Q1_July_22_23 | Please note that anything that we say that refers to our outlook for the future is a forward-looking
+INFY_Q1_July_22_24 | statement that must be read in conjunction with the risks that the company faces.
+INFY_Q1_July_22_25 | A full statement
+INFY_Q1_July_22_26 | and explanation of these risks is available in our filings with the SEC, which can be found on
+INFY_Q1_July_22_27 | www.sec.gov.
+INFY_Q1_July_22_28 | I would now like to pass on the call to Salil.
+INFY_Q1_July_22_29 | Salil Parekh
+INFY_Q1_July_22_30 | Thanks, Sandeep.
+INFY_Q1_July_22_31 | Good morning and good evening to everyone on the call.
+INFY_Q1_July_22_32 | Thank you all for
+INFY_Q1_July_22_33 | taking the time to join us.
+INFY_Q1_July_22_34 | We had an excellent start to the financial year with 5.5% sequential growth and 21.4% year-on-
+INFY_Q1_July_22_35 | year growth in constant currency terms.
+INFY_Q1_July_22_36 | We continue to gain market share with our Cobalt cloud capabilities and our differentiated digital
+INFY_Q1_July_22_37 | value proposition driving a significant pipeline of opportunities for us.
+INFY_Q1_July_22_38 | For example a premier online retailer in the U.S. leveraged Infosys Cobalt to embark on a cloud-
+INFY_Q1_July_22_39 | driven transformation journey to enhance the customer experience and improve their security
+INFY_Q1_July_22_40 | posture.
+INFY_Q1_July_22_41 | Another example is European manufacturer who is reimagining their Digital workplace with best-
+INFY_Q1_July_22_42 | of-breed network security and IT infrastructure powered by Infosys Cobalt.
+INFY_Q1_July_22_43 | There are examples like this all across the spectrum in different sectors and that are driving
+INFY_Q1_July_22_44 | Infosys Cobalt into the market.
+INFY_Q1_July_22_45 | Clients continue to place an immense amount of trust and confidence in Infosys to help accelerate
+INFY_Q1_July_22_46 | their digital transformation agenda, both on efficiency and the growth dimension of their business.
+INFY_Q1_July_22_47 | The strong growth we have seen in the quarter lays a robust foundation for the year.
+INFY_Q1_July_22_48 | Growth continues to remain broad-based across the segments, service lines and geographies.
+INFY_Q1_July_22_49 | Each of our business segments grew in double-digits with several of them growing at 25% or
+INFY_Q1_July_22_50 | higher.
+INFY_Q1_July_22_51 | In terms of geography the U.S. geography grew at 18.4% and Europe grew at 33.2%.
+INFY_Q1_July_22_52 | This
+INFY_Q1_July_22_53 | indicates a healthy demand environment and is a reflection of how our industry-leading digital
+INFY_Q1_July_22_54 | capabilities are relevant for our clients.
+INFY_Q1_July_22_55 | Our Digital revenues were 61% of the total and grew at 37.5% in the quarter in constant currency
+INFY_Q1_July_22_56 | terms.
+INFY_Q1_July_22_57 | Within digital, our cloud work continues to grow faster, with our Cobalt cloud capability
+INFY_Q1_July_22_58 | seeing significant traction with our clients.
+INFY_Q1_July_22_59 | Our overall pipeline remains strong.
+INFY_Q1_July_22_60 | We do see pockets of weakness, for example in the area of
+INFY_Q1_July_22_61 | mortgages in Financial Services.
+INFY_Q1_July_22_62 | We keep a close watch on the evolving macro environment in
+INFY_Q1_July_22_63 | terms of the changes to the pipeline.
+INFY_Q1_July_22_64 | Within our pipeline, we also have focus in addition to the
+INFY_Q1_July_22_65 | growth areas in digital and cloud to the cost areas through automation and AI.
+INFY_Q1_July_22_66 | Our operating margins were at 20%.
+INFY_Q1_July_22_67 | We have completed the majority of our compensation review
+INFY_Q1_July_22_68 | for this year.
+INFY_Q1_July_22_69 | Nilanjan, will also provide more details on the overall margin update.
+INFY_Q1_July_22_70 | Some other highlights of our results are
+INFY_Q1_July_22_71 | -
+INFY_Q1_July_22_72 | We signed 19 large deals with a TCV of $1.69 bn.
+INFY_Q1_July_22_73 | This is comprises of 50% net new work
+INFY_Q1_July_22_74 | -
+INFY_Q1_July_22_75 | Our onsite mix was at 24.3%
+INFY_Q1_July_22_76 | -
+INFY_Q1_July_22_77 | As we build capacity for the future, our utilization was at healthy levels of 84.7%
+INFY_Q1_July_22_78 | -
+INFY_Q1_July_22_79 | Our free cash flow was strong at $656 mn
+INFY_Q1_July_22_80 | -
+INFY_Q1_July_22_81 | Our quarterly attrition declined.
+INFY_Q1_July_22_82 | Historically, Q1 attrition increases by three to four
+INFY_Q1_July_22_83 | percentage points sequentially on a quarterly annualized basis; however, our attrition
+INFY_Q1_July_22_84 | declined by one percentage point on a sequential basis - reflecting the impact of various
+INFY_Q1_July_22_85 | initiatives we have put in place
+INFY_Q1_July_22_86 | -
+INFY_Q1_July_22_87 | We had a net headcount increase of over 21,000 employees attracting leading talent from
+INFY_Q1_July_22_88 | the market, which is a reflection of our enhanced recruitment capabilities, solid brand and
+INFY_Q1_July_22_89 | deeper penetration into various talent markets.
+INFY_Q1_July_22_90 | Our Cobalt Cloud capability continues to be market leading.
+INFY_Q1_July_22_91 | We have 360 technology and domain
+INFY_Q1_July_22_92 | solutions, five of our assets have over 50 clients each, we have 150 industry focused solutions, 20
+INFY_Q1_July_22_93 | Infosys living labs, 50 experimentation programs, and 60,000 knowledge assets.
+INFY_Q1_July_22_94 | Our ‘One Infosys’ approach is serving us well to bring the best of Infosys and service to our client’s
+INFY_Q1_July_22_95 | needs.
+INFY_Q1_July_22_96 | Earlier this month we announced the acquisition of BASE Life Sciences, a Denmark-based
+INFY_Q1_July_22_97 | technology and consulting firm in the life sciences industry.
+INFY_Q1_July_22_98 | BASE brings to Infosys domain
+INFY_Q1_July_22_99 | expertise in medical, digital marketing, clinical and regulatory areas.
+INFY_Q1_July_22_100 | With our strong growth in Q1 and our current outlook on demand opportunity and pipeline, we
+INFY_Q1_July_22_101 | increase our revenue growth guidance which was at 13% to 15%, now to 14% to 16% for the full
+INFY_Q1_July_22_102 | year.
+INFY_Q1_July_22_103 | We keep our margin guidance at 21% to 23%.
+INFY_Q1_July_22_104 | With the increased cost environment, we will
+INFY_Q1_July_22_105 | be at the lower end of this margin guidance.
+INFY_Q1_July_22_106 | Thank you and with that let me hand it over to Nilanjan for his update.
+INFY_Q1_July_22_107 | Nilanjan Roy
+INFY_Q1_July_22_108 | morning.
+INFY_Q1_July_22_109 | We had a strong start of FY2023 with a robust year-on-year growth of 21.4% in constant currency.
+INFY_Q1_July_22_110 | All our business segments and major geos recorded double-digit growth with manufacturing,
+INFY_Q1_July_22_111 | communication and EURS along with Europe region recording 25% plus growth.
+INFY_Q1_July_22_112 | Sequentially, revenue growth was 5.5% which was led by a healthy volume growth and some RPP
+INFY_Q1_July_22_113 | benefits.
+INFY_Q1_July_22_114 | Digital revenues now constitute 61% of total and grew by 37.5% in constant currency.
+INFY_Q1_July_22_115 | Client metrics were strong with increase in client counts across revenue buckets compared to the
+INFY_Q1_July_22_116 | previous year.
+INFY_Q1_July_22_117 | Number of $50 mn clients increased by 10 to 69 creating the next potential
+INFY_Q1_July_22_118 | centurions.
+INFY_Q1_July_22_119 | Number of $100 mn clients increased by 4 to 38 and the number of $200 mn clients
+INFY_Q1_July_22_120 | have grown by 6 in the last one year.
+INFY_Q1_July_22_121 | This reflects our ability to deepen mining across our large
+INFY_Q1_July_22_122 | clients.
+INFY_Q1_July_22_123 | We had another quarter of strong employee additions with over 21,000 to cater to the growth
+INFY_Q1_July_22_124 | opportunities ahead.
+INFY_Q1_July_22_125 | The fresher addition was particularly strong which resulted in drop in
+INFY_Q1_July_22_126 | utilization to 84.7%.
+INFY_Q1_July_22_127 | Onsite effort mix inched up to 24.3%.
+INFY_Q1_July_22_128 | Voluntary LTM attrition increased
+INFY_Q1_July_22_129 | marginally to 28.4%.
+INFY_Q1_July_22_130 | Quarterly annualized attrition declined another by 1% from Q4 levels despite
+INFY_Q1_July_22_131 | Q1 usually seeing an uptick due to seasonality.
+INFY_Q1_July_22_132 | As announced earlier we have given competitive salary increases for majority of employees from
+INFY_Q1_July_22_133 | April.
+INFY_Q1_July_22_134 | Given the supply tightness and high prevailing inflation, salary increases across all geos this
+INFY_Q1_July_22_135 | year are higher than historical levels.
+INFY_Q1_July_22_136 | The increases vary based on job levels and performance of
+INFY_Q1_July_22_137 | employees with top performers getting double-digit hikes.
+INFY_Q1_July_22_138 | Salary hike for other employees is being
+INFY_Q1_July_22_139 | done effective 1st July.
+INFY_Q1_July_22_140 | Q1 margin stood at 20%, a drop of 150 basis points versus previous quarter.
+INFY_Q1_July_22_141 | The major
+INFY_Q1_July_22_142 | components of the sequential margin movements were as below:
+INFY_Q1_July_22_143 | Headwinds of
+INFY_Q1_July_22_144 | -
+INFY_Q1_July_22_145 | 1.6% due to salary increases,
+INFY_Q1_July_22_146 | -
+INFY_Q1_July_22_147 | 0.4% due to drop in utilization as we create capacity for future,
+INFY_Q1_July_22_148 | -
+INFY_Q1_July_22_149 | 0.3% due to increases in subcon, third party and other costs.
+INFY_Q1_July_22_150 | These were offset by tailwinds of
+INFY_Q1_July_22_151 | -
+INFY_Q1_July_22_152 | 0.5% due to increase in RPP from higher working days, a reversal of a client's contractual
+INFY_Q1_July_22_153 | provision in our FS segment partially offset by discounts.
+INFY_Q1_July_22_154 | -
+INFY_Q1_July_22_155 | 0.3% benefits from rupee depreciation benefits partially offset by cross-currency
+INFY_Q1_July_22_156 | headwinds.
+INFY_Q1_July_22_157 | Q1 EPS grew by 4.4% in rupee terms on a year-on-year basis.
+INFY_Q1_July_22_158 | Our balance sheet continues to be strong and debt-free.
+INFY_Q1_July_22_159 | Consolidated cash and investments were
+INFY_Q1_July_22_160 | 4.4 bn at the end of the quarter after returning more than $850 mn to the shareholders through
+INFY_Q1_July_22_161 | dividends.
+INFY_Q1_July_22_162 | This has led to increase in ROE to 31%.
+INFY_Q1_July_22_163 | Free cash flow for the quarter was $656 mn which is a conversion of 95% of net profits.
+INFY_Q1_July_22_164 | Yield on
+INFY_Q1_July_22_165 | cash balance remained stable at 5.3% in Q1.
+INFY_Q1_July_22_166 | DSO declined by 4 days sequentially to 63.
+INFY_Q1_July_22_167 | DSO
+INFY_Q1_July_22_168 | including net unbilled was 82 days an increase of 1 day versus Q4.
+INFY_Q1_July_22_169 | Coming to segmental performance:
+INFY_Q1_July_22_170 | We signed 19 large deals in Q1 with a TCV of $1.69 bn.
+INFY_Q1_July_22_171 | This comprises of the 50% net new.
+INFY_Q1_July_22_172 | We
+INFY_Q1_July_22_173 | have signed 5 large deals in retail and CPG, 4 in Hi-Tech, 3 each in financial services and energy
+INFY_Q1_July_22_174 | utility resources and services and 2 each in manufacturing and communications verticals.
+INFY_Q1_July_22_175 | Region-
+INFY_Q1_July_22_176 | wise 15 were in Americas and 2 each in Europe and RoW.
+INFY_Q1_July_22_177 | In Financial Services clients continue to focus on digital customer experience, contact center
+INFY_Q1_July_22_178 | transformation and virtual branches aimed at improving customer engagement.
+INFY_Q1_July_22_179 | While the order
+INFY_Q1_July_22_180 | pipeline remains strong across regions, we are seeing some slowness in mortgage industry and
+INFY_Q1_July_22_181 | lending business due to increased interest rates.
+INFY_Q1_July_22_182 | We remain watchful of impacts of emerging
+INFY_Q1_July_22_183 | global developments on budget for clients.
+INFY_Q1_July_22_184 | In the retail segment the pace of Digital transformation large-scale cost breakouts and improving
+INFY_Q1_July_22_185 | business resilience continues to be on the rise across various subsegments.
+INFY_Q1_July_22_186 | Our focus on
+INFY_Q1_July_22_187 | proactive engagement has helped us in creating a robust pipeline.
+INFY_Q1_July_22_188 | Clients are monitoring the
+INFY_Q1_July_22_189 | emerging macro situation and the impact of that on their business.
+INFY_Q1_July_22_190 | In communications segment clients are focused on rapid digitization and protecting their assets
+INFY_Q1_July_22_191 | from cyber threats, we see enormous potential to partner with them both on the digital
+INFY_Q1_July_22_192 | transformation agenda as well as in the cost takeout front.
+INFY_Q1_July_22_193 | Deal pipeline in energies, utilities, resources and services segments comprises of opportunities
+INFY_Q1_July_22_194 | around cost takeouts, vendor consolidation, digital transformation, cloud-led transformation and
+INFY_Q1_July_22_195 | asset monetization across industry sub-verticals.
+INFY_Q1_July_22_196 | Manufacturing segment is seeing broad-based growth across geographies and industry sub-
+INFY_Q1_July_22_197 | verticals.
+INFY_Q1_July_22_198 | The sector has seen traction across energy, IoT, supply chain, cloud ERP and
+INFY_Q1_July_22_199 | accelerated cloud adoption.
+INFY_Q1_July_22_200 | In Q1 we have been ranked as leader in 9 ratings in the areas of Oracle Cloud, SAP S/4HANA,
+INFY_Q1_July_22_201 | Public Cloud, Industry 4.0, employee experience and automation services.
+INFY_Q1_July_22_202 | In this supply constrained environment, we continue to invest in our growth momentum which
+INFY_Q1_July_22_203 | requires us to hire premium, skill talent while simultaneously investing in existing employees
+INFY_Q1_July_22_204 | through competitive compensation increases across geos.
+INFY_Q1_July_22_205 | Additionally, we expect normalization of
+INFY_Q1_July_22_206 | costs like travel and other overheads.
+INFY_Q1_July_22_207 | We will continue to focus on various cost optimization
+INFY_Q1_July_22_208 | measures including rationalization of subcons, flattening of the pyramid, increasing automation,
+INFY_Q1_July_22_209 | reducing onsite mix and increasing pricing.
+INFY_Q1_July_22_210 | Whilst we retain our operating margin guidance of 21% to 23%, we expect to be at the bottom end
+INFY_Q1_July_22_211 | of the range.
+INFY_Q1_July_22_212 | The revenue guidance for the year has been revised to 14% to 16% from 13% to
+INFY_Q1_July_22_213 | 15% earlier.
+INFY_Q1_July_22_214 | With that we can open the call for questions.
+INFY_Q1_July_22_215 | Moderator
+INFY_Q1_July_22_216 | Thank you very much.
+INFY_Q1_July_22_217 | Ladies and gentlemen we will now begin the question and answer session.
+INFY_Q1_July_22_218 | Our first question is from the line of Surendra Goyal from Citi Group.
+INFY_Q1_July_22_219 | Please go ahead.
+INFY_Q1_July_22_220 | Surendra Goyal
+INFY_Q1_July_22_221 | Thanks for that.
+INFY_Q1_July_22_222 | Good morning just a couple of questions from my side.
+INFY_Q1_July_22_223 | Firstly a clarification.
+INFY_Q1_July_22_224 | Nilanjan, I believe you said that the contractual provision was largely offset by discounts.
+INFY_Q1_July_22_225 | Could
+INFY_Q1_July_22_226 | you please clarify a bit.
+INFY_Q1_July_22_227 | Did you mean discounts to the same client or discounts in general?
+INFY_Q1_July_22_228 | Curious because on one hand we are talking of a strong demand environment and potential price
+INFY_Q1_July_22_229 | hikes and at the same time we are also talking of discounts?
+INFY_Q1_July_22_230 | Nilanjan Roy
+INFY_Q1_July_22_231 | The comment was 0.5% increase in RPP is a combination of three to four elements – higher
+INFY_Q1_July_22_232 | working days, the client contraction provision reversal benefits partially offset by discount.
+INFY_Q1_July_22_233 | So it is
+INFY_Q1_July_22_234 | not a direct linkage of discounts and client contractual provisions.
+INFY_Q1_July_22_235 | It is not to the same client.
+INFY_Q1_July_22_236 | These are generic discounts and these automatically keep on coming.
+INFY_Q1_July_22_237 | But, like I said discounts
+INFY_Q1_July_22_238 | have come down as we have started negotiating with our clients in terms of pricing but that is the
+INFY_Q1_July_22_239 | net impact of all these.
+INFY_Q1_July_22_240 | Surendra Goyal
+INFY_Q1_July_22_241 | Just another question on margin down 360 bps year-over-year, operating profit growth Y-o-Y is
+INFY_Q1_July_22_242 | worse in historical trends despite all the strong demand and growth we are talking about.
+INFY_Q1_July_22_243 | So if you
+INFY_Q1_July_22_244 | just think about this 360 basis point decline, how much of that is really investment which you think
+INFY_Q1_July_22_245 | can be recouped as we go forward from here?
+INFY_Q1_July_22_246 | Nilanjan Roy
+INFY_Q1_July_22_247 | When we were 360 bps down, we knew we were having some benefits in a way - our utilization
+INFY_Q1_July_22_248 | was very high it was 88%, we have never operated at that level before, the benefits of travel etc.
+INFY_Q1_July_22_249 | Now we are seeing more and more of that has been coming back.
+INFY_Q1_July_22_250 | So that is something which we
+INFY_Q1_July_22_251 | were well aware of in last year.
+INFY_Q1_July_22_252 | But as we see the demand volume ahead, I think we are very clear
+INFY_Q1_July_22_253 | that in terms of our ability to support this demand first we have to hire, we have to pay
+INFY_Q1_July_22_254 | competitively.
+INFY_Q1_July_22_255 | So we actually did two wage hikes in calendar year 2021 and now this year we have
+INFY_Q1_July_22_256 | already rolled out in April.
+INFY_Q1_July_22_257 | So within one and a half year we have done three substantial CRs and
+INFY_Q1_July_22_258 | actually in September last year also we did a skill based increase.
+INFY_Q1_July_22_259 | So we have been continuously
+INFY_Q1_July_22_260 | investing behind that and we know that to capitalize this demand we have to pay for premium
+INFY_Q1_July_22_261 | skills.
+INFY_Q1_July_22_262 | We have to go behind the volume.
+INFY_Q1_July_22_263 | Comparing subcontractor costs - perhaps from an
+INFY_Q1_July_22_264 | industry leading 6.5% position we are closer to 11% now, but again these are something we know
+INFY_Q1_July_22_265 | over a period of time we have a lot of optimization levers.
+INFY_Q1_July_22_266 | We do not want to leave a five-year
+INFY_Q1_July_22_267 | demand on the table because of short-term cost pressures and these we can optimize over this
+INFY_Q1_July_22_268 | year and over the future as well.
+INFY_Q1_July_22_269 | So in that sense we are quite confident and that is why we have
+INFY_Q1_July_22_270 | talked about 21% to 23% range and we will be at the bottom end of the range.
+INFY_Q1_July_22_271 | Of course if we are
+INFY_Q1_July_22_272 | 20% today, we will see that improvement as the year progresses.
+INFY_Q1_July_22_273 | Surendra Goyal
+INFY_Q1_July_22_274 | Sure thanks for that I will get back in the queue.
+INFY_Q1_July_22_275 | Moderator
+INFY_Q1_July_22_276 | ahead.
+INFY_Q1_July_22_277 | Moshe Katri
+INFY_Q1_July_22_278 | Thanks.
+INFY_Q1_July_22_279 | Spectacular numbers especially on revenues side of the business.
+INFY_Q1_July_22_280 | Just a follow-up to the
+INFY_Q1_July_22_281 | last topic or question about margins.
+INFY_Q1_July_22_282 | We are getting a lot of pushbacks on that.
+INFY_Q1_July_22_283 | From your
+INFY_Q1_July_22_284 | perspective looking at the levers that you highlighted, what do you think is the biggest potential
+INFY_Q1_July_22_285 | lever here for you to be able to catch up to the margin range that you mentioned and then I have a
+INFY_Q1_July_22_286 | follow-up after that.
+INFY_Q1_July_22_287 | Nilanjan Roy
+INFY_Q1_July_22_288 | Firstly if you see, how our margin profile, has changed, so one, of course has been this utilization
+INFY_Q1_July_22_289 | and in fact, 21,000+ net adds during the quarter which is well above our volumes and that is to
+INFY_Q1_July_22_290 | create the buffer.
+INFY_Q1_July_22_291 | So when we put in freshers, we train them and then over a period of time, we are
+INFY_Q1_July_22_292 | able to put them into production.
+INFY_Q1_July_22_293 | So you cannot just have higher freshers and expect them to start
+INFY_Q1_July_22_294 | contributing from day 1.
+INFY_Q1_July_22_295 | We are very vigilant about that.
+INFY_Q1_July_22_296 | They go through mandatory training in
+INFY_Q1_July_22_297 | Myosre, and then we put them into projects.
+INFY_Q1_July_22_298 | So that is one big part of where we think we can start
+INFY_Q1_July_22_299 | improving.
+INFY_Q1_July_22_300 | As the hiring catches up automatically, you will see the stabilization of subcon costs,
+INFY_Q1_July_22_301 | which as percentage of revenue, you are seeing this increase every quarter.
+INFY_Q1_July_22_302 | While we have seen it
+INFY_Q1_July_22_303 | flattening out and over the future, as we got our recruitments done and we are able to hire fresher,
+INFY_Q1_July_22_304 | we should see benefits coming out of that.
+INFY_Q1_July_22_305 | Pyramid benefits will continue to happen for us.
+INFY_Q1_July_22_306 | While we are seeing some adverse impact from
+INFY_Q1_July_22_307 | the onsite movement, this is largely as travel overseas starts, but we think this is more of a
+INFY_Q1_July_22_308 | aberration in terms of uptick, because the inherent story of taking cost out and having a more
+INFY_Q1_July_22_309 | offshore mix in the entire cost optimization will come into benefits especially in this environment
+INFY_Q1_July_22_310 | where cost take out is becoming a big theme across our clients.
+INFY_Q1_July_22_311 | So, we know we can have
+INFY_Q1_July_22_312 | multiple areas.
+INFY_Q1_July_22_313 | Pricing is another thing, which we have been talking about.
+INFY_Q1_July_22_314 | We have seen less impact of
+INFY_Q1_July_22_315 | discounts, etc., we are going back to clients in terms of COLA adjustments at the time of renewals.
+INFY_Q1_July_22_316 | Now these are much more longer-term impact decisions, but I think at least the conversations
+INFY_Q1_July_22_317 | have started in right direction across all the segments and you can hear similar commentary
+INFY_Q1_July_22_318 | across.
+INFY_Q1_July_22_319 | So I think these are the areas we continue to focus on and are something we have done
+INFY_Q1_July_22_320 | over the years.
+INFY_Q1_July_22_321 | We continue to be very forceful in terms of our cost efficiency exercises.
+INFY_Q1_July_22_322 | Moshe Katri
+INFY_Q1_July_22_323 | Just as a follow-up, just remind us what is the sensitivity for margins versus utilization rates i.e.,
+INFY_Q1_July_22_324 | 100 basis points expansion in utilization rates what does it mean to margins in terms of sensitivity?
+INFY_Q1_July_22_325 | Thank you.
+INFY_Q1_July_22_326 | Nilanjan Roy
+INFY_Q1_July_22_327 | Yes, so I think it depends on by which levels we see utilization.
+INFY_Q1_July_22_328 | So, it is quite complicated if you
+INFY_Q1_July_22_329 | have a different utilization in onsite, different in offshore and then the impact of the freshers in the
+INFY_Q1_July_22_330 | pyramid in that utilization.
+INFY_Q1_July_22_331 | So, it is a bit complicated how the mix changes.
+INFY_Q1_July_22_332 | I just cannot give you off
+INFY_Q1_July_22_333 | the cuff number of what 1% will lead to, but to give you the impact in this quarter, 40 basis points
+INFY_Q1_July_22_334 | because of utilization on margins.
+INFY_Q1_July_22_335 | Moshe Katri
+INFY_Q1_July_22_336 | All right thanks for the color.
+INFY_Q1_July_22_337 | Moderator
+INFY_Q1_July_22_338 | ahead.
+INFY_Q1_July_22_339 | Kumar Rakesh
+INFY_Q1_July_22_340 | Good morning.
+INFY_Q1_July_22_341 | Thank you for taking my question.
+INFY_Q1_July_22_342 | My first question was continuation on the margin
+INFY_Q1_July_22_343 | side.
+INFY_Q1_July_22_344 | At the end of the fourth quarter, and not just Infosys but across the industry what the
+INFY_Q1_July_22_345 | management commentary had indicated compared to that the margin performance appears to be
+INFY_Q1_July_22_346 | a sharper decline.
+INFY_Q1_July_22_347 | Now Salil what do you think could be the reason behind that?
+INFY_Q1_July_22_348 | Is it driven by
+INFY_Q1_July_22_349 | higher than expected demand and higher use of subcontracting than what you are planning early
+INFY_Q1_July_22_350 | or is it more supply side driven that the fresher was higher than what we had planned for through
+INFY_Q1_July_22_351 | the quarter?
+INFY_Q1_July_22_352 | Nilanjan Roy
+INFY_Q1_July_22_353 | Are you talking about us in particular about the industry?
+INFY_Q1_July_22_354 | Kumar Rakesh
+INFY_Q1_July_22_355 | Anything whatever you could give us color on because the trend has been very similar to yourself.
+INFY_Q1_July_22_356 | Nilanjan Roy
+INFY_Q1_July_22_357 | Yes, so we do not operate in a vacuum and this industry also does not operate in a vacuum.
+INFY_Q1_July_22_358 | The
+INFY_Q1_July_22_359 | attrition trends are pretty much similar across industries but the good news, like you said is that
+INFY_Q1_July_22_360 | attrition is coming down.
+INFY_Q1_July_22_361 | Our quarter attrition figure is actually below our LTM figures and as Salil
+INFY_Q1_July_22_362 | said we are 1% down on a sequential basis, we were 5% down in the previous quarter and we
+INFY_Q1_July_22_363 | were flat the earlier quarter.
+INFY_Q1_July_22_364 | The reported LTM is more of a catch-up effect and in that sense you
+INFY_Q1_July_22_365 | will see stabilization.
+INFY_Q1_July_22_366 | The freshers will start coming in and getting permeated.
+INFY_Q1_July_22_367 | So that benefit in a
+INFY_Q1_July_22_368 | way should start creeping into the cost structure because at the end of the day if you are putting
+INFY_Q1_July_22_369 | freshers we have less attrition, the fresh hikes which you have to give for lateral hirers should
+INFY_Q1_July_22_370 | come down, joining bonuses impact should come down.
+INFY_Q1_July_22_371 | So these are the things which can play in
+INFY_Q1_July_22_372 | our favour.
+INFY_Q1_July_22_373 | You have seen these numbers of decline pretty much across industries.
+INFY_Q1_July_22_374 | I think we
+INFY_Q1_July_22_375 | have a very, very sharp cost optimization program in a way which will go and offset these
+INFY_Q1_July_22_376 | headwinds.
+INFY_Q1_July_22_377 | Kumar Rakesh
+INFY_Q1_July_22_378 | Got it.
+INFY_Q1_July_22_379 | So it appears the supply side pressure was higher than what we were earlier expecting.
+INFY_Q1_July_22_380 | My
+INFY_Q1_July_22_381 | second question was on the acquisition.
+INFY_Q1_July_22_382 | Nilanjan Roy
+INFY_Q1_July_22_383 | I think there is no question about that.
+INFY_Q1_July_22_384 | You see our attrition and the net adds, the gross hiring has
+INFY_Q1_July_22_385 | been very well and of course in that sense in terms of our stretches and all we have to offer.
+INFY_Q1_July_22_386 | So it
+INFY_Q1_July_22_387 | is an overall industry issues led from the demand side.
+INFY_Q1_July_22_388 | Kumar Rakesh
+INFY_Q1_July_22_389 | Thanks.
+INFY_Q1_July_22_390 | My second question was on BASE acquisition.
+INFY_Q1_July_22_391 | So we already have a pretty strong life
+INFY_Q1_July_22_392 | sciences practice with more than $1 bn scale, so what exactly we are looking and targeting to get
+INFY_Q1_July_22_393 | help from this acquisition?
+INFY_Q1_July_22_394 | Salil Parekh
+INFY_Q1_July_22_395 | On BASE there are multiple things.
+INFY_Q1_July_22_396 | This is a business which is very high end in the life sciences
+INFY_Q1_July_22_397 | area.
+INFY_Q1_July_22_398 | When we launched our strategy a few weeks ago just at the start of the quarter we had
+INFY_Q1_July_22_399 | shared also a new focus or an expanded focus on Europe.
+INFY_Q1_July_22_400 | Denmark for us is a very strategic
+INFY_Q1_July_22_401 | market, the whole Scandinavian market is a very strategic market for us.
+INFY_Q1_July_22_402 | So that is the second
+INFY_Q1_July_22_403 | area that it benefits us.
+INFY_Q1_July_22_404 | We also see clients are using the capabilities of BASE as a starting point
+INFY_Q1_July_22_405 | and then that leads to large technology transformation, digital transformation and that helps us
+INFY_Q1_July_22_406 | overall in terms of scaling up that segment.
+INFY_Q1_July_22_407 | That is a segment which we feel is a strong segment
+INFY_Q1_July_22_408 | for the future and where in our view underweight in percentage terms.
+INFY_Q1_July_22_409 | So we want to enhance that
+INFY_Q1_July_22_410 | with these existing capabilities.
+INFY_Q1_July_22_411 | Kumar Rakesh
+INFY_Q1_July_22_412 | Got it thanks a lot for that Salil.
+INFY_Q1_July_22_413 | Moderator
+INFY_Q1_July_22_414 | Keith Bachman
+INFY_Q1_July_22_415 | Thank you very much.
+INFY_Q1_July_22_416 | My first question is I wanted to get your views on how you think wage
+INFY_Q1_July_22_417 | inflation will impact the balance of the year.
+INFY_Q1_July_22_418 | And what are the tensions on that to your margin
+INFY_Q1_July_22_419 | model?
+INFY_Q1_July_22_420 | So you mentioned that attrition has in fact moved lower, do you think attrition continues to
+INFY_Q1_July_22_421 | move lower and how do you think wage inflation will unfold over the next about three, four quarters
+INFY_Q1_July_22_422 | and be a force in the gross margin equation and then will follow up?
+INFY_Q1_July_22_423 | Nilanjan Roy
+INFY_Q1_July_22_424 | I think like we started last year we were very clear that we have to be competitive in the market.
+INFY_Q1_July_22_425 | So, we did the first hike in January of 2021 then we did the next hike in July of 2021 then we did a
+INFY_Q1_July_22_426 | follow-up on our talent in September of 2021.
+INFY_Q1_July_22_427 | In a way, we have not waited one year we have
+INFY_Q1_July_22_428 | actually gone ahead and done our majority of our wage hike from 1st of April this year.
+INFY_Q1_July_22_429 | Increase
+INFY_Q1_July_22_430 | for middle to higher level to senior force will happen in July but not the same margin impact of
+INFY_Q1_July_22_431 | quarter one which was very broad based.
+INFY_Q1_July_22_432 | Other than that, I think these are quite competitive and of course if you see in the mix, we also get
+INFY_Q1_July_22_433 | a lot of laterals where there is a hidden cost of hiring because they come at stretches.
+INFY_Q1_July_22_434 | So in a way,
+INFY_Q1_July_22_435 | your overall weighted average compensation in any case is going up across.
+INFY_Q1_July_22_436 | I think overall this is a
+INFY_Q1_July_22_437 | very competitive hike.
+INFY_Q1_July_22_438 | In India it is more like high single digits and in overseas geos because of
+INFY_Q1_July_22_439 | high wage inflation across we have given very competitive hikes.
+INFY_Q1_July_22_440 | This is something which we have
+INFY_Q1_July_22_441 | not done before.
+INFY_Q1_July_22_442 | So these are very much higher than what we did in the past.
+INFY_Q1_July_22_443 | But we think this is
+INFY_Q1_July_22_444 | something which is going to stand up in good stead in terms of attrition and we have seen three
+INFY_Q1_July_22_445 | quarters of the attrition benefits and expect it to continue.
+INFY_Q1_July_22_446 | Keith Bachman
+INFY_Q1_July_22_447 | We cover a number of software companies and software companies have started to say they are
+INFY_Q1_July_22_448 | seeing pockets of weakness with demand elongation on sales cycles.
+INFY_Q1_July_22_449 | It does not sound like we
+INFY_Q1_July_22_450 | made one very specific industry comment but it does not sound like you are seeing the same any
+INFY_Q1_July_22_451 | kind of iteration on the demand side particularly on the negative side, but if you could just clarify,
+INFY_Q1_July_22_452 | are you seeing any elongation on the new business front, yes or no, and if the macro does weaken
+INFY_Q1_July_22_453 | will that in fact help your wage situation and that is it from me.
+INFY_Q1_July_22_454 | Thank you.
+INFY_Q1_July_22_455 | Salil Parekh
+INFY_Q1_July_22_456 | Thanks for that.
+INFY_Q1_July_22_457 | A couple of points that you raised, I think what we see on the demand, the
+INFY_Q1_July_22_458 | pipeline that we have today for our large deals is larger than what we had three or six months ago.
+INFY_Q1_July_22_459 | Having said that, we of course recognize what is going on in the global environment and we
+INFY_Q1_July_22_460 | mentioned a couple of areas.
+INFY_Q1_July_22_461 | Nilanjan talked within retail, he also mentioned within Financial
+INFY_Q1_July_22_462 | Services - mortgages.
+INFY_Q1_July_22_463 | So we see pockets where we see some impact.
+INFY_Q1_July_22_464 | On the overall deal discussions we see a little bit where it is slowing in the decision making;
+INFY_Q1_July_22_465 | however, the pipeline remains strong for us today.
+INFY_Q1_July_22_466 | We have also get two types of deals, one is
+INFY_Q1_July_22_467 | deals which are on digital transformation or cloud which are growth orientated for clients driving to
+INFY_Q1_July_22_468 | what they want to do with their customers in their supply chain, how they want to make an impact.
+INFY_Q1_July_22_469 | The second is on cost, we have a very strong play on cost and efficiency through our automation
+INFY_Q1_July_22_470 | work, through our artificial intelligence work where we can really impact the cost base in the tech
+INFY_Q1_July_22_471 | landscape of our clients.
+INFY_Q1_July_22_472 | So those are areas which we are already very active within this
+INFY_Q1_July_22_473 | environment and given our positioning we feel good that those will start to come into play as and
+INFY_Q1_July_22_474 | when the environment changes.
+INFY_Q1_July_22_475 | But today this is how we are seeing the demand situation.
+INFY_Q1_July_22_476 | Now your other question was will that have a change on the wage if the macro evolving.
+INFY_Q1_July_22_477 | We do not
+INFY_Q1_July_22_478 | have a clear view on where that will go because it is a function of how the macro evolves and what
+INFY_Q1_July_22_479 | happens.
+INFY_Q1_July_22_480 | Of course, we are seeing attrition starting to come off a little bit and that will clearly have
+INFY_Q1_July_22_481 | a positive impact for us with respect to compensation.
+INFY_Q1_July_22_482 | So the timeline is not clear, it depends on
+INFY_Q1_July_22_483 | how the macro evolves.
+INFY_Q1_July_22_484 | Keith Bachman
+INFY_Q1_July_22_485 | Okay great many thanks.
+INFY_Q1_July_22_486 | Moderator
+INFY_Q1_July_22_487 | ahead.
+INFY_Q1_July_22_488 | Nitin Padmanabhan
+INFY_Q1_July_22_489 | Good morning.
+INFY_Q1_July_22_490 | Thanks for the opportunity.
+INFY_Q1_July_22_491 | I had two questions.
+INFY_Q1_July_22_492 | One, is from a margin perspective,
+INFY_Q1_July_22_493 | whatever we saw as one offs in the previous quarter which included visa and these contract
+INFY_Q1_July_22_494 | provisions - both of them have been sort of offset in this quarter is that a fair understanding?
+INFY_Q1_July_22_495 | The
+INFY_Q1_July_22_496 | second is in terms of salary increases is it only for the associate level this quarter and if so then
+INFY_Q1_July_22_497 | the question is that we have 145,000 associates JL3 and below and 130,000 people in the mid
+INFY_Q1_July_22_498 | level and general understanding is mid level obviously as a percentage of the employee cost it
+INFY_Q1_July_22_499 | should be higher so the thought process was about should not your margin impact be even higher
+INFY_Q1_July_22_500 | next quarter - if you could just help with that thought process that will be very helpful?
+INFY_Q1_July_22_501 | Those are
+INFY_Q1_July_22_502 | two questions.
+INFY_Q1_July_22_503 | Thank you.
+INFY_Q1_July_22_504 | Nilanjan Roy
+INFY_Q1_July_22_505 | As I said in the margin walk, we had a benefit of 50 bps in RPP which is a combination of clients
+INFY_Q1_July_22_506 | contractual provisions reversals partially offset by the discounts.
+INFY_Q1_July_22_507 | So we have seen a benefit there.
+INFY_Q1_July_22_508 | There is no way we said that has it been eroded, we have caught the benefit of client contractual
+INFY_Q1_July_22_509 | provisions clearly.
+INFY_Q1_July_22_510 | The other one on visa, travel - I think they largely offset each other.
+INFY_Q1_July_22_511 | On the outlook on wages, we
+INFY_Q1_July_22_512 | have done it for most of our employees, it is up to mid level.
+INFY_Q1_July_22_513 | For more of the senior levels is what
+INFY_Q1_July_22_514 | we are going to roll out in July and that impact would be far less than 1.6% which we have done
+INFY_Q1_July_22_515 | which is a much more broad based for us.
+INFY_Q1_July_22_516 | Nitin Padmanabhan
+INFY_Q1_July_22_517 | Both associates and mid level happen this quarter itself.
+INFY_Q1_July_22_518 | It is not only associate.
+INFY_Q1_July_22_519 | Nilanjan Roy
+INFY_Q1_July_22_520 | Yes, associates and mid level, correct.
+INFY_Q1_July_22_521 | Nitin Padmanabhan
+INFY_Q1_July_22_522 | Correct that is very helpful.
+INFY_Q1_July_22_523 | Thank you so much.
+INFY_Q1_July_22_524 | Moderator
+INFY_Q1_July_22_525 | go ahead.
+INFY_Q1_July_22_526 | Bryan Bergin
+INFY_Q1_July_22_527 | Thanks for taking the question.
+INFY_Q1_July_22_528 | I wanted to just dig on the commentary around pockets of
+INFY_Q1_July_22_529 | weakness.
+INFY_Q1_July_22_530 | So I heard you mentioned mortgages, mentioned subcomponent of retail.
+INFY_Q1_July_22_531 | Can you just
+INFY_Q1_July_22_532 | give us a sense and quantify what mix of your business is actually seeing some slowing decision
+INFY_Q1_July_22_533 | making is it 5%, is it 10%, is it less and even does this help frame or quantify areas that are seeing
+INFY_Q1_July_22_534 | pockets of weakness?
+INFY_Q1_July_22_535 | Salil Parekh
+INFY_Q1_July_22_536 | Thanks for your question.
+INFY_Q1_July_22_537 | This is Salil.
+INFY_Q1_July_22_538 | We do not quantify typically what part of Financial Services
+INFY_Q1_July_22_539 | is mortgages or the other areas which are impacted.
+INFY_Q1_July_22_540 | We are now seeing pockets, this is not across
+INFY_Q1_July_22_541 | our whole business.
+INFY_Q1_July_22_542 | And the way I would look at it is with all of that given our pipeline we have
+INFY_Q1_July_22_543 | increased our revenue guidance.
+INFY_Q1_July_22_544 | So the majority of our business is still seeing good demand.
+INFY_Q1_July_22_545 | It is
+INFY_Q1_July_22_546 | really pockets without quantifying, that is how I would give a context to it.
+INFY_Q1_July_22_547 | Bryan Bergin
+INFY_Q1_July_22_548 | Okay and then just a follow-up on margin.
+INFY_Q1_July_22_549 | You gave sequential changes can you give us what the
+INFY_Q1_July_22_550 | year-on-year changes in operating margin with the different categories?
+INFY_Q1_July_22_551 | Nilanjan Roy
+INFY_Q1_July_22_552 | So largely we know it was the comp related hike that is near only about 370 basis points that was
+INFY_Q1_July_22_553 | the biggest one and there were some rupee benefits offset by both cross currency as well and
+INFY_Q1_July_22_554 | then we got some benefits of cost optimization, we got some hits on lower utilization.
+INFY_Q1_July_22_555 | So these are
+INFY_Q1_July_22_556 | the broad things but the biggest one was the comp which was about 370 basis points.
+INFY_Q1_July_22_557 | Bryan Bergin
+INFY_Q1_July_22_558 | Alright thank you.
+INFY_Q1_July_22_559 | Moderator
+INFY_Q1_July_22_560 | Management.
+INFY_Q1_July_22_561 | Please go ahead.
+INFY_Q1_July_22_562 | Sudheer Guntupalli
+INFY_Q1_July_22_563 | Good morning gentlemen.
+INFY_Q1_July_22_564 | Thanks for giving me this opportunity.
+INFY_Q1_July_22_565 | I have just one question on
+INFY_Q1_July_22_566 | margins.
+INFY_Q1_July_22_567 | Ideally the strong growth at the headline level should have translated into some operating
+INFY_Q1_July_22_568 | leverage, but that does not seem to be happening and Nilanjan we seem to be of the view, we will
+INFY_Q1_July_22_569 | chase growth for now and focus on margin optimization at a later date.
+INFY_Q1_July_22_570 | What is the risk to that
+INFY_Q1_July_22_571 | hypothesis because this growth margin paradox seem to be a mere reflection of what is happening
+INFY_Q1_July_22_572 | in U.S. and U.K. now a very tight job market, very high nominal growth, but very little benefit
+INFY_Q1_July_22_573 | trickling down to the bottomline level.
+INFY_Q1_July_22_574 | So sooner or later this nominal growth rates may cool off and
+INFY_Q1_July_22_575 | onsite job markets and some supply costs may auto recalibrate.
+INFY_Q1_July_22_576 | But back in India job market may
+INFY_Q1_July_22_577 | not be as much of a free market as it is in U.K. and U.S. there may be some sticky elements both
+INFY_Q1_July_22_578 | at headcount and wage level translating into negative operating leverage as demand moderates.
+INFY_Q1_July_22_579 | So what is the risk that margins will remain structurally lower than even the pre-COVID levels
+INFY_Q1_July_22_580 | going ahead because demand tends to be more cyclical while some of these supply costs tend to
+INFY_Q1_July_22_581 | be more sticky?
+INFY_Q1_July_22_582 | Nilanjan Roy
+INFY_Q1_July_22_583 | There are a couple of things.
+INFY_Q1_July_22_584 | See one is that many of these cost increases cannot be passed on
+INFY_Q1_July_22_585 | the client on day one.
+INFY_Q1_July_22_586 | If I have to give a wage hike on all my existing base they will come up for
+INFY_Q1_July_22_587 | renewals that is the time when you have a wage discussion.
+INFY_Q1_July_22_588 | When you are doing new deal,
+INFY_Q1_July_22_589 | automatically we will build it and the industry in a way will build it into their wage profile.
+INFY_Q1_July_22_590 | So these
+INFY_Q1_July_22_591 | things will automatically flow back, there is no free lunch for anybody.
+INFY_Q1_July_22_592 | So that is one thing which
+INFY_Q1_July_22_593 | will happen over a period of time, but that is more of a generic point I am making.
+INFY_Q1_July_22_594 | But in terms of
+INFY_Q1_July_22_595 | subcons, we have operated at 6%-6.5% of subcon; today we are sitting at 11.3%, there is no
+INFY_Q1_July_22_596 | reason for us to be at these levels unless we know what the job market is.
+INFY_Q1_July_22_597 | In the overall demand
+INFY_Q1_July_22_598 | environment, when our recruiting picks up we can replace these subcons with our own headcount,
+INFY_Q1_July_22_599 | put more freshers into projects and this is something we have been doing very well in the past as
+INFY_Q1_July_22_600 | well.
+INFY_Q1_July_22_601 | So I think these levers are well known for us, we know how utilization works, our pyramid
+INFY_Q1_July_22_602 | works, so we are quite confident in the forward model of taking out cost from our overall structure.
+INFY_Q1_July_22_603 | Sudheer Guntupalli
+INFY_Q1_July_22_604 | Just one more question if I may.
+INFY_Q1_July_22_605 | So when we say the pipeline is larger now, just curious if the
+INFY_Q1_July_22_606 | pipeline is getting bigger and bigger because some of the decision making is getting slower, is
+INFY_Q1_July_22_607 | there any correlation you read in between the two?
+INFY_Q1_July_22_608 | Salil Parekh
+INFY_Q1_July_22_609 | The pipeline what we are seeing is there is appetite and you go by different industry for Digital
+INFY_Q1_July_22_610 | transformation programs, for large cloud programs, for programs which start to relate to cost and
+INFY_Q1_July_22_611 | efficiency, that is what is in the pipeline.
+INFY_Q1_July_22_612 | It is not a function of the timeline which the delay that you
+INFY_Q1_July_22_613 | referenced which is causing an increase, it is where we see traction with more and more client
+INFY_Q1_July_22_614 | discussions as of today that we see.
+INFY_Q1_July_22_615 | Now we will see how that evolves, that is the outlook we have
+INFY_Q1_July_22_616 | today.
+INFY_Q1_July_22_617 | Sudheer Guntupalli
+INFY_Q1_July_22_618 | Thanks Salil.
+INFY_Q1_July_22_619 | Thanks Nilanjan.
+INFY_Q1_July_22_620 | That is it from my side.
+INFY_Q1_July_22_621 | All the very best.
+INFY_Q1_July_22_622 | Moderator
+INFY_Q1_July_22_623 | Ankur Rudra
+INFY_Q1_July_22_624 | Thank you for taking my question.
+INFY_Q1_July_22_625 | First question is what is the level of conservatism or realism
+INFY_Q1_July_22_626 | infused into both the revenue and the margin guide this time, part of that is on the revenue guide
+INFY_Q1_July_22_627 | we have given the potential macro headwinds ahead of us and the ask rate from the second half of
+INFY_Q1_July_22_628 | this year.
+INFY_Q1_July_22_629 | Similarly, on margins we still have another round of wage hikes which can impact
+INFY_Q1_July_22_630 | margins by maybe as much as 100 basis points if I look at the wage hike impact so far and a
+INFY_Q1_July_22_631 | similar ratio between the first and the second rounds in the previous years and also keeping up
+INFY_Q1_July_22_632 | travel and facility costs?
+INFY_Q1_July_22_633 | Thank you.
+INFY_Q1_July_22_634 | Salil Parekh
+INFY_Q1_July_22_635 | Thanks for the question.
+INFY_Q1_July_22_636 | This is Salil.
+INFY_Q1_July_22_637 | Let me start off and then Nilanjan may have a few points to
+INFY_Q1_July_22_638 | add.
+INFY_Q1_July_22_639 | On the guidance for growth, as we have shared in the past, the approach we take is we see
+INFY_Q1_July_22_640 | how things are as we look at the financial year today.
+INFY_Q1_July_22_641 | What we saw is in Q1 we had extremely
+INFY_Q1_July_22_642 | strong revenue growth - 5.5% and we also had underlying volume growth which was very strong.
+INFY_Q1_July_22_643 | When we see the outlook, where we have clarity looking ahead for some period of time and then a
+INFY_Q1_July_22_644 | set of estimates that we have for the rest of the financial year and also looking at how typically H2
+INFY_Q1_July_22_645 | works versus H1 and then putting in some views on where the end of the year could be.
+INFY_Q1_July_22_646 | Based on
+INFY_Q1_July_22_647 | that, we felt comfortable to increase the revenue growth guidance, whether it is conservative or
+INFY_Q1_July_22_648 | realistic that is the approach we take to make sure that we then share what we think the revenue is
+INFY_Q1_July_22_649 | going to look like from here.
+INFY_Q1_July_22_650 | On the margin I will start off and then Nilanjan will talk a little bit about the wage component and
+INFY_Q1_July_22_651 | what we have done.
+INFY_Q1_July_22_652 | Overall on the margin, we have made sure that we work to get all of the
+INFY_Q1_July_22_653 | levers in place.
+INFY_Q1_July_22_654 | So the approach to driving cost efficiency is in place, several levers that Nilanjan
+INFY_Q1_July_22_655 | mentioned, one of the bigger ones we got the bulk impact, the vast majority of our compensation
+INFY_Q1_July_22_656 | increase already done in Q1.
+INFY_Q1_July_22_657 | So yes there is a small component but it is not really a huge
+INFY_Q1_July_22_658 | component that will come up and then we see steadily other areas which will help us.
+INFY_Q1_July_22_659 | There are
+INFY_Q1_July_22_660 | areas where we can focus on how the subcontracting works, there are areas where we can focus
+INFY_Q1_July_22_661 | on discussions with clients vis-à-vis wage increases and COLA, areas where we are doing work
+INFY_Q1_July_22_662 | which is having significant impact for clients.
+INFY_Q1_July_22_663 | So we think there are a set of those levers that can help us through the margin discussion that will
+INFY_Q1_July_22_664 | be focused on in this financial year.
+INFY_Q1_July_22_665 | Our approach is to make sure that we remain a high margin
+INFY_Q1_July_22_666 | business and that is the underlying thing that we are working with.
+INFY_Q1_July_22_667 | Given where we are, given the
+INFY_Q1_July_22_668 | inflation around the world, we thought it was clear to make sure that we communicated that in the
+INFY_Q1_July_22_669 | way we see the markets.
+INFY_Q1_July_22_670 | Nilanjan, anything else, if you want to add?
+INFY_Q1_July_22_671 | Nilanjan Roy
+INFY_Q1_July_22_672 | No.
+INFY_Q1_July_22_673 | That is good.
+INFY_Q1_July_22_674 | Ankur Rudra
+INFY_Q1_July_22_675 | Just a quick follow-up if I may on margins.
+INFY_Q1_July_22_676 | Nilanjan are there any one-offs in the margin this time,
+INFY_Q1_July_22_677 | asking another way what would be the pro-forma margins, if the provision reversal was not to
+INFY_Q1_July_22_678 | happen and related to that can you say that 20% in Q1 should be the bottom of margins going
+INFY_Q1_July_22_679 | forward so that we can get back to 21% for the year realistically?
+INFY_Q1_July_22_680 | Nilanjan Roy
+INFY_Q1_July_22_681 | Yes, so I think we have mentioned the margin walk at the beginning of the call.
+INFY_Q1_July_22_682 | So if we are at
+INFY_Q1_July_22_683 | 20% and we are guiding at the bottom end of 21%, so mathematics indicates that we have to
+INFY_Q1_July_22_684 | improve going forward.
+INFY_Q1_July_22_685 | So absolutely, from 20% we will have to see the improvement quarter-on-
+INFY_Q1_July_22_686 | quarter.
+INFY_Q1_July_22_687 | Ankur Rudra
+INFY_Q1_July_22_688 | Thank you and best of luck.
+INFY_Q1_July_22_689 | Moderator
+INFY_Q1_July_22_690 | Ravi Menon
+INFY_Q1_July_22_691 | Congrats on good set of numbers.
+INFY_Q1_July_22_692 | Just wanted your thoughts on how broad based in North
+INFY_Q1_July_22_693 | America you will see such problems to sustain for a long time until you call out some headwinds in
+INFY_Q1_July_22_694 | BFSI, even that still have quite a bit of revenue.
+INFY_Q1_July_22_695 | If you could give some color about how sustained
+INFY_Q1_July_22_696 | the demand environment is there.
+INFY_Q1_July_22_697 | And secondly on the pyramids, we have already seen a large
+INFY_Q1_July_22_698 | intake of freshers last year so had hoped that some of that would have come into production and
+INFY_Q1_July_22_699 | helped us offset the margin headwinds through this quarter but looks like given the utilization, as
+INFY_Q1_July_22_700 | well it does not look like much of that has happened.
+INFY_Q1_July_22_701 | So, if you could give some color on that?
+INFY_Q1_July_22_702 | Salil Parekh
+INFY_Q1_July_22_703 | This is Salil.
+INFY_Q1_July_22_704 | I did not catch the first part of the question.
+INFY_Q1_July_22_705 | I think it was about demand but maybe
+INFY_Q1_July_22_706 | you can just say the first question?
+INFY_Q1_July_22_707 | Ravi Menon
+INFY_Q1_July_22_708 | It was around the demand.
+INFY_Q1_July_22_709 | We have seen broad-based revenue addition across verticals in North
+INFY_Q1_July_22_710 | America and if you are seeing the pipeline also along similar lines.
+INFY_Q1_July_22_711 | So are there any specific
+INFY_Q1_July_22_712 | verticals where you see some softness starting to come in?
+INFY_Q1_July_22_713 | Salil Parekh
+INFY_Q1_July_22_714 | As we referenced, we see some pockets of softness within our overall business.
+INFY_Q1_July_22_715 | That is why we
+INFY_Q1_July_22_716 | wanted to be very clear that that is something that is visible.
+INFY_Q1_July_22_717 | Couple of examples we have shared
+INFY_Q1_July_22_718 | on Financial Services and Retail, there are areas where we see that weakness; however, once we
+INFY_Q1_July_22_719 | say that we also have a view and we see it in our pipeline the overall pipeline is stronger.
+INFY_Q1_July_22_720 | So there
+INFY_Q1_July_22_721 | are areas where we see some good traction as well and it is a mix of the growth and the cost
+INFY_Q1_July_22_722 | opportunities within our pipeline.
+INFY_Q1_July_22_723 | I think the second one was about the pyramid?
+INFY_Q1_July_22_724 | Nilanjan Roy
+INFY_Q1_July_22_725 | Yes we have hired a lot of freshers last year and many of them also have gone into training
+INFY_Q1_July_22_726 | pipeline because as we had the previous year there was nothing really in the pipeline in terms of
+INFY_Q1_July_22_727 | hiring.
+INFY_Q1_July_22_728 | So in fact if you see our utilization there is a 2% gap between the excluding trainees and
+INFY_Q1_July_22_729 | including trainee numbers on a year-on-year basis as well.
+INFY_Q1_July_22_730 | We continue to deploy them into
+INFY_Q1_July_22_731 | projects.
+INFY_Q1_July_22_732 | Like I said, you cannot overnight stuff projects with freshers and that is why it is important
+INFY_Q1_July_22_733 | to build a pipeline in advance and make them go through the trainings and then put them into
+INFY_Q1_July_22_734 | production bench and then move them into projects as well.
+INFY_Q1_July_22_735 | So that benefit will come in and we
+INFY_Q1_July_22_736 | are seeing that slowly coming in, but it is important to invest ahead.
+INFY_Q1_July_22_737 | If you are planning just in time,
+INFY_Q1_July_22_738 | you will be probably sub optimizing in terms of how fast you can deploy.
+INFY_Q1_July_22_739 | So that is why we have
+INFY_Q1_July_22_740 | made these investments because we know it will take time for these freshers to be productive,
+INFY_Q1_July_22_741 | hence it is important to make that investment ahead.
+INFY_Q1_July_22_742 | Ravi Menon
+INFY_Q1_July_22_743 | Thanks gentlemen.
+INFY_Q1_July_22_744 | One follow-up of this last quarter's contractual revenue.
+INFY_Q1_July_22_745 | So did you recognize
+INFY_Q1_July_22_746 | all of them this quarter or is there still something pending?
+INFY_Q1_July_22_747 | Nilanjan Roy
+INFY_Q1_July_22_748 | Yes, it was all recognized this quarter.
+INFY_Q1_July_22_749 | Ravi Menon
+INFY_Q1_July_22_750 | Thank you.
+INFY_Q1_July_22_751 | Best of luck.
+INFY_Q1_July_22_752 | Moderator
+INFY_Q1_July_22_753 | Pankaj Kapoor
+INFY_Q1_July_22_754 | Thanks for the opportunity.
+INFY_Q1_July_22_755 | Salil can you give some color on the overall order book since the
+INFY_Q1_July_22_756 | reported TCV, what we give that covers only $50 mn plus deal and may not really be
+INFY_Q1_July_22_757 | representative.
+INFY_Q1_July_22_758 | So any quantitative or qualitative comment on the scale and how the overall order
+INFY_Q1_July_22_759 | book has grown, that will be helpful?
+INFY_Q1_July_22_760 | Salil Parekh
+INFY_Q1_July_22_761 | Thanks for the question.
+INFY_Q1_July_22_762 | As you know, we share the large deal win numbers.
+INFY_Q1_July_22_763 | We do not publish
+INFY_Q1_July_22_764 | the overall deal wins.
+INFY_Q1_July_22_765 | Having said that, the main context I would put is the increase in the growth
+INFY_Q1_July_22_766 | guidance that we have provided and that factors in all of the inputs that you may be looking for,
+INFY_Q1_July_22_767 | which essentially comes from a very strong Q1 execution - 5.5% QoQ, 21.4% YoY growth and
+INFY_Q1_July_22_768 | then a view that we have on what we see in the coming quarters and an overall view of H1, H2 in
+INFY_Q1_July_22_769 | our mix within the company - that is sort of broadly how we looked at it.
+INFY_Q1_July_22_770 | On the large deals, we
+INFY_Q1_July_22_771 | have shared this in the past.
+INFY_Q1_July_22_772 | Typically, this is a number which is a little bit more volatile because
+INFY_Q1_July_22_773 | we only report deals which are larger than $50 million in our large deals and so that is really the
+INFY_Q1_July_22_774 | way you can look at.
+INFY_Q1_July_22_775 | Pankaj Kapoor
+INFY_Q1_July_22_776 | My second question is on the profitability in the manufacturing vertical where the margins have
+INFY_Q1_July_22_777 | been coming down and in fact the last three quarters probably they have halved despite a very
+INFY_Q1_July_22_778 | strong revenue growth.
+INFY_Q1_July_22_779 | I understand this could be because of a very large deal which is still
+INFY_Q1_July_22_780 | ramping up there, can you give a sense of how the profitability curve in this vertical could shape
+INFY_Q1_July_22_781 | over the next two, three quarters.
+INFY_Q1_July_22_782 | What I am trying to understand is that has it bottomed out now or
+INFY_Q1_July_22_783 | you think that this could potentially go down further?
+INFY_Q1_July_22_784 | Thank you.
+INFY_Q1_July_22_785 | Nilanjan Roy
+INFY_Q1_July_22_786 | Firstly, you have seen the revenue growth which has been quite spectacular in this segment.
+INFY_Q1_July_22_787 | This
+INFY_Q1_July_22_788 | has been led by large deals.
+INFY_Q1_July_22_789 | As we talk about our approach, from day one a lot of clients would
+INFY_Q1_July_22_790 | like to see savings, but we are very clear that over a period of time we have a lot of cost
+INFY_Q1_July_22_791 | optimization levers.
+INFY_Q1_July_22_792 | On day one you cannot pivot the cost structure, whereas clients may ask for
+INFY_Q1_July_22_793 | the savings, but we know there are enough levers over time that we continue to deploy on all
+INFY_Q1_July_22_794 | these large deals.
+INFY_Q1_July_22_795 | And if I go back to the last three years, four years in fact when the large deal
+INFY_Q1_July_22_796 | strategy started, we have actually seen an increase in margins over that period.
+INFY_Q1_July_22_797 | So, there is no
+INFY_Q1_July_22_798 | historical correlation in saying whether the large deals are dilutive, because we continue working
+INFY_Q1_July_22_799 | on taking out costs from the system and that gets factored into our entire process.
+INFY_Q1_July_22_800 | We look at how
+INFY_Q1_July_22_801 | we are going to optimize onsite offshore, many of these projects require dramatic automation, we
+INFY_Q1_July_22_802 | can inject that through all our services which we are providing, we know how the pyramid works.
+INFY_Q1_July_22_803 | So these are the things which we know works over the lifetime of these large deals and that is
+INFY_Q1_July_22_804 | something we know we can deploy.
+INFY_Q1_July_22_805 | So that is something, without getting specifically into
+INFY_Q1_July_22_806 | manufacturing, what we do well.
+INFY_Q1_July_22_807 | Pankaj Kapoor
+INFY_Q1_July_22_808 | Got it.
+INFY_Q1_July_22_809 | Thank you and wish you all the best.
+INFY_Q1_July_22_810 | Moderator
+INFY_Q1_July_22_811 | ahead.
+INFY_Q1_July_22_812 | Gaurav Rateria
+INFY_Q1_July_22_813 | Good morning.
+INFY_Q1_July_22_814 | Thank you for taking my question.
+INFY_Q1_July_22_815 | So firstly is there any difference in the client
+INFY_Q1_July_22_816 | decision making behavior in U.S. versus European clients and the reason is that I am asking is
+INFY_Q1_July_22_817 | U.S. is seeing fair bit of broad-based growth across segments but when you look at Europe, there
+INFY_Q1_July_22_818 | is a weakness specifically in retail and communication vertical whereas the other two verticals,
+INFY_Q1_July_22_819 | energy, Hi-Tech has grown very, very well.
+INFY_Q1_July_22_820 | So just trying to understand are there any client
+INFY_Q1_July_22_821 | specific pockets especially in Europe where you kind of see decision making behavior has
+INFY_Q1_July_22_822 | changed compared to the U.S. market?
+INFY_Q1_July_22_823 | Salil Parekh
+INFY_Q1_July_22_824 | Thanks for that question.
+INFY_Q1_July_22_825 | Today we are not seeing something which is more geography based as
+INFY_Q1_July_22_826 | you are describing.
+INFY_Q1_July_22_827 | We see something which is more globally industry-based and client based, as
+INFY_Q1_July_22_828 | you know well is mainly U.S, Europe and Australia.
+INFY_Q1_July_22_829 | So not so much color on which is more
+INFY_Q1_July_22_830 | geography related.
+INFY_Q1_July_22_831 | Gaurav Rateria
+INFY_Q1_July_22_832 | Second question on margins, your margin outlook at the lower end - you explained very well the
+INFY_Q1_July_22_833 | supply side and cost related factors which has led to this, but is there also an element of
+INFY_Q1_July_22_834 | expectation of pricing increase that has been tapered down, which has led to you to now take the
+INFY_Q1_July_22_835 | margin outlook to the lower end and is it fair to say that with all the cost levers that you have in
+INFY_Q1_July_22_836 | place the exit margin should be better than the lower end of the guidance?
+INFY_Q1_July_22_837 | Thank you.
+INFY_Q1_July_22_838 | Nilanjan Roy
+INFY_Q1_July_22_839 | I think when we do our margins forecast with a combination of factors that we look at and that
+INFY_Q1_July_22_840 | equation keeps on changing and it is more dynamic.
+INFY_Q1_July_22_841 | What happened in the previous quarter, what
+INFY_Q1_July_22_842 | do we see as outlook, what is happening on subcon, wage inflation - so that mix continues to
+INFY_Q1_July_22_843 | change and evolve.
+INFY_Q1_July_22_844 | Sometimes we have to push harder on some pedals in terms of accelerating
+INFY_Q1_July_22_845 | some programs.
+INFY_Q1_July_22_846 | And then going back to the level where we are today at 20% and we are saying
+INFY_Q1_July_22_847 | we will be at the bottom end of 21%, I think that should give you a good sense of the margin
+INFY_Q1_July_22_848 | trajectory for the rest of the year.
+INFY_Q1_July_22_849 | Gaurav Rateria
+INFY_Q1_July_22_850 | Thank you.
+INFY_Q1_July_22_851 | Moderator
+INFY_Q1_July_22_852 | ahead.
+INFY_Q1_July_22_853 | Ritesh Rathod
+INFY_Q1_July_22_854 | Just on this margin within a quarter you have to lower your guidance on the margin side so this is
+INFY_Q1_July_22_855 | despite rupee depreciation benefit, despite attrition coming down in last two quarters.
+INFY_Q1_July_22_856 | So what has
+INFY_Q1_July_22_857 | surprised internally in your expectations, so that you have to bring it down to the lower end?
+INFY_Q1_July_22_858 | Nilanjan Roy
+INFY_Q1_July_22_859 | Yes, I think I just mentioned this is a very dynamic and moving forecast completely.
+INFY_Q1_July_22_860 | What is the
+INFY_Q1_July_22_861 | impact of attrition, how much wage hikes will come in, new hires - it is very dynamic, how the
+INFY_Q1_July_22_862 | pricing plays out.
+INFY_Q1_July_22_863 | So, this is a very fluid situation, but the 21% to 23% band we said, we are within
+INFY_Q1_July_22_864 | that but of course at the bottom end of it.
+INFY_Q1_July_22_865 | We are committed from where we are today at 20% to do
+INFY_Q1_July_22_866 | all our various cost optimizations, factoring the cost impacts of what we see in terms of wage
+INFY_Q1_July_22_867 | inflation there could be potential benefits of the rupee etc.
+INFY_Q1_July_22_868 | So it is a combination of all this into the
+INFY_Q1_July_22_869 | forecast.
+INFY_Q1_July_22_870 | Ritesh Rathod
+INFY_Q1_July_22_871 | What would have been the bigger surprise element?
+INFY_Q1_July_22_872 | would it be the wage or would it be the pricing
+INFY_Q1_July_22_873 | benefit not coming through?
+INFY_Q1_July_22_874 | Any one highlight compared to what you expected at the start of the
+INFY_Q1_July_22_875 | year?
+INFY_Q1_July_22_876 | Nilanjan Roy
+INFY_Q1_July_22_877 | It is a combination of various things and I would not say surprise.
+INFY_Q1_July_22_878 | Like I said, it is a fluid situation
+INFY_Q1_July_22_879 | and we have to remain agile.
+INFY_Q1_July_22_880 | That is more important rather than anything else.
+INFY_Q1_July_22_881 | Ritesh Rathod
+INFY_Q1_July_22_882 | Coming to pockets of weakness which is pointed out in retail, mortgages, can you give some color
+INFY_Q1_July_22_883 | are clients taking a pause in decision making, are the new deals not getting converted or are the
+INFY_Q1_July_22_884 | existing deals which have been moving, they are not getting ramped up?
+INFY_Q1_July_22_885 | What is the exact sense
+INFY_Q1_July_22_886 | on the business over there?
+INFY_Q1_July_22_887 | Salil Parekh
+INFY_Q1_July_22_888 | There within the areas of that pockets that we described, there we see a slowing.
+INFY_Q1_July_22_889 | For example, if
+INFY_Q1_July_22_890 | you look at the mortgage situation the volume there in the market meaning the client volume as a
+INFY_Q1_July_22_891 | macro level has gone down in the European and U.S. market.
+INFY_Q1_July_22_892 | So our work there is proportionally
+INFY_Q1_July_22_893 | reduced.
+INFY_Q1_July_22_894 | The overall point which I shared earlier, we see some slowing in decision making but
+INFY_Q1_July_22_895 | nonetheless the pipeline remains today in a good position and that allows us to increase the
+INFY_Q1_July_22_896 | guidance.
+INFY_Q1_July_22_897 | Ritesh Rathod
+INFY_Q1_July_22_898 | Maybe last one on your deal wins on LTM basis, your deal wins are down sharply if you see last
+INFY_Q1_July_22_899 | three, four quarters versus the previous four quarters and even if I adjust the base because of the
+INFY_Q1_July_22_900 | high value deals, which you won in a couple of quarters, four, quarters back, you are still down
+INFY_Q1_July_22_901 | minimum by 15%, how do you connect those two dots that your LTM deal wins are down but your
+INFY_Q1_July_22_902 | deal pipeline is all time high.
+INFY_Q1_July_22_903 | Are the deal conversion ratios dropping then what it was used to be?
+INFY_Q1_July_22_904 | Salil Parekh
+INFY_Q1_July_22_905 | There on the large deals we always see some volatility because these are deals which were
+INFY_Q1_July_22_906 | larger, the ones we share in this number are larger than $50 mn in value.
+INFY_Q1_July_22_907 | We do see the pipeline
+INFY_Q1_July_22_908 | being larger than where it was and what we referenced in some areas slowing of it, that we do not
+INFY_Q1_July_22_909 | see any change in the other parameters of the pipeline.
+INFY_Q1_July_22_910 | Ritesh Rathod
+INFY_Q1_July_22_911 | Okay thank you wish you good luck.
+INFY_Q1_July_22_912 | Moderator
+INFY_Q1_July_22_913 | ahead.
+INFY_Q1_July_22_914 | Manik Taneja
+INFY_Q1_July_22_915 | Thank you for the opportunity and sorry for harping on the margin question once again.
+INFY_Q1_July_22_916 | I just
+INFY_Q1_July_22_917 | wanted to understand how should we be thinking about the segmental or the improvement in
+INFY_Q1_July_22_918 | segmental margins for manufacturing vertical given the sharp drop that we have seen over the last
+INFY_Q1_July_22_919 | three quarters and how does that heal in terms of the overall margin outlook?
+INFY_Q1_July_22_920 | Thank you.
+INFY_Q1_July_22_921 | Nilanjan Roy
+INFY_Q1_July_22_922 | Somebody else has asked a similar question and without going into any specifics, we have seen
+INFY_Q1_July_22_923 | that growth coming out of a large deal in manufacturing and like you said as we look at the tenure
+INFY_Q1_July_22_924 | of these large deals in some cases they start off with lower than portfolio margins because clients
+INFY_Q1_July_22_925 | may ask for savings upfront but we have already started plan in terms of over quarter-on-quarters
+INFY_Q1_July_22_926 | what do we need to do to bring back profitability because from day one clients come to us because
+INFY_Q1_July_22_927 | they know we can optimize the cost structure.
+INFY_Q1_July_22_928 | So that is something which is generically what we
+INFY_Q1_July_22_929 | have been doing and since we started the large deal strategy and we have seen margin
+INFY_Q1_July_22_930 | improvements over that period.
+INFY_Q1_July_22_931 | So I think we are quite confident of the future profile of these
+INFY_Q1_July_22_932 | businesses.
+INFY_Q1_July_22_933 | Manik Taneja
+INFY_Q1_July_22_934 | Sure thank you.
+INFY_Q1_July_22_935 | Moderator
+INFY_Q1_July_22_936 | ahead.
+INFY_Q1_July_22_937 | Apurva Prasad
+INFY_Q1_July_22_938 | Thanks for taking my question.
+INFY_Q1_July_22_939 | Salil this is on mega deals while the industry frequency tends to be
+INFY_Q1_July_22_940 | low and it has been a while for Infosys it will be good to know your comments on mega deals from
+INFY_Q1_July_22_941 | a pipeline perspective and secondly on pricing how is the ability to get price increase versus last
+INFY_Q1_July_22_942 | quarter do you see any changes to that?
+INFY_Q1_July_22_943 | Salil Parekh
+INFY_Q1_July_22_944 | From the mega deals, I think again we do not share anything specific in terms of what we publish.
+INFY_Q1_July_22_945 | The color from our side is we have mega deals in our pipeline, if that will give you a context.
+INFY_Q1_July_22_946 | On the pricing, we have seen pricing currently holding in our deal values for Q1.
+INFY_Q1_July_22_947 | My sense is we
+INFY_Q1_July_22_948 | have seen examples that Nilanjan was sharing earlier where we are working, we have worked with
+INFY_Q1_July_22_949 | clients to demonstrate to them the impact of compensation increases and that has translated to
+INFY_Q1_July_22_950 | COLA or price benefits.
+INFY_Q1_July_22_951 | We have had examples where we have had increases, which are related
+INFY_Q1_July_22_952 | to the digital high value work that we are driving for clients.
+INFY_Q1_July_22_953 | We now have to make sure we take
+INFY_Q1_July_22_954 | that across a whole portfolio and see the benefits coming into our business.
+INFY_Q1_July_22_955 | Typically the salary
+INFY_Q1_July_22_956 | increase happens at a periodic time and these things where we have not seen a high inflation
+INFY_Q1_July_22_957 | environment like this for over 40 years in the western markets that takes a longer time.
+INFY_Q1_July_22_958 | That is
+INFY_Q1_July_22_959 | what as Nilanjan shared is part of what we have put in place to support our margin as we go
+INFY_Q1_July_22_960 | ahead.
+INFY_Q1_July_22_961 | Apurva Prasad
+INFY_Q1_July_22_962 | Thank you for that.
+INFY_Q1_July_22_963 | Moderator
+INFY_Q1_July_22_964 | Thank you.
+INFY_Q1_July_22_965 | Ladies and gentlemen that was the last question.
+INFY_Q1_July_22_966 | I now hand the conference over to
+INFY_Q1_July_22_967 | the management for closing comments.
+INFY_Q1_July_22_968 | Salil Parekh
+INFY_Q1_July_22_969 | points; first we have had industry leading growth in Q1, 5.5% quarterly, 21.4% year-on-year.
+INFY_Q1_July_22_970 | We
+INFY_Q1_July_22_971 | clearly see a tremendous market share gain driven primarily by the strength of our digital and
+INFY_Q1_July_22_972 | cloud - cobalt capability set that is resonating with our clients.
+INFY_Q1_July_22_973 | We highlighted there are pockets of
+INFY_Q1_July_22_974 | weakness and we are aware of the environment around us.
+INFY_Q1_July_22_975 | We see in our pipeline both growth
+INFY_Q1_July_22_976 | opportunities in digital cloud and cost opportunities in automation.
+INFY_Q1_July_22_977 | With all of that, we increase the
+INFY_Q1_July_22_978 | growth guidance for the full year.
+INFY_Q1_July_22_979 | We are now seeing attrition coming down on a quarterly basis.
+INFY_Q1_July_22_980 | We see many of the initiatives we
+INFY_Q1_July_22_981 | put in place starting to create some impact.
+INFY_Q1_July_22_982 | We have levers for the margin, several that Nilanjan
+INFY_Q1_July_22_983 | shared, large programs will transition to steady state, COLA because of increases in
+INFY_Q1_July_22_984 | compensation costs to pricing, pyramid adjustments as we have college hires joining the
+INFY_Q1_July_22_985 | production environment, subcontractor usage and then several others on the cost side.
+INFY_Q1_July_22_986 | Given all of
+INFY_Q1_July_22_987 | that we feel we are already well positioned to work with clients on their growth and cost
+INFY_Q1_July_22_988 | opportunities and have a margin profile that is something that sustains the high margin approach
+INFY_Q1_July_22_989 | of the company.
+INFY_Q1_July_22_990 | We are looking forward to this year with strength and optimism.
+INFY_Q1_July_22_991 | Moderator
+INFY_Q1_July_22_992 | Thank you members of the management.
+INFY_Q1_July_22_993 | Ladies and gentlemen on behalf of Infosys that

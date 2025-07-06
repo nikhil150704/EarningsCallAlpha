@@ -1,15 +1,37 @@
+# src/signals.py
+
 import os
 import json
-from config import OUTPUT_SIGNALS_DIR, VADER_WEIGHT, FINBERT_WEIGHT
+import logging
+from config import Config
+
+# Setup logger
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def compute_deltas(score_dict: dict) -> dict:
-    return {
-        "delta3": score_dict["prev2"] - score_dict["prev3"],
-        "delta2": score_dict["prev1"] - score_dict["prev2"],
-        "delta1": score_dict["current"] - score_dict["prev1"]
-    }
+    """
+    Compute deltas between consecutive sorted keys in score_dict.
+    Assumes keys are chronological like ["prev3", "prev2", "prev1", "current"]
+    """
+    sorted_keys = sorted(score_dict.keys(), key=lambda k: int(k.replace("prev", "-")) if "prev" in k else 0)
+    deltas = {}
+
+    for i in range(1, len(sorted_keys)):
+        k_curr = sorted_keys[i]
+        k_prev = sorted_keys[i - 1]
+        try:
+            deltas[f"delta_{k_curr}"] = score_dict[k_curr] - score_dict[k_prev]
+        except KeyError as e:
+            logger.warning(f"Missing key in score_dict during delta computation: {e}")
+            deltas[f"delta_{k_curr}"] = 0.0
+
+    return deltas
 
 def generate_trade_signal(score: float, delta: float) -> str:
+    """
+    Basic rules-based strategy.
+    """
     if score > 0.05 and delta > -0.05:
         return "LONG"
     elif score < -0.05 and delta < 0.01:
@@ -21,33 +43,31 @@ def generate_signals(
     finbert_scores: dict,
     vader_scores: dict,
     finbert_deltas: dict,
-    vader_deltas: dict
+    vader_deltas: dict,
+    config: Config
 ) -> dict:
-    
-    key_to_delta_map = {
-        "prev3": None,
-        "prev2": "delta3",
-        "prev1": "delta2",
-        "current": "delta1"
-    }
-
+    """
+    Combine FinBERT and VADER signals into a hybrid ensemble trade signal per quarter.
+    """
+    quarters = sorted(finbert_scores.keys(), key=lambda k: int(k.replace("prev", "-")) if "prev" in k else 0)
     signal_log = {}
 
-    for key, delta_key in key_to_delta_map.items():
-        if delta_key is None:
+    for quarter in quarters:
+        delta_key = f"delta_{quarter}"
+        if delta_key not in finbert_deltas or delta_key not in vader_deltas:
+            logger.warning(f"Skipping signal generation for {quarter} due to missing delta.")
             continue
 
-        f_score = finbert_scores[key]
-        v_score = vader_scores[key]
-        f_delta = finbert_deltas[delta_key]
-        v_delta = vader_deltas[delta_key]
+        f_score = finbert_scores.get(quarter, 0.0)
+        v_score = vader_scores.get(quarter, 0.0)
+        f_delta = finbert_deltas.get(delta_key, 0.0)
+        v_delta = vader_deltas.get(delta_key, 0.0)
 
-        combined_score = FINBERT_WEIGHT * f_score + VADER_WEIGHT * v_score
-        combined_delta = FINBERT_WEIGHT * f_delta + VADER_WEIGHT * v_delta
-
+        combined_score = config.FINBERT_WEIGHT * f_score + config.VADER_WEIGHT * v_score
+        combined_delta = config.FINBERT_WEIGHT * f_delta + config.VADER_WEIGHT * v_delta
         signal = generate_trade_signal(combined_score, combined_delta)
 
-        signal_log[key] = {
+        signal_log[quarter] = {
             "finbert_score": round(f_score, 4),
             "vader_score": round(v_score, 4),
             "finbert_delta": round(f_delta, 4),
@@ -59,10 +79,12 @@ def generate_signals(
 
     return signal_log
 
-def save_signals(signals: dict, company: str):
-    output_file = os.path.join(OUTPUT_SIGNALS_DIR, f"{company}_signals.json")
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)  # ✅ Prevent crash
+def save_signals(signals: dict, company: str, config: Config):
+    """
+    Write the final JSON of signals to disk.
+    """
+    output_file = config.OUTPUT_SIGNALS_DIR / f"{company}_signals.json"
+    output_file.parent.mkdir(parents=True, exist_ok=True)
     with open(output_file, "w") as f:
         json.dump(signals, f, indent=4)
-    print(f"✅ Signals saved to {output_file}")
-
+    logger.info(f"✅ Signals saved to {output_file}")
