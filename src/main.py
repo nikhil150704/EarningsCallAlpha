@@ -5,7 +5,6 @@ import logging
 from datetime import datetime
 import re
 from pathlib import Path
-import fitz  # PyMuPDF
 
 from config import Config
 from cleaning import process_and_save
@@ -17,23 +16,16 @@ from returns import fetch_price_data, compute_alpha_table
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
 
-def sort_files_by_quarter(files):
-    def extract_key(f):
-        try:
-            parts = os.path.basename(f).split("_")
-            q = int(parts[1][1])
-            m = datetime.strptime(parts[2][:3], "%b").month
-            y = int("20" + parts[3][:2]) if len(parts) > 3 else 2022
-            return (y, q, m)
-        except Exception:
-            return (0, 0, 0)
-    return sorted(files, key=extract_key)
-
 def extract_date_from_text(text: str) -> str | None:
+    """
+    Extracts earnings call date from transcript body.
+    Looks for formats like: July 15, 2022 or 15 July 2022
+    """
     patterns = [
-        r"([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})",
-        r"(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})"
+        r"([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})",         # July 15, 2022
+        r"(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})"           # 15 July 2022
     ]
+
     for pattern in patterns:
         match = re.search(pattern, text)
         if match:
@@ -47,15 +39,6 @@ def extract_date_from_text(text: str) -> str | None:
             return dt.strftime("%Y-%m-%d")
     return None
 
-def extract_date_from_raw_pdf(pdf_path: str) -> str | None:
-    try:
-        with fitz.open(pdf_path) as doc:
-            text = "\n".join([doc[i].get_text("text") for i in range(min(3, len(doc)))])
-            return extract_date_from_text(text)
-    except Exception as e:
-        logger.warning(f"⚠️ Could not extract date from raw PDF {pdf_path}: {e}")
-        return None
-
 def main(company: str):
     config = Config(company)
     logger.info(f"🚀 Running earnings sentiment pipeline for: {company}")
@@ -65,18 +48,14 @@ def main(company: str):
         logger.error(f"❌ No transcripts found in {config.RAW_DIR}")
         return
 
-    files = sort_files_by_quarter(files)
     logger.info(f"📁 Found {len(files)} transcripts for {company}")
 
-    vader_scores, finbert_scores, earnings_dates = {}, {}, {}
-    total = len(files)
-
-    for idx, file_path in enumerate(files):
-        quarter_key = f"prev{total - idx - 1}" if idx < total - 1 else "current"
+    intermediate = []
+    for file_path in files:
         filename = os.path.basename(file_path)
-        cleaned_path = os.path.join(config.PROCESSED_DIR, f"{company}_{quarter_key}.txt")
+        cleaned_path = os.path.join(config.PROCESSED_DIR, f"{company}_{filename.replace('.pdf', '.txt')}")
 
-        logger.info(f"🧼 Cleaning: {filename} → {quarter_key}")
+        logger.info(f"🧼 Cleaning: {filename}")
         try:
             process_and_save(Path(file_path), Path(cleaned_path))
         except Exception as e:
@@ -87,20 +66,32 @@ def main(company: str):
             logger.warning(f"⚠️ Cleaned file missing: {cleaned_path}")
             continue
 
+        with open(cleaned_path, "r", encoding="utf-8") as f:
+            cleaned_text = f.read()
+        date = extract_date_from_text(cleaned_text)
+
+        if date:
+            intermediate.append((file_path, cleaned_path, date))
+        else:
+            logger.warning(f"⚠️ Date missing for {filename}. Update extract_earnings_date().")
+
+    if not intermediate:
+        logger.error("❌ No dates could be extracted. Aborting.")
+        return
+
+    intermediate.sort(key=lambda x: datetime.strptime(x[2], "%Y-%m-%d"))
+
+    vader_scores, finbert_scores, earnings_dates = {}, {}, {}
+
+    for idx, (file_path, cleaned_path, date) in enumerate(intermediate):
+        quarter_key = f"prev{len(intermediate) - idx - 1}" if idx < len(intermediate) - 1 else "current"
+        filename = os.path.basename(file_path)
+
         logger.info(f"🧠 Running sentiment: {quarter_key}")
         vader_scores[quarter_key] = run_vader(cleaned_path, quarter_key, config)
         finbert_scores[quarter_key] = run_finbert(cleaned_path, quarter_key, config)
 
-        date = extract_date_from_raw_pdf(file_path)
-        if not date:
-            with open(cleaned_path, "r", encoding="utf-8") as f:
-                cleaned_text = f.read()
-            date = extract_date_from_text(cleaned_text)
-
-        if date:
-            earnings_dates[quarter_key] = date
-        else:
-            logger.warning(f"⚠️ Date missing for {filename}. Update extract_earnings_date().")
+        earnings_dates[quarter_key] = date
 
     if len(vader_scores) < 2 or len(finbert_scores) < 2:
         logger.error("❌ Not enough valid sentiment data to compute deltas.")
