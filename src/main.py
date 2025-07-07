@@ -6,7 +6,7 @@ from datetime import datetime
 import re
 from pathlib import Path
 import fitz  # PyMuPDF
-
+from tabulate import tabulate
 from config import Config
 from cleaning import process_and_save
 from sentiment import run_vader, run_finbert
@@ -139,7 +139,8 @@ def main(company: str):
 
     alpha_df = compute_alpha_table(signals, earnings_dates, price_data, company, config)
     logger.info("✅ Pipeline complete.")
-    print(alpha_df)
+    print(tabulate(alpha_df, headers="keys", tablefmt="pretty", showindex=False))
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Run Earnings Call Sentiment Pipeline")
