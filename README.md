@@ -58,7 +58,7 @@ EarningsCallAlpha/
 ### 💻 Local Setup
 
 ```bash
-git clone https://github.com/nikhil1507/EarningsCallAlpha.git
+git clone https://github.com/nikhil150704/EarningsCallAlpha.git
 cd EarningsCallAlpha
 
 # Create and activate a virtual environment
