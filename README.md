@@ -48,7 +48,7 @@ EarningsCallAlpha/
 
 ```python
 # Clone the repo
-!git clone https://github.com/nikhil1507/EarningsCallAlpha.git
+!git clone https://github.com/nikhil150704/EarningsCallAlpha.git
 %cd EarningsCallAlpha
 
 # Install requirements
